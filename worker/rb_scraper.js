@@ -4,9 +4,7 @@ const now = new Date();
 const year = now.getFullYear();
 const month = now.getMonth() + 1;
 
-// Bundesliga-Saisonlogik:
-// Juli–Dezember → aktuelle Saison
-// Januar–Juni → Vorsaison
+// Bundesliga-Saisonlogik
 const SEASON = month >= 7 ? String(year) : String(year - 1);
 
 console.log(`📅 Verwende Bundesliga-Saison: ${SEASON}/${Number(SEASON) + 1}`);
@@ -24,11 +22,21 @@ if (!response.ok) {
 const matches = await response.json();
 
 const events = matches
-  .filter(match =>
-    match.team1?.teamName === "RB Leipzig" &&
-    match.location &&
-    match.matchDateTime
-  )
+  .filter(match => {
+    if (!match.matchDateTime) return false;
+
+    const isRB =
+      match.team1?.teamName === "RB Leipzig" ||
+      match.team2?.teamName === "RB Leipzig";
+
+    // Heimspiel-Heuristik:
+    // Stadion bekannt ODER RB als team1 eingetragen
+    const isHomeGame =
+      match.location?.locationStadium?.toLowerCase().includes("leipzig") ||
+      match.team1?.teamName === "RB Leipzig";
+
+    return isRB && isHomeGame;
+  })
   .map(match => {
     const dt = new Date(match.matchDateTime);
 
@@ -38,12 +46,19 @@ const events = matches
       minute: "2-digit"
     });
 
+    const opponent =
+      match.team1?.teamName === "RB Leipzig"
+        ? match.team2?.teamName
+        : match.team1?.teamName;
+
     return {
-      title: `RB Leipzig – ${match.team2.teamName}`,
+      title: opponent
+        ? `RB Leipzig – ${opponent}`
+        : "RB Leipzig – Gegner offen",
       startDate: dateISO,
       endDate: dateISO,
       date: `${dt.toLocaleDateString("de-DE")} · ${time}`,
-      location: match.location.locationStadium || "Red Bull Arena",
+      location: match.location?.locationStadium || "Red Bull Arena (geplant)",
       description: "Bundesliga Heimspiel",
       image: null,
       link: "https://rbleipzig.com",
