@@ -4,12 +4,33 @@ on:
   workflow_dispatch:
 
 jobs:
-  test:
+  playwright-test:
     runs-on: ubuntu-latest
 
     steps:
       - name: Repository auschecken
         uses: actions/checkout@v4
 
-      - name: Status ausgeben
-        run: echo "GitHub Actions läuft – bereit für Playwright 🚀"
+      - name: Node.js installieren
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Playwright installieren
+        run: |
+          npm init -y
+          npm install playwright
+          npx playwright install chromium
+
+      - name: Browser-Test ausführen
+        run: |
+          node -e "
+          const { chromium } = require('playwright');
+          (async () => {
+            const browser = await chromium.launch();
+            const page = await browser.newPage();
+            await page.goto('https://www.leipziger-messe.de/de/kalender/');
+            console.log('Seite geladen:', await page.title());
+            await browser.close();
+          })();
+          "
