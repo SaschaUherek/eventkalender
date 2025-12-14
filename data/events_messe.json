@@ -1,5 +1,76 @@
 {
   "source": "Leipziger Messe",
-  "scraped_at": "2025-12-14T13:17:33.452Z",
-  "events": []
+  "scraped_at": "2025-12-14T13:31:18.016Z",
+  "events": [
+    {
+      "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
+      "date": "13.12.2025",
+      "description": "Gebietsleitung Jennifer Despang - “RechtZEITig zum Weihnachtsfest\"\nGastveranstaltung",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-weihnachtskonzert-froehlich.jpg",
+      "link": "https://orchester.despang.net/shop/karten-fuer-jahresabschlusskonzert-2025/"
+    },
+    {
+      "title": "Silvester-Gala 2025",
+      "date": "31.12.2025",
+      "description": "Silvester 2025 mit den Leipziger Philharmonikern\nGastveranstaltung",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-philharmonie-lpz.jpg",
+      "link": "https://www.eventim.de/eventseries/silvester-gala-2025-mit-den-leipziger-philharmonikern-3813752/"
+    },
+    {
+      "title": "13. Leipziger Tierärztekongress mit vetexpo europe",
+      "date": "15.01. - 17.01.2026",
+      "description": "Nur für Fachbesucher",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-trk-2026-de.jpg",
+      "link": "https://www.tieraerztekongress.de/"
+    },
+    {
+      "title": "PARTNER PFERD - show - expo - sport",
+      "date": "15.01. - 18.01.2026",
+      "description": "Sparkassen-Cup · Longines FEI Jumping World Cup™ · FEI Driving World Cup™ · Ausstellung · Leipziger Pferdenacht · Sparkassen Sport-Gala",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-partner-pferd.jpg",
+      "link": "https://www.partner-pferd.de/"
+    },
+    {
+      "title": "SIL & Interfilère Paris",
+      "date": "17.01. - 19.01.2026",
+      "description": "Salon International de la Lingerie\nAuslandsmesse – LMI | Nur für Fachbesucher",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-sil-interfiliere.jpg",
+      "link": "https://www.lm-international.com/bb_sil_2026"
+    },
+    {
+      "title": "28. originale Job- und Bildungsmesse Leipzig",
+      "date": "23.01. - 24.01.2026",
+      "description": "Alle Wege zu Deiner Karriere!\nGastveranstaltung",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2024/master-jobmesse.jpg",
+      "link": "https://jobmesse-leipzig.de/"
+    },
+    {
+      "title": "LINC 2026",
+      "date": "27.01. - 30.01.2026",
+      "description": "The Leipzig Interventional Course\nGastveranstaltung | Nur für Fachbesucher",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-linc-2026.jpg",
+      "link": "https://www.leipzig-interventional-course.com/"
+    },
+    {
+      "title": "HANDWERK live",
+      "date": "31.01. - 08.02.2026",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-handwerk-live.jpg",
+      "link": "https://www.handwerksmesse-leipzig.de/"
+    },
+    {
+      "title": "HAUS-GARTEN-FREIZEIT",
+      "date": "31.01. - 08.02.2026",
+      "description": "Die große Einkaufs- und Erlebnismesse für die ganze Familie",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-haus-garten-freizeit.jpg",
+      "link": "https://www.haus-garten-freizeit.de/"
+    },
+    {
+      "title": "EXPO MANUFACTURA / wire Mexico",
+      "date": "03.02. - 05.02.2026",
+      "description": "Internationale Fachmesse für Fertigungstechnik, Automation und Robotik\nAuslandsmesse – LMI | Nur für Fachbesucher",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "https://www.lm-international.com/bb_expo_manufactura_2026"
+    }
+  ]
 }
