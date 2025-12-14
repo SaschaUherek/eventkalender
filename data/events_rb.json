@@ -1,5 +1,278 @@
 {
   "source": "RB Leipzig Heimspiele (OpenLigaDB)",
-  "scraped_at": "2025-12-14T17:30:03.972Z",
-  "events": []
+  "scraped_at": "2025-12-14T17:39:51.434Z",
+  "events": [
+    {
+      "title": "RB Leipzig – 1. FC Heidenheim 1846",
+      "startDate": "2025-08-30",
+      "endDate": "2025-08-30",
+      "date": "30.8.2025 · 15:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – 1. FC Köln",
+      "startDate": "2025-09-20",
+      "endDate": "2025-09-20",
+      "date": "20.9.2025 · 18:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – Hamburger SV",
+      "startDate": "2025-10-18",
+      "endDate": "2025-10-18",
+      "date": "18.10.2025 · 15:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – VfB Stuttgart",
+      "startDate": "2025-11-01",
+      "endDate": "2025-11-01",
+      "date": "1.11.2025 · 15:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – SV Werder Bremen",
+      "startDate": "2025-11-23",
+      "endDate": "2025-11-23",
+      "date": "23.11.2025 · 15:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – Eintracht Frankfurt",
+      "startDate": "2025-12-06",
+      "endDate": "2025-12-06",
+      "date": "6.12.2025 · 18:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – Bayer 04 Leverkusen",
+      "startDate": "2025-12-20",
+      "endDate": "2025-12-20",
+      "date": "20.12.2025 · 18:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – SC Freiburg",
+      "startDate": "2026-01-14",
+      "endDate": "2026-01-14",
+      "date": "14.1.2026 · 20:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – FC Bayern München",
+      "startDate": "2026-01-17",
+      "endDate": "2026-01-17",
+      "date": "17.1.2026 · 18:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – 1. FSV Mainz 05",
+      "startDate": "2026-01-31",
+      "endDate": "2026-01-31",
+      "date": "31.1.2026 · 15:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – VfL Wolfsburg",
+      "startDate": "2026-02-14",
+      "endDate": "2026-02-14",
+      "date": "14.2.2026 · 15:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – Borussia Dortmund",
+      "startDate": "2026-02-21",
+      "endDate": "2026-02-21",
+      "date": "21.2.2026 · 15:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – FC Augsburg",
+      "startDate": "2026-03-07",
+      "endDate": "2026-03-07",
+      "date": "7.3.2026 · 15:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – TSG Hoffenheim",
+      "startDate": "2026-03-21",
+      "endDate": "2026-03-21",
+      "date": "21.3.2026 · 15:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – Borussia Mönchengladbach",
+      "startDate": "2026-04-11",
+      "endDate": "2026-04-11",
+      "date": "11.4.2026 · 15:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – 1. FC Union Berlin",
+      "startDate": "2026-04-25",
+      "endDate": "2026-04-25",
+      "date": "25.4.2026 · 15:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    },
+    {
+      "title": "RB Leipzig – FC St. Pauli",
+      "startDate": "2026-05-09",
+      "endDate": "2026-05-09",
+      "date": "9.5.2026 · 15:30",
+      "location": "Red Bull Arena (geplant)",
+      "description": "Bundesliga Heimspiel",
+      "image": null,
+      "link": "https://rbleipzig.com",
+      "tags": [
+        "fußball",
+        "heimspiel",
+        "bundesliga"
+      ],
+      "source": "rb"
+    }
+  ]
 }
