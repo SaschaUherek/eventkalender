@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  playwright-test:
+  scrape-messe:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,15 +22,14 @@ jobs:
           npm install playwright
           npx playwright install chromium
 
-      - name: Browser-Test ausführen
+      - name: Messe scrapen
         run: |
-          node -e "
-          const { chromium } = require('playwright');
-          (async () => {
-            const browser = await chromium.launch();
-            const page = await browser.newPage();
-            await page.goto('https://www.leipziger-messe.de/de/kalender/');
-            console.log('Seite geladen:', await page.title());
-            await browser.close();
-          })();
-          "
+          node worker/messe_scraper.js
+
+      - name: Änderungen committen
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/events_messe.json
+          git commit -m "Update Messe Events" || echo "Keine Änderungen"
+          git push
