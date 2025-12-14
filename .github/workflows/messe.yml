@@ -33,3 +33,16 @@ jobs:
           git add data/events_messe.json
           git commit -m "Update Messe Events" || echo "Keine Änderungen"
           git push
+
+      - name: Arena scrapen
+        run: |
+          node worker/arena_scraper.js
+
+      - name: Arena Events committen
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/events_arena.json
+          git commit -m "Update Arena Events" || echo "Keine Änderungen"
+          git push
+          
