@@ -54,4 +54,12 @@ jobs:
           git add data/events_rb.json
           git commit -m "Update RB Leipzig Heimspiele" || echo "Keine Änderungen"
           git push    
-          
+
+      - name: Feiertage laden (DE-SN)
+        run: node worker/holiday_scraper.js
+    
+      - name: Feiertage committen
+        run: |
+          git add data/holidays_sn_*.json
+          git commit -m "Update Feiertage DE-SN" || echo "Keine Änderungen"
+          git push
