@@ -5,57 +5,67 @@ const fs = require('fs');
   const browser = await chromium.launch();
   const page = await browser.newPage();
 
-  console.log('🌍 Öffne Messe-Kalender (ALLE Einträge)…');
+  let apiEvents = [];
 
-  // WICHTIG: direkt mit Parameter öffnen
-  await page.goto(
-    'https://www.leipziger-messe.de/de/kalender/?showAll=true',
-    { waitUntil: 'domcontentloaded' }
-  );
-
-  // Warten, bis ALLE Cards da sind
-  await page.waitForSelector('div.card.js-card', { timeout: 30000 });
-
-  // kurze Extra-Wartezeit für Re-Render
-  await page.waitForTimeout(3000);
-
-  const count = await page.$$eval(
-    'div.card.js-card',
-    els => els.length
-  );
-
-  console.log(`📦 Gefundene Events: ${count}`);
-
-  const events = await page.evaluate(() => {
-    return Array.from(document.querySelectorAll('div.card.js-card'))
-      .map(card => {
-        return {
-          title:
-            card.querySelector('.card__title')?.innerText?.trim() || null,
-          date:
-            card.querySelector('.card__title-row__left')?.innerText?.trim() ||
-            null,
-          description:
-            card.querySelector('.card__content-row.flow p')?.innerText?.trim() ||
-            null,
-          image:
-            card
-              .querySelector('.card__image-container img')
-              ?.getAttribute('src') || null,
-          link:
-            card.querySelector('a')?.href || null
-        };
-      })
-      .filter(e => e.title);
+  // API-Response abfangen
+  page.on('response', async (response) => {
+    const url = response.url();
+    if (url.includes('/api/search') && response.status() === 200) {
+      try {
+        const data = await response.json();
+        if (data?.results) {
+          apiEvents = data.results.map(item => {
+            const o = item.wrappedObject || {};
+            return {
+              title: o.name || null,
+              date: o.startDate && o.endDate
+                ? `${o.startDate} – ${o.endDate}`
+                : o.startDate || null,
+              description: o.description || null,
+              image: o.logoUrl || null,
+              location: o.location || null,
+              link: o.linkUrl || null,
+              tags: o.tagList || []
+            };
+          });
+          console.log(`📡 API-Events empfangen: ${apiEvents.length}`);
+        }
+      } catch (e) {
+        console.log('⚠️ API-Response konnte nicht gelesen werden');
+      }
+    }
   });
+
+  console.log('🌍 Öffne Messe-Seite …');
+  await page.goto('https://www.leipziger-messe.de/de/kalender/', {
+    waitUntil: 'domcontentloaded'
+  });
+
+  // Button klicken (triggert den API-Call!)
+  const button = page.locator('button.btn.btn--primary');
+  if (await button.count() > 0) {
+    console.log('🔘 Klicke "Alle Einträge anzeigen"');
+    await button.first().scrollIntoViewIfNeeded();
+    await button.first().click();
+  }
+
+  // Warten bis API-Events da sind
+  await page.waitForFunction(
+    () => window.performance.getEntriesByType('resource')
+      .some(r => r.name.includes('/api/search')),
+    { timeout: 20000 }
+  );
+
+  // kleine Sicherheitswartezeit
+  await page.waitForTimeout(2000);
 
   fs.writeFileSync(
     'data/events_messe.json',
     JSON.stringify(
       {
-        source: 'Leipziger Messe',
+        source: 'Leipziger Messe (API via Playwright)',
         scraped_at: new Date().toISOString(),
-        events
+        events: apiEvents
       },
       null,
       2
@@ -63,6 +73,6 @@ const fs = require('fs');
     'utf8'
   );
 
-  console.log(`✅ FINAL: ${events.length} Events gespeichert`);
+  console.log(`✅ FINAL: ${apiEvents.length} Events gespeichert`);
   await browser.close();
 })();
