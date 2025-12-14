@@ -1,0 +1,50 @@
+{
+  "region": "DE-SN",
+  "year": 2024,
+  "holidays": [
+    {
+      "date": "2024-01-01",
+      "name": "Neujahr"
+    },
+    {
+      "date": "2024-03-29",
+      "name": "Karfreitag"
+    },
+    {
+      "date": "2024-04-01",
+      "name": "Ostermontag"
+    },
+    {
+      "date": "2024-05-01",
+      "name": "Tag der Arbeit"
+    },
+    {
+      "date": "2024-05-09",
+      "name": "Christi Himmelfahrt"
+    },
+    {
+      "date": "2024-05-20",
+      "name": "Pfingstmontag"
+    },
+    {
+      "date": "2024-10-03",
+      "name": "Tag der Deutschen Einheit"
+    },
+    {
+      "date": "2024-10-31",
+      "name": "Reformationstag"
+    },
+    {
+      "date": "2024-11-20",
+      "name": "Buß- und Bettag"
+    },
+    {
+      "date": "2024-12-25",
+      "name": "Erster Weihnachtstag"
+    },
+    {
+      "date": "2024-12-26",
+      "name": "Zweiter Weihnachtstag"
+    }
+  ]
+}
