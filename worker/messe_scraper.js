@@ -5,42 +5,27 @@ const fs = require('fs');
   const browser = await chromium.launch();
   const page = await browser.newPage();
 
-  console.log('🌍 Öffne Messe-Seite …');
+  console.log('🌍 Öffne Messe-Kalender (ALLE Einträge)…');
 
-  await page.goto('https://www.leipziger-messe.de/de/kalender/', {
-    waitUntil: 'domcontentloaded'
-  });
+  // WICHTIG: direkt mit Parameter öffnen
+  await page.goto(
+    'https://www.leipziger-messe.de/de/kalender/?showAll=true',
+    { waitUntil: 'domcontentloaded' }
+  );
 
-  // Warten bis erste Cards da sind
-  await page.waitForSelector('div.card.js-card', { timeout: 20000 });
+  // Warten, bis ALLE Cards da sind
+  await page.waitForSelector('div.card.js-card', { timeout: 30000 });
 
-  const initialCount = await page.$$eval(
+  // kurze Extra-Wartezeit für Re-Render
+  await page.waitForTimeout(3000);
+
+  const count = await page.$$eval(
     'div.card.js-card',
     els => els.length
   );
-  console.log(`📦 Erste Seite: ${initialCount} Events`);
 
-  // Button klicken (wenn vorhanden)
-  const button = page.locator('button.btn.btn--primary');
+  console.log(`📦 Gefundene Events: ${count}`);
 
-  if (await button.count() > 0) {
-    console.log('🔘 Klicke "Alle Einträge anzeigen"');
-
-    await button.first().scrollIntoViewIfNeeded();
-    await page.waitForTimeout(500);
-
-    await button.first().click();
-
-    // WICHTIG: einfach warten, bis Seite zur Ruhe kommt
-    await page.waitForLoadState('networkidle', { timeout: 20000 });
-    await page.waitForTimeout(2000);
-
-    console.log('🔄 Seite nach Klick stabil');
-  } else {
-    console.log('ℹ️ Kein Button gefunden');
-  }
-
-  // Jetzt ALLE Cards einsammeln (nach Re-Render)
   const events = await page.evaluate(() => {
     return Array.from(document.querySelectorAll('div.card.js-card'))
       .map(card => {
