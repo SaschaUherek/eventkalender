@@ -1,6 +1,15 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 
+// Hilfsfunktion: deutsches Datum → ISO-Format
+function parseGermanDate(text) {
+  // erwartet z.B. "Donnerstag, 18.12.2025" oder "18.12.2025"
+  const match = text.match(/(\d{2})\.(\d{2})\.(\d{4})/);
+  if (!match) return null;
+  const [_, day, month, year] = match;
+  return `${year}-${month}-${day}`;
+}
+
 (async () => {
   const browser = await chromium.launch();
   const page = await browser.newPage();
@@ -36,21 +45,32 @@ const fs = require('fs');
           ev.querySelector('a')?.href || null;
 
         return {
+          rawDate: dateText,
           title,
-          date: dateText,
-          startDate: null,
-          endDate: null,
-          location: 'Quarterback Immobilien Arena Leipzig',
-          description: null,
           image,
-          link,
-          tags: []
+          link
         };
       }).filter(e => e.title);
     });
 
     console.log(`➕ ${eventsOnPage.length} Events gefunden`);
-    allEvents.push(...eventsOnPage);
+
+    // Datum normalisieren
+    for (const ev of eventsOnPage) {
+      const isoDate = ev.rawDate ? parseGermanDate(ev.rawDate) : null;
+
+      allEvents.push({
+        title: ev.title,
+        date: ev.rawDate,                     // fürs Frontend
+        startDate: isoDate,                   // maschinenlesbar
+        endDate: isoDate,                     // Arena hat 1-Tages-Events
+        location: "Quarterback Immobilien Arena Leipzig",
+        description: null,
+        image: ev.image,
+        link: ev.link,
+        tags: []
+      });
+    }
 
     // Prüfen ob "weiter" existiert
     const nextButton = await page.$('li.next');
@@ -63,7 +83,7 @@ const fs = require('fs');
     console.log('➡️ Weiter zur nächsten Seite');
     await nextButton.click();
 
-    // warten bis URL sich ändert
+    // kurze Wartezeit für neuen Content
     await page.waitForTimeout(1500);
     pageIndex++;
   }
