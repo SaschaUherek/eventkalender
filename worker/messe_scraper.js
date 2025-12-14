@@ -5,67 +5,79 @@ const fs = require('fs');
   const browser = await chromium.launch();
   const page = await browser.newPage();
 
-  let apiEvents = [];
-
-  // API-Response abfangen
-  page.on('response', async (response) => {
-    const url = response.url();
-    if (url.includes('/api/search') && response.status() === 200) {
-      try {
-        const data = await response.json();
-        if (data?.results) {
-          apiEvents = data.results.map(item => {
-            const o = item.wrappedObject || {};
-            return {
-              title: o.name || null,
-              date: o.startDate && o.endDate
-                ? `${o.startDate} – ${o.endDate}`
-                : o.startDate || null,
-              description: o.description || null,
-              image: o.logoUrl || null,
-              location: o.location || null,
-              link: o.linkUrl || null,
-              tags: o.tagList || []
-            };
-          });
-          console.log(`📡 API-Events empfangen: ${apiEvents.length}`);
-        }
-      } catch (e) {
-        console.log('⚠️ API-Response konnte nicht gelesen werden');
-      }
-    }
-  });
-
-  console.log('🌍 Öffne Messe-Seite …');
+  console.log('🌍 Initialisiere Session …');
   await page.goto('https://www.leipziger-messe.de/de/kalender/', {
     waitUntil: 'domcontentloaded'
   });
 
-  // Button klicken (triggert den API-Call!)
-  const button = page.locator('button.btn.btn--primary');
-  if (await button.count() > 0) {
-    console.log('🔘 Klicke "Alle Einträge anzeigen"');
-    await button.first().scrollIntoViewIfNeeded();
-    await button.first().click();
-  }
+  console.log('📡 Rufe Messe-API direkt auf …');
 
-  // Warten bis API-Events da sind
-  await page.waitForFunction(
-    () => window.performance.getEntriesByType('resource')
-      .some(r => r.name.includes('/api/search')),
-    { timeout: 20000 }
+  const response = await page.request.post(
+    'https://www.leipziger-messe.de/api/search',
+    {
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      data: {
+        queryString: "",
+        offset: 0,
+        limit: 999999,
+        filters: [
+          {
+            type: "DATE_FROM",
+            value: "2025-12-11"
+          },
+          {
+            type: "TYPE",
+            value: "FAIR"
+          }
+        ],
+        sortClauses: [
+          {
+            fieldName: "startDate",
+            order: "ASC"
+          }
+        ]
+      }
+    }
   );
 
-  // kleine Sicherheitswartezeit
-  await page.waitForTimeout(2000);
+  if (!response.ok()) {
+    console.error('❌ API-Request fehlgeschlagen:', response.status());
+    await browser.close();
+    process.exit(1);
+  }
+
+  const json = await response.json();
+  const results = json.results || [];
+
+  console.log(`📦 API liefert ${results.length} Events`);
+
+  const events = results.map(item => {
+    const o = item.wrappedObject || {};
+    return {
+      title: o.name || null,
+      startDate: o.startDate || null,
+      endDate: o.endDate || null,
+      date:
+        o.startDate && o.endDate
+          ? `${o.startDate} – ${o.endDate}`
+          : o.startDate || null,
+      location: o.location || null,
+      description: o.description || null,
+      image: o.logoUrl || null,
+      link: o.linkUrl || null,
+      tags: o.tagList || []
+    };
+  });
 
   fs.writeFileSync(
     'data/events_messe.json',
     JSON.stringify(
       {
-        source: 'Leipziger Messe (API via Playwright)',
+        source: 'Leipziger Messe (API direkt via Playwright)',
         scraped_at: new Date().toISOString(),
-        events: apiEvents
+        events
       },
       null,
       2
@@ -73,6 +85,6 @@ const fs = require('fs');
     'utf8'
   );
 
-  console.log(`✅ FINAL: ${apiEvents.length} Events gespeichert`);
+  console.log(`✅ FINAL: ${events.length} Events gespeichert`);
   await browser.close();
 })();
