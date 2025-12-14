@@ -1,6 +1,16 @@
 import fs from "fs";
 
-const SEASON = "2024"; // Bundesliga-Saison
+const now = new Date();
+const year = now.getFullYear();
+const month = now.getMonth() + 1;
+
+// Bundesliga-Saisonlogik:
+// Juli–Dezember → aktuelle Saison
+// Januar–Juni → Vorsaison
+const SEASON = month >= 7 ? String(year) : String(year - 1);
+
+console.log(`📅 Verwende Bundesliga-Saison: ${SEASON}/${Number(SEASON) + 1}`);
+
 const API_URL = `https://api.openligadb.de/getmatchdata/bl1/${SEASON}`;
 const OUTPUT = "data/events_rb.json";
 
