@@ -47,5 +47,11 @@ jobs:
           git push
 
       - name: RB Leipzig Heimspiele scrapen
-        run: node worker/rb_scraper.js          
+        run: node worker/rb_scraper.js
+      
+      - name: RB Leipzig Events committen
+        run: |
+          git add data/events_rb.json
+          git commit -m "Update RB Leipzig Heimspiele" || echo "Keine Änderungen"
+          git push    
           
