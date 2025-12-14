@@ -1,13 +1,15 @@
 {
-  "source": "Leipziger Messe (API via Playwright)",
-  "scraped_at": "2025-12-14T14:06:50.626Z",
+  "source": "Leipziger Messe (API direkt via Playwright)",
+  "scraped_at": "2025-12-14T14:15:18.496Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
+      "startDate": "2025-12-13",
+      "endDate": "2025-12-13",
       "date": "2025-12-13 – 2025-12-13",
+      "location": "CCL",
       "description": "Die Musikschule Fröhlich lädt zum traditionellen Jahresabschlusskonzert ein: Gemeinsam mit Theo und Toffel und dem Bernhard.t.iner Akkordeonorchester begeben sich die Musiker der Musikschule Fröhlich aus Leipzig aller Altersgruppen auf eine spannende Reise durch Vergangenheit, Zukunft und zurück! Ungeduld und Vorfreude bestimmen das Programm, das aus jeder Musikrichtung etwas bereit hält. Wird es Theo und Toffel gelingen, rechtzeitig zurückzukehren, um den Weihnachtsmann zu wecken?",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-weihnachtskonzert-froehlich.jpg",
-      "location": "CCL",
       "link": "https://orchester.despang.net/shop/karten-fuer-jahresabschlusskonzert-2025/",
       "tags": [
         "Gastveranstaltung"
@@ -15,10 +17,12 @@
     },
     {
       "title": "Silvester-Gala 2025",
+      "startDate": "2025-12-31",
+      "endDate": "2025-12-31",
       "date": "2025-12-31 – 2025-12-31",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
       "description": "Opernsänger und Conférencier, Musik aus Operette und Klassik, Chanson und Glamour - zur Silvester-Gala präsentiert die Philharmonie Leipzig Wiener Melodien und Meisterwerke der Klassik. Mit Topmelodien aus Operette, Oper, Musical und Konzert - gesungen von wunderbaren Sängern und Conférencier kommen Sie beschwingt und festlich in Silvester-Stimmung. Besser kann man 2025 nicht verabschieden!",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-philharmonie-lpz.jpg",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
       "link": "https://www.eventim.de/eventseries/silvester-gala-2025-mit-den-leipziger-philharmonikern-3813752/",
       "tags": [
         "Gastveranstaltung"
@@ -26,10 +30,12 @@
     },
     {
       "title": "13. Leipziger Tierärztekongress mit vetexpo europe",
+      "startDate": "2026-01-15",
+      "endDate": "2026-01-17",
       "date": "2026-01-15 – 2026-01-17",
+      "location": "Leipziger Messe",
       "description": "Der Leipziger Tierärztekongress ist die größte Fortbildungsveranstaltung für Tierärzte und Tierärztinnen im deutschsprachigen Raum und eine der führenden Fachplattformen Europas. Nur hier erhalten Tierärzte und Tierärztinnen aller Bereiche und andere Berufsgruppen des Veterinärwesens sowohl im Kongress als auch in der Fachmesse vetexpo europe ein umfassendes Angebot, bei dem tierartspezifische sowie fachübergreifende Themen im Fokus stehen. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-trk-2026-de.jpg",
-      "location": "Leipziger Messe",
       "link": "https://www.tieraerztekongress.de",
       "tags": [
         "Nur für Fachbesucher"
@@ -37,19 +43,23 @@
     },
     {
       "title": "PARTNER PFERD - show - expo - sport",
+      "startDate": "2026-01-15",
+      "endDate": "2026-01-18",
       "date": "2026-01-15 – 2026-01-18",
+      "location": "Leipziger Messe",
       "description": "Die PARTNER PFERD vereint hochkarätigen Turniersport mit einer umfassenden Ausstellung, informative Sonderschauen mit unterhaltsamen Abendshows, eine Kinder-Erlebniswelt mit abwechslungsreichen Vorführungen und Präsentationen im Aktionsring. Die PARTNER PFERD zeigt facettenreichen Reitsport mit Stars zum Anfassen und lockt jährlich tausende Pferdesportfans, Profi- und Hobbyreiter nach Leipzig. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-partner-pferd.jpg",
-      "location": "Leipziger Messe",
       "link": "https://www.partner-pferd.de",
       "tags": []
     },
     {
       "title": "SIL & Interfilère Paris",
+      "startDate": "2026-01-17",
+      "endDate": "2026-01-19",
       "date": "2026-01-17 – 2026-01-19",
+      "location": "Paris, Frankreich ",
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-sil-interfiliere.jpg",
-      "location": "Paris, Frankreich ",
       "link": "https://www.lm-international.com/bb_sil_2026",
       "tags": [
         "Auslandsmesse – LMI",
@@ -58,10 +68,12 @@
     },
     {
       "title": "28. originale Job- und Bildungsmesse Leipzig",
+      "startDate": "2026-01-23",
+      "endDate": "2026-01-24",
       "date": "2026-01-23 – 2026-01-24",
+      "location": "CCL",
       "description": " ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2024/master-jobmesse.jpg",
-      "location": "CCL",
       "link": "https://jobmesse-leipzig.de",
       "tags": [
         "Gastveranstaltung"
@@ -69,10 +81,12 @@
     },
     {
       "title": "LINC 2026",
+      "startDate": "2026-01-27",
+      "endDate": "2026-01-30",
       "date": "2026-01-27 – 2026-01-30",
+      "location": "CCL",
       "description": "Don't miss this exciting event with numerous live cases from various leading centers worldwide, news on the latest developments, KOL in-depth discussions on hot topics, company symposia, poster sessions. LINC 2025 featured more than 50 live cases and 600 presentations.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-linc-2026.jpg",
-      "location": "CCL",
       "link": "https://www.leipzig-interventional-course.com",
       "tags": [
         "Gastveranstaltung",
@@ -81,31 +95,1402 @@
     },
     {
       "title": "HANDWERK live",
+      "startDate": "2026-01-31",
+      "endDate": "2026-02-08",
       "date": "2026-01-31 – 2026-02-08",
+      "location": "Leipziger Messe",
       "description": "Eine umfassende Leistungsschau zeigt das Handwerk auf der HANDWERK live – in Zusammenarbeit mit allen ostdeutschen Handwerkskammern. Die Aussteller bieten Produkte, Dienstleistungen und Beratung unter anderem aus den Bereichen Bauen, Wohnen, Ernährung, Gesundheit und Mode. Zu den Besuchermagneten zählen Erlebnisbereiche wie die Gläserne Bäckerei, Gläserne Fleischerei oder Lebendige Werkstätten. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-handwerk-live.jpg",
-      "location": "Leipziger Messe",
       "link": "https://www.handwerksmesse-leipzig.de",
       "tags": []
     },
     {
       "title": "HAUS-GARTEN-FREIZEIT",
+      "startDate": "2026-01-31",
+      "endDate": "2026-02-08",
       "date": "2026-01-31 – 2026-02-08",
+      "location": "Leipziger Messe",
       "description": "HAUS-GARTEN-FREIZEIT bietet: Vielfalt sowie Erlebnis, Shopping, Inspiration für die ganze Familie. Vielfältige Erlebnisbereiche und Sonderschauen runden das Messeerlebnis ab. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-haus-garten-freizeit.jpg",
-      "location": "Leipziger Messe",
       "link": "https://www.haus-garten-freizeit.de",
       "tags": []
     },
     {
       "title": "EXPO MANUFACTURA / wire Mexico",
+      "startDate": "2026-02-03",
+      "endDate": "2026-02-05",
       "date": "2026-02-03 – 2026-02-05",
+      "location": "Monterrey, Mexiko",
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
-      "location": "Monterrey, Mexiko",
       "link": "https://www.lm-international.com/bb_expo_manufactura_2026",
       "tags": [
         "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "MOTORRAD MESSE LEIPZIG 2026",
+      "startDate": "2026-02-06",
+      "endDate": "2026-02-08",
+      "date": "2026-02-06 – 2026-02-08",
+      "location": "Leipziger Messe",
+      "description": "Auf der MOTORRAD MESSE LEIPZIG werden die neuesten Maschinen, starkes Zubehör, Action-Shows und Touren-Inspiration gezeigt. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-motorrad-2026.jpg",
+      "link": "https://www.zweiradmessen.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "WHX Dubai (ehemals Arab Health)",
+      "startDate": "2026-02-09",
+      "endDate": "2026-02-12",
+      "date": "2026-02-09 – 2026-02-12",
+      "location": "Dubai, VAE",
+      "description": "Landesbeteiligungen Sachsen und Rheinland-Pfalz",
+      "image": null,
+      "link": "mailto:j.kowollik@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Fachkonferenz \"Dunkelverarbeitung & Workflowunterstützung in Versicherungen\"",
+      "startDate": "2026-02-10",
+      "endDate": "2026-02-11",
+      "date": "2026-02-10 – 2026-02-11",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Wie erfolgreich sind Ihre Geschäftsprozesse schon automatisiert? In Zeiten stets neuer regulatorischer Anforderungen und zunehmender Digitalisierungsprozesse in Versicherungsunternehmen, nimmt die Dunkelverarbeitung eine zentrale Rolle ein. Der Wettbewerbsdruck durch die zunehmende Zahl an Insurtechs, zwingt die Versicherungsbranche zum Umdenken. So können eine gezielte Prozessautomatisierung und Workflowmanagement zur Effizienzsteigerung und Kostensenkung im Unternehmen beitragen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-versicherungsforen.jpg",
+      "link": "https://www.versicherungsforen.net/veranstaltungen/fachkonferenz-dunkelverarbeitung-workflowunterstuetzung-2026",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "KBIS Kitchen & Bath",
+      "startDate": "2026-02-17",
+      "endDate": "2026-02-19",
+      "date": "2026-02-17 – 2026-02-19",
+      "location": "Orlando, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "18. Deutsche Kardiodiagnostik-Tage",
+      "startDate": "2026-02-19",
+      "endDate": "2026-02-21",
+      "date": "2026-02-19 – 2026-02-21",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-kardiodiagnostik.jpg",
+      "link": "https://kardiodiagnostik.de",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Night of Freestyle",
+      "startDate": "2026-02-21",
+      "endDate": "2026-02-21",
+      "date": "2026-02-21 – 2026-02-21",
+      "location": "Leipziger Messe",
+      "description": "Erleben Sie die ultimative Night of Freestyle. Seien Sie dabei, wenn Motocross Maschinen, BMX, Mountainbikes, Snowmobile, Quads, Scooter, ein Seitenwagen und ein Buggy nur so durch die Luft fliegen. Freuen Sie sich auf unglaubliche Tricks garniert mit einer spektakulären Pyro und Laser Show.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-freestyle.jpg",
+      "link": "https://nightoffreestyle.de/events/leipziger-messe/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "MICAM / MIPEL (Spring)",
+      "startDate": "2026-02-22",
+      "endDate": "2026-02-24",
+      "date": "2026-02-22 – 2026-02-24",
+      "location": "Mailand, Italien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "EDEKA Foodservice & Handelshof Live! EXPO 2026",
+      "startDate": "2026-02-25",
+      "endDate": "2026-02-25",
+      "date": "2026-02-25 – 2026-02-25",
+      "location": "CCL",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-edeka.jpg",
+      "link": "https://edeka-foodservice.de/service/veranstaltungen-und-messen",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "DERMATOLOGIE kompakt + praxisnah ",
+      "startDate": "2026-02-26",
+      "endDate": "2026-02-28",
+      "date": "2026-02-26 – 2026-02-28",
+      "location": "CCL",
+      "description": "Die DERMATOLOGIE kompakt + praxisnah ist eine gemeinsame Veranstaltung von DDG und BVDD, die über drei Tage ein attraktives Fortbildungsangebot im Bereich der Dermatologie bietet. Dieses Fortbildungsangebot mit unmittelbarer Nähe zur täglichen Arbeit ist speziell zugeschnitten für niedergelassene und für klinisch tätige Dermatologinnen oder Dermatologen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-dermatologie-kopra.jpg",
+      "link": "https://www.derma-tagungen.de",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "CADEAUX Leipzig",
+      "startDate": "2026-02-28",
+      "endDate": "2026-03-02",
+      "date": "2026-02-28 – 2026-03-02",
+      "location": "Leipziger Messe",
+      "description": "Die CADEAUX Leipzig ist die führende Fachmesse für Wohn- und Geschenkideen in Mitteldeutschland und findet zweimal jährlich im März und September statt. Sie ist die weltweit größte Veranstaltung für original erzgebirgische Volkskunst",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cadeaux.jpg",
+      "link": "https://www.cadeaux-leipzig.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Floriga",
+      "startDate": "2026-03-01",
+      "endDate": "2026-03-01",
+      "date": "2026-03-01 – 2026-03-01",
+      "location": "Leipziger Messe",
+      "description": "Ob Schaufloristik, Gartentipps oder die Sonderschau \"Produkt des Jahres\" - Leipzig zeigt alles im Bereich Pflanzen, Ambiente und Technik.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-floriga.jpg",
+      "link": "http://www.floriga.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "BIEMH",
+      "startDate": "2026-03-02",
+      "endDate": "2026-03-06",
+      "date": "2026-03-02 – 2026-03-06",
+      "location": "Bilbao, Spanien",
+      "description": "Landesbeteiligung Bayern",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-biemh26.jpg",
+      "link": "https://www.lm-international.com/lb_biemh_2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "31. Leipziger Fachseminar ",
+      "startDate": "2026-03-03",
+      "endDate": "2026-03-03",
+      "date": "2026-03-03 – 2026-03-03",
+      "location": "CCL",
+      "description": "Das Leipziger Fachseminar wird durch die Bezirksgruppen Sachsen und Thüringen der Deutschen Gesellschaft für Galvano- und Oberflächentechnik organisiert. Das Fachseminar bietet ein spannendes Vortragsprogramm zu den aktuellen Herausforderungen der Oberflächentechnik und wird von einer Fachausstellung begleitet. Im Rahmen des Fachseminars wird der Leipziger Galvanopreis für innovative oder ökologische Leistungen auf dem Gebiet der Oberflächentechnik verliehen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-dgo.jpg",
+      "link": "https://www.dgo-online.de/termine/tagungen/detailansicht/31-leipziger-fachseminar-am-03-maerz-2026",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Zahntechnik plus",
+      "startDate": "2026-03-06",
+      "endDate": "2026-03-07",
+      "date": "2026-03-06 – 2026-03-07",
+      "location": "CCL",
+      "description": "Die Zahntechnik plus begeistert mit topaktuellen, praxisnahen Vorträgen und Workshops und informiert Sie über die neusten Materialien, Softwares, Maschinen und Dienstleistungen im Rahmen des umfassenden Ausstellungsangebots.\nDie Zahntechnik plus richtet sich an Inhaber und Manager von Dentallaboren, Zahntechniker, Zahnärzte, Kieferorthopäden und Sachverständige sowie an Berufs- und Meisterschulen, Handwerkskammern, Innungen, Auszubildende, Meisterschüler und Studenten.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-zahntechnikplus.jpg",
+      "link": "https://www.zahntechnik-plus.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Disney on Ice \"Heldenhafte Abenteuer\"",
+      "startDate": "2026-03-06",
+      "endDate": "2026-03-09",
+      "date": "2026-03-06 – 2026-03-09",
+      "location": "Leipziger Messe",
+      "description": "Im Frühjahr 2026 kommt die neue Show Disney On Ice „Heldenhafte Abenteuer“ nach Leipzig und verzaubert das kleine und große Publikum mit den schönsten Disney Klassikern und den beliebtesten modernen Geschichten. Micky Maus, Minnie Maus, Donald Duck und Goofy laden alle Gäste zu einer fantastischen Show mit spannenden Heldengeschichten ein, in denen sich alles um die wichtigsten Werte im Leben dreht: Liebe, Zusammenhalt und der Glaube an sich selbst. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-disney.jpg",
+      "link": "https://www.myticket.de/de/disney-on-ice-tickets",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Stuzubi Studien- und Ausbildungsmesse Leipzig",
+      "startDate": "2026-03-07",
+      "endDate": "2026-03-07",
+      "date": "2026-03-07 – 2026-03-07",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Dein Abi oder deine mittlere Reife hast du bald geschafft, aber noch keinen Plan, was nach der Schule kommt? Welche aktuellen Ausbildungs- und Studienmöglichkeiten dir dein Schulabschluss bietet, erfährst du auf der Stuzubi Schülermesse. Zahlreiche Ausbildungsbetriebe, Institutionen, Universitäten und Hochschulen helfen dir persönlich vor Ort bei der Berufsorientierung. Auch das Thema Ausland, Freiwilligendienst, Praktika und das Duale Studium sind auf der Stuzubi Thema. Der Eintritt ist frei!",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-stuzubi-2025.jpg",
+      "link": "https://stuzubi.de/messen/leipzig/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "JEC World",
+      "startDate": "2026-03-10",
+      "endDate": "2026-03-12",
+      "date": "2026-03-10 – 2026-03-12",
+      "location": "Paris, Frankreich",
+      "description": "Landesbeteiligung Bayern, Landesbeteiligung Sachsen, Landesbeteiligung NRW",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-jec.jpg",
+      "link": "https://www.lm-international.com/lb_jec_2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Grundwasser und Wassersicherheit im Wandel",
+      "startDate": "2026-03-10",
+      "endDate": "2026-03-13",
+      "date": "2026-03-10 – 2026-03-13",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Grundwasser ist die Grundlage für weite Teile unserer öffentlichen Wasserversorgung, speist Bäche, Flüsse und wichtige Ökosysteme. Der Klimawandel stellt die Grundwasser-Verfügbarkeit in Deutschland zunehmend in Frage und verändert gleichzeitig den Wasserbedarf. Ein Schlüssel zur sicheren Wasserversorgung ist ein naturnaher Landschaftswasserhaushalt, der Extreme puffert. Fachleute aus Forschung, Behörden, Unternehmen und Verbänden kommen zusammen, um sich hierzu auszutauschen und zu diskutieren.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-gddv.jpg",
+      "link": "https://tagung2026.fh-dggv.de/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "You can! Fachkongress für Inklusion im Arbeitsleben",
+      "startDate": "2026-03-11",
+      "endDate": "2026-03-13",
+      "date": "2026-03-11 – 2026-03-13",
+      "location": "CCL",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-youcan.jpg",
+      "link": "https://www.youcan-inklusion.de/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "GDC Game Developers Conference",
+      "startDate": "2026-03-11",
+      "endDate": "2026-03-13",
+      "date": "2026-03-11 – 2026-03-13",
+      "location": "San Francisco, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-gdc.jpg",
+      "link": "mailto:s.mueller@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "APLF Leather & Materials+",
+      "startDate": "2026-03-12",
+      "endDate": "2026-03-14",
+      "date": "2026-03-12 – 2026-03-14",
+      "location": "Hongkong, VR China",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "SMART ENERGY WEEK",
+      "startDate": "2026-03-17",
+      "endDate": "2026-03-19",
+      "date": "2026-03-17 – 2026-03-19",
+      "location": "Tokio, Japan",
+      "description": "Landesbeteiligung Bayern ",
+      "image": null,
+      "link": "https://www.lm-international.com/lb_sew_2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Leipziger Buchmesse / Lesefest Leipzig liest",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-22",
+      "date": "2026-03-19 – 2026-03-22",
+      "location": "Leipziger Messe",
+      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser, Autoren, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga-Comic-Con und dem Lesefest Leipzig liest statt.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-lbm-relaunch.jpg",
+      "link": "https://www.leipziger-buchmesse.de",
+      "tags": []
+    },
+    {
+      "title": "Manga Comic Con",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-22",
+      "date": "2026-03-19 – 2026-03-22",
+      "location": "Leipziger Messe",
+      "description": "Willkommen in der farbenfrohen Welt der Manga Comic Con. Vier Tage lang möchten wir eure Leidenschaft feiern! Was es zu erleben gibt? Zahlreiche Neuerscheinungen großer Verlage. Signierstunden eurer Stars. Spannende Serien im Anime-Kino. Farbenfrohe Cosplayerinnen und Cosplayer. Und jede Menge Workshops. Ihr habt so viel Fantasie. Wir freuen uns auf euch! Die MCC ist Teil der Leipziger Buchmesse.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-mcc.jpg",
+      "link": "https://www.manga-comic-con.de",
+      "tags": []
+    },
+    {
+      "title": "Bio-Europe Spring",
+      "startDate": "2026-03-23",
+      "endDate": "2026-03-25",
+      "date": "2026-03-23 – 2026-03-25",
+      "location": "Lissabon, Portugal",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-bio-europe.jpg",
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "35. Rehabilitationswissenschaftliches Kolloquium 2026",
+      "startDate": "2026-03-24",
+      "endDate": "2026-03-26",
+      "date": "2026-03-24 – 2026-03-26",
+      "location": "CCL",
+      "description": "Deutschlands größter Reha-Kongress.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-reha-koll.jpeg",
+      "link": "http://www.reha-kolloquium.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "55. Kongress der Deutschen Gesellschaft für Endoskopie und Bildgebende Verfahren e.V. (DGE-BV)",
+      "startDate": "2026-03-25",
+      "endDate": "2026-03-27",
+      "date": "2026-03-25 – 2026-03-27",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Neue Endoskopie, neue endoskopische Techniken und Entwicklungen, Interventionelle Endoskopie an der Grenze zur Chirurgie, Qualität in der Endoskopie, Diversität leben Endoskopie zwischen Ambulantisierung, Ökonomie und Aus-/ Weiterbildung, Zukunftsperspektive Endoskopiefachberufe - berufsfeldübergreifendes und sektorübergreifendes Arbeiten",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-dge-2026.jpg",
+      "link": "http://www.dge-bv.de",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "16. Leipziger Wolle-Fest & Stoffmesse",
+      "startDate": "2026-03-28",
+      "endDate": "2026-03-29",
+      "date": "2026-03-28 – 2026-03-29",
+      "location": "Leipziger Messe",
+      "description": "Wolle-Fest & Stoffmesse laden alle Strick- und Handarbeitsfreunde in die Glashalle ein. Ein breites Angebot im Bereich der textilen und kreativen Arbeiten, Workshops und Mitmach-Aktionen erwarten die Besucher. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2022/master-wollefest.jpg",
+      "link": "https://www.leipziger-wollefest.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Kazakhstan Machinery Fair",
+      "startDate": "2026-04-01",
+      "endDate": "2026-04-03",
+      "date": "2026-04-01 – 2026-04-03",
+      "location": "Astana, Kasachstan",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-kasachstan-machinery-fair.jpg",
+      "link": "https://www.lm-international.com/ev_kmf_2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Laval Virtual",
+      "startDate": "2026-04-08",
+      "endDate": "2026-04-10",
+      "date": "2026-04-08 – 2026-04-10",
+      "location": "Laval, Frankreich",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-laval-virtual.jpg",
+      "link": "mailto:i.weidemann@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "agra 2026",
+      "startDate": "2026-04-09",
+      "endDate": "2026-04-12",
+      "date": "2026-04-09 – 2026-04-12",
+      "location": "Leipziger Messe",
+      "description": "Zahlreiche Aussteller präsentieren auf der agra das komplette Programm land- und forstwirtschaftlicher Produkte und Dienstleistungen. Dabei wird auf der Agrarmesse leistungsstarke moderne Landtechnik aller führenden Marken, Spitzenleistungen der Tierzucht und neueste Technologien und Verfahren der Pflanzen- und Tierproduktion gezeigt. Besucher können sich auf der Landwirtschaftsmesse über die Land-, Forst- und Ernährungswirtschaft von heute und morgen informieren. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-agra-2026.jpg",
+      "link": "https://www.agra-messe.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "ADIBF Buchmesse Abu Dhabi",
+      "startDate": "2026-04-11",
+      "endDate": "2026-04-20",
+      "date": "2026-04-11 – 2026-04-20",
+      "location": "Abu Dhabi, VAE ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-abu-dhabi-bookfair.jpg",
+      "link": "mailto:s.mueller@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "BioOst",
+      "startDate": "2026-04-11",
+      "endDate": "2026-04-12",
+      "date": "2026-04-11 – 2026-04-12",
+      "location": "Leipziger Messe",
+      "description": "Erstmals öffnet die BioOst ihre Türen auch für Verbraucherinnen und Verbraucher und wird damit zur Fach- und Verbrauchermesse. Über 200 Aussteller zeigen leckere, hochwertige Lebensmittel, natürliche Kosmetik und Produkte rund um den modernen Lebensstil. Egal ob Sie sich vegan, vegetarisch, glutenfrei oder mit Fleisch ernähren, hier können Sie für jeden Geschmack die richtigen Produkte entdecken, probieren und einkaufen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2021/master-bio-ost.jpg",
+      "link": "https://bioost.info/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Seatrade Cruise Global",
+      "startDate": "2026-04-13",
+      "endDate": "2026-04-16",
+      "date": "2026-04-13 – 2026-04-16",
+      "location": "Miami, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-seatrade.jpg",
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Bologna Children's Book Fair ",
+      "startDate": "2026-04-13",
+      "endDate": "2026-04-16",
+      "date": "2026-04-13 – 2026-04-16",
+      "location": "Bologna, Italien",
+      "description": "Landesbeteiligung Bayern ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-bologna-cbf.jpg",
+      "link": "mailto:i.weidemann@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "PaintExpo",
+      "startDate": "2026-04-14",
+      "endDate": "2026-04-17",
+      "date": "2026-04-14 – 2026-04-17",
+      "location": "Karlsruhe",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-paintexpo.jpg",
+      "link": "https://www.paintexpo.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Messekongress Schadenmanagement & Assistance",
+      "startDate": "2026-04-14",
+      "endDate": "2026-04-15",
+      "date": "2026-04-14 – 2026-04-15",
+      "location": "CCL",
+      "description": "Entscheidungsträger der Versicherungsunternehmen, Sachverständiger, Makler, Assekuradeure sowie Dienstleister treffen sich in Leipzig zum Schadenhighlight der Branche. Die Kombination aus Fachkongress und Fachmesse bietet ein perfektes Umfeld, um Schadenthemen zu diskutieren, Innovationen und hochaktuelle Produktideen kennenzulernen, Jahresgespräche zu führen sowie Partner, Kollegen und Freunde zu treffen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2021/master-messekongress-schaden.jpg",
+      "link": "https://www.versicherungsforen.net/mk-schaden",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Deutscher Kongress für Parkinson und Bewegungsstörungen",
+      "startDate": "2026-04-16",
+      "endDate": "2026-04-18",
+      "date": "2026-04-16 – 2026-04-18",
+      "location": "KONGRESSHALLE am Zoo Leipzig ",
+      "description": "Der Deutsche Kongress für Parkinson und Bewegungsstörungen informiert über aktuelle Forschungsergebnisse, Diagnostikmethoden und Therapieansätze. Fachleute aus Medizin, Wissenschaft und Praxis tauschen sich interdisziplinär aus und diskutieren Entwicklungen für eine verbesserte Versorgung Betroffener.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-dpg.jpg",
+      "link": "https://dpg-kongress.de/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Forum Hebammenarbeit",
+      "startDate": "2026-04-17",
+      "endDate": "2026-04-18",
+      "date": "2026-04-17 – 2026-04-18",
+      "location": "CCL",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-hebammenforum.jpg",
+      "link": "https://events.thieme.com/forum-hebammenarbeit/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "CAGGTUS Leipzig",
+      "startDate": "2026-04-17",
+      "endDate": "2026-04-19",
+      "date": "2026-04-17 – 2026-04-19",
+      "location": "Leipziger Messe",
+      "description": "Das Gaming Festival von der Community für die Community – das ist CAGGTUS Leipzig! Hier dreht sich alles rund um Zocken, Gaming-Kultur und das gemeinsame Festivalerlebnis. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-caggtus.jpg",
+      "link": "https://www.caggtus.de",
+      "tags": []
+    },
+    {
+      "title": "IDEM",
+      "startDate": "2026-04-17",
+      "endDate": "2026-04-19",
+      "date": "2026-04-17 – 2026-04-19",
+      "location": "Singapur",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-idem.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "DCK 2026 - 143. Deutscher Chirurgie Kongress",
+      "startDate": "2026-04-22",
+      "endDate": "2026-04-24",
+      "date": "2026-04-22 – 2026-04-24",
+      "location": "CCL",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-dck26.jpg",
+      "link": "https://dck2026.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "VDE FNN/ETG-Tutorial Schutz- und Leittechnik 2026",
+      "startDate": "2026-04-28",
+      "endDate": "2026-04-29",
+      "date": "2026-04-28 – 2026-04-29",
+      "location": "CCL",
+      "description": "An zwei Tagen diskutieren über 700 nationale und internationale Expertinnen und Experten, welche Konsequenzen die künftige Entwicklung der Netze für die Schutz- und Leittechnik haben wird. Abgerundet wird das Vortragsprogramm durch eine große Ausstellung, interaktive Workshops und eine Poster-Session. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-ew.jpg",
+      "link": "https://www.schutz-leittechnik.de",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "VINEXPO AMERICAS",
+      "startDate": "2026-04-29",
+      "endDate": "2026-04-30",
+      "date": "2026-04-29 – 2026-04-30",
+      "location": "Miami, USA",
+      "description": "Landesbeteiligung Rheinland-Pfalz",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-vinexpo.jpg",
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "SID Display Week",
+      "startDate": "2026-05-05",
+      "endDate": "2026-05-07",
+      "date": "2026-05-05 – 2026-05-07",
+      "location": "Los Angeles, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-sid-display.jpg",
+      "link": "mailto:j.kowollik@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "17. Jahrestagung der DEGUZ",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-09",
+      "date": "2026-05-08 – 2026-05-09",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Interdisziplinärer Fachkongress für Zahnmediziner, Zahntechniker und Mediziner.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2023/master-deguz.jpg",
+      "link": "https://www.deguz.de",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "107. Deutscher Röntgenkongress (RÖKO 2026) ",
+      "startDate": "2026-05-13",
+      "endDate": "2026-05-15",
+      "date": "2026-05-13 – 2026-05-15",
+      "location": "CCL",
+      "description": "Kongress für medizinische Radiologie und bildgeführte Therapie - offen für alle Teilnehmende aus der Radiologie, Medizintechnologie, Medizinphysik und andere Naturwissenschaften sowie medizinischen Fachrichtungen, IT in der Medizin ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-roeko.jpg",
+      "link": "https://roentgenkongress.de/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "BIOGAS Americas",
+      "startDate": "2026-05-18",
+      "endDate": "2026-05-21",
+      "date": "2026-05-18 – 2026-05-21",
+      "location": "Detroit, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-biogas.jpg",
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "OTWorld",
+      "startDate": "2026-05-19",
+      "endDate": "2026-05-22",
+      "date": "2026-05-19 – 2026-05-22",
+      "location": "Leipziger Messe",
+      "description": "Die OTWorld ist die größte und international führende Branchenplattform für Hersteller, Händler und Leistungserbringer in der modernen Hilfsmittelversorgung. In ihrer einzigartigen Kombination aus Weltkongress und Weltleitmesse bringt die OTWorld alle zwei Jahre Experten und Interessenten aus allen fünf Kontinenten zusammen und setzt als zentrales Innovations- und Dialogforum die Maßstäbe für eine individuelle, patientengerechte Versorgung.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-otworld-2.jpg",
+      "link": "https://www.ot-world.com",
+      "tags": []
+    },
+    {
+      "title": "Kitchen & Bath China",
+      "startDate": "2026-05-26",
+      "endDate": "2026-05-29",
+      "date": "2026-05-26 – 2026-05-29",
+      "location": "Shanghai, VR China ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-kitchen-bath.jpg",
+      "link": "mailto:j.kowollik@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Space Tech Expo USA",
+      "startDate": "2026-06-02",
+      "endDate": "2026-06-04",
+      "date": "2026-06-02 – 2026-06-04",
+      "location": "Anaheim, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "The Hotel Show",
+      "startDate": "2026-06-02",
+      "endDate": "2026-06-04",
+      "date": "2026-06-02 – 2026-06-04",
+      "location": "Dubai, VAE ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-hotel-show.jpg",
+      "link": "https://www.lm-international.com/bb_hotelshow_2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Sino Dental",
+      "startDate": "2026-06-09",
+      "endDate": "2026-06-12",
+      "date": "2026-06-09 – 2026-06-12",
+      "location": "Peking, VR China",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-sinodental.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "CosmeticBusiness",
+      "startDate": "2026-06-10",
+      "endDate": "2026-06-11",
+      "date": "2026-06-10 – 2026-06-11",
+      "location": "München",
+      "description": "Die CosmeticBusiness bündelt das gesamte Netzwerk für die effiziente Konzeption und Umsetzung von Kosmetik-Produktideen. Als einzige internationale Fachmesse bringt sie jährlich in Deutschland exklusiv Kosmetikunternehmen mit all ihren Lieferanten für die Entwicklung, Herstellung, Verpackung und Vermarktung des gesamten Kosmetikproduktportfolios zusammen. Als Stimmungs- und Trendbarometer ist sie unverzichtbar für Entscheider der Branche. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cosmetic-business.jpg",
+      "link": "https://www.cosmetic-business.com/de/",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Deutscher Kitaleitungskongress Leipzig 2026",
+      "startDate": "2026-06-10",
+      "endDate": "2026-06-11",
+      "date": "2026-06-10 – 2026-06-11",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Mit über 4.000 Teilnehmenden hat sich der DKLK als größte branchen- und bundesländerübergreifende Fachveranstaltung für Kitaleitungskräfte, Fachberatungen und Trägervertretungen im deutschsprachigen Raum etabliert. Durch die einzigartige Kombination aus umfangreichem Expertenwissen, inspirierenden Diskussionsrunden und zahlreichen Vernetzungs- und Austauschmöglichkeiten erhalten Teilnehmende neue Impulse, umfassendes Hintergrundwissen und sofort anwendbare Lösungen für den Kitaalltag.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-dklk.jpg",
+      "link": "https://deutscher-kitaleitungskongress.de/leipzig/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "PROMOTE",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-21",
+      "date": "2026-06-12 – 2026-06-21",
+      "location": "Jaunde, Kamerun",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-promote.jpg",
+      "link": "mailto:i.weidemann@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Messekongress Kundenmanagement in Versicherungen",
+      "startDate": "2026-06-16",
+      "endDate": "2026-06-17",
+      "date": "2026-06-16 – 2026-06-17",
+      "location": "CCL",
+      "description": "Der Messekongress Kundenmanagement in Versicherungen bringt die innovativsten Ideen und Lösungen zusammen und garantiert an zwei Tagen einen strukturierten Austausch und maximalen Wissenstransfer zu allen Aspekten des ganzheitlichen Kundenmanagements. Die Messe ist die ideale Plattform, um sich über Marktentwicklungen und Trends im Kundenmanagement der Assekuranz zu informieren, eigene Innovationen zu präsentieren, das Netzwerk zu erweitern und bestehende Kontakte zu pflegen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-mk-versicherungen.jpg",
+      "link": "https://www.versicherungsforen.net/mk-kunde",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "therapie MÜNCHEN",
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-20",
+      "date": "2026-06-19 – 2026-06-20",
+      "location": "München",
+      "description": "Die therapie MÜNCHEN ist eine Fachmesse mit Kongress für Therapie und medizinische Rehabilitation und richtet sich an Physio-, Ergo- und Sporttherapeuten sowie Masseure und medizinische Bademeister im süddeutschen Raum und ganz Österreich. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/therapie-muenchen.jpg",
+      "link": "https://www.therapiemesse-muenchen.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "BIO International Convention ",
+      "startDate": "2026-06-22",
+      "endDate": "2026-06-25",
+      "date": "2026-06-22 – 2026-06-25",
+      "location": "San Diego, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-bio-internat-convention.jpg",
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "32. Kongress der Deutschen Gesellschaft für Radioonkologie e.V. ",
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-27",
+      "date": "2026-06-25 – 2026-06-27",
+      "location": "CCL",
+      "description": "Der DEGRO-Kongress 2026 widmet sich erneut den zentralen Zukunftsfragen der Radioonkologie. Im Fokus stehen dabei wissenschaftliche Exzellenz, evidenzbasierte Versorgung sowie der Brückenschlag zwischen Forschung, Leitlinienarbeit und klinischer Praxis. Auch technologische Innovationen und die Rolle der Radioonkologie in einem sich wandelnden Versorgungssystem werden intensiv beleuchtet. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-radioonkologie.jpg",
+      "link": "https://www.degro-kongress.org",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "UPDATE Hämatologie / Onkologie 2026",
+      "startDate": "2026-07-03",
+      "endDate": "2026-07-04",
+      "date": "2026-07-03 – 2026-07-04",
+      "location": "CCL",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2025/master-haematologie-update.jpg",
+      "link": "https://www.onko-update.de/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "MEDCARE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-02",
+      "date": "2026-09-01 – 2026-09-02",
+      "location": "CCL",
+      "description": "Die MEDCARE ist der nationale Branchentreff für die medizinisch-pflegerische Versorgung im sektorenübergreifenden Kontext. Der Kongress mit Fachmesse bietet als einzige Veranstaltung in Deutschland ein übergreifendes Fortbildungsangebot für das Pflegemanagement und Fachpersonal in der Behandlungspflege.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-medcare.jpg",
+      "link": "https://www.medcare-leipzig.de",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Medtec China",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-03",
+      "date": "2026-09-01 – 2026-09-03",
+      "location": "Shanghai, VR China",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-medtech-china.jpg",
+      "link": "mailto:j.kowollik@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "29. Jobmesse Leipzig",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-05",
+      "date": "2026-09-04 – 2026-09-05",
+      "location": "CCL",
+      "description": "Im Congress Center Leipzig von 10:00 bis 16:00 Uhr, findet die 29. Jobmesse statt. Der Eintritt ist kostenfrei, eine Vorab-Registrierung wird empfohlen, um Wartezeiten am Einlass zu verkürzen. Nutze die Chance – frag nach, hör zu und zeig, was in dir steckt. Du hast innovative Ideen? Dann bist du auf der richtigen Bühne. So meldest du dich an: Registriere dich jetzt unter www.jobmesse-Leipzig.de und gestalte deine Zukunft aktiv.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2024/master-jobmesse.jpg",
+      "link": "https://jobmesse-leipzig.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "CADEAUX Leipzig",
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-07",
+      "date": "2026-09-05 – 2026-09-07",
+      "location": "Leipziger Messe",
+      "description": "Die CADEAUX Leipzig ist die führende Fachmesse für Wohn- und Geschenkideen in Mitteldeutschland und findet zweimal jährlich im März und September statt. Sie ist die weltweit größte Veranstaltung für original erzgebirgische Volkskunst.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cadeaux.jpg",
+      "link": "https://www.cadeaux-leipzig.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "INDEX Saudi Arabia",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-08",
+      "date": "2026-09-06 – 2026-09-08",
+      "location": "Riad, Saudi Arabien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-index.jpg",
+      "link": "https://www.lm-international.com/ev_index_2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Nordic Life Science Days",
+      "startDate": "2026-09-08",
+      "endDate": "2026-09-10",
+      "date": "2026-09-08 – 2026-09-10",
+      "location": "Stockholm, Schweden",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-nls-days.jpg",
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "36. Deutscher Hautkrebskongress",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-12",
+      "date": "2026-09-09 – 2026-09-12",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-ado.jpg",
+      "link": "https://ado-kongress.de/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Deutscher Rheumatologiekongress 2026",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-12",
+      "date": "2026-09-09 – 2026-09-12",
+      "location": "CCL",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-rhk-2026.jpg",
+      "link": "https://www.rhkongress.de/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "MICAM / MIPEL (Autumn)",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-15",
+      "date": "2026-09-13 – 2026-09-15",
+      "location": "Mailand, Italien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "KGSt-FORUM 2026 ",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-18",
+      "date": "2026-09-16 – 2026-09-18",
+      "location": "CCL",
+      "description": "Das KGSt-FORUM 2026 richtet sich an Fach- und Führungskräfte aus Verwaltung, Kommunen, Wissenschaft und Wirtschaft. Es werden über 4500 Teilnehmende aus 800 Kommunen erwartet, die sich in etwa 120 Fach- und Rahmenveranstaltungen zu Themen des kommunalen Managements austauschen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-kgst.jpg",
+      "link": "http://www.kgst-forum.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "39. Baugrundtagung 2026",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-26",
+      "date": "2026-09-23 – 2026-09-26",
+      "location": "CCL",
+      "description": "Programm: Mittwoch, 23.09.2026: Spezialsitzung Forum für junge Geotechnik-Ingenieure und -Ingenieurinnen - Donnerstag, 24.09.2026, und Freitag, 25.09.2026: Vortragsveranstaltung zu den Themen - Regionale Projekte - Geotechnische Aspekte im Infrastrukturbau - Forschung und Innovation - Tunnelbau und unterirdische Bauwerke - Spezialtiefbau - Ressourcenschonung und Nachhaltigkeit in der Geotechnik & Bauen im Bestand - Normung - Risikomanagement - Samstag, 26.09.2026: Exkursion",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-baugrundtagung.jpg",
+      "link": "https://www.baugrundtagung.com/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "DGA 2026",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-26",
+      "date": "2026-09-24 – 2026-09-26",
+      "location": "KONGRESSHALLE am Zoo Leipzig ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-dga-intervention.jpg",
+      "link": "https://www.angiologie-kongress.de",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "FIB Feria Internacional Industrial de Bogotá",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-02",
+      "date": "2026-09-28 – 2026-10-02",
+      "location": "Bogotá, Kolumbien",
+      "description": "Landesbeteiligung Bayern",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-fib.jpg",
+      "link": "https://www.lm-international.com/lb_fib_2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "DIAM & DDM",
+      "startDate": "2026-09-30",
+      "endDate": "2026-10-01",
+      "date": "2026-09-30 – 2026-10-01",
+      "location": "Leipzig/Schkeuditz",
+      "description": "Die DIAM & DDM ist eine Fachmesse für Industriearmaturen, Dichtungs-, Automatisierungs- und Antriebstechnik. Sie bietet Herstellern, Zulieferern und Anwendern eine Plattform zum Austausch über Produkte, Lösungen und technische Entwicklungen. Im Mittelpunkt stehen Anwendungen aus der Prozess-, Chemie-, Energie- und Fertigungsindustrie. Die Besucher sind Fachleute aus Planung, Betrieb, Instandhaltung und Einkauf, die sich über Innovationen und praxisorientierte Lösungen informieren möchten.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-diam.jpg",
+      "link": "https://www.diam-ddm.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "chor.com",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-04",
+      "date": "2026-10-01 – 2026-10-04",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Die chor.com 2026 beinhaltet rund 150 Workshops, drei Masterclasses für Chorleitende und ein Forum, in dem sich rund 100 Aussteller aus ganz Europa präsentieren. Das Themenspektrum umfasst von der Erarbeitung neuer Konzertformate über Digitalisierung bis hin zu Konzepten für das Singen und Musizieren mit Kindern und Jugendlichen alle für die Chorszene relevanten Themen. Hinzu kommt ein hochkarätiges Konzertprogramm für alle an Vokalmusik Interessierten.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-chor.jpg",
+      "link": "https://www.chor.com/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Hobbymesse Leipzig",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-04",
+      "date": "2026-10-02 – 2026-10-04",
+      "location": "Leipziger Messe",
+      "description": "Die Hobbymesse Leipzig ist eine der größten Freizeitmessen Deutschlands. Fünf Themenwelten zeigen Neuigkeiten und Trends aus den Bereichen Modellbau/Modelleisenbahn, Spiele, Kreatives, Technik und Sport. Aussteller sind große Markenfirmen, Hersteller und Kleinserien ebenso wie Händler mit Verkaufsständen. Zusätzlich präsentieren sich fast 100 Vereine und Initiativen, die ihre Hobbys auf Aktionsflächen vorstellen und zum Mitmachen einladen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-hobbymesse.jpg",
+      "link": "https://www.hobbymesse.de",
+      "tags": []
+    },
+    {
+      "title": "IMEX America",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-15",
+      "date": "2026-10-13 – 2026-10-15",
+      "location": "Las Vegas, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-imex.jpg",
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "WHX Cape Town (ehemals Africa Health)",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-15",
+      "date": "2026-10-13 – 2026-10-15",
+      "location": "Kapstadt, Südafrika",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-whx-capetown.jpg",
+      "link": "mailto:j.kowollik@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "ACHEMA Middle East",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-28",
+      "date": "2026-10-26 – 2026-10-28",
+      "location": "Riad, Saudi-Arabien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-achema.jpg",
+      "link": "https://www.lm-international.com/bb_achema_middle_east_2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "gamescom asia",
+      "startDate": "2026-10-29",
+      "endDate": "2026-11-01",
+      "date": "2026-10-29 – 2026-11-01",
+      "location": "Bangkok, Thailand",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-gamescom-asia-game-show.jpg",
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "MUTEC",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-06",
+      "date": "2026-11-05 – 2026-11-06",
+      "location": "Leipziger Messe",
+      "description": "Die Messe, auf der Technik auf Kulturgut trifft, versammelt alle zwei Jahre die Fachwelt aus Museen, Science Centern, Archiven, Bibliotheken, Theatern und anderen Kultureinrichtungen und bietet Ihnen einen umfassenden Überblick über moderne Produkte, Lösungen und Dienstleistungen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-mutec.jpg",
+      "link": "https://www.mutec.de",
+      "tags": []
+    },
+    {
+      "title": "denkmal",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-07",
+      "date": "2026-11-05 – 2026-11-07",
+      "location": "Leipziger Messe",
+      "description": "Die denkmal ist die Europäische Leitmesse für Denkmalpflege, Restaurierung und Altbausanierung. Alle zwei Jahre trifft sich die nationale und internationale Fachwelt in Leipzig - von Handwerkern und Restauratoren über Architekten und Planer bis hin zu Gebäudeeigentümern, Ehrenamtlichen und Vertretern öffentlicher Einrichtungen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-denkmal-2.jpg",
+      "link": "https://www.denkmal-leipzig.de",
+      "tags": []
+    },
+    {
+      "title": "therapie HAMBURG",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-07",
+      "date": "2026-11-06 – 2026-11-07",
+      "location": "Hamburg",
+      "description": "Mit der therapie HAMBURG veranstaltet die Leipziger Messe eine starke Fachmesse mit Kongress für Physio-, Ergo- und Sporttherapeuten sowie Krankengymnasten, Masseure und medizinische Bademeister im norddeutschen Raum. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-therapie-hamburg.jpg",
+      "link": "https://www.therapiemesse-hamburg.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "azubi- & studientage Leipzig 2026",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-07",
+      "date": "2026-11-06 – 2026-11-07",
+      "location": "Leipziger Messe",
+      "description": "Die Bildungsmesse azubi- & studientage Leipzig bietet Schülern und Schülerinnen, Lehrkräften und Eltern eine Informations-Plattform, um im persönlichen Gespräch Ausbildungs- und Bildungsangebote sowie Entwicklungsperspektiven von verschiedensten Unternehmen, privaten und staatlichen Berufs- und Hochschulen, Kammern, Behörden und Institutionen kennenzulernen und sich ein Bild über die potenziellen zukünftigen Arbeitgeber zu machen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2025/master-azubi-studientage.jpg",
+      "link": "https://azubitage.de/leipzig",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "protekt - Konferenz für den Schutz kritischer Infrastrukturen",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-11",
+      "date": "2026-11-10 – 2026-11-11",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Die protekt ist die einzige auf den Schutz kritischer Infrastrukturen ausgerichtete Konferenz in Deutschland. An zwei Konferenztagen bietet die protekt eine Plattform, um aktuelle Themen der Cyber- und Informationssicherheit und des physischen Schutzes in Unternehmen und Einrichtungen der kritischen Infrastruktur zu diskutieren. In der begleitenden Ausstellung haben exklusive Partner die Möglichkeit, Praxisbeispiele zu präsentieren.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-protekt.jpg",
+      "link": "http://www.protekt.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "COSMOPROF Asia",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-14",
+      "date": "2026-11-11 – 2026-11-14",
+      "location": "Hongkong, China",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-cosmoprof-asia.jpg",
+      "link": "mailto:.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "55. Internationale Jahrestagung der DGPTM und 18. Fokustagung Herz der DGTHG und DGPTM",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "date": "2026-11-13 – 2026-11-15",
+      "location": "CCL",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-dgptm.jpg",
+      "link": "https://perfusiologie.de/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "RE+",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-19",
+      "date": "2026-11-17 – 2026-11-19",
+      "location": "Las Vegas, USA ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Messekongress IT für Versicherungen",
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-25",
+      "date": "2026-11-24 – 2026-11-25",
+      "location": "CCL",
+      "description": "Der Messekongress ist mit über 500 Teilnehmende und 50 Aussteller eines der führenden Branche With over 500 participants and 50 exhibitors, the trade fair congress is one of the leading industry get-togethers for IT managers from insurance companies and IT service providers.ntreffs für IT-Verantwortliche der Versicherungsunternehmen und IT-Dienstleister.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-mk-it-versicherungen.jpg",
+      "link": "https://www.versicherungsforen.net/mk-it",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "COSMOPROF India",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "date": "2026-12-04 – 2026-12-06",
+      "location": "Mumbai, Indien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-cosmoprof-india.jpg",
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "PARTNER PFERD - show - expo - sport",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-17",
+      "date": "2027-01-14 – 2027-01-17",
+      "location": "Leipziger Messe",
+      "description": "Die PARTNER PFERD vereint hochkarätigen Turniersport mit einer umfassenden Ausstellung, informative Sonderschauen mit unterhaltsamen Abendshows, eine Kinder-Erlebniswelt mit abwechslungsreichen Vorführungen und Präsentationen im Aktionsring. Die PARTNER PFERD zeigt facettenreichen Reitsport mit Stars zum Anfassen und lockt jährlich tausende Pferdesportfans, Profi- und Hobbyreiter nach Leipzig. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-partner-pferd.jpg",
+      "link": "https://www.partner-pferd.de",
+      "tags": []
+    },
+    {
+      "title": "Forum Hebammenarbeit Leipzig 2027",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-27",
+      "date": "2027-02-26 – 2027-02-27",
+      "location": "CCL",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-hebammenforum.jpg",
+      "link": "https://events.thieme.com/forum-hebammenarbeit/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Z",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-05",
+      "date": "2027-03-02 – 2027-03-05",
+      "location": "Leipziger Messe",
+      "description": "Die Z ist eine der führenden internationalen Zuliefermessen in Europa. Alle zwei Jahre ist sie Plattform für Zulieferer der unteren und mittleren Produktionsstufen sowie für industrielle Dienstleister. Mit ihrem umfangreichen Angebot ist die Zuliefermesse ein passgenauer Branchentreff für Entscheider und Experten aus dem Maschinen- und Anlagenbau, der Automobil- und Fahrzeugindustrie, dem Werkzeugbau und weiterer Industriebereiche.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-zuliefermesse.jpg",
+      "link": "https://www.zuliefermesse.de",
+      "tags": []
+    },
+    {
+      "title": "Intec",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-05",
+      "date": "2027-03-02 – 2027-03-05",
+      "location": "Leipziger Messe",
+      "description": "Die Intec, Internationale Fachmesse für Werkzeugmaschinen, Fertigungs- und Automatísierungstechnik, ist eine der führenden Messen für die metallbearbeitende Industrie in Deutschland und Europa. Ausstellungsschwerpunkte sind spanende und abtragende Werkzeugmaschinen, Präzisionswerkzeuge, Spanntechnik, Automatisierungs- und Handhabungstechnik, Messtechnik und Qualitätssicherung. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-intec.jpg",
+      "link": "https://www.messe-intec.de",
+      "tags": []
+    },
+    {
+      "title": "Grinding Technology Japan",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-12",
+      "date": "2027-03-10 – 2027-03-12",
+      "location": "Chiba, Japan",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-grinding.jpg",
+      "link": "mailto:m.aljoschin@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "ISPO 21. Weltkongress",
+      "startDate": "2027-03-22",
+      "endDate": "2027-03-25",
+      "date": "2027-03-22 – 2027-03-25",
+      "location": "Bangkok, Thailand",
+      "description": "In der thailändischen Hauptstadt Bangkok kommen zum 21. Weltkongress der International Society for Prosthetics and Orthotics (ISPO) internationale Fachleute aus den Bereichen Prothetik, Orthopädie-Technik und moderne Hilfsmittelversorgung zusammen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-ispo-2027.jpg",
+      "link": "http://www.ispo-congress.com",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "therapie LEIPZIG",
+      "startDate": "2027-05-27",
+      "endDate": "2027-05-29",
+      "date": "2027-05-27 – 2027-05-29",
+      "location": "Leipziger Messe",
+      "description": "Die therapie LEIPZIG zeigt, was morgen möglich ist. Als deutschlandweit größte Plattform für medizinische Rehabilitation und Prävention bietet sie Therapeuten, Medizinern und Entscheidern eine enorme Bandbreite an innovativen Lösungen und fortschrittlichen Konzepten.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-therapie-lpz.jpg",
+      "link": "https://www.therapie-leipzig.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "33. Kongress der Deutschen Gesellschaft für Radioonkologie e.V. ",
+      "startDate": "2027-06-24",
+      "endDate": "2027-06-26",
+      "date": "2027-06-24 – 2027-06-26",
+      "location": "CCL",
+      "description": "Der DEGRO-Kongress 2027 widmet sich erneut den zentralen Zukunftsfragen der Radioonkologie. Im Fokus stehen dabei wissenschaftliche Exzellenz, evidenzbasierte Versorgung sowie der Brückenschlag zwischen Forschung, Leitlinienarbeit und klinischer Praxis. Auch technologische Innovationen und die Rolle der Radioonkologie in einem sich wandelnden Versorgungssystem werden intensiv beleuchtet. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2027/master-degro.jpg",
+      "link": "https://www.degro-kongress.org",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "60. Jahrestagung der Deutschen Gesellschaft für Transfusionsmedizin und Immunhämatologie e. V. (DGTI)",
+      "startDate": "2027-09-15",
+      "endDate": "2027-09-17",
+      "date": "2027-09-15 – 2027-09-17",
+      "location": "CCL",
+      "description": "Die Deutsche Gesellschaft für Transfusionsmedizin und Immunhämatologie e.V. (DGTI), gegründet 1954, begleitet die Entwicklung ihres Fachgebiets von der Bluttransfusion über Plasmaderivate bis zur Therapie mit adulten Blutstammzellen bei Krebserkrankungen. Das wissenschaftliche Programm der Jahrestagung bietet Ärzten, Wissenschaftlern sowie medizinischem Fach- und Pflegepersonal Einblicke in aktuelle Entwicklungen von Wissenschaft und Technik.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2027/master-dgti.jpg",
+      "link": "https://dgti-kongress.de/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Hobbymesse Leipzig",
+      "startDate": "2027-10-01",
+      "endDate": "2027-10-03",
+      "date": "2027-10-01 – 2027-10-03",
+      "location": "Leipziger Messe",
+      "description": "Die Hobbymesse Leipzig ist eine der größten Freizeitmessen Deutschlands. Fünf Themenwelten zeigen Neuigkeiten und Trends aus den Bereichen Modellbau/Modelleisenbahn, Spiele, Kreatives, Technik und Sport. Aussteller sind große Markenfirmen, Hersteller und Kleinserien ebenso wie Händler mit Verkaufsständen. Zusätzlich präsentieren sich fast 100 Vereine und Initiativen, die ihre Hobbys auf Aktionsflächen vorstellen und zum Mitmachen einladen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-hobbymesse.jpg",
+      "link": "https://www.hobbymesse.de",
+      "tags": []
+    },
+    {
+      "title": "ISS GUT!",
+      "startDate": "2027-11-14",
+      "endDate": "2027-11-16",
+      "date": "2027-11-14 – 2027-11-16",
+      "location": "Leipziger Messe",
+      "description": "Die ISS GUT! ist die führende Fachmesse für den gesamten Außer-Haus-Markt in Ostdeutschland. Sie ist Plattform für Produkte, Leistungen und Trends aus dem Gastgewerbe und der Ernährungswirtschaft. Als Branchentreff für Gastronomen, Hoteliers, Caterer, Bäcker, Fleischer und der Gemeinschaftsverpflegung rückt die ISS GUT! die Themen Regionale Produkte, Digitalisierung und Nachhaltigkeit besonders in den Fokus.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-iss-gut-ut.jpg",
+      "link": "http://www.iss-gut-leipzig.de",
+      "tags": [
         "Nur für Fachbesucher"
       ]
     }
