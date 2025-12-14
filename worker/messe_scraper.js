@@ -9,15 +9,17 @@ const fs = require('fs');
     waitUntil: 'networkidle'
   });
 
-  // Warten bis erste Events da sind
+  // warten bis Events da sind
   await page.waitForSelector('article', { timeout: 15000 });
 
-  // "Mehr laden" so lange klicken, wie es den Button gibt
-  while (true) {
-    const loadMore = await page.$('button:has-text("Mehr laden")');
-    if (!loadMore) break;
-    await loadMore.click();
-    await page.waitForTimeout(1200);
+  // "Alle Einträge anzeigen" Button klicken (falls vorhanden)
+  const showAllButton = await page.$('button.btn.btn--primary');
+  if (showAllButton) {
+    console.log('🔘 Klicke auf "Alle Einträge anzeigen"');
+    await showAllButton.click();
+    await page.waitForTimeout(2000);
+  } else {
+    console.log('ℹ️ Kein "Alle Einträge anzeigen"-Button gefunden');
   }
 
   // Events auslesen
