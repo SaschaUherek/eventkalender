@@ -1,18 +1,23 @@
 import fs from "fs";
-import fetch from "node-fetch";
 
-const SEASON = "2024"; // Saison anpassen, z.B. 2024/25
+const SEASON = "2024"; // Bundesliga-Saison
 const API_URL = `https://api.openligadb.de/getmatchdata/bl1/${SEASON}`;
 const OUTPUT = "data/events_rb.json";
 
 console.log("⚽ Lade Bundesliga-Spiele von OpenLigaDB …");
 
 const response = await fetch(API_URL);
+if (!response.ok) {
+  throw new Error(`OpenLigaDB Fehler: ${response.status}`);
+}
+
 const matches = await response.json();
 
 const events = matches
   .filter(match =>
-    match.team1?.teamName === "RB Leipzig" && match.location
+    match.team1?.teamName === "RB Leipzig" &&
+    match.location &&
+    match.matchDateTime
   )
   .map(match => {
     const dt = new Date(match.matchDateTime);
