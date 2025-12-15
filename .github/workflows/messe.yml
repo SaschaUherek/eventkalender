@@ -55,6 +55,15 @@ jobs:
           git commit -m "Update RB Leipzig Heimspiele" || echo "Keine Änderungen"
           git push    
 
+      - name: Stadt Leipzig Events scrapen
+        run: node worker/stadt_scraper.js
+
+      - name: Stadt Leipzig Events committen
+        run: |
+          git add data/events_stadt.json
+          git commit -m "Update Stadt Leipzig Events" || echo "Keine Änderungen"
+          git push          
+
       - name: Feiertage laden (DE-SN)
         run: node worker/holiday_scraper.js
     
