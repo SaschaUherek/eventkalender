@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2025-12-14T19:19:55.860Z",
+  "scraped_at": "2025-12-15T19:36:04.102Z",
   "events": [
     {
       "title": "Holiday on Ice",
@@ -440,6 +440,17 @@
       "description": null,
       "image": "/fileadmin/files/_processed_/c/d/csm_HCarpendale_26_Abschied_Gold_Schwarz-sc_highl_art_square_67d8437e78.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/howard-carpendale-1/864",
+      "tags": []
+    },
+    {
+      "title": "SC DHfK - FA! Göppingen",
+      "date": "Donnerstag, 09.04.2026",
+      "startDate": "2026-04-09",
+      "endDate": "2026-04-09",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/7/4/csm_2024-08-05_vorlaeufiges_Bild_ece14e3097.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-fa-goeppingen/741",
       "tags": []
     },
     {
@@ -894,6 +905,17 @@
       "tags": []
     },
     {
+      "title": "90s Super Show",
+      "date": "Samstag, 07.11.2026",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/5/c/csm_Instagram_Leipzig_90sSuperShow_Square_6eb40e53aa.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/90s-super-show/1007",
+      "tags": []
+    },
+    {
       "title": "Let's Dance",
       "date": "Dienstag, 10.11.2026",
       "startDate": "2026-11-10",
@@ -1155,6 +1177,17 @@
       "description": null,
       "image": "/fileadmin/files/_processed_/2/c/csm_2025-10-13_Pressefoto_af53a5e55d.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/lea/976",
+      "tags": []
+    },
+    {
+      "title": "Herbert Grönemeyer",
+      "date": "Samstag, 12.06.2027",
+      "startDate": "2027-06-12",
+      "endDate": "2027-06-12",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/8/e/csm_Herbert_Groenemeyer_1_credits_Erik_Weiss_klein_a1d475a1a3.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/herbert-groenemeyer/1006",
       "tags": []
     },
     {
