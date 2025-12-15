@@ -1,0 +1,825 @@
+{
+  "source": "Stadt Leipzig – Veranstaltungshöhepunkte",
+  "scraped_at": "2025-12-15T19:36:13.137Z",
+  "events": [
+    {
+      "title": "Zirkus Aeros - Weihnachtscircus Aeros 2025",
+      "date_raw": "17.12.2025 - 04.01.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Festplatz am Cottaweg",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/8/6/csm_Zirkus-Aeros-Zelt-Bildnachweis-Zirkus-Aeros_f60a71227e.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtszirkus-mit-dem-zirkus-aeros-2-1-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Winterrundgang der Spinnereigalerien 2026",
+      "date_raw": "10.01.2026 · 11:00 – 19:00 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "Leipziger Baumwollspinnerei",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/1/4/csm_Tag_der_Stadtebauforderung_2018_Rundgang_Baumwollspinnerei_892c2b1300.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/winterrundgang-der-spinnereigalerien-2025-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Partner Pferd 2026",
+      "date_raw": "15.01.2026 - 18.01.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Leipziger Messe",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/1/c/csm_Partner_Pferd_Engarde_Stefan_Lafrentz_COYLE_Daniel__IRL___Legacy_71d2131d37.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/default-fd8aae5d53-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Tag der offenen Hochschultür Sachsen",
+      "date_raw": "15.01.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/b/4/csm_Allgemein-augustusplatz___paulinum_universitaet___schmidt___10_5_2012_11487_197c24ad9d.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/tag-der-offenen-hochschultuer-sachsen-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Leipziger Eistraum 2026",
+      "date_raw": "16.01.2026 - 01.03.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Augustusplatz",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/d/8/csm_Leipziger-Eistraum-2024-01_be4d95e46e.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-eistraum-1-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "17. Wintermarathon Leipzig",
+      "date_raw": "17.01.2026 · 11:00 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "Clara-Zetkin-Park",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/8/2/csm_Leipziger-Halbmarathon_d05355a326.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/17-wintermarathon-leipzig",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Haus-Garten-Freizeit 2026",
+      "date_raw": "31.01.2026 - 08.02.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Leipziger Messe",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/d/b/csm_Haus-Garten-Freizeit-1_f3dd9df1b6.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/haus-garten-freizeit-2025",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Handwerksmesse: Handwerk live 2026",
+      "date_raw": "31.01.2026 - 08.02.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Leipziger Messe",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/7/f/csm_Kunsthandwerk-Topfern-AdobeStock_263666983-GVS-stock-adobe-com_9569823103.jpeg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/mitteldeutsche-handwerksmesse-2-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Hereinspaziert! - Tag der offenen Tür des Gewandhausorchesters 2026",
+      "date_raw": "31.01.2026 · 10:00 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "Gewandhaus zu Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/0/5/csm_Gewandhaus-Au-enansicht-Tag_7efaea626a.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/hereinspaziert-tag-der-offenen-tuer-im-gewandhausorchesters-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Leipziger Eistraum 2026",
+      "date_raw": "16.01.2026 - 01.03.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Augustusplatz",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/d/8/csm_Leipziger-Eistraum-2024-01_be4d95e46e.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-eistraum-1-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Haus-Garten-Freizeit 2026",
+      "date_raw": "31.01.2026 - 08.02.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Leipziger Messe",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/d/b/csm_Haus-Garten-Freizeit-1_f3dd9df1b6.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/haus-garten-freizeit-2025",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Handwerksmesse: Handwerk live 2026",
+      "date_raw": "31.01.2026 - 08.02.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Leipziger Messe",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/7/f/csm_Kunsthandwerk-Topfern-AdobeStock_263666983-GVS-stock-adobe-com_9569823103.jpeg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/mitteldeutsche-handwerksmesse-2-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Motorrad-Messe Leipzig 2026",
+      "date_raw": "06.02.2026 - 08.02.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Leipziger Messe",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/5/c/csm_Motorradmesse-Leipzig-Zweiradmessen_c6a9db8a5b.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/motorrad-messe-leipzig-2024-1-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Großer Leipziger Rosensonntagsumzug 2026",
+      "date_raw": "15.02.2026 · 14:00 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "Leipziger Innenstadt",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/5/0/csm_Rosensonntagsumzug_Umzugswagen-mit-Karnevalisten-Leipzig_a2ac5d2725.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/25-grosser-leipziger-rosensonntagsumzug-2024-1-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "16. Kinderjazzfestival \"Kids Jazz 2026\"",
+      "date_raw": "27.02.2026 - 01.03.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Neues Rathaus",
+      "description": null,
+      "image": null,
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/16-kinderjazzfestival-kids-jazz-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Leipziger Eistraum 2026",
+      "date_raw": "16.01.2026 - 01.03.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Augustusplatz",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/d/8/csm_Leipziger-Eistraum-2024-01_be4d95e46e.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-eistraum-1-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "16. Kinderjazzfestival \"Kids Jazz 2026\"",
+      "date_raw": "27.02.2026 - 01.03.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Neues Rathaus",
+      "description": null,
+      "image": null,
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/16-kinderjazzfestival-kids-jazz-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "68. Fockeberglauf",
+      "date_raw": "07.03.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Fockeberg",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/8/6/csm_Fockeberglauf__2__caabe5f8f1.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/68-fockeberglauf",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Mittelalterspektakel: 17. Leipziger Umschlag",
+      "date_raw": "07.03.2026 - 08.03.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "agra Messepark Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/4/e/csm_Ritterhorde_8b1535fed4.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/17-leipziger-umschlag",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Leipziger Buchmesse 2026",
+      "date_raw": "19.03.2026 - 22.03.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Leipziger Messe",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/b/e/csm_Buchmesse-Buecherstapel_8560712649.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-buchmesse-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Leipzig liest 2026 - Europas größtes Lesefestival",
+      "date_raw": "19.03.2026 - 22.03.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/a/6/csm_buch2014_0846_9c4aa78af2.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/lesefestival-leipzig-liest-2023-1-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Manga-Comic-Con 2026",
+      "date_raw": "19.03.2026 - 22.03.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Leipziger Messe",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/c/8/csm_Manga-Comic-Con_2024_20608ab45e.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/manga-comic-con-2019-1-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Internationale Ostereierbörse \"Leipziger Eierlei\"",
+      "date_raw": "28.03.2026 - 29.03.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Alte Börse",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/a/c/csm_Ostereierboerse_Leipziger_Allerlei_f73501b24c.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/internationale-ostereierboerse-leipziger-eierlei-2023-1-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Wolle-Fest und Stoffmesse 2026",
+      "date_raw": "28.03.2026 - 29.03.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Leipziger Messe",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/f/0/csm_Wollefest_960_3b9b3a6fbe.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/wolle-fest-und-stoffmesse-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Earth Hour 2026",
+      "date_raw": "28.03.2026 · 20:30 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/7/7/csm_Erde-Earth-Hour-AdobeStock_320918718-dimazel-stock-adobe-com_01_78dfe3abe4.jpeg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/earth-hour-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Ostermarkt und Historische Leipziger Ostermesse 2026",
+      "date_raw": "01.04.2026 - 06.04.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Marktplatz Innenstadt",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/b/9/csm_PanoramaOstermarkt_5474bc7b2b.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/ostermarkt-und-historische-leipziger-ostermesse-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Kurzfilmfestival Kurzsüchtig 2026",
+      "date_raw": "08.04.2026 - 12.04.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Film · Hobby",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/6/9/csm_Kurzsichtig_Festival_2022_0071bbb5af.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/kurzfilmfestival-kurzsuechtig-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Europäische Kunsthandwerkstage 2026",
+      "date_raw": "10.04.2026 - 12.04.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/7/f/csm_Kunsthandwerk-Topfern-AdobeStock_263666983-GVS-stock-adobe-com_9569823103.jpeg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/europaeische-kunsthandwerkstage-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Caggtus Leipzig 2026 - Gaming Festival",
+      "date_raw": "17.04.2026 - 19.04.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Leipziger Messe",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/8/e/csm_caggtus2023_ca36c5a12f.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/caggtus-leipzig-2026-gaming-festival",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "48. Leipzig Marathon 2026",
+      "date_raw": "19.04.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Stadion Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/f/f/csm_Leipzig-Marathon-2023_SSB_259d4474c5.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/48-leipzig-marathon-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Girls day - Boys day 2026",
+      "date_raw": "23.04.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": null,
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/0/d/csm_Girlsday_7ea2a78a1b.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/girls-day-boys-day-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "a cappella 2026 - Internationales Festival für Vokalmusik",
+      "date_raw": "01.05.2026 - 09.05.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": null,
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/a-cappella-2026-internationales-festival-fuer-vokalmusik",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Pferderennen: Aufgalopp 2026",
+      "date_raw": "01.05.2026 · 12:00 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "Galopprennbahn Scheibenholz",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/e/f/csm_scheibenholz2_d1dfffbb8c.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/pferderennen-aufgalopp-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "7-Seen-Wanderung 2026",
+      "date_raw": "08.05.2026 - 10.05.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/f/f/csm_17_7SW_Strecke_unterwegs_Bernhard_weiss_645a6de9b3.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/7-seen-wanderung-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Europafest 2026",
+      "date_raw": "09.05.2026 · 12:00 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "Burgplatz",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/9/7/csm_18_HeaderBeauftragte_0ba2c0e790.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/europafest-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "20. Lange Nacht der Computerspiele",
+      "date_raw": "09.05.2026 · 14:00 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "Hochschule für Technik, Wirtschaft und Kultur Leipzig (HTWK Leipzig) - Geutebrück-Bau",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/2/e/csm_200701_PM22_LNC_4ab3ced3a8.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/20-lange-nacht-der-computerspiele",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Museumsnacht in Halle und Leipzig 2026",
+      "date_raw": "09.05.2026 · 18:00 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/6/0/csm_Museumsnacht_Grassi_e331aada0f.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/museumsnacht-in-halle-und-leipzig-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "15. Leipziger Frauenlauf 2026",
+      "date_raw": "10.05.2026 · 09:00 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "Clara-Zetkin-Park",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/7/f/csm_Volksbank_Frauenlauf2018_26eb739646.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-frauenlauf",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Wave Gotik Treffen 2026",
+      "date_raw": "22.05.2026 - 25.05.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/1/3/csm_2016-Wave-Gotik-Treffen_Olaf-Jager-2_896fbdd849.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/wave-gotik-treffen-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "27. Leipziger Bierbörse",
+      "date_raw": "22.05.2026 - 25.05.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Völkerschlachtdenkmal",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/5/6/csm_bierboerse_cac0ba5fde.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/27-leipziger-bierboerse",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Viktorianisches Picknick auf dem Wave-Gotik-Treffen 2026",
+      "date_raw": "24.05.2026 · 14:00 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "Clara-Zetkin-Park",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/f/2/csm_DSCF0507_7c55f43e91.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/viktorianisches-picknick-auf-dem-wave-gotik-treffen-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "7. Leipziger Frauen-/Flinta-Festival 2026 „Es gibt kein Zurück! Ohne uns keine Zukunft!“",
+      "date_raw": "30.05.2026 · 14:00 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "Marktplatz Innenstadt",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/8/1/csm_Leipziger-Frauenfestival-2017_91312caf7c.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/7-leipziger-frauen-flinta-festival-2026-es-gibt-kein-zurueck-ohne-uns-keine-zukunft",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Nachtlauf Leipzig",
+      "date_raw": "05.06.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Alte Messe",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/3/3/csm_Leipziger_Nachtlauf_1_cd88dbe8cb.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/default-f18f0381e26b758efcc44b53b3b8709a",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Leipziger Stadtfest 2026",
+      "date_raw": "05.06.2026 - 07.06.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/e/9/csm_augustusplatz_stadtfest2024_98cb7b5842.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-stadtfest-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Muddy Angel Run",
+      "date_raw": "06.06.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Galopprennbahn Scheibenholz",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/4/b/csm_muddy-angel-run_df80f3dfad.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/muddy-angel-run",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Neuseen classics 2026",
+      "date_raw": "07.06.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/7/a/csm_Neuseen-Classics_2023_9732_JUT1_00512_dc898b6de1.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/neuseen-classics-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Bachfest 2026",
+      "date_raw": "11.06.2026 - 21.06.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/4/f/csm_Bach-Statue-AdobeStock_36058895-Ellie-Nator_a2df1e8366.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/bachfest-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "ClubFusion 2026",
+      "date_raw": "12.06.2026 - 21.06.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/e/6/csm_Liebe_mich_GP_15062023_KirstenNijhof_KN16334_lowres_a62a19a866.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/clubfusion-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "5. Leipziger Nacht der Ausbildung 2026",
+      "date_raw": "12.06.2026 · 16:00 – 23:59 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/3/1/csm_Besucher_zur_Leipziger_Nacht_der_Ausbildung_f62e750cf3.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/4-leipziger-nacht-der-ausbildung-2025-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Keramikmarkt im Grassi 2026",
+      "date_raw": "13.06.2026 - 14.06.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Grassimuseum",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/7/a/csm_Keramikmarkt-Leipzig-im-Grassi-Foto-Esther-Hoyer_37a2c9d193.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/keramikmarkt-leipzig-2025-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Fête de la musique 2026",
+      "date_raw": "21.06.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/f/e/csm_fete-de-la-music-2024_13f3d5e270.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/fete-de-la-musique-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Klassik airleben: Gewandhausorchester mit Dirigent Daniel Harding",
+      "date_raw": "03.07.2026 - 04.07.2026 · 20:30 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "Rosental",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/a/e/csm_140422_Klassik_airleben_Rosental_bd1da47c77.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/klassik-airleben-gewandhausorchester-mit-dirigent-daniel-harding",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Christopher Street Day 2026",
+      "date_raw": "16.07.2026 - 20.07.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/9/6/csm_csd-demo_2024_69271cb8d9.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/christopher-street-day-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "43. Leipziger Triathlon",
+      "date_raw": "25.07.2026 - 26.07.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": null,
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/a/2/csm_Triathlon-2023_afs_c466caacf4.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/43-leipziger-triathlon",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Highfield Festival 2026",
+      "date_raw": "14.08.2026 - 16.08.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Störmthaler See",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/c/f/csm_HI_24_Atmo_Totalen_Line_Tsoj-205007_102045a99d.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/highfield-festival-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Ironman70.3 Triathlon",
+      "date_raw": "23.08.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": null,
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/ironman703-triathlon",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Tag des Handwerks 2026",
+      "date_raw": "19.09.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Marktplatz Innenstadt",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/9/9/csm_Fotolia_49032491_M_handwerk_600_6ab9edb173.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/tag-des-handwerks-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Leipziger Markttage 2026",
+      "date_raw": "25.09.2026 - 04.10.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Marktplatz Innenstadt",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/f/7/csm_755-sf-Markttage-2022_beaf1d11aa.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-markttage-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Leipziger Markttage 2026",
+      "date_raw": "25.09.2026 - 04.10.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Marktplatz Innenstadt",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/f/7/csm_755-sf-Markttage-2022_beaf1d11aa.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-markttage-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Lichtfest Leipzig 2026",
+      "date_raw": "09.10.2026 · 19:00 Uhr",
+      "startDate": null,
+      "endDate": null,
+      "location": "Innenstadt Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/4/d/csm_1---Lichtfest-Leipzig-2025---Kerzen-89---Foto-PUNCTUM-Alexander-Schmidt_4123623274.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichtfest-leipzig-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Festival Europäische Notenspuren 2026",
+      "date_raw": "14.11.2026 - 21.11.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": null,
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/festival-europaeische-notenspuren-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Leipziger Weihnachtsmarkt 2026",
+      "date_raw": "24.11.2026 - 23.12.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Innenstadt Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/2/9/csm_Leipziger-Weihnachtsmarkt-Blick-vom-Alten-Rathaus_efaa6de304.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-weihnachtsmarkt-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Leipziger Weihnachtsmarkt 2026",
+      "date_raw": "24.11.2026 - 23.12.2026",
+      "startDate": null,
+      "endDate": null,
+      "location": "Innenstadt Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/2/9/csm_Leipziger-Weihnachtsmarkt-Blick-vom-Alten-Rathaus_efaa6de304.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-weihnachtsmarkt-2026",
+      "tags": [
+        "stadt"
+      ]
+    }
+  ]
+}
