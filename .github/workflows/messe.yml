@@ -1,8 +1,8 @@
 name: Messe Eventkalender Worker
-
 on:
   workflow_dispatch:
-
+  schedule:
+    - cron: '0 0 * * *'
 jobs:
   scrape-messe:
     runs-on: ubuntu-latest
@@ -24,7 +24,7 @@ jobs:
 
       - name: Messe scrapen
         run: |
-          node worker/messe_scraper.js
+          node worker/messe_scraper.js || echo "Messe-Scraper fehlgeschlagen"
 
       - name: Änderungen committen
         run: |
@@ -36,7 +36,7 @@ jobs:
 
       - name: Arena scrapen
         run: |
-          node worker/arena_scraper.js
+          node worker/arena_scraper.js|| echo "Arena-Scraper fehlgeschlagen"
 
       - name: Arena Events committen
         run: |
@@ -47,7 +47,7 @@ jobs:
           git push
 
       - name: RB Leipzig Heimspiele scrapen
-        run: node worker/rb_scraper.js
+        run: node worker/rb_scraper.js || echo "RB-Scraper fehlgeschlagen"
       
       - name: RB Leipzig Events committen
         run: |
@@ -56,7 +56,7 @@ jobs:
           git push    
 
       - name: Stadt Leipzig Events scrapen
-        run: node worker/stadt_scraper.js
+        run: node worker/stadt_scraper.js || echo "Stadt-Scraper fehlgeschlagen"
 
       - name: Stadt Leipzig Events committen
         run: |
@@ -65,7 +65,7 @@ jobs:
           git push          
 
       - name: Feiertage laden (DE-SN)
-        run: node worker/holiday_scraper.js
+        run: node worker/holiday_scraper.js || echo "Feiertage-Scraper fehlgeschlagen"
     
       - name: Feiertage committen
         run: |
