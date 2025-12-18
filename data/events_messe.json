@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2025-12-17T00:44:38.194Z",
+  "scraped_at": "2025-12-18T00:44:34.712Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -429,12 +429,12 @@
       ]
     },
     {
-      "title": "Leipziger Buchmesse / Lesefest Leipzig liest",
+      "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
       "startDate": "2026-03-19",
       "endDate": "2026-03-22",
       "date": "2026-03-19 – 2026-03-22",
       "location": "Leipziger Messe",
-      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser, Autoren, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga-Comic-Con und dem Lesefest Leipzig liest statt.",
+      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser:innen, Autor:innen, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga Comic Con und dem Lesefestival Leipzig liest statt.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-lbm-relaunch.jpg",
       "link": "https://www.leipziger-buchmesse.de",
       "tags": []
@@ -1490,6 +1490,19 @@
       "description": "Die ISS GUT! ist die führende Fachmesse für den gesamten Außer-Haus-Markt in Ostdeutschland. Sie ist Plattform für Produkte, Leistungen und Trends aus dem Gastgewerbe und der Ernährungswirtschaft. Als Branchentreff für Gastronomen, Hoteliers, Caterer, Bäcker, Fleischer und der Gemeinschaftsverpflegung rückt die ISS GUT! die Themen Regionale Produkte, Digitalisierung und Nachhaltigkeit besonders in den Fokus.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-iss-gut-ut.jpg",
       "link": "http://www.iss-gut-leipzig.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "PaintExpo 2028",
+      "startDate": "2028-04-25",
+      "endDate": "2028-04-28",
+      "date": "2028-04-25 – 2028-04-28",
+      "location": "Karlsruhe",
+      "description": "Die Weltleitmesse für industrielle Lackiertechnik ist Schaufenster für Trends und Innovationen rund um die Lackierung. Das Ausstellungsspektrum reicht von Lösungen zur Oberflächenbehandlung über Lacke und Beschichtungsanlagen bis zur finalen Qualitätssicherung. Die Weltleitmesse bündelt Beschichtungslösungen für alle Industriezweige, Anwendungen und Materialien - egal ob Nasslackierung, Pulverbeschichtung oder Coil Coating. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-paintexpo.jpg",
+      "link": "https://www.paintexpo.de",
       "tags": [
         "Nur für Fachbesucher"
       ]
