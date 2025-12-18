@@ -1,6 +1,6 @@
 {
   "source": "Stadt Leipzig",
-  "scraped_at": "2025-12-17T00:45:13.108Z",
+  "scraped_at": "2025-12-18T00:45:08.305Z",
   "events": [
     {
       "title": "Zirkus Aeros - Weihnachtscircus Aeros 2025",
@@ -536,6 +536,19 @@
       ]
     },
     {
+      "title": "UEFA Conference League Finale 2026",
+      "startDate": "2026-05-27",
+      "endDate": "2026-05-27",
+      "date": "27.05.2026",
+      "location": "Red Bull Arena",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/9/8/csm_UEFA_Conference_League_Finale_2025_Breslau_fdbdba4f22.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/uefa-conference-league-finale-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "7. Leipziger Frauen-/Flinta-Festival 2026 „Es gibt kein Zurück! Ohne uns keine Zukunft!“",
       "startDate": "2026-05-30",
       "endDate": "2026-05-30",
@@ -680,9 +693,9 @@
     },
     {
       "title": "Christopher Street Day 2026",
-      "startDate": "2026-07-16",
-      "endDate": "2026-07-20",
-      "date": "16.07.2026 - 20.07.2026",
+      "startDate": "2026-07-10",
+      "endDate": "2026-07-18",
+      "date": "10.07.2026 - 18.07.2026",
       "location": "verschiedene Veranstaltungsorte",
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/9/6/csm_csd-demo_2024_69271cb8d9.jpg",
