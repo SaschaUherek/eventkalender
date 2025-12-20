@@ -1,29 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2025-12-19T00:48:53.977Z",
+  "scraped_at": "2025-12-20T00:45:37.292Z",
   "events": [
-    {
-      "title": "Holiday on Ice",
-      "date": "Freitag, 19.12.2025",
-      "startDate": "2025-12-19",
-      "endDate": "2025-12-19",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/files/_processed_/2/5/csm_KV_clean_1080x1080_1zu1_116d71db37.png",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice/794",
-      "tags": []
-    },
-    {
-      "title": "Holiday on Ice",
-      "date": "Freitag, 19.12.2025",
-      "startDate": "2025-12-19",
-      "endDate": "2025-12-19",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/files/_processed_/2/5/csm_KV_clean_1080x1080_1zu1_116d71db37.png",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice/795",
-      "tags": []
-    },
     {
       "title": "Holiday on Ice",
       "date": "Samstag, 20.12.2025",
@@ -1067,6 +1045,94 @@
       "description": null,
       "image": "/fileadmin/files/_processed_/0/7/csm_02_Pressefoto_BAP_DieZielgerade2026_WolfgangNiedecken_Fotocredit_TinaNiedecken_df133427b1.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/bap/974",
+      "tags": []
+    },
+    {
+      "title": "Holiday on Ice",
+      "date": "Mittwoch, 23.12.2026",
+      "startDate": "2026-12-23",
+      "endDate": "2026-12-23",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/6/a/csm_HOI_HORIZONS_2_1b9f997e89.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice-1/1008",
+      "tags": []
+    },
+    {
+      "title": "Holiday on Ice",
+      "date": "Freitag, 25.12.2026",
+      "startDate": "2026-12-25",
+      "endDate": "2026-12-25",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/6/a/csm_HOI_HORIZONS_2_1b9f997e89.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice-1/1009",
+      "tags": []
+    },
+    {
+      "title": "Holiday on Ice",
+      "date": "Freitag, 25.12.2026",
+      "startDate": "2026-12-25",
+      "endDate": "2026-12-25",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/6/a/csm_HOI_HORIZONS_2_1b9f997e89.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice-1/1010",
+      "tags": []
+    },
+    {
+      "title": "Holiday on Ice",
+      "date": "Samstag, 26.12.2026",
+      "startDate": "2026-12-26",
+      "endDate": "2026-12-26",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/6/a/csm_HOI_HORIZONS_2_1b9f997e89.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice-1/1011",
+      "tags": []
+    },
+    {
+      "title": "Holiday on Ice",
+      "date": "Samstag, 26.12.2026",
+      "startDate": "2026-12-26",
+      "endDate": "2026-12-26",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/6/a/csm_HOI_HORIZONS_2_1b9f997e89.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice-1/1012",
+      "tags": []
+    },
+    {
+      "title": "Holiday on Ice",
+      "date": "Samstag, 26.12.2026",
+      "startDate": "2026-12-26",
+      "endDate": "2026-12-26",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/6/a/csm_HOI_HORIZONS_2_1b9f997e89.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice-1/1013",
+      "tags": []
+    },
+    {
+      "title": "Holiday on Ice",
+      "date": "Sonntag, 27.12.2026",
+      "startDate": "2026-12-27",
+      "endDate": "2026-12-27",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/6/a/csm_HOI_HORIZONS_2_1b9f997e89.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice-1/1014",
+      "tags": []
+    },
+    {
+      "title": "Holiday on Ice",
+      "date": "Sonntag, 27.12.2026",
+      "startDate": "2026-12-27",
+      "endDate": "2026-12-27",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/6/a/csm_HOI_HORIZONS_2_1b9f997e89.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice-1/1015",
       "tags": []
     },
     {
