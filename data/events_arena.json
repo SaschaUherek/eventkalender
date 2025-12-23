@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2025-12-22T00:52:27.220Z",
+  "scraped_at": "2025-12-23T00:48:51.072Z",
   "events": [
-    {
-      "title": "Holiday on Ice",
-      "date": "Montag, 22.12.2025",
-      "startDate": "2025-12-22",
-      "endDate": "2025-12-22",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/files/_processed_/2/5/csm_KV_clean_1080x1080_1zu1_116d71db37.png",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice/961",
-      "tags": []
-    },
     {
       "title": "Syntainics MBC vs. Niners Chemnitz",
       "date": "Freitag, 26.12.2025",
@@ -152,7 +141,7 @@
       "endDate": "2026-01-23",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/files/_processed_/9/1/csm_Michelle_26_Gold-sc_highl_art_square_a218673362.jpg",
+      "image": "/fileadmin/files/_processed_/c/5/csm_Michelle_26_Gold-sc_highl_art_portrait_314df95dc6.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/michelle/838",
       "tags": []
     },
@@ -1081,6 +1070,28 @@
       "tags": []
     },
     {
+      "title": "Feuerwerk der Turnkunst",
+      "date": "Mittwoch, 13.01.2027",
+      "startDate": "2027-01-13",
+      "endDate": "2027-01-13",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/3/c/csm_FW27_hope_SoMe_4zu5_be521066e7.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/feuerwerk-der-turnkunst-1/1016",
+      "tags": []
+    },
+    {
+      "title": "Feuerwerk der Turnkunst",
+      "date": "Donnerstag, 14.01.2027",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/3/c/csm_FW27_hope_SoMe_4zu5_be521066e7.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/feuerwerk-der-turnkunst-1/1017",
+      "tags": []
+    },
+    {
       "title": "Die Fantastischen Vier",
       "date": "Samstag, 16.01.2027",
       "startDate": "2027-01-16",
@@ -1111,6 +1122,17 @@
       "description": null,
       "image": "/fileadmin/files/_processed_/b/3/csm_2025-01-10_olaf-schubert-und-freunde-large__c_Amac_Garbe_4c700f308b.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/olaf-schubert-und-seine-freunde/897",
+      "tags": []
+    },
+    {
+      "title": "80s Super Show",
+      "date": "Samstag, 06.03.2027",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/b/3/csm_Instagram_Leipzig_80sSuperShow_Square_59b23fe562.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/80s-super-show/1018",
       "tags": []
     },
     {
