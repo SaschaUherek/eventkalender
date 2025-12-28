@@ -26,9 +26,8 @@ function parseGermanDate(day, month, year) {
     await page.goto(url, { waitUntil: 'domcontentloaded' });
 
     // Warten, ob Events existieren
-    const hasEvents = await page.$('.event.event-tiles');
-    if (!hasEvents) {
-      console.log('⛔ Keine weiteren Events gefunden');
+    if (eventsOnPage.length === 0) {
+      console.log('⛔ Keine Events mehr – Pagination endet hier');
       break;
     }
 
