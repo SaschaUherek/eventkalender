@@ -72,3 +72,13 @@ jobs:
           git add data/holidays_sn_*.json
           git commit -m "Update Feiertage DE-SN" || echo "Keine Änderungen"
           git push
+
+      - name: Magdeburg Messe scrapen
+        run: |
+          node worker/magdeburg_messe.js || echo "Magdeburg-Messe-Scraper fehlgeschlagen"
+      
+      - name: Magdeburg Messe committen
+        run: |
+          git add data/events_messe_magdeburg.json
+          git commit -m "Update Messe Magdeburg Events" || echo "Keine Änderungen"
+          git push          
