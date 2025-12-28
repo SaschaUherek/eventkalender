@@ -1,6 +1,6 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2025-12-28T19:38:37.860Z",
+  "scraped_at": "2025-12-28T19:51:21.008Z",
   "events": [
     {
       "title": "LUMAGICA MAGDEBURG 2025/2026",
@@ -9,7 +9,7 @@
       "endDate": "2025-12-28",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
       "link": null,
       "tags": []
     },
@@ -20,7 +20,7 @@
       "endDate": "2025-12-28",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/7/MVGM-Johanniskirche_045_Foto_Andreas_Lander-09d93599.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/MVGM-Johanniskirche_045_Foto_Andreas_Lander-09d93599.jpg",
       "link": "https://www.mvgm.de/de/event/simon-garfunkel-meets-classic-tribute-konzert/",
       "tags": []
     },
@@ -31,7 +31,7 @@
       "endDate": "2025-12-29",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
       "link": null,
       "tags": []
     },
@@ -42,7 +42,7 @@
       "endDate": "2025-12-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/4/aladin-musical-motiv-1-quer-theater-liberi-nilz-boehme-42c8b740.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/aladin-musical-motiv-1-quer-theater-liberi-nilz-boehme-42c8b740.jpg",
       "link": "https://www.mvgm.de/de/event/aladin-das-musical-2/",
       "tags": []
     },
@@ -53,7 +53,7 @@
       "endDate": "2025-12-30",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
       "link": null,
       "tags": []
     },
@@ -64,7 +64,7 @@
       "endDate": "2025-12-30",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/d/Nussknacker-web-93819dbf.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/Nussknacker-web-93819dbf.jpg",
       "link": "https://www.mvgm.de/de/event/ballet-nussknacker-klassisches-ukrainisches-etoile-ballet/",
       "tags": []
     },
@@ -75,7 +75,7 @@
       "endDate": "2025-12-31",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
       "link": null,
       "tags": []
     },
@@ -86,7 +86,7 @@
       "endDate": "2026-01-01",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
       "link": null,
       "tags": []
     },
@@ -97,7 +97,7 @@
       "endDate": "2026-01-02",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
       "link": null,
       "tags": []
     },
@@ -108,7 +108,7 @@
       "endDate": "2026-01-03",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/7/Pressebild-Toscana-Val-dOrcia-Haus-1c73a5ad.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Pressebild-Toscana-Val-dOrcia-Haus-1c73a5ad.jpg",
       "link": "https://www.mvgm.de/de/event/reise-dia-multi-visions-shows-toscana/",
       "tags": []
     },
@@ -119,7 +119,7 @@
       "endDate": "2026-01-03",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/b/JV-Presse-Bild-Tenku-no-Torii-Fujiyama-0f2b8fb3.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/JV-Presse-Bild-Tenku-no-Torii-Fujiyama-0f2b8fb3.jpg",
       "link": "https://www.mvgm.de/de/event/reise-dia-multi-visions-shows-japan/",
       "tags": []
     },
@@ -130,7 +130,7 @@
       "endDate": "2026-01-03",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend/",
       "tags": []
     },
@@ -141,7 +141,7 @@
       "endDate": "2026-01-03",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/8/Pressebild-Island-Kirkjufellsfoss-ff0db18f.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-Island-Kirkjufellsfoss-ff0db18f.jpg",
       "link": "https://www.mvgm.de/de/event/reise-dia-multi-visions-shows-island/",
       "tags": []
     },
@@ -152,7 +152,7 @@
       "endDate": "2026-01-03",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
       "link": null,
       "tags": []
     },
@@ -163,7 +163,7 @@
       "endDate": "2026-01-03",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/8/Pressebild-Namibia-Botswana-Sossusvlei-1-1167de33.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-Namibia-Botswana-Sossusvlei-1-1167de33.jpg",
       "link": "https://www.mvgm.de/de/event/reise-dia-multi-visions-shows-afrika/",
       "tags": []
     },
@@ -174,7 +174,7 @@
       "endDate": "2026-01-03",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/7/Fotograf-Dominick-Beckmann-c6ab8193.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Fotograf-Dominick-Beckmann-c6ab8193.jpg",
       "link": "https://www.mvgm.de/de/event/udo-juergens-tribute-show/",
       "tags": []
     },
@@ -185,7 +185,7 @@
       "endDate": "2026-01-04",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
       "link": null,
       "tags": []
     },
@@ -196,7 +196,7 @@
       "endDate": "2026-01-05",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
       "link": null,
       "tags": []
     },
@@ -207,7 +207,7 @@
       "endDate": "2026-01-05",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
       "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble/",
       "tags": []
     },
@@ -218,7 +218,7 @@
       "endDate": "2026-01-06",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
       "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-polish-art-philharmonic-maestro-michael-maciaszczyk/",
       "tags": []
     },
@@ -229,7 +229,7 @@
       "endDate": "2026-01-06",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
       "link": null,
       "tags": []
     },
@@ -240,7 +240,7 @@
       "endDate": "2026-01-09",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/1/MVGM-Messe_004_Foto_Andreas_Lander-f087eba3.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/MVGM-Messe_004_Foto_Andreas_Lander-f087eba3.jpg",
       "link": "https://www.mvgm.de/de/event/tourisma-2026/",
       "tags": []
     },
@@ -251,7 +251,7 @@
       "endDate": "2026-01-10",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/1/MVGM-Messe_004_Foto_Andreas_Lander-f087eba3.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/MVGM-Messe_004_Foto_Andreas_Lander-f087eba3.jpg",
       "link": "https://www.mvgm.de/de/event/tourisma-2026/",
       "tags": []
     },
@@ -262,7 +262,7 @@
       "endDate": "2026-01-10",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/d/Pressefoto-Faeaschtbaenkler-2025-c-Maria-Maerz-klein-4574b28f.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/Pressefoto-Faeaschtbaenkler-2025-c-Maria-Maerz-klein-4574b28f.jpg",
       "link": "https://www.mvgm.de/de/event/strong-faeaschtbaenkler-strong/",
       "tags": []
     },
@@ -273,7 +273,7 @@
       "endDate": "2026-01-11",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/1/MVGM-Messe_004_Foto_Andreas_Lander-f087eba3.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/MVGM-Messe_004_Foto_Andreas_Lander-f087eba3.jpg",
       "link": "https://www.mvgm.de/de/event/tourisma-2026/",
       "tags": []
     },
@@ -284,7 +284,7 @@
       "endDate": "2026-01-16",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/2/HC-DerHerrderRinge-Pressebild01-15x10cm-811bcb1f.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/HC-DerHerrderRinge-Pressebild01-15x10cm-811bcb1f.jpg",
       "link": "https://www.mvgm.de/de/event/der-herr-der-ringe-der-hobbit-das-konzert-kopie/",
       "tags": []
     },
@@ -295,7 +295,7 @@
       "endDate": "2026-01-17",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/e/JulianJanssen-Facebook-Event-Coverbild-1200x628px-7b425f2a.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/JulianJanssen-Facebook-Event-Coverbild-1200x628px-7b425f2a.jpg",
       "link": "https://www.mvgm.de/de/event/komm-wir-finden-s-raus-julian-janssen/",
       "tags": []
     },
@@ -306,7 +306,7 @@
       "endDate": "2026-01-17",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/0/2025-Best-of-Black-Gospel-Quadrat-2024-klein-web1-8e5fd477.jpg",
+      "image": "https://www.mvgm.de/assets/images/0/2025-Best-of-Black-Gospel-Quadrat-2024-klein-web1-8e5fd477.jpg",
       "link": "https://www.mvgm.de/de/event/the-best-of-black-gospel-joy-to-the-world-tour/",
       "tags": []
     },
@@ -317,7 +317,7 @@
       "endDate": "2026-01-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
       "link": "https://www.mvgm.de/de/event/lisa-eckhart-2026/",
       "tags": []
     },
@@ -328,7 +328,7 @@
       "endDate": "2026-01-18",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Schwanensee-web-0013c41f.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Schwanensee-web-0013c41f.jpg",
       "link": "https://www.mvgm.de/de/event/ballett-schwanensee-2/",
       "tags": []
     },
@@ -339,7 +339,7 @@
       "endDate": "2026-01-18",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/d/Koenig-der-Loewen-Header-a71cf5ca.png",
+      "image": "https://www.mvgm.de/assets/images/d/Koenig-der-Loewen-Header-a71cf5ca.png",
       "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-live-in-concert/",
       "tags": []
     },
@@ -350,7 +350,7 @@
       "endDate": "2026-01-28",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/e/candlelight2-d5fc7ec5.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/candlelight2-d5fc7ec5.jpg",
       "link": "https://www.mvgm.de/de/event/coldplay-musik-bei-kerzenschein/",
       "tags": []
     },
@@ -361,7 +361,7 @@
       "endDate": "2026-01-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/0/Michelle-web-e59f37c7.jpg",
+      "image": "https://www.mvgm.de/assets/images/0/Michelle-web-e59f37c7.jpg",
       "link": "https://www.mvgm.de/de/event/michelle-zum-letzten-mal-die-abschiedstournee/",
       "tags": []
     },
@@ -372,7 +372,7 @@
       "endDate": "2026-01-31",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/2/Elbauenpark-Imageshooting_387_Foto_Andreas_Lander-cf362b0b.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/Elbauenpark-Imageshooting_387_Foto_Andreas_Lander-cf362b0b.jpg",
       "link": "https://www.mvgm.de/de/event/damwildfuetterung-31-01-2026/",
       "tags": []
     },
@@ -383,7 +383,7 @@
       "endDate": "2026-01-31",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/6/PAUL-PANZER-Schoene-neue-Welt-welcome-to-hell-Artwork-quer-1-519128ca.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/PAUL-PANZER-Schoene-neue-Welt-welcome-to-hell-Artwork-quer-1-519128ca.jpg",
       "link": "https://www.mvgm.de/de/event/strong-paul-panzer-strong/",
       "tags": []
     },
@@ -394,7 +394,7 @@
       "endDate": "2026-02-03",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/0/Sandtheater-Hans-Zimmer-allg-a30223bb.png",
+      "image": "https://www.mvgm.de/assets/images/0/Sandtheater-Hans-Zimmer-allg-a30223bb.png",
       "link": "https://www.mvgm.de/de/event/sandtheater-on-tour-praesentiert-hans-zimmer-meister-der-filmmusik/",
       "tags": []
     },
@@ -405,7 +405,7 @@
       "endDate": "2026-02-04",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/2/Elbauenpark-Imageshooting_387_Foto_Andreas_Lander-cf362b0b.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/Elbauenpark-Imageshooting_387_Foto_Andreas_Lander-cf362b0b.jpg",
       "link": "https://www.mvgm.de/de/event/damwildfuetterung-04-02-2026/",
       "tags": []
     },
@@ -416,7 +416,7 @@
       "endDate": "2026-02-06",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/1/Unbenannt-b51d7d93.png",
+      "image": "https://www.mvgm.de/assets/images/1/Unbenannt-b51d7d93.png",
       "link": "https://www.mvgm.de/de/event/musikparade-die-neue-show-2026/",
       "tags": []
     },
@@ -427,7 +427,7 @@
       "endDate": "2026-02-07",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/6/07-frontm3n-2021-02-002-861dcfa3.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/07-frontm3n-2021-02-002-861dcfa3.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-now-and-th3n-tour-2025-26/",
       "tags": []
     },
@@ -438,7 +438,7 @@
       "endDate": "2026-02-13",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/4/DaCapoUJ25-TermineUpdateDez-Post-379cadfe.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/DaCapoUJ25-TermineUpdateDez-Post-379cadfe.jpg",
       "link": "https://www.mvgm.de/de/event/da-capo-udo-juergens-tournee-2026/",
       "tags": []
     },
@@ -449,7 +449,7 @@
       "endDate": "2026-02-13",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/7/Gartentraeume-Magdeburg-2025-6-9e7af364.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Gartentraeume-Magdeburg-2025-6-9e7af364.jpg",
       "link": "https://www.mvgm.de/de/event/gartentraeume-2026/",
       "tags": []
     },
@@ -460,7 +460,7 @@
       "endDate": "2026-02-13",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Ottojaner-Karneval-AMO-1-acdfc078.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Ottojaner-Karneval-AMO-1-acdfc078.jpg",
       "link": "https://www.mvgm.de/de/event/72-ottojaner-karneval/",
       "tags": []
     },
@@ -471,7 +471,7 @@
       "endDate": "2026-02-14",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/7/Gartentraeume-Magdeburg-2025-6-9e7af364.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Gartentraeume-Magdeburg-2025-6-9e7af364.jpg",
       "link": "https://www.mvgm.de/de/event/gartentraeume-2026/",
       "tags": []
     },
@@ -482,7 +482,7 @@
       "endDate": "2026-02-14",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/d/1080x608-Elvis-2e4d30ae.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/1080x608-Elvis-2e4d30ae.jpg",
       "link": "https://www.mvgm.de/de/event/elvis-das-musical-3/",
       "tags": []
     },
@@ -493,7 +493,7 @@
       "endDate": "2026-02-15",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/7/Gartentraeume-Magdeburg-2025-6-9e7af364.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Gartentraeume-Magdeburg-2025-6-9e7af364.jpg",
       "link": "https://www.mvgm.de/de/event/gartentraeume-2026/",
       "tags": []
     },
@@ -504,7 +504,7 @@
       "endDate": "2026-02-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/b/Hauptmotiv-quer-2-f4748d96.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/Hauptmotiv-quer-2-f4748d96.jpg",
       "link": "https://www.mvgm.de/de/event/das-phantom-der-oper-die-originalproduktion-von-sasson-sautter-strong-i-i-strong/",
       "tags": []
     },
@@ -515,7 +515,7 @@
       "endDate": "2026-02-18",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/3/2025-Plakat-Die-Nacht-der-Musicals-web1-713c7ceb.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/2025-Plakat-Die-Nacht-der-Musicals-web1-713c7ceb.jpg",
       "link": "https://www.mvgm.de/de/event/die-nacht-der-musicals-das-original-2026/",
       "tags": []
     },
@@ -526,7 +526,7 @@
       "endDate": "2026-02-20",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
       "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop-kehrt-zurueck/",
       "tags": []
     },
@@ -537,7 +537,7 @@
       "endDate": "2026-02-21",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
       "link": "https://www.mvgm.de/de/event/abba-a-great-tribute-show/",
       "tags": []
     },
@@ -548,7 +548,7 @@
       "endDate": "2026-02-27",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/f/AndreRieu-Magdeburg-1920x1080px-9e2360d0.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/AndreRieu-Magdeburg-1920x1080px-9e2360d0.jpg",
       "link": "https://www.mvgm.de/de/event/andre-rieu-tour-2026/",
       "tags": []
     },
@@ -559,7 +559,7 @@
       "endDate": "2026-03-01",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/0/UBS-2-fe5db56a.jpg",
+      "image": "https://www.mvgm.de/assets/images/0/UBS-2-fe5db56a.jpg",
       "link": "https://www.mvgm.de/de/event/b-underwater-bubble-show/",
       "tags": []
     },
@@ -570,7 +570,7 @@
       "endDate": "2026-03-03",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/1/3-Pressebild-3-KOKUBU-2026-KLEIN-web-d94d5568.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/3-Pressebild-3-KOKUBU-2026-KLEIN-web-d94d5568.jpg",
       "link": "https://www.mvgm.de/de/event/kokubu-the-drums-of-japan-praesentieren-ihr-neues-programm-br-infinity/",
       "tags": []
     },
@@ -581,7 +581,7 @@
       "endDate": "2026-03-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/3/One-Night-Of-MJ-Pressefoto-FotoCredit-Josef-Lamber-web-12a2cd50.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/One-Night-Of-MJ-Pressefoto-FotoCredit-Josef-Lamber-web-12a2cd50.jpg",
       "link": "https://www.mvgm.de/de/event/one-night-of-mj-the-tribute-to-the-king-of-pop/",
       "tags": []
     },
@@ -592,7 +592,7 @@
       "endDate": "2026-03-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/0/Pressefoto-TUTTY-TRAN-1-c-Marvin-Ruppert-cda2336b.jpg",
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-TUTTY-TRAN-1-c-Marvin-Ruppert-cda2336b.jpg",
       "link": "https://www.mvgm.de/de/event/strong-tutty-tran-wok-life-balance-strong/",
       "tags": []
     },
@@ -603,7 +603,7 @@
       "endDate": "2026-03-08",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/8/Firebirds-Burlesque-2026-0ae92ffd.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Firebirds-Burlesque-2026-0ae92ffd.jpg",
       "link": "https://www.mvgm.de/de/event/the-firebirds-burlesque-show-2026/",
       "tags": []
     },
@@ -614,7 +614,7 @@
       "endDate": "2026-03-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/3/Der-W-web-7f61fdb6.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/Der-W-web-7f61fdb6.jpg",
       "link": "https://www.mvgm.de/de/event/der-w-tour-2026/",
       "tags": []
     },
@@ -625,7 +625,7 @@
       "endDate": "2026-03-09",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/3/SimplyTheBest1920-9af394ee.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/SimplyTheBest1920-9af394ee.jpg",
       "link": "https://www.mvgm.de/de/event/simply-the-best-die-tina-turner-story-3/",
       "tags": []
     },
@@ -636,7 +636,7 @@
       "endDate": "2026-03-13",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
       "link": "https://www.mvgm.de/de/event/messe-magdeboot-2026/",
       "tags": []
     },
@@ -647,7 +647,7 @@
       "endDate": "2026-03-14",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
       "link": "https://www.mvgm.de/de/event/messe-magdeboot-2026/",
       "tags": []
     },
@@ -658,7 +658,7 @@
       "endDate": "2026-03-14",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/d/Mario-Barth-Maenner-sind-nichts-ohne-die-Frauen-quer-c-Mayk-Azzato-cc02fc19.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/Mario-Barth-Maenner-sind-nichts-ohne-die-Frauen-quer-c-Mayk-Azzato-cc02fc19.jpg",
       "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-nichts-ohne-die-frauen/",
       "tags": []
     },
@@ -669,7 +669,7 @@
       "endDate": "2026-03-14",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/0/Band-Foto-Just-Floyd-Project-4da2d133.jpg",
+      "image": "https://www.mvgm.de/assets/images/0/Band-Foto-Just-Floyd-Project-4da2d133.jpg",
       "link": "https://www.mvgm.de/de/event/just-floyd-project/",
       "tags": []
     },
@@ -680,7 +680,7 @@
       "endDate": "2026-03-15",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
       "link": "https://www.mvgm.de/de/event/messe-magdeboot-2026/",
       "tags": []
     },
@@ -691,7 +691,7 @@
       "endDate": "2026-03-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/6/heaven-cant-wait-898c857f.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/heaven-cant-wait-898c857f.jpg",
       "link": "https://www.mvgm.de/de/event/heaven-can-wait-jetzt-erst-recht/",
       "tags": []
     },
@@ -702,7 +702,7 @@
       "endDate": "2026-03-16",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/7/01-Pressefoto-BenZucker-Drinnen2026-credit-ChrisHeidrich-www-8fe8fb2f.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/01-Pressefoto-BenZucker-Drinnen2026-credit-ChrisHeidrich-www-8fe8fb2f.jpg",
       "link": "https://www.mvgm.de/de/event/ben-zucker-3/",
       "tags": []
     },
@@ -713,7 +713,7 @@
       "endDate": "2026-03-19",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/e/Rock-The-Circus-2024-2025-Pressefoto-1-web-d83aeb2b.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Rock-The-Circus-2024-2025-Pressefoto-1-web-d83aeb2b.jpg",
       "link": "https://www.mvgm.de/de/event/rock-the-circus-musik-fuer-die-augen/",
       "tags": []
     },
@@ -724,7 +724,7 @@
       "endDate": "2026-03-20",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/2/HZJW-2026-Keyart-Boschmann-1920x1080-27bfdf92.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/HZJW-2026-Keyart-Boschmann-1920x1080-27bfdf92.jpg",
       "link": "https://www.mvgm.de/de/event/the-sound-of-hans-zimmer-john-williams/",
       "tags": []
     },
@@ -735,7 +735,7 @@
       "endDate": "2026-03-20",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/9/KWH-25427-8772516c.jpg",
+      "image": "https://www.mvgm.de/assets/images/9/KWH-25427-8772516c.jpg",
       "link": "https://www.mvgm.de/de/event/zauber-der-travestie-das-original-2026/",
       "tags": []
     },
@@ -746,7 +746,7 @@
       "endDate": "2026-03-21",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/GoT-HotD-Pressebild01-15x10cm-babe1052.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/GoT-HotD-Pressebild01-15x10cm-babe1052.jpg",
       "link": "https://www.mvgm.de/de/event/game-of-thrones-house-of-the-dragon-das-konzert/",
       "tags": []
     },
@@ -757,7 +757,7 @@
       "endDate": "2026-03-21",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/e/Depeche-Mode-on-Piano-2-b099ecd0.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Depeche-Mode-on-Piano-2-b099ecd0.jpg",
       "link": "https://www.mvgm.de/de/event/depeche-mode-on-piano-strong-strong-played-by-thilo/",
       "tags": []
     },
@@ -768,7 +768,7 @@
       "endDate": "2026-03-22",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/9/1-Heinz-Hauptmotiv-6-cd22f5d4.jpg",
+      "image": "https://www.mvgm.de/assets/images/9/1-Heinz-Hauptmotiv-6-cd22f5d4.jpg",
       "link": "https://www.mvgm.de/de/event/heinz-eckhard-tour-2026/",
       "tags": []
     },
@@ -779,7 +779,7 @@
       "endDate": "2026-03-22",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/9/The-Music-of-Queen-Motiv-Tour-2026-web-7363644a.jpg",
+      "image": "https://www.mvgm.de/assets/images/9/The-Music-of-Queen-Motiv-Tour-2026-web-7363644a.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-tour-2026/",
       "tags": []
     },
@@ -790,7 +790,7 @@
       "endDate": "2026-03-26",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/f/Gitte-Haenning-Credit-Carmen-Lechtenbrink-web-79d7686e.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Gitte-Haenning-Credit-Carmen-Lechtenbrink-web-79d7686e.jpg",
       "link": "https://www.mvgm.de/de/event/gitte-haenning-live-2026/",
       "tags": []
     },
@@ -801,7 +801,7 @@
       "endDate": "2026-03-28",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
       "link": null,
       "tags": []
     },
@@ -812,7 +812,7 @@
       "endDate": "2026-03-29",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
       "link": null,
       "tags": []
     },
@@ -823,7 +823,7 @@
       "endDate": "2026-03-29",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/3/Weihnachtsmarkt-MD-2016-Johanniskirche_003_Foto_Andreas_Lander-5ccd58f4.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/Weihnachtsmarkt-MD-2016-Johanniskirche_003_Foto_Andreas_Lander-5ccd58f4.jpg",
       "link": "https://www.mvgm.de/de/event/hans-zimmer-musik-bei-kerzenschein/",
       "tags": []
     },
@@ -834,7 +834,7 @@
       "endDate": "2026-03-30",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
       "link": null,
       "tags": []
     },
@@ -845,7 +845,7 @@
       "endDate": "2026-03-31",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
       "link": null,
       "tags": []
     },
@@ -856,7 +856,7 @@
       "endDate": "2026-03-31",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/4/Elbauenpark-Imageshooting-364-Foto-Andreas-Lander-bce86c76.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Elbauenpark-Imageshooting-364-Foto-Andreas-Lander-bce86c76.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-wald-31-03-2026/",
       "tags": []
     },
@@ -867,7 +867,7 @@
       "endDate": "2026-04-01",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
       "link": null,
       "tags": []
     },
@@ -878,7 +878,7 @@
       "endDate": "2026-04-02",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
       "link": null,
       "tags": []
     },
@@ -889,7 +889,7 @@
       "endDate": "2026-04-02",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
       "link": "https://www.mvgm.de/de/event/holiday-on-ice-cinema-of-dreams/",
       "tags": []
     },
@@ -900,7 +900,7 @@
       "endDate": "2026-04-02",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
       "link": "https://www.mvgm.de/de/event/holiday-on-ice-cinema-of-dreams-2/",
       "tags": []
     },
@@ -911,7 +911,7 @@
       "endDate": "2026-04-03",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
       "link": null,
       "tags": []
     },
@@ -922,7 +922,7 @@
       "endDate": "2026-04-04",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
       "link": null,
       "tags": []
     },
@@ -933,7 +933,7 @@
       "endDate": "2026-04-04",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
       "link": "https://www.mvgm.de/de/event/holiday-on-ice-cinema-of-dreams-3/",
       "tags": []
     },
@@ -944,7 +944,7 @@
       "endDate": "2026-04-04",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
       "link": "https://www.mvgm.de/de/event/holiday-on-ice-cinema-of-dreams-4/",
       "tags": []
     },
@@ -955,7 +955,7 @@
       "endDate": "2026-04-04",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
       "link": "https://www.mvgm.de/de/event/holiday-on-ice-cinema-of-dreams-5/",
       "tags": []
     },
@@ -966,7 +966,7 @@
       "endDate": "2026-04-05",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
       "link": null,
       "tags": []
     },
@@ -977,7 +977,7 @@
       "endDate": "2026-04-05",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
       "link": "https://www.mvgm.de/de/event/holiday-on-ice-cinema-of-dreams-6/",
       "tags": []
     },
@@ -988,7 +988,7 @@
       "endDate": "2026-04-05",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
       "link": "https://www.mvgm.de/de/event/holiday-on-ice-cinema-of-dreams-7/",
       "tags": []
     },
@@ -999,7 +999,7 @@
       "endDate": "2026-04-06",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/20210402-05-VA-Osterschatzsuche-1920x1000Px-56c15a67.jpg",
       "link": null,
       "tags": []
     },
@@ -1010,7 +1010,7 @@
       "endDate": "2026-04-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/5/AndyBorg-CA-PL-1920x1080px-3779ce08.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/AndyBorg-CA-PL-1920x1080px-3779ce08.jpg",
       "link": "https://www.mvgm.de/de/event/schlager-spass-mit-andy-borg-2/",
       "tags": []
     },
@@ -1021,7 +1021,7 @@
       "endDate": "2026-04-10",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/silver-beatles-monochrome-77b8b31d.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/silver-beatles-monochrome-77b8b31d.jpg",
       "link": "https://www.mvgm.de/de/event/the-silver-beatles/",
       "tags": []
     },
@@ -1032,7 +1032,7 @@
       "endDate": "2026-04-10",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/b/Falco-meets-Amadeus-1920x1080-df29220d.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/Falco-meets-Amadeus-1920x1080-df29220d.jpg",
       "link": "https://www.mvgm.de/de/event/falco-meets-amadeus/",
       "tags": []
     },
@@ -1043,7 +1043,7 @@
       "endDate": "2026-04-10",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/7/Udo-Bild-1816d8f8.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Udo-Bild-1816d8f8.jpg",
       "link": "https://www.mvgm.de/de/event/udo-lindenberg-tribute-show-odyssee/",
       "tags": []
     },
@@ -1054,7 +1054,7 @@
       "endDate": "2026-04-11",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/6/202504-Bild-mvgm-de-EVENTS-Tierwelt3-web-ea6ef551.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/202504-Bild-mvgm-de-EVENTS-Tierwelt3-web-ea6ef551.jpg",
       "link": "https://www.mvgm.de/de/event/messe-tierwelt-2026/",
       "tags": []
     },
@@ -1065,7 +1065,7 @@
       "endDate": "2026-04-11",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/3/Pressefoto-Bernd-Speier-b4cdf3df.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/Pressefoto-Bernd-Speier-b4cdf3df.jpg",
       "link": "https://www.mvgm.de/de/event/die-bernd-speier-schlager-revue-show/",
       "tags": []
     },
@@ -1076,7 +1076,7 @@
       "endDate": "2026-04-11",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/3/comedian-harmonists-forever-481c304e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/comedian-harmonists-forever-481c304e.jpg",
       "link": "https://www.mvgm.de/de/event/comedian-harmonists-unveroeffentlicht/",
       "tags": []
     },
@@ -1087,7 +1087,7 @@
       "endDate": "2026-04-11",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/5/HCarpendale-26-Abschied-Gold-Schwarz-sc-kar-art-landscape-1-1d3b91bc.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/HCarpendale-26-Abschied-Gold-Schwarz-sc-kar-art-landscape-1-1d3b91bc.jpg",
       "link": "https://www.mvgm.de/de/event/howard-carpendale/",
       "tags": []
     },
@@ -1098,7 +1098,7 @@
       "endDate": "2026-04-11",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Feelin-Collins-0f63d8cd.jpg",
+      "image": "https://www.mvgm.de/assets/images/a/Feelin-Collins-0f63d8cd.jpg",
       "link": "https://www.mvgm.de/de/event/phil-collins-genesis-tribute-show-feel-collins/",
       "tags": []
     },
@@ -1109,7 +1109,7 @@
       "endDate": "2026-04-12",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/6/202504-Bild-mvgm-de-EVENTS-Tierwelt3-web-ea6ef551.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/202504-Bild-mvgm-de-EVENTS-Tierwelt3-web-ea6ef551.jpg",
       "link": "https://www.mvgm.de/de/event/messe-tierwelt-2026/",
       "tags": []
     },
@@ -1120,7 +1120,7 @@
       "endDate": "2026-04-21",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/3/20260421-JohannesOerding-28ff7572.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/20260421-JohannesOerding-28ff7572.jpg",
       "link": "https://www.mvgm.de/de/event/johannes-oerding-arena-tour-2026/",
       "tags": []
     },
@@ -1131,7 +1131,7 @@
       "endDate": "2026-04-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/e/Nico-Stank-fb-insta-post-1080x1080-ba524d00.png",
+      "image": "https://www.mvgm.de/assets/images/e/Nico-Stank-fb-insta-post-1080x1080-ba524d00.png",
       "link": "https://www.mvgm.de/de/event/nico-stank-akte-ex-2/",
       "tags": []
     },
@@ -1142,7 +1142,7 @@
       "endDate": "2026-04-25",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/3/santiano-aufnachdoggerland-dieneuetour2024-chrisheidrich-471f48f1.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/santiano-aufnachdoggerland-dieneuetour2024-chrisheidrich-471f48f1.jpg",
       "link": "https://www.mvgm.de/de/event/da-braut-sich-was-zusammen-santiano/",
       "tags": []
     },
@@ -1153,7 +1153,7 @@
       "endDate": "2026-04-30",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/web-cind-2025-20x20-pict-0dddcd1a.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/web-cind-2025-20x20-pict-0dddcd1a.jpg",
       "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
@@ -1164,7 +1164,7 @@
       "endDate": "2026-05-01",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/4/Farinelli-die-vier-jahreszeiten-web-422aa659.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Farinelli-die-vier-jahreszeiten-web-422aa659.jpg",
       "link": "https://www.mvgm.de/de/event/farinelli-barockt-vivaldi/",
       "tags": []
     },
@@ -1175,7 +1175,7 @@
       "endDate": "2026-05-01",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/1/Massachusetts-1-fc6f03ca.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/Massachusetts-1-fc6f03ca.jpg",
       "link": "https://www.mvgm.de/de/event/strong-massachusetts-bee-gees-musical-strong/",
       "tags": []
     },
@@ -1186,7 +1186,7 @@
       "endDate": "2026-05-01",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/3/Design-ohne-Titel-21-21b2850e.png",
+      "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-21-21b2850e.png",
       "link": "https://www.mvgm.de/de/event/christian-steiffen-kuendigt-seine-ich-komme-2026-tour-an/",
       "tags": []
     },
@@ -1197,7 +1197,7 @@
       "endDate": "2026-05-02",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/5/Darts-Gala-2026-86a669b4.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Darts-Gala-2026-86a669b4.jpg",
       "link": "https://www.mvgm.de/de/event/magdeburg-darts-gala-2026/",
       "tags": []
     },
@@ -1208,7 +1208,7 @@
       "endDate": "2026-05-02",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/b/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-fd4e063a.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-fd4e063a.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk/",
       "tags": []
     },
@@ -1219,7 +1219,7 @@
       "endDate": "2026-05-02",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/0/Schneewittchen-und-die-sieben-Boybands-09ee0bdc.png",
+      "image": "https://www.mvgm.de/assets/images/0/Schneewittchen-und-die-sieben-Boybands-09ee0bdc.png",
       "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
@@ -1230,7 +1230,7 @@
       "endDate": "2026-05-07",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/7/Dance-Musicals-Plakat-2025-web-4a0b617a.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Dance-Musicals-Plakat-2025-web-4a0b617a.jpg",
       "link": "https://www.mvgm.de/de/event/the-magic-night-of-dance-musicals-2/",
       "tags": []
     },
@@ -1241,7 +1241,7 @@
       "endDate": "2026-05-09",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/6/Internet_Haupteil_1090%20x%20800_Oldtimertag_Finale_Version-e4eff454.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/Internet_Haupteil_1090%20x%20800_Oldtimertag_Finale_Version-e4eff454.jpg",
       "link": "https://www.mvgm.de/de/event/16-magdeburger-oldtimertag/",
       "tags": []
     },
@@ -1252,7 +1252,7 @@
       "endDate": "2026-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/8/Bastian-Bielendorfer-1920x1080-ef00d8da.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Bastian-Bielendorfer-1920x1080-ef00d8da.jpg",
       "link": "https://www.mvgm.de/de/event/gamechanger-by-bastian-bielendorfer/",
       "tags": []
     },
@@ -1263,7 +1263,7 @@
       "endDate": "2026-05-09",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/a/MVGM-GETEC-Arena_019_Foto_Andreas_Lander-21c854f4.jpg",
+      "image": "https://www.mvgm.de/assets/images/a/MVGM-GETEC-Arena_019_Foto_Andreas_Lander-21c854f4.jpg",
       "link": "https://www.mvgm.de/de/event/the-dark-tenor-symphonic-evolution-rock-meets-klassik/",
       "tags": []
     },
@@ -1274,7 +1274,7 @@
       "endDate": "2026-05-14",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/a/Elbauenpark-Prinzessinnentag-Foto-Andreas-Lander-10082025-MVGM-GmbH-008-d36bcb80.jpg",
+      "image": "https://www.mvgm.de/assets/images/a/Elbauenpark-Prinzessinnentag-Foto-Andreas-Lander-10082025-MVGM-GmbH-008-d36bcb80.jpg",
       "link": "https://www.mvgm.de/de/event/prinzessinnentag-2026/",
       "tags": []
     },
@@ -1285,7 +1285,7 @@
       "endDate": "2026-05-14",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/FullHD-Quer-KPOP-Showdown-rgb-a3f672ec.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/FullHD-Quer-KPOP-Showdown-rgb-a3f672ec.jpg",
       "link": "https://www.mvgm.de/de/event/k-pop-showdown-the-ultimate-tribute-show/",
       "tags": []
     },
@@ -1296,7 +1296,7 @@
       "endDate": "2026-05-14",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/e/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-2-c-Gregor-Hohenberg-web-8fc53dbe.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-2-c-Gregor-Hohenberg-web-8fc53dbe.jpg",
       "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-5/",
       "tags": []
     },
@@ -1307,7 +1307,7 @@
       "endDate": "2026-05-15",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/d/07_Pressefoto_Lordofthedance2024_Fotocredit__WolfgangWilde-0d8f72ea.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/07_Pressefoto_Lordofthedance2024_Fotocredit__WolfgangWilde-0d8f72ea.jpg",
       "link": "https://www.mvgm.de/de/event/lord-of-the-dance-live-tour-2026/",
       "tags": []
     },
@@ -1318,7 +1318,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/1/Pressefoto-MARKUS-KREBS-6-c-JP-Fotografie-257043e3.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/Pressefoto-MARKUS-KREBS-6-c-JP-Fotografie-257043e3.jpg",
       "link": "https://www.mvgm.de/de/event/markus-krebs-2026/",
       "tags": []
     },
@@ -1329,7 +1329,7 @@
       "endDate": "2026-05-16",
       "location": "Seebühne",
       "description": null,
-      "image": "assets/images/8/MDCC-Parkbuehne-53a15e6a.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/MDCC-Parkbuehne-53a15e6a.jpg",
       "link": "https://www.mvgm.de/de/event/stereoact-ich-liebe-das-leben-party/",
       "tags": []
     },
@@ -1340,7 +1340,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-seitlich-32b01c52.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-seitlich-32b01c52.jpg",
       "link": "https://www.mvgm.de/de/event/osan-yaran-aus-prinzip-2/",
       "tags": []
     },
@@ -1351,7 +1351,7 @@
       "endDate": "2026-05-24",
       "location": "Seebühne",
       "description": null,
-      "image": "assets/images/b/mvgm-seebuehne-gril-den-henssler-108-foto-andreas-lander-web-b46a5cf3.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/mvgm-seebuehne-gril-den-henssler-108-foto-andreas-lander-web-b46a5cf3.jpg",
       "link": "https://www.mvgm.de/de/event/eurocheermasters-2026/",
       "tags": []
     },
@@ -1362,7 +1362,7 @@
       "endDate": "2026-05-26",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/1/Elbauenpark-Imageshooting_338_Foto_Andreas_Lander-1bc88399.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/Elbauenpark-Imageshooting_338_Foto_Andreas_Lander-1bc88399.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-wiese-26-05-2026/",
       "tags": []
     },
@@ -1373,7 +1373,7 @@
       "endDate": "2026-05-29",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/7/Pressefoto-HERR-SCHRoeDER-Der-Rest-ist-Hausaugabe-c-Boris-Breuer-web-c553ec14.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-HERR-SCHRoeDER-Der-Rest-ist-Hausaugabe-c-Boris-Breuer-web-c553ec14.jpg",
       "link": "https://www.mvgm.de/de/event/herr-schroeder-der-rest-ist-hausaufgabe-2/",
       "tags": []
     },
@@ -1384,7 +1384,7 @@
       "endDate": "2026-06-06",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/20220611-LAGA-Gesamtmotiv_Praxis_A4_RGB-04276a2e.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/20220611-LAGA-Gesamtmotiv_Praxis_A4_RGB-04276a2e.jpg",
       "link": "https://www.mvgm.de/de/event/landschaftsgaertner-cup-sachsen-anhalt-2026/",
       "tags": []
     },
@@ -1395,7 +1395,7 @@
       "endDate": "2026-06-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/3/CJ-Bobo-FB-Event-Cover-Magdeburg-712ee393.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/CJ-Bobo-FB-Event-Cover-Magdeburg-712ee393.jpg",
       "link": "https://www.mvgm.de/de/event/dj-bobo-arena-tour-2026/",
       "tags": []
     },
@@ -1406,7 +1406,7 @@
       "endDate": "2026-06-24",
       "location": "Jahrtausendturm",
       "description": null,
-      "image": "assets/images/5/20220424elbauenpark-musik-im-turm-andreas-lander-7b7a2fb1.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/20220424elbauenpark-musik-im-turm-andreas-lander-7b7a2fb1.jpg",
       "link": "https://www.mvgm.de/de/event/musik-im-turm-2026/",
       "tags": []
     },
@@ -1417,7 +1417,7 @@
       "endDate": "2026-06-27",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/c/Love%20Music-b4e5fd99.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Love%20Music-b4e5fd99.jpg",
       "link": "https://www.mvgm.de/de/event/love-music-festival-2026/",
       "tags": []
     },
@@ -1428,7 +1428,7 @@
       "endDate": "2026-07-02",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/0/Freshpepper_Firmenstaffel-2022_103_Foto_Andreas_Lander-c412d92d.jpg",
+      "image": "https://www.mvgm.de/assets/images/0/Freshpepper_Firmenstaffel-2022_103_Foto_Andreas_Lander-c412d92d.jpg",
       "link": "https://www.mvgm.de/de/event/firmenstaffel-2026/",
       "tags": []
     },
@@ -1439,7 +1439,7 @@
       "endDate": "2026-07-07",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/4/Elbauenpark-Imageshooting-364-Foto-Andreas-Lander-bce86c76.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Elbauenpark-Imageshooting-364-Foto-Andreas-Lander-bce86c76.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-wald-07-07-2026/",
       "tags": []
     },
@@ -1450,7 +1450,7 @@
       "endDate": "2026-07-08",
       "location": "Jahrtausendturm",
       "description": null,
-      "image": "assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-08-07-2026/",
       "tags": []
     },
@@ -1461,7 +1461,7 @@
       "endDate": "2026-07-11",
       "location": "Seebühne",
       "description": null,
-      "image": "assets/images/5/Carmina-Burana-91ce70b7.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Carmina-Burana-91ce70b7.jpg",
       "link": "https://www.mvgm.de/de/event/carmina-burana-2026/",
       "tags": []
     },
@@ -1472,7 +1472,7 @@
       "endDate": "2026-07-14",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/Elbauenpark_Entdeckungstour_Biber_Foto_Andreas_Lander_05312023_%C2%A9NKE_GMBH_100-871a06fa.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Elbauenpark_Entdeckungstour_Biber_Foto_Andreas_Lander_05312023_%C2%A9NKE_GMBH_100-871a06fa.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-biber-14-07-2026/",
       "tags": []
     },
@@ -1483,7 +1483,7 @@
       "endDate": "2026-07-15",
       "location": "Jahrtausendturm",
       "description": null,
-      "image": "assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-15-07-2026/",
       "tags": []
     },
@@ -1494,7 +1494,7 @@
       "endDate": "2026-07-17",
       "location": "Seebühne",
       "description": null,
-      "image": "assets/images/8/Suzi-Quatro-07b9dd8a.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Suzi-Quatro-07b9dd8a.jpg",
       "link": "https://www.mvgm.de/de/event/suzi-quatro-band/",
       "tags": []
     },
@@ -1505,7 +1505,7 @@
       "endDate": "2026-07-21",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/f/Elbauenpark-Imageshooting_343_Foto_Andreas_Lander-cc6d828e.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Elbauenpark-Imageshooting_343_Foto_Andreas_Lander-cc6d828e.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-wasser-21-07-2026/",
       "tags": []
     },
@@ -1516,7 +1516,7 @@
       "endDate": "2026-07-28",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/1/Elbauenpark-Imageshooting_338_Foto_Andreas_Lander-1bc88399.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/Elbauenpark-Imageshooting_338_Foto_Andreas_Lander-1bc88399.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-wiese-28-07-2026/",
       "tags": []
     },
@@ -1527,7 +1527,7 @@
       "endDate": "2026-08-04",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/f/Elbauenpark-Imageshooting_343_Foto_Andreas_Lander-cc6d828e.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Elbauenpark-Imageshooting_343_Foto_Andreas_Lander-cc6d828e.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-wasser-04-08-2026/",
       "tags": []
     },
@@ -1538,7 +1538,7 @@
       "endDate": "2026-08-08",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/0/mega-malle-magdeburg-2024-5-c119696b.jpg",
+      "image": "https://www.mvgm.de/assets/images/0/mega-malle-magdeburg-2024-5-c119696b.jpg",
       "link": "https://www.mvgm.de/de/event/mega-malle-das-festival-der-mallorcastars-2026/",
       "tags": []
     },
@@ -1549,7 +1549,7 @@
       "endDate": "2026-08-11",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/5/Elbauenpark_Entdeckungstour_Biber_Foto_Andreas_Lander_05312023_%C2%A9NKE_GMBH_100-871a06fa.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Elbauenpark_Entdeckungstour_Biber_Foto_Andreas_Lander_05312023_%C2%A9NKE_GMBH_100-871a06fa.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-biber-11-08-2026/",
       "tags": []
     },
@@ -1560,7 +1560,7 @@
       "endDate": "2026-08-12",
       "location": "Jahrtausendturm",
       "description": null,
-      "image": "assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-12-08-2026/",
       "tags": []
     },
@@ -1571,7 +1571,7 @@
       "endDate": "2026-08-15",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/6/Button%20Kopie-e161da64.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/Button%20Kopie-e161da64.jpg",
       "link": "https://www.mvgm.de/de/event/pyro-games-2026-duell-der-feuerwerke/",
       "tags": []
     },
@@ -1582,7 +1582,7 @@
       "endDate": "2026-08-28",
       "location": "MDCC-Parkbühne",
       "description": null,
-      "image": "assets/images/9/Nino-de-Angelo-fa847340.jpg",
+      "image": "https://www.mvgm.de/assets/images/9/Nino-de-Angelo-fa847340.jpg",
       "link": "https://www.mvgm.de/de/event/nino-de-angelo-un-momento-italiano/",
       "tags": []
     },
@@ -1593,7 +1593,7 @@
       "endDate": "2026-08-29",
       "location": "MDCC-Parkbühne",
       "description": null,
-      "image": "assets/images/a/MDCC-Parkbuehne-bestuhlt-oben-8b4b58ce.jpg",
+      "image": "https://www.mvgm.de/assets/images/a/MDCC-Parkbuehne-bestuhlt-oben-8b4b58ce.jpg",
       "link": "https://www.mvgm.de/de/event/silly-mit-julia-neigel-elektroakustik-open-air-tour-2026/",
       "tags": []
     },
@@ -1604,7 +1604,7 @@
       "endDate": "2026-08-30",
       "location": "MDCC-Parkbühne",
       "description": null,
-      "image": "assets/images/1/20250119-Pressefoto-Olaf-Schubert-5dbbbcd5.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/20250119-Pressefoto-Olaf-Schubert-5dbbbcd5.jpg",
       "link": "https://www.mvgm.de/de/event/olaf-schubert-und-seine-freunde-jetzt-oder-now/",
       "tags": []
     },
@@ -1615,7 +1615,7 @@
       "endDate": "2026-09-04",
       "location": "MDCC-Parkbühne",
       "description": null,
-      "image": "assets/images/9/Pressebild-WincentWeiss-c7ff3eda.jpg",
+      "image": "https://www.mvgm.de/assets/images/9/Pressebild-WincentWeiss-c7ff3eda.jpg",
       "link": "https://www.mvgm.de/de/event/wincent-weiss-sommertour-2026/",
       "tags": []
     },
@@ -1626,7 +1626,7 @@
       "endDate": "2026-09-05",
       "location": "MDCC-Parkbühne",
       "description": null,
-      "image": "assets/images/5/NENA26-FB-Event-250909-dc01ccb1.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/NENA26-FB-Event-250909-dc01ccb1.jpg",
       "link": "https://www.mvgm.de/de/event/nena-live-2026-open-air/",
       "tags": []
     },
@@ -1637,7 +1637,7 @@
       "endDate": "2026-09-05",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/4/AnnenMayKantereit-web-70e636a4.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/AnnenMayKantereit-web-70e636a4.jpg",
       "link": "https://www.mvgm.de/de/event/annenmaykantereit-live-2026/",
       "tags": []
     },
@@ -1648,7 +1648,7 @@
       "endDate": "2026-09-06",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
       "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30/",
       "tags": []
     },
@@ -1659,7 +1659,7 @@
       "endDate": "2026-09-11",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/4/Unbenannt-6c4003fc.png",
+      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
       "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
@@ -1670,7 +1670,7 @@
       "endDate": "2026-09-19",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/8/20190914_15_amg_fb_post_erntedankfest-91fbe80d.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/20190914_15_amg_fb_post_erntedankfest-91fbe80d.jpg",
       "link": null,
       "tags": []
     },
@@ -1681,7 +1681,7 @@
       "endDate": "2026-09-20",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/8/20190914_15_amg_fb_post_erntedankfest-91fbe80d.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/20190914_15_amg_fb_post_erntedankfest-91fbe80d.jpg",
       "link": null,
       "tags": []
     },
@@ -1692,7 +1692,7 @@
       "endDate": "2026-09-20",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/8/20190914_15_amg_fb_post_erntedankfest-91fbe80d.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/20190914_15_amg_fb_post_erntedankfest-91fbe80d.jpg",
       "link": null,
       "tags": []
     },
@@ -1703,7 +1703,7 @@
       "endDate": "2026-09-21",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/8/20190914_15_amg_fb_post_erntedankfest-91fbe80d.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/20190914_15_amg_fb_post_erntedankfest-91fbe80d.jpg",
       "link": null,
       "tags": []
     },
@@ -1714,7 +1714,7 @@
       "endDate": "2026-09-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/3/AtzeSchroederQuerformatCreditBorisBreuer-a7f197d4.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/AtzeSchroederQuerformatCreditBorisBreuer-a7f197d4.jpg",
       "link": "https://www.mvgm.de/de/event/atze-schroeder-lovemachine/",
       "tags": []
     },
@@ -1725,7 +1725,7 @@
       "endDate": "2026-09-24",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/7/Explore-Science-Festival-1bfefc83.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Explore-Science-Festival-1bfefc83.jpg",
       "link": "https://www.mvgm.de/de/event/explore-science-magdeburg-2026/",
       "tags": []
     },
@@ -1736,7 +1736,7 @@
       "endDate": "2026-09-25",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/7/Explore-Science-Festival-1bfefc83.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Explore-Science-Festival-1bfefc83.jpg",
       "link": "https://www.mvgm.de/de/event/explore-science-magdeburg-2026/",
       "tags": []
     },
@@ -1747,7 +1747,7 @@
       "endDate": "2026-09-25",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/9/Perspektiven%20Messe%20Banner-2e546f14.jpg",
+      "image": "https://www.mvgm.de/assets/images/9/Perspektiven%20Messe%20Banner-2e546f14.jpg",
       "link": "https://www.mvgm.de/de/event/messe-perspektiven-2026-fr/",
       "tags": []
     },
@@ -1758,7 +1758,7 @@
       "endDate": "2026-09-26",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/7/Explore-Science-Festival-1bfefc83.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Explore-Science-Festival-1bfefc83.jpg",
       "link": "https://www.mvgm.de/de/event/explore-science-magdeburg-2026/",
       "tags": []
     },
@@ -1769,7 +1769,7 @@
       "endDate": "2026-09-26",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/9/Perspektiven%20Messe%20Banner-2e546f14.jpg",
+      "image": "https://www.mvgm.de/assets/images/9/Perspektiven%20Messe%20Banner-2e546f14.jpg",
       "link": "https://www.mvgm.de/de/event/messe-perspektiven-2026-sa/",
       "tags": []
     },
@@ -1780,7 +1780,7 @@
       "endDate": "2026-10-04",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/1/Magdeburg-Marathon-fa43bf08.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/Magdeburg-Marathon-fa43bf08.jpg",
       "link": "https://www.mvgm.de/de/event/22-magdeburg-marathon/",
       "tags": []
     },
@@ -1791,7 +1791,7 @@
       "endDate": "2026-10-10",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/d/88073-03-Pressefoto-ChrisNorman-LIFELINES-Fotocredit-MarcelBrell-631c8907.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/88073-03-Pressefoto-ChrisNorman-LIFELINES-Fotocredit-MarcelBrell-631c8907.jpg",
       "link": "https://www.mvgm.de/de/event/chris-norman-band-lifelines-tour-2026/",
       "tags": []
     },
@@ -1802,7 +1802,7 @@
       "endDate": "2026-10-20",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/f/Elbauenpark-Imageshooting_343_Foto_Andreas_Lander-cc6d828e.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Elbauenpark-Imageshooting_343_Foto_Andreas_Lander-cc6d828e.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-wasser-20-10-2026/",
       "tags": []
     },
@@ -1813,7 +1813,7 @@
       "endDate": "2026-10-21",
       "location": "Jahrtausendturm",
       "description": null,
-      "image": "assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-21-10-2026/",
       "tags": []
     },
@@ -1824,7 +1824,7 @@
       "endDate": "2026-10-23",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/e/02-Pressefoto-BeatriceEgli-Fotocredit-MichaeldeBoer-jpg-web-17eb1acd.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/02-Pressefoto-BeatriceEgli-Fotocredit-MichaeldeBoer-jpg-web-17eb1acd.jpg",
       "link": "https://www.mvgm.de/de/event/beatrice-egli-live-2026/",
       "tags": []
     },
@@ -1835,7 +1835,7 @@
       "endDate": "2026-10-24",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
       "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
@@ -1846,7 +1846,7 @@
       "endDate": "2026-10-24",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/9/1-Alin-Coen-Hamburg-Alin-Coen-c-Sebastian-Madej-c9b23d00.jpg",
+      "image": "https://www.mvgm.de/assets/images/9/1-Alin-Coen-Hamburg-Alin-Coen-c-Sebastian-Madej-c9b23d00.jpg",
       "link": "https://www.mvgm.de/de/event/alin-coen-du-bedeutest-mir-die-welt/",
       "tags": []
     },
@@ -1857,7 +1857,7 @@
       "endDate": "2026-10-26",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/0/bild-richter-capari-32c7bfa3.jpg",
+      "image": "https://www.mvgm.de/assets/images/0/bild-richter-capari-32c7bfa3.jpg",
       "link": "https://www.mvgm.de/de/event/moerdern-auf-der-spur-2026-true-crime/",
       "tags": []
     },
@@ -1868,7 +1868,7 @@
       "endDate": "2026-10-27",
       "location": "Elbauenpark",
       "description": null,
-      "image": "assets/images/4/Elbauenpark-Imageshooting-364-Foto-Andreas-Lander-bce86c76.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Elbauenpark-Imageshooting-364-Foto-Andreas-Lander-bce86c76.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-wald-27-10-2026/",
       "tags": []
     },
@@ -1879,7 +1879,7 @@
       "endDate": "2026-10-28",
       "location": "Jahrtausendturm",
       "description": null,
-      "image": "assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
       "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
       "tags": []
     },
@@ -1890,7 +1890,7 @@
       "endDate": "2026-10-30",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
       "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
@@ -1901,7 +1901,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/b/Pressefoto-CHRIS-TALL-Keep-Laughing-2-c-Robert-Maschke-web-031ab90a.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/Pressefoto-CHRIS-TALL-Keep-Laughing-2-c-Robert-Maschke-web-031ab90a.jpg",
       "link": "https://www.mvgm.de/de/event/chris-tall-keep-laughing/",
       "tags": []
     },
@@ -1912,7 +1912,7 @@
       "endDate": "2026-11-06",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Jethro-Tull-GETEC-Arena-2026-0091ff61.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Jethro-Tull-GETEC-Arena-2026-0091ff61.jpg",
       "link": "https://www.mvgm.de/de/event/jethro-tull-the-curiosity-tour-2026/",
       "tags": []
     },
@@ -1923,7 +1923,7 @@
       "endDate": "2026-11-07",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/5/messe-magdeburger-angeltage-29b59bf4.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/messe-magdeburger-angeltage-29b59bf4.jpg",
       "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-sa/",
       "tags": []
     },
@@ -1934,7 +1934,7 @@
       "endDate": "2026-11-07",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/0/Imad-Poster-Square-LARGE-web-73b529df.jpg",
+      "image": "https://www.mvgm.de/assets/images/0/Imad-Poster-Square-LARGE-web-73b529df.jpg",
       "link": "https://www.mvgm.de/de/event/imad-magician-live/",
       "tags": []
     },
@@ -1945,7 +1945,7 @@
       "endDate": "2026-11-08",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "assets/images/5/messe-magdeburger-angeltage-29b59bf4.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/messe-magdeburger-angeltage-29b59bf4.jpg",
       "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so/",
       "tags": []
     },
@@ -1956,7 +1956,7 @@
       "endDate": "2026-11-13",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/e/NF-19-Ren-van-der-Voorden-55933ee5.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/NF-19-Ren-van-der-Voorden-55933ee5.jpg",
       "link": "https://www.mvgm.de/de/event/nights-on-broadway-strong-a-tribute-to-the-bee-gees-performed-by-night-fever-strong/",
       "tags": []
     },
@@ -1967,7 +1967,7 @@
       "endDate": "2026-11-14",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/5/Evil-Dead-1920x800-Premiere-4c45abc5.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Evil-Dead-1920x800-Premiere-4c45abc5.jpg",
       "link": "https://www.mvgm.de/de/event/evil-death-das-musical/",
       "tags": []
     },
@@ -1978,7 +1978,7 @@
       "endDate": "2026-11-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/5/Evil-Dead-1920x800-Premiere-4c45abc5.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Evil-Dead-1920x800-Premiere-4c45abc5.jpg",
       "link": "https://www.mvgm.de/de/event/evil-death-das-musical-kopie/",
       "tags": []
     },
@@ -1989,7 +1989,7 @@
       "endDate": "2026-11-20",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/d/Dirk-Michaelis-4e5de48e.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/Dirk-Michaelis-4e5de48e.jpg",
       "link": "https://www.mvgm.de/de/event/dirk-michaelis-weihnachtstournee-2026/",
       "tags": []
     },
@@ -2000,7 +2000,7 @@
       "endDate": "2026-11-20",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/3/Gregorian-1920x1080-4d230cf4.png",
+      "image": "https://www.mvgm.de/assets/images/3/Gregorian-1920x1080-4d230cf4.png",
       "link": "https://www.mvgm.de/de/event/gregorian-3/",
       "tags": []
     },
@@ -2011,7 +2011,7 @@
       "endDate": "2026-11-27",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/6/A-Million-Dreams-Presse-82adf3e6.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/A-Million-Dreams-Presse-82adf3e6.jpg",
       "link": "https://www.mvgm.de/de/event/a-million-dreams/",
       "tags": []
     },
@@ -2022,7 +2022,7 @@
       "endDate": "2026-11-27",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/e/Pressegrafik-RALF-SCHMITZ-Schmitzmaen-c-HPR-Kuenstler-Medien-GmbH-92b23470.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Pressegrafik-RALF-SCHMITZ-Schmitzmaen-c-HPR-Kuenstler-Medien-GmbH-92b23470.jpg",
       "link": "https://www.mvgm.de/de/event/ralf-schmitz-schmitzmaen/",
       "tags": []
     },
@@ -2033,7 +2033,7 @@
       "endDate": "2026-11-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/f/Pressefoto-Copyright-Thomas-Steinborn-c80c3887.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Pressefoto-Copyright-Thomas-Steinborn-c80c3887.jpg",
       "link": "https://www.mvgm.de/de/event/konstantin-wecker-der-liebe-zuliebe/",
       "tags": []
     },
@@ -2044,7 +2044,7 @@
       "endDate": "2025-12-01",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
       "link": "https://www.mvgm.de/de/event/dresdner-kreuzchor-2026/",
       "tags": []
     },
@@ -2055,7 +2055,7 @@
       "endDate": "2025-12-04",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/3/Design-ohne-Titel-20-edc27fda.png",
+      "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
       "link": "https://www.mvgm.de/de/event/unheilig/",
       "tags": []
     },
@@ -2066,7 +2066,7 @@
       "endDate": "2025-12-06",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
+      "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
       "link": "https://www.mvgm.de/de/event/gaby-albrecht-weihnachtkonzert-2026/",
       "tags": []
     },
@@ -2077,7 +2077,7 @@
       "endDate": "2025-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
       "link": "https://www.mvgm.de/de/event/santa-maria-das-musical-insel-wie-aus-traeumen-geboren/",
       "tags": []
     },
@@ -2088,7 +2088,7 @@
       "endDate": "2025-12-18",
       "location": "Johanniskirche",
       "description": null,
-      "image": "assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
       "link": "https://www.mvgm.de/de/event/dresdner-kreuzchor-2026-kopie/",
       "tags": []
     },
@@ -2099,7 +2099,7 @@
       "endDate": "2026-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
       "link": "https://www.mvgm.de/de/event/alain-frei-jetzt/",
       "tags": []
     },
@@ -2110,7 +2110,7 @@
       "endDate": "2026-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -2121,7 +2121,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2132,7 +2132,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2143,7 +2143,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2154,7 +2154,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2165,7 +2165,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2176,7 +2176,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2187,7 +2187,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2198,7 +2198,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2209,7 +2209,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2220,7 +2220,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2231,7 +2231,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2242,7 +2242,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2253,7 +2253,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2264,7 +2264,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2275,7 +2275,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2286,7 +2286,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2297,7 +2297,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2308,7 +2308,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2319,7 +2319,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2330,7 +2330,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2341,7 +2341,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2352,7 +2352,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2363,7 +2363,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2374,7 +2374,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2385,7 +2385,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2396,7 +2396,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2407,7 +2407,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2418,7 +2418,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2429,7 +2429,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2440,7 +2440,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2451,7 +2451,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2462,7 +2462,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2473,7 +2473,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2484,7 +2484,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2495,7 +2495,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2506,7 +2506,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2517,7 +2517,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2528,7 +2528,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2539,7 +2539,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2550,7 +2550,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2561,7 +2561,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2572,7 +2572,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2583,7 +2583,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2594,7 +2594,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2605,7 +2605,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2616,7 +2616,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2627,7 +2627,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2638,7 +2638,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2649,7 +2649,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2660,7 +2660,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2671,7 +2671,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2682,7 +2682,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2693,7 +2693,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2704,7 +2704,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2715,7 +2715,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2726,7 +2726,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2737,7 +2737,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2748,7 +2748,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2759,7 +2759,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2770,7 +2770,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2781,7 +2781,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2792,7 +2792,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2803,7 +2803,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2814,7 +2814,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2825,7 +2825,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2836,7 +2836,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2847,7 +2847,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2858,7 +2858,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2869,7 +2869,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2880,7 +2880,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2891,7 +2891,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2902,7 +2902,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2913,7 +2913,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2924,7 +2924,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2935,7 +2935,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -2946,7 +2946,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -2957,7 +2957,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -2968,7 +2968,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -2979,7 +2979,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -2990,7 +2990,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -3001,7 +3001,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -3012,7 +3012,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -3023,7 +3023,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -3034,7 +3034,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -3045,7 +3045,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -3056,7 +3056,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -3067,7 +3067,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -3078,7 +3078,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -3089,7 +3089,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -3100,7 +3100,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     },
@@ -3111,7 +3111,7 @@
       "endDate": "2026-02-08",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
       "tags": []
     },
@@ -3122,7 +3122,7 @@
       "endDate": "2026-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -3133,7 +3133,7 @@
       "endDate": "2026-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
       "tags": []
     },
@@ -3144,7 +3144,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
       "tags": []
     },
@@ -3155,7 +3155,7 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/JW-LHalle2024-III-Credit-Christian-Barz-eb711f1e.jpg",
       "link": "https://www.mvgm.de/de/event/joja-wendt-das-biest-und-das-schoene-ein-klavierkonzert-zwischen-power-und-praezision/",
       "tags": []
     },
@@ -3166,7 +3166,7 @@
       "endDate": "2026-07-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
       "tags": []
     }
