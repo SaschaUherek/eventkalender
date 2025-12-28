@@ -1,0 +1,35 @@
+name: Magdeburg Messe (Worker)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"   # täglich 03:00 Uhr UTC
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          npm ci || npm install
+          npx playwright install --with-deps chromium
+
+      - name: Run worker
+        run: node worker/magdeburg_messe.js
+
+      - name: Commit JSON changes
+        run: |
+          git config user.name "GastroRadar Bot"
+          git config user.email "bot@gastroradar.info"
+          git add data/*.json
+          git commit -m "Update: Magdeburg Messe Events" || echo "No changes"
+          git push
