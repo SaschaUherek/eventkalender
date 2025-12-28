@@ -79,8 +79,12 @@ function parseMagdeburgDate(text) {
         const location =
           ev.querySelector('.info.location')?.innerText?.trim() || null;
 
-        const image =
+        let image =
           ev.querySelector('.image_container img')?.getAttribute('src') || null;
+        
+        if (image && image.startsWith('assets/')) {
+          image = 'https://www.mvgm.de/' + image;
+        }
 
         const link =
           ev.querySelector('a')?.href || null;
