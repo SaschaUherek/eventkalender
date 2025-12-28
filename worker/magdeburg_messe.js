@@ -1,67 +1,60 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 
-// Deutsches Datum → ISO (z.B. "18.12.2025")
-function parseGermanDate(day, month, year) {
-  if (!day || !month || !year) return null;
-  return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
+// -------------------------------------
+// Hilfsfunktion: Datum extrahieren
+// -------------------------------------
+function parseGermanDate(text) {
+  const match = text.match(/(\d{2})\.(\d{2})\.(\d{4})/);
+  if (!match) return null;
+  const [_, day, month, year] = match;
+  return `${year}-${month}-${day}`;
 }
 
 (async () => {
-  const browser = await chromium.launch({ headless: true });
+  const browser = await chromium.launch();
   const page = await browser.newPage();
 
   const allEvents = [];
   let pageIndex = 1;
+  const MAX_PAGES = 10; // Sicherheitsbremse
 
   console.log('🌍 Starte Magdeburg Messe Scraper');
 
   while (true) {
-    const url =
-      pageIndex === 1
-        ? 'https://www.mvgm.de/de/events/'
-        : `https://www.mvgm.de/de/events/?page_e589=${pageIndex}`;
-
+    const url = `https://www.mvgm.de/de/events/?page_e589=${pageIndex}`;
     console.log(`📄 Lade Seite ${pageIndex}: ${url}`);
+
     await page.goto(url, { waitUntil: 'domcontentloaded' });
 
-    // Warten, ob Events existieren
-    if (eventsOnPage.length === 0) {
-      console.log('⛔ Keine Events mehr – Pagination endet hier');
-      break;
-    }
+    // Warten bis Event-Container ODER Seite leer
+    await page.waitForTimeout(1500);
 
     const eventsOnPage = await page.evaluate(() => {
       return Array.from(document.querySelectorAll('.event.event-tiles'))
         .map(ev => {
           const title =
-            ev.querySelector('h3[itemprop="name"]')?.innerText.trim() || null;
+            ev.querySelector('.textbox h3')?.innerText?.trim() || null;
 
           const day =
-            ev.querySelector('.date .day')?.innerText.trim() || null;
+            ev.querySelector('.date .day')?.innerText?.trim() || null;
 
           const month =
-            ev.querySelector('.date .month')?.innerText.trim() || null;
+            ev.querySelector('.date .month')?.innerText?.trim() || null;
 
-          const year = new Date().getFullYear().toString();
+          const rawDate = day && month ? `${day}.${month}` : null;
 
           const location =
-            ev.querySelector('.info.location')?.innerText.trim() || null;
+            ev.querySelector('.info.location')?.innerText?.trim() || null;
 
           const image =
             ev.querySelector('.image_container img')?.getAttribute('src') || null;
 
-          const link =
-            ev.querySelector('a')?.href || null;
-
           return {
             title,
-            day,
-            month,
-            year,
+            rawDate,
             location,
-            image,
-            link
+            image
           };
         })
         .filter(e => e.title);
@@ -69,23 +62,35 @@ function parseGermanDate(day, month, year) {
 
     console.log(`➕ ${eventsOnPage.length} Events gefunden`);
 
+    // 🛑 WICHTIG: Abbruch wenn keine Events mehr da sind
+    if (eventsOnPage.length === 0) {
+      console.log('⛔ Keine Events mehr – Pagination beendet');
+      break;
+    }
+
     for (const ev of eventsOnPage) {
-      const isoDate = parseGermanDate(ev.day, ev.month, ev.year);
+      const isoDate = ev.rawDate ? parseGermanDate(ev.rawDate) : null;
 
       allEvents.push({
         title: ev.title,
+        date: ev.rawDate,
         startDate: isoDate,
         endDate: isoDate,
-        date: ev.day && ev.month ? `${ev.day}.${ev.month}.${ev.year}` : null,
         location: ev.location || 'Messe Magdeburg',
         description: null,
         image: ev.image,
-        link: ev.link,
-        tags: []
+        link: 'https://www.mvgm.de/de/events/',
+        tags: ['messe']
       });
     }
 
     pageIndex++;
+
+    // Sicherheitsbremse
+    if (pageIndex > MAX_PAGES) {
+      console.log('🛑 Sicherheitslimit erreicht – Abbruch');
+      break;
+    }
   }
 
   fs.writeFileSync(
@@ -102,6 +107,6 @@ function parseGermanDate(day, month, year) {
     'utf8'
   );
 
-  console.log(`✅ FINAL: ${allEvents.length} Magdeburg Messe Events gespeichert`);
+  console.log(`✅ FINAL: ${allEvents.length} Magdeburg Messe-Events gespeichert`);
   await browser.close();
 })();
