@@ -1,13 +1,44 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 
-// -------------------------------------
-// Hilfsfunktion: Datum extrahieren
-// -------------------------------------
-function parseGermanDate(text) {
-  const match = text.match(/(\d{2})\.(\d{2})\.(\d{4})/);
+// ---------------------------------------------
+// Deutsches Kurzdatum → ISO (YYYY-MM-DD)
+// erwartet z.B. "10.Jan"
+// ---------------------------------------------
+function parseMagdeburgDate(text) {
+  if (!text) return null;
+
+  const match = text.match(/(\d{1,2})\.(Jan|Feb|Mär|Apr|Mai|Jun|Jul|Aug|Sep|Okt|Nov|Dez)/i);
   if (!match) return null;
-  const [_, day, month, year] = match;
+
+  const day = match[1].padStart(2, '0');
+
+  const monthMap = {
+    Jan: '01',
+    Feb: '02',
+    Mär: '03',
+    Apr: '04',
+    Mai: '05',
+    Jun: '06',
+    Jul: '07',
+    Aug: '08',
+    Sep: '09',
+    Okt: '10',
+    Nov: '11',
+    Dez: '12'
+  };
+
+  const month = monthMap[match[2]];
+  if (!month) return null;
+
+  const now = new Date();
+  let year = now.getFullYear();
+
+  // Wenn Monat schon vorbei ist → nächstes Jahr
+  if (parseInt(month, 10) < (now.getMonth() + 1)) {
+    year += 1;
+  }
+
   return `${year}-${month}-${day}`;
 }
 
@@ -16,85 +47,82 @@ function parseGermanDate(text) {
   const page = await browser.newPage();
 
   const allEvents = [];
+  const maxPages = 20; // Sicherheitsbremse
+
   let pageIndex = 1;
-  const MAX_PAGES = 10; // Sicherheitsbremse
 
-  console.log('🌍 Starte Magdeburg Messe Scraper');
+  console.log('🌍 Starte Magdeburg Messe Scraper …');
 
-  while (true) {
-    const url = `https://www.mvgm.de/de/events/?page_e589=${pageIndex}`;
+  while (pageIndex <= maxPages) {
+    const url =
+      pageIndex === 1
+        ? 'https://www.mvgm.de/de/events/'
+        : `https://www.mvgm.de/de/events/?page_e589=${pageIndex}`;
+
     console.log(`📄 Lade Seite ${pageIndex}: ${url}`);
 
     await page.goto(url, { waitUntil: 'domcontentloaded' });
 
-    // Warten bis Event-Container ODER Seite leer
-    await page.waitForTimeout(1500);
-
     const eventsOnPage = await page.evaluate(() => {
-      return Array.from(document.querySelectorAll('.event.event-tiles'))
-        .map(ev => {
-          const title =
-            ev.querySelector('.textbox h3')?.innerText?.trim() || null;
+      return Array.from(document.querySelectorAll('.event.event-tiles')).map(ev => {
+        const title =
+          ev.querySelector('.textbox h3')?.innerText?.trim() || null;
 
-          const day =
-            ev.querySelector('.date .day')?.innerText?.trim() || null;
+        const day =
+          ev.querySelector('.date .day')?.innerText?.trim() || '';
 
-          const month =
-            ev.querySelector('.date .month')?.innerText?.trim() || null;
+        const month =
+          ev.querySelector('.date .month')?.innerText?.trim() || '';
 
-          const rawDate = day && month ? `${day}.${month}` : null;
+        const dateText = `${day}.${month}`;
 
-          const location =
-            ev.querySelector('.info.location')?.innerText?.trim() || null;
+        const location =
+          ev.querySelector('.info.location')?.innerText?.trim() || null;
 
-          const image =
-            ev.querySelector('.image_container img')?.getAttribute('src') || null;
+        const image =
+          ev.querySelector('.image_container img')?.getAttribute('src') || null;
 
-          return {
-            title,
-            rawDate,
-            location,
-            image
-          };
-        })
-        .filter(e => e.title);
+        const link =
+          ev.querySelector('a')?.href || null;
+
+        return {
+          title,
+          rawDate: dateText,
+          location,
+          image,
+          link
+        };
+      }).filter(e => e.title);
     });
 
-    console.log(`➕ ${eventsOnPage.length} Events gefunden`);
-
-    // 🛑 WICHTIG: Abbruch wenn keine Events mehr da sind
     if (eventsOnPage.length === 0) {
-      console.log('⛔ Keine Events mehr – Pagination beendet');
+      console.log('⛔ Keine Events mehr gefunden – Abbruch');
       break;
     }
 
+    console.log(`➕ ${eventsOnPage.length} Events gefunden`);
+
     for (const ev of eventsOnPage) {
-      const isoDate = ev.rawDate ? parseGermanDate(ev.rawDate) : null;
+      const isoDate = parseMagdeburgDate(ev.rawDate);
 
       allEvents.push({
         title: ev.title,
-        date: ev.rawDate,
-        startDate: isoDate,
+        date: ev.rawDate,              // fürs Frontend
+        startDate: isoDate,            // maschinenlesbar
         endDate: isoDate,
         location: ev.location || 'Messe Magdeburg',
         description: null,
         image: ev.image,
-        link: 'https://www.mvgm.de/de/events/',
-        tags: ['messe']
+        link: ev.link,
+        tags: []
       });
     }
 
     pageIndex++;
-
-    // Sicherheitsbremse
-    if (pageIndex > MAX_PAGES) {
-      console.log('🛑 Sicherheitslimit erreicht – Abbruch');
-      break;
-    }
   }
 
   fs.writeFileSync(
-    'data/events_messe_magdeburg.json',
+    'data/events_magdeburg_messe.json',
     JSON.stringify(
       {
         source: 'Messe Magdeburg (mvgm.de)',
@@ -107,6 +135,6 @@ function parseGermanDate(text) {
     'utf8'
   );
 
-  console.log(`✅ FINAL: ${allEvents.length} Magdeburg Messe-Events gespeichert`);
+  console.log(`✅ FINAL: ${allEvents.length} Magdeburg-Messe Events gespeichert`);
   await browser.close();
 })();
