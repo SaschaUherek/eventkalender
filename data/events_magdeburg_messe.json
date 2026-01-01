@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2025-12-31T00:51:35.454Z",
+  "scraped_at": "2026-01-01T00:56:47.763Z",
   "events": [
-    {
-      "title": "LUMAGICA MAGDEBURG 2025/2026",
-      "date": "31.Dez",
-      "startDate": "2025-12-31",
-      "endDate": "2025-12-31",
-      "location": "Elbauenpark",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/250930-AS-LUMAGICA2025-058-credit-Anne-Schulz-e9b40d9c.jpg",
-      "link": null,
-      "tags": []
-    },
     {
       "title": "LUMAGICA MAGDEBURG 2025/2026",
       "date": "01.Jan",
@@ -1974,8 +1963,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -1985,8 +1974,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -1996,8 +1985,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -2007,8 +1996,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -2018,8 +2007,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -2112,17 +2101,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -2502,8 +2480,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -2513,8 +2491,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -2524,8 +2502,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -2535,8 +2513,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -2546,8 +2524,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -2640,17 +2618,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -3030,8 +2997,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -3041,8 +3008,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -3052,8 +3019,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -3063,8 +3030,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -3074,8 +3041,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -3168,17 +3135,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -3558,8 +3514,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -3569,8 +3525,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -3580,8 +3536,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -3591,8 +3547,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -3602,8 +3558,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -3696,17 +3652,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -4086,8 +4031,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -4097,8 +4042,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -4108,8 +4053,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -4119,8 +4064,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -4130,8 +4075,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -4224,17 +4169,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -4614,8 +4548,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -4625,8 +4559,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -4636,8 +4570,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -4647,8 +4581,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -4658,8 +4592,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -4752,17 +4686,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -5142,8 +5065,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -5153,8 +5076,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -5164,8 +5087,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -5175,8 +5098,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -5186,8 +5109,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -5280,17 +5203,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -5670,8 +5582,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -5681,8 +5593,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -5692,8 +5604,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -5703,8 +5615,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -5714,8 +5626,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -5808,17 +5720,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -6198,8 +6099,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -6209,8 +6110,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -6220,8 +6121,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -6231,8 +6132,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -6242,8 +6143,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -6336,17 +6237,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -6726,8 +6616,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -6737,8 +6627,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -6748,8 +6638,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -6759,8 +6649,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -6770,8 +6660,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -6864,17 +6754,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -7254,8 +7133,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -7265,8 +7144,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -7276,8 +7155,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -7287,8 +7166,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -7298,8 +7177,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -7392,17 +7271,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -7782,8 +7650,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -7793,8 +7661,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -7804,8 +7672,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -7815,8 +7683,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -7826,8 +7694,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -7920,17 +7788,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -8310,8 +8167,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -8321,8 +8178,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -8332,8 +8189,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -8343,8 +8200,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -8354,8 +8211,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -8448,17 +8305,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -8838,8 +8684,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -8849,8 +8695,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -8860,8 +8706,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -8871,8 +8717,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -8882,8 +8728,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -8976,17 +8822,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -9366,8 +9201,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -9377,8 +9212,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -9388,8 +9223,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -9399,8 +9234,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -9410,8 +9245,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -9504,17 +9339,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -9894,8 +9718,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -9905,8 +9729,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -9916,8 +9740,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -9927,8 +9751,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -9938,8 +9762,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
@@ -10032,17 +9856,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Unbenannt-6c4003fc.png",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
@@ -10422,8 +10235,8 @@
     {
       "title": "DRESDNER KREUZCHOR 2026",
       "date": "01.Dez",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-01",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/20211123-Dresdner-Kreuzchor-KRCH-7420-web-078af9b5.jpg",
@@ -10433,8 +10246,8 @@
     {
       "title": "UNHEILIG",
       "date": "04.Dez",
-      "startDate": "2025-12-04",
-      "endDate": "2025-12-04",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Design-ohne-Titel-20-edc27fda.png",
@@ -10444,8 +10257,8 @@
     {
       "title": "GABY ALBRECHT - WEIHNACHTKONZERT 2026",
       "date": "06.Dez",
-      "startDate": "2025-12-06",
-      "endDate": "2025-12-06",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
@@ -10455,8 +10268,8 @@
     {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
-      "startDate": "2025-12-11",
-      "endDate": "2025-12-11",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Santa-Maria-1280x475-web-f8843e30.jpg",
@@ -10466,8 +10279,8 @@
     {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
-      "startDate": "2025-12-18",
-      "endDate": "2025-12-18",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
