@@ -1,6 +1,6 @@
 {
   "source": "Stadt Leipzig",
-  "scraped_at": "2026-01-02T00:51:11.129Z",
+  "scraped_at": "2026-01-03T00:46:23.470Z",
   "events": [
     {
       "title": "Zirkus Aeros - Weihnachtscircus Aeros 2025",
@@ -536,6 +536,19 @@
       ]
     },
     {
+      "title": "Ratsversammlung",
+      "startDate": "2026-05-27",
+      "endDate": "2026-05-27",
+      "date": "27.05.2026",
+      "location": "Neues Rathaus",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/1/f/csm_Ratssaal_Leipzig_4cd252a000.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/ratsversammlung-2-1-1-20260527-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "UEFA Conference League Finale 2026",
       "startDate": "2026-05-27",
       "endDate": "2026-05-27",
@@ -544,6 +557,19 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/9/8/csm_UEFA_Conference_League_Finale_2025_Breslau_fdbdba4f22.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/uefa-conference-league-finale-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Ratsversammlung Fortsetzung (bei Bedarf)",
+      "startDate": "2026-05-28",
+      "endDate": "2026-05-28",
+      "date": "28.05.2026",
+      "location": "Neues Rathaus",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/1/f/csm_Ratssaal_Leipzig_4cd252a000.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/ratsversammlung-fortsetzung-bei-bedarf-1-1-1-20260528-4",
       "tags": [
         "stadt"
       ]
