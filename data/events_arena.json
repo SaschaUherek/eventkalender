@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-01-05T00:55:44.387Z",
+  "scraped_at": "2026-01-06T00:50:48.798Z",
   "events": [
     {
       "title": "WWE Live",
@@ -1012,6 +1012,39 @@
       "description": null,
       "image": "/fileadmin/files/_processed_/6/a/csm_HOI_HORIZONS_2_1b9f997e89.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice-1/1015",
+      "tags": []
+    },
+    {
+      "title": "Cavalluna",
+      "date": "Samstag, 02.01.2027",
+      "startDate": "2027-01-02",
+      "endDate": "2027-01-02",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/3/1/csm_CAVALLUNA_Die_Farben_des_Lebens_Artwork_quer_9e68ecc0d7.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/cavalluna-1/1019",
+      "tags": []
+    },
+    {
+      "title": "Cavalluna",
+      "date": "Samstag, 02.01.2027",
+      "startDate": "2027-01-02",
+      "endDate": "2027-01-02",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/3/1/csm_CAVALLUNA_Die_Farben_des_Lebens_Artwork_quer_9e68ecc0d7.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/cavalluna-1/1020",
+      "tags": []
+    },
+    {
+      "title": "Cavalluna",
+      "date": "Sonntag, 03.01.2027",
+      "startDate": "2027-01-03",
+      "endDate": "2027-01-03",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/3/1/csm_CAVALLUNA_Die_Farben_des_Lebens_Artwork_quer_9e68ecc0d7.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/cavalluna-1/1021",
       "tags": []
     },
     {
