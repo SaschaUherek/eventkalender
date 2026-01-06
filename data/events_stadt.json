@@ -1,6 +1,6 @@
 {
   "source": "Stadt Leipzig",
-  "scraped_at": "2026-01-05T00:55:52.580Z",
+  "scraped_at": "2026-01-06T00:50:55.211Z",
   "events": [
     {
       "title": "Zirkus Aeros - Weihnachtscircus Aeros 2025",
@@ -640,6 +640,19 @@
       ]
     },
     {
+      "title": "ClubFusion 2026",
+      "startDate": "2026-06-10",
+      "endDate": "2026-06-23",
+      "date": "10.06.2026 - 23.06.2026",
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/e/6/csm_Liebe_mich_GP_15062023_KirstenNijhof_KN16334_lowres_a62a19a866.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/clubfusion-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Bachfest 2026",
       "startDate": "2026-06-11",
       "endDate": "2026-06-21",
@@ -648,19 +661,6 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/4/f/csm_Bach-Statue-AdobeStock_36058895-Ellie-Nator_a2df1e8366.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/bachfest-2026",
-      "tags": [
-        "stadt"
-      ]
-    },
-    {
-      "title": "ClubFusion 2026",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-21",
-      "date": "12.06.2026 - 21.06.2026",
-      "location": "verschiedene Veranstaltungsorte",
-      "description": null,
-      "image": "https://static.leipzig.de/fileadmin/_processed_/e/6/csm_Liebe_mich_GP_15062023_KirstenNijhof_KN16334_lowres_a62a19a866.jpg",
-      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/clubfusion-2026",
       "tags": [
         "stadt"
       ]
