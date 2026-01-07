@@ -1,6 +1,6 @@
 {
   "source": "Stadt Leipzig",
-  "scraped_at": "2026-01-06T00:50:55.211Z",
+  "scraped_at": "2026-01-07T00:50:54.117Z",
   "events": [
     {
       "title": "Zirkus Aeros - Weihnachtscircus Aeros 2025",
@@ -11,6 +11,19 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/8/6/csm_Zirkus-Aeros-Zelt-Bildnachweis-Zirkus-Aeros_f60a71227e.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/weihnachtszirkus-mit-dem-zirkus-aeros-2-1-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Magisches Tropenleuchten im Zoo Leipzig",
+      "startDate": "2026-01-08",
+      "endDate": "2026-01-11",
+      "date": "08.01.2026 - 11.01.2026",
+      "location": "Zoo Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/3/0/csm_53_Szenische_Lichtspiele_beim_Magischen_Tropenleuchten___Zoo_Leipzig_b94183f9bc.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/magisches-tropenleuchten-1-1-20260108",
       "tags": [
         "stadt"
       ]
@@ -50,6 +63,19 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/b/4/csm_Allgemein-augustusplatz___paulinum_universitaet___schmidt___10_5_2012_11487_197c24ad9d.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/tag-der-offenen-hochschultuer-sachsen-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Magisches Tropenleuchten im Zoo Leipzig",
+      "startDate": "2026-01-15",
+      "endDate": "2026-01-18",
+      "date": "15.01.2026 - 18.01.2026",
+      "location": "Zoo Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/3/0/csm_53_Szenische_Lichtspiele_beim_Magischen_Tropenleuchten___Zoo_Leipzig_b94183f9bc.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/magisches-tropenleuchten-1-1-20260115-1",
       "tags": [
         "stadt"
       ]
@@ -102,6 +128,45 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/8/2/csm_Leipziger-Halbmarathon_d05355a326.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/17-wintermarathon-leipzig",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Magisches Tropenleuchten im Zoo Leipzig",
+      "startDate": "2026-01-22",
+      "endDate": "2026-01-25",
+      "date": "22.01.2026 - 25.01.2026",
+      "location": "Zoo Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/3/0/csm_53_Szenische_Lichtspiele_beim_Magischen_Tropenleuchten___Zoo_Leipzig_b94183f9bc.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/magisches-tropenleuchten-1-1-20260122-2",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Magisches Tropenleuchten im Zoo Leipzig",
+      "startDate": "2026-01-29",
+      "endDate": "2026-02-01",
+      "date": "29.01.2026 - 01.02.2026",
+      "location": "Zoo Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/3/0/csm_53_Szenische_Lichtspiele_beim_Magischen_Tropenleuchten___Zoo_Leipzig_b94183f9bc.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/magisches-tropenleuchten-1-1-20260129-3",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Magisches Tropenleuchten im Zoo Leipzig",
+      "startDate": "2026-01-29",
+      "endDate": "2026-02-01",
+      "date": "29.01.2026 - 01.02.2026",
+      "location": "Zoo Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/3/0/csm_53_Szenische_Lichtspiele_beim_Magischen_Tropenleuchten___Zoo_Leipzig_b94183f9bc.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/magisches-tropenleuchten-1-1-20260129-3",
       "tags": [
         "stadt"
       ]
@@ -167,6 +232,19 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/7/f/csm_Kunsthandwerk-Topfern-AdobeStock_263666983-GVS-stock-adobe-com_9569823103.jpeg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/mitteldeutsche-handwerksmesse-2-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Magisches Tropenleuchten im Zoo Leipzig",
+      "startDate": "2026-02-05",
+      "endDate": "2026-02-08",
+      "date": "05.02.2026 - 08.02.2026",
+      "location": "Zoo Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/3/0/csm_53_Szenische_Lichtspiele_beim_Magischen_Tropenleuchten___Zoo_Leipzig_b94183f9bc.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/magisches-tropenleuchten-1-1-20260205-4",
       "tags": [
         "stadt"
       ]
@@ -646,7 +724,7 @@
       "date": "10.06.2026 - 23.06.2026",
       "location": "verschiedene Veranstaltungsorte",
       "description": null,
-      "image": "https://static.leipzig.de/fileadmin/_processed_/e/6/csm_Liebe_mich_GP_15062023_KirstenNijhof_KN16334_lowres_a62a19a866.jpg",
+      "image": "https://static.leipzig.de/fileadmin/_processed_/9/c/csm_clubfusion_Foto-Rolf-Arnold_ed4b6900cf.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/clubfusion-2026",
       "tags": [
         "stadt"
@@ -804,6 +882,19 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/f/7/csm_755-sf-Markttage-2022_beaf1d11aa.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-markttage-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "chor.com - das bundesweite Fachtreffen der Vokalmusikszene",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-04",
+      "date": "01.10.2026 - 04.10.2026",
+      "location": "Kongresshalle am Zoo Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/2/5/csm_Konzert-M%C3%A4dchenchor-chor_82e72e2af0.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/chorcom",
       "tags": [
         "stadt"
       ]
