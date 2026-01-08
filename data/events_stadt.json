@@ -1,6 +1,6 @@
 {
   "source": "Stadt Leipzig",
-  "scraped_at": "2026-01-07T00:50:54.117Z",
+  "scraped_at": "2026-01-08T00:51:14.515Z",
   "events": [
     {
       "title": "Zirkus Aeros - Weihnachtscircus Aeros 2025",
@@ -848,6 +848,19 @@
       ]
     },
     {
+      "title": "Deutsche Meisterschaft im Skateboarding 2026",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-09",
+      "date": "06.09.2026 - 09.09.2026",
+      "location": "Heizhaus",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/7/7/csm_Architekturpreis_2023_Skateanlage_Parkallee_Foto4_99d9adf6f1.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/deutsche-meisterschaft-im-skateboarding",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Tag des Handwerks 2026",
       "startDate": "2026-09-19",
       "endDate": "2026-09-19",
@@ -895,6 +908,19 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/2/5/csm_Konzert-M%C3%A4dchenchor-chor_82e72e2af0.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/chorcom",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Europacup im Speedklettern 2026",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-04",
+      "date": "03.10.2026 - 04.10.2026",
+      "location": null,
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/3/6/csm_Jugendcup_Speedklettern_AfS_a8fd6b1a92.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/europacup-im-speedklettern-2026",
       "tags": [
         "stadt"
       ]
