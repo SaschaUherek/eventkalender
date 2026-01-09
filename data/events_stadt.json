@@ -1,6 +1,6 @@
 {
   "source": "Stadt Leipzig",
-  "scraped_at": "2026-01-08T00:51:14.515Z",
+  "scraped_at": "2026-01-09T00:51:26.626Z",
   "events": [
     {
       "title": "Zirkus Aeros - Weihnachtscircus Aeros 2025",
@@ -146,6 +146,19 @@
       ]
     },
     {
+      "title": "Fundusverkauf - Einzigartige Kostüme, Vintage-Mode und Accessoires",
+      "startDate": "2026-01-24",
+      "endDate": "2026-01-24",
+      "date": "24.01.2026",
+      "location": "Schauspiel Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/7/c/csm_Fundusverkauf_Foto_Susann_Friedrich__2__9c33278fdb.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/fundusverkauf-einzigartige-kostueme-vintage-mode-und-accessoires",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Magisches Tropenleuchten im Zoo Leipzig",
       "startDate": "2026-01-29",
       "endDate": "2026-02-01",
@@ -258,6 +271,19 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/5/c/csm_Motorradmesse-Leipzig-Zweiradmessen_c6a9db8a5b.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/motorrad-messe-leipzig-2024-1-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Premiere - Was ihr wollt - (A Tortured Lover’s Version)",
+      "startDate": "2026-02-07",
+      "endDate": "2026-02-07",
+      "date": "07.02.2026",
+      "location": "Schauspiel Leipzig",
+      "description": null,
+      "image": null,
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/premiere-was-ihr-wollt-a-tortured-lovers-version-1",
       "tags": [
         "stadt"
       ]
@@ -393,6 +419,19 @@
       ]
     },
     {
+      "title": "Saisoneröffnung von Belantis mit „Idefix Abenteuerland“",
+      "startDate": "2026-03-28",
+      "endDate": "2026-03-28",
+      "date": "28.03.2026",
+      "location": "Belantis - Das Abenteuerreich",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/6/9/csm_Belantis-Sternenglanz_639d62166a.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/saisoneroeffnung-von-belantis-mit-idefix-abenteuerland",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Earth Hour 2026",
       "startDate": "2026-03-28",
       "endDate": "2026-03-28",
@@ -432,6 +471,19 @@
       ]
     },
     {
+      "title": "Agra - Die Landwirtschaftsausstellung in Mitteldeutschland",
+      "startDate": "2026-04-09",
+      "endDate": "2026-04-12",
+      "date": "09.04.2026 - 12.04.2026",
+      "location": null,
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/c/a/csm_DasGesichtDeutschlands_b62bf35ad8.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/default-2feda4b35623245797c4870c7adae667",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Europäische Kunsthandwerkstage 2026",
       "startDate": "2026-04-10",
       "endDate": "2026-04-12",
@@ -458,6 +510,32 @@
       ]
     },
     {
+      "title": "Das Theater- und Tanzfestival Off Europa: Critical Zone",
+      "startDate": "2026-04-17",
+      "endDate": "2026-04-25",
+      "date": "17.04.2026 - 25.04.2026",
+      "location": "Lofft - Das Theater",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/b/f/csm_01-Witness-1-Vojte-ch-Brtnicky_d3a8bd2fef.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/das-theater-und-tanzfestival-off-europa-critical-zone",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Premiere - Deutsche Märchen",
+      "startDate": "2026-04-18",
+      "endDate": "2026-04-18",
+      "date": "18.04.2026",
+      "location": "Schauspiel Leipzig",
+      "description": null,
+      "image": null,
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/premiere-deutsche-maerchen-2",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "48. Leipzig Marathon 2026",
       "startDate": "2026-04-19",
       "endDate": "2026-04-19",
@@ -479,6 +557,19 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/0/d/csm_Girlsday_7ea2a78a1b.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/girls-day-boys-day-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Frühjahrsrundgang der SpinnereiGalerien",
+      "startDate": "2026-04-25",
+      "endDate": "2026-04-26",
+      "date": "25.04.2026 - 26.04.2026",
+      "location": "Leipziger Baumwollspinnerei",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/6/f/csm_2016-09-18_Spinnerei-Rundgang_066_fa38d97799.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/fruehjahrsrundgang-der-spinnereigalerien",
       "tags": [
         "stadt"
       ]
@@ -518,6 +609,19 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/f/f/csm_17_7SW_Strecke_unterwegs_Bernhard_weiss_645a6de9b3.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/7-seen-wanderung-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "XXL-Paddelfestival 2026",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-10",
+      "date": "08.05.2026 - 10.05.2026",
+      "location": "Kanupark Markkleeberg",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/e/b/csm_Kanupark_Kanuslalom_21ab6e8d83.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/xxl-paddelfestival-2026",
       "tags": [
         "stadt"
       ]
@@ -692,6 +796,19 @@
       ]
     },
     {
+      "title": "Premiere: Die Jungfrau von Orleans",
+      "startDate": "2026-06-05",
+      "endDate": "2026-06-05",
+      "date": "05.06.2026",
+      "location": "Schauspiel Leipzig",
+      "description": null,
+      "image": null,
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/premiere-die-jungfrau-von-orleans-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Muddy Angel Run",
       "startDate": "2026-06-06",
       "endDate": "2026-06-06",
@@ -783,6 +900,45 @@
       ]
     },
     {
+      "title": "17. Jüdische Woche in Leipzig - Tacheles 2026",
+      "startDate": "2026-06-21",
+      "endDate": "2026-06-28",
+      "date": "21.06.2026 - 28.06.2026",
+      "location": "Kultur",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/a/e/csm_Alter-judischer-Friedhof-Gefallenendenkmal-web_d20cf7f50a.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/default-660aba903fc67c5de494bfde2a3b791a",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Eröffnung Leipziger Notenbogen",
+      "startDate": "2026-06-21",
+      "endDate": "2026-06-21",
+      "date": "21.06.2026",
+      "location": "Kultur",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/4/4/csm_Bild_3_Notenspur_web_9090735d2e.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/eroeffnung-leipziger-notenbogen",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Newcomershow 2026 – Das internationale Varietéfestival",
+      "startDate": "2026-07-02",
+      "endDate": "2026-07-05",
+      "date": "02.07.2026 - 05.07.2026",
+      "location": "Krystallpalast Varieté",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/2/c/csm_Krystallpalast-Variete-Leipzig_bebfd1143e.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/newcomershow-2026-das-internationale-varietefestival",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Klassik airleben: Gewandhausorchester mit Dirigent Daniel Harding",
       "startDate": "2026-07-03",
       "endDate": "2026-07-04",
@@ -835,6 +991,19 @@
       ]
     },
     {
+      "title": "26. Leipziger Wasserfest",
+      "startDate": "2026-08-21",
+      "endDate": "2026-08-23",
+      "date": "21.08.2026 - 23.08.2026",
+      "location": null,
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/d/f/csm_Wasserfest-2019-2_a6b20cd695.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/26-leipziger-wasserfest",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Ironman70.3 Triathlon",
       "startDate": "2026-08-23",
       "endDate": "2026-08-23",
@@ -848,6 +1017,19 @@
       ]
     },
     {
+      "title": "Lichterfest im agra Park 2026",
+      "startDate": "2026-08-29",
+      "endDate": "2026-08-29",
+      "date": "29.08.2026",
+      "location": null,
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/2/e/csm_lichterfest_bernhard-1_c00b742855.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichterfest-im-agra-park-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Deutsche Meisterschaft im Skateboarding 2026",
       "startDate": "2026-09-06",
       "endDate": "2026-09-09",
@@ -856,6 +1038,19 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/7/7/csm_Architekturpreis_2023_Skateanlage_Parkallee_Foto4_99d9adf6f1.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/deutsche-meisterschaft-im-skateboarding",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Grassifest 2026. Familienfest der drei Museen im Grassi",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "date": "06.09.2026",
+      "location": null,
+      "description": null,
+      "image": null,
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/grassifest-familienfest-der-drei-museen-im-grassi",
       "tags": [
         "stadt"
       ]
@@ -934,6 +1129,32 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/4/d/csm_1---Lichtfest-Leipzig-2025---Kerzen-89---Foto-PUNCTUM-Alexander-Schmidt_4123623274.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/lichtfest-leipzig-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "DOK Leipzig 2026",
+      "startDate": "2026-10-27",
+      "endDate": "2026-11-01",
+      "date": "27.10.2026 - 01.11.2026",
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/a/0/csm_20211025-DOK-Eroeffnung_VConzelmann_6274_2ca526a309.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/dok-leipzig-2025-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "DOK Leipzig 2026",
+      "startDate": "2026-10-27",
+      "endDate": "2026-11-01",
+      "date": "27.10.2026 - 01.11.2026",
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/a/0/csm_20211025-DOK-Eroeffnung_VConzelmann_6274_2ca526a309.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/dok-leipzig-2025-1",
       "tags": [
         "stadt"
       ]
