@@ -1,6 +1,6 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-01-08T00:51:34.360Z",
+  "scraped_at": "2026-01-09T00:51:47.163Z",
   "events": [
     {
       "title": "TOURISMA 2026",
@@ -916,6 +916,17 @@
       "tags": []
     },
     {
+      "title": "MUSIK IM TURM 2026",
+      "date": "26.Apr",
+      "startDate": "2026-04-26",
+      "endDate": "2026-04-26",
+      "location": "Jahrtausendturm",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/20220424elbauenpark-musik-im-turm-andreas-lander-7b7a2fb1.jpg",
+      "link": "https://www.mvgm.de/de/event/musik-im-turm-2026/",
+      "tags": []
+    },
+    {
       "title": "BALLETT \"CINDERELLA\"",
       "date": "30.Apr",
       "startDate": "2026-04-30",
@@ -1166,17 +1177,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/CJ-Bobo-FB-Event-Cover-Magdeburg-712ee393.jpg",
       "link": "https://www.mvgm.de/de/event/dj-bobo-arena-tour-2026/",
-      "tags": []
-    },
-    {
-      "title": "MUSIK IM TURM 2026",
-      "date": "24.Jun",
-      "startDate": "2026-06-24",
-      "endDate": "2026-06-24",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/20220424elbauenpark-musik-im-turm-andreas-lander-7b7a2fb1.jpg",
-      "link": "https://www.mvgm.de/de/event/musik-im-turm-2026/",
       "tags": []
     },
     {
