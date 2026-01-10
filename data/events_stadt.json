@@ -1,6 +1,6 @@
 {
   "source": "Stadt Leipzig",
-  "scraped_at": "2026-01-09T00:51:26.626Z",
+  "scraped_at": "2026-01-10T00:49:07.412Z",
   "events": [
     {
       "title": "Zirkus Aeros - Weihnachtscircus Aeros 2025",
@@ -1056,6 +1056,45 @@
       ]
     },
     {
+      "title": "Das 11. Industrie|Kultur|Festival / Tage der Industriekultur",
+      "startDate": "2026-09-07",
+      "endDate": "2026-09-13",
+      "date": "07.09.2026 - 13.09.2026",
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/3/a/csm_Industriekultur_Weichenbau_Leipziger-Gruppe_8d35b567dd.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/das-11-industriekulturfestival-tage-der-industriekultur",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "6. Con Spirito - das Leipziger Kammermusikfestival",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-20",
+      "date": "12.09.2026 - 20.09.2026",
+      "location": "Schumann-Haus",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/1/4/csm_Bueste_Mendelssohn_Querformat_5b14305e61.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/6-con-spirito-das-leipziger-kammermusikfestival",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Tag des offenen Denkmals 2026",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-13",
+      "date": "13.09.2026",
+      "location": null,
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/b/3/csm_museum_in_der_runden_ecke_ltm_andreas_schmidt_604_fdd44348ab.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/tag-des-offenen-denkmals-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Tag des Handwerks 2026",
       "startDate": "2026-09-19",
       "endDate": "2026-09-19",
@@ -1108,6 +1147,19 @@
       ]
     },
     {
+      "title": "Hobbymesse 2026",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-04",
+      "date": "02.10.2026 - 04.10.2026",
+      "location": null,
+      "description": null,
+      "image": null,
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/hobbymesse-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Europacup im Speedklettern 2026",
       "startDate": "2026-10-03",
       "endDate": "2026-10-04",
@@ -1116,6 +1168,32 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/3/6/csm_Jugendcup_Speedklettern_AfS_a8fd6b1a92.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/europacup-im-speedklettern-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Deutsche Meisterschaften im Kanu-Slalom und Kajak-Cross",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-04",
+      "date": "03.10.2026 - 04.10.2026",
+      "location": "Kanupark Markkleeberg",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/e/8/csm_149_Kanupark_Kanuslalom_KPM_a_842ffb7f26.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/deutsche-meisterschaften-im-kanu-slalom-und-kajak-cross",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Lichtfest Leipzig 2026: Herbst`89 - Aufbruch zur Demokratie, Tag der Friedlichen Revolution",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "date": "09.10.2026",
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/2/5/csm_DSCF4282_899721e0eb.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/herbst89-aufbruch-zur-demokratie-tag-der-friedlichen-revolution",
       "tags": [
         "stadt"
       ]
@@ -1134,6 +1212,58 @@
       ]
     },
     {
+      "title": "50. Leipziger Jazztage",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-24",
+      "date": "17.10.2026 - 24.10.2026",
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/1/f/csm_Jazztage_b785e38b61.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/50-leipziger-jazztage",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Grassimesse Leipzig 2026",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "date": "23.10.2026 - 25.10.2026",
+      "location": null,
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/7/6/csm_Angela-Wandelt_3596f3f047.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/grassimesse-leipzig-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Liebertwolkwitz: ein Dorf im Jahre 1813",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "date": "23.10.2026 - 25.10.2026",
+      "location": "Liebertwolkwitz",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/a/9/csm_Freiflache-Liebertwolkwitz_Fink20200813_0157_01_42ba9bebfe.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/liebertwolkwitz-ein-dorf-im-jahre-1813-4",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "31. Leipziger Opernball",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "date": "24.10.2026",
+      "location": "Oper Leipzig",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/a/1/csm_c-Leipziger-Opernball_Ballsaal_67983df6d5.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/31-leipziger-opernball",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "DOK Leipzig 2026",
       "startDate": "2026-10-27",
       "endDate": "2026-11-01",
@@ -1155,6 +1285,19 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/a/0/csm_20211025-DOK-Eroeffnung_VConzelmann_6274_2ca526a309.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/dok-leipzig-2025-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "euro-scene 2026",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-08",
+      "date": "03.11.2026 - 08.11.2026",
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/1/7/csm_Leipziger-Tanztheater_Von-allen-guten-Geistern-verlassen_Rolf-Arnold_dcddb312ea.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/euro-scene-2026",
       "tags": [
         "stadt"
       ]
