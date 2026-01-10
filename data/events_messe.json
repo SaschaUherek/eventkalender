@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-01-09T00:50:48.731Z",
+  "scraped_at": "2026-01-10T00:48:32.555Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -899,6 +899,20 @@
       ]
     },
     {
+      "title": "FISPAL",
+      "startDate": "2026-06-16",
+      "endDate": "2026-06-19",
+      "date": "2026-06-16 – 2026-06-19",
+      "location": "Sao Paulo, Brasilien",
+      "description": "Landesbeteiligung Hessen",
+      "image": null,
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "therapie MÜNCHEN",
       "startDate": "2026-06-19",
       "endDate": "2026-06-20",
@@ -1169,6 +1183,20 @@
       "tags": []
     },
     {
+      "title": "BIO Japan",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-09",
+      "date": "2026-10-07 – 2026-10-09",
+      "location": "Yokohama, Japan",
+      "description": null,
+      "image": null,
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "IMEX America",
       "startDate": "2026-10-13",
       "endDate": "2026-10-15",
@@ -1219,6 +1247,20 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-gamescom-asia-game-show.jpg",
       "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Smart City Expo World Congress",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-05",
+      "date": "2026-11-03 – 2026-11-05",
+      "location": "Barcelona, Spanien",
+      "description": "Landesbeteiligung Sachsen ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "mailto:j.kowollik@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -1322,6 +1364,20 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
       "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Big 5 Global",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-26",
+      "date": "2026-11-23 – 2026-11-26",
+      "location": "Dubai, VAE",
+      "description": "Landesbeteiligung Hessen",
+      "image": null,
+      "link": "mailto:i.weidemann@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
