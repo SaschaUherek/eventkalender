@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-01-13T00:45:27.763Z",
+  "scraped_at": "2026-01-14T00:53:12.743Z",
   "events": [
-    {
-      "title": "Feuerwerk der Turnkunst",
-      "date": "Dienstag, 13.01.2026",
-      "startDate": "2026-01-13",
-      "endDate": "2026-01-13",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/files/_processed_/7/3/csm_VIVA_Tournee_856x926_px_e7e4f4c9f0.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/feuerwerk-der-turnkunst/895",
-      "tags": []
-    },
     {
       "title": "Feuerwerk der Turnkunst",
       "date": "Mittwoch, 14.01.2026",
@@ -97,7 +86,7 @@
       "endDate": "2026-03-03",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/files/_processed_/d/d/csm_Grafik_6aa3f69c63.png",
+      "image": "/fileadmin/files/user_upload/veranstaltungen/Konzert_Show/2026-03-03_Powerwolf/Grafik.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/powerwolf/952",
       "tags": []
     },
