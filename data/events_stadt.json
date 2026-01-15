@@ -1,6 +1,6 @@
 {
   "source": "Stadt Leipzig",
-  "scraped_at": "2026-01-14T00:53:19.580Z",
+  "scraped_at": "2026-01-15T00:48:09.475Z",
   "events": [
     {
       "title": "Zirkus Aeros - Weihnachtscircus Aeros 2025",
@@ -120,6 +120,19 @@
       ]
     },
     {
+      "title": "30. Leipziger Kinder- und Jugendkunstausstellung",
+      "startDate": "2026-01-17",
+      "endDate": "2026-03-15",
+      "date": "17.01.2026 - 15.03.2026",
+      "location": "Museum der bildenden Künste",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/8/6/csm_12-sf-KiJuKu-2026_b89645b137.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/30-leipziger-kinder-und-jugendkunstausstellung",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "17. Wintermarathon Leipzig",
       "startDate": "2026-01-17",
       "endDate": "2026-01-17",
@@ -128,6 +141,32 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/8/2/csm_Leipziger-Halbmarathon_d05355a326.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/17-wintermarathon-leipzig",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "30. Leipziger Kinder- und Jugendkunstausstellung",
+      "startDate": "2026-01-17",
+      "endDate": "2026-03-15",
+      "date": "17.01.2026 - 15.03.2026",
+      "location": "Museum der bildenden Künste",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/8/6/csm_12-sf-KiJuKu-2026_b89645b137.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/30-leipziger-kinder-und-jugendkunstausstellung",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "30. Leipziger Kinder- und Jugendkunstausstellung",
+      "startDate": "2026-01-17",
+      "endDate": "2026-03-15",
+      "date": "17.01.2026 - 15.03.2026",
+      "location": "Museum der bildenden Künste",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/8/6/csm_12-sf-KiJuKu-2026_b89645b137.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/30-leipziger-kinder-und-jugendkunstausstellung",
       "tags": [
         "stadt"
       ]
@@ -666,6 +705,19 @@
       ]
     },
     {
+      "title": "Connewitzer Straßenfest 2026",
+      "startDate": "2026-05-10",
+      "endDate": "2026-05-10",
+      "date": "10.05.2026",
+      "location": "Connewitz",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/3/3/csm_Connewitzer-Strassenfest-DSC_0129_b4a12e8fb9.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/connewitzer-strassenfest-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "15. Leipziger Frauenlauf 2026",
       "startDate": "2026-05-10",
       "endDate": "2026-05-10",
@@ -887,6 +939,19 @@
       ]
     },
     {
+      "title": "Firmenlauf 2026",
+      "startDate": "2026-06-17",
+      "endDate": "2026-06-17",
+      "date": "17.06.2026",
+      "location": "Festwiese",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/5/1/csm_Firmenlauf-Cottaweg_4d6475e06d.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/firmenlauf-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Fête de la musique 2026",
       "startDate": "2026-06-21",
       "endDate": "2026-06-21",
@@ -995,7 +1060,7 @@
       "startDate": "2026-08-21",
       "endDate": "2026-08-23",
       "date": "21.08.2026 - 23.08.2026",
-      "location": null,
+      "location": "verschiedene Veranstaltungsorte",
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/d/f/csm_Wasserfest-2019-2_a6b20cd695.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/26-leipziger-wasserfest",
@@ -1056,7 +1121,7 @@
       ]
     },
     {
-      "title": "Das 11. Industrie|Kultur|Festival / Tage der Industriekultur",
+      "title": "Das 11. Industrie-Kultur-Festival / Tage der Industriekultur",
       "startDate": "2026-09-07",
       "endDate": "2026-09-13",
       "date": "07.09.2026 - 13.09.2026",
