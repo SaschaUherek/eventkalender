@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-01-15T00:47:35.592Z",
+  "scraped_at": "2026-01-16T00:51:25.953Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1421,6 +1421,19 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-partner-pferd.jpg",
       "link": "https://www.partner-pferd.de",
       "tags": []
+    },
+    {
+      "title": "VetMed",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-06",
+      "date": "2027-02-05 – 2027-02-06",
+      "location": "Leipziger Messe",
+      "description": "Mit der VetMed – Tiermedizintage Baden-Württemberg entsteht 2027 eine neue, starke Bühne für die Veterinärmedizin im Südwesten Deutschlands – regional verankert, fachlich führend und ideal positioniert, um Tierärztinnen, Tierärzte und TFAs aus Baden-Württemberg sowie den angrenzenden Ländern gezielt zu erreichen. Auf der spezialisierten Fachausstellung präsentieren führende Hersteller, Händler und Dienstleister ihre neuesten Produkte und Lösungen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/vetmed.jpg",
+      "link": "https://www.vetmed-tage.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
     },
     {
       "title": "Forum Hebammenarbeit Leipzig 2027",
