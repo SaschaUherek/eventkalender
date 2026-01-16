@@ -1,6 +1,6 @@
 {
   "source": "Stadt Leipzig",
-  "scraped_at": "2026-01-15T00:48:09.475Z",
+  "scraped_at": "2026-01-16T00:52:02.549Z",
   "events": [
     {
       "title": "Zirkus Aeros - Weihnachtscircus Aeros 2025",
@@ -388,6 +388,19 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/4/e/csm_Ritterhorde_8b1535fed4.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/17-leipziger-umschlag",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Leipziger Frühjahrsputz 2026",
+      "startDate": "2026-03-16",
+      "endDate": "2026-03-29",
+      "date": "16.03.2026 - 29.03.2026",
+      "location": "verschiedene Veranstaltungsorte",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/6/4/csm_Leipziger_Fruehjahrsputz_2022_Loewe_9534c910e0.png",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-fruehjahrsputz-2026",
       "tags": [
         "stadt"
       ]
