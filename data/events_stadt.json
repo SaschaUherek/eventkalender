@@ -1,6 +1,6 @@
 {
   "source": "Stadt Leipzig",
-  "scraped_at": "2026-01-16T00:52:02.549Z",
+  "scraped_at": "2026-01-17T00:48:35.347Z",
   "events": [
     {
       "title": "Zirkus Aeros - Weihnachtscircus Aeros 2025",
@@ -549,6 +549,19 @@
       ]
     },
     {
+      "title": "32. Leipziger Auwaldtag",
+      "startDate": "2026-04-16",
+      "endDate": "2026-04-16",
+      "date": "16.04.2026",
+      "location": "Auwaldstation",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/d/e/csm_Fledermausexkursion-Naturschutzwoche-2025_5bda16f511.jpeg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/enthuellung-der-leipziger-auwaldart-2026",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
       "title": "Caggtus Leipzig 2026 - Gaming Festival",
       "startDate": "2026-04-17",
       "endDate": "2026-04-19",
@@ -739,6 +752,32 @@
       "description": null,
       "image": "https://static.leipzig.de/fileadmin/_processed_/7/f/csm_Volksbank_Frauenlauf2018_26eb739646.jpg",
       "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/leipziger-frauenlauf",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Tag der offenen Tür im Amt für Umweltschutz",
+      "startDate": "2026-05-18",
+      "endDate": "2026-05-18",
+      "date": "18.05.2026",
+      "location": "Technisches Rathaus",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/6/4/csm_Technisches-Rathaus_Aussenansicht_Pragerstrasse_6de0fba911.jpg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/tag-der-offenen-tuer-im-amt-fuer-umweltschutz-1",
+      "tags": [
+        "stadt"
+      ]
+    },
+    {
+      "title": "Eröffnung der 70. Leipziger Naturschutzwoche",
+      "startDate": "2026-05-18",
+      "endDate": "2026-05-18",
+      "date": "18.05.2026",
+      "location": "Technisches Rathaus",
+      "description": null,
+      "image": "https://static.leipzig.de/fileadmin/_processed_/d/e/csm_Fledermausexkursion-Naturschutzwoche-2025_5bda16f511.jpeg",
+      "link": "/kultur-und-freizeit/veranstaltungen/eventsingle/event/feierliche-eroeffnung-70-leipziger-naturschutzwoche",
       "tags": [
         "stadt"
       ]
