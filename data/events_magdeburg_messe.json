@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-01-16T00:52:31.868Z",
+  "scraped_at": "2026-01-17T00:48:52.901Z",
   "events": [
-    {
-      "title": "DER HERR DER RINGE & DER HOBBIT - DAS KONZERT",
-      "date": "16.Jan",
-      "startDate": "2026-01-16",
-      "endDate": "2026-01-16",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/HC-DerHerrderRinge-Pressebild01-15x10cm-811bcb1f.jpg",
-      "link": "https://www.mvgm.de/de/event/der-herr-der-ringe-der-hobbit-das-konzert-kopie/",
-      "tags": []
-    },
     {
       "title": "HEIRATEN UND FEIERN - HOCHZEITSMESSE 2026",
       "date": "17.Jan",
@@ -110,6 +99,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/d/Koenig-der-Loewen-Header-a71cf5ca.png",
       "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-live-in-concert/",
+      "tags": []
+    },
+    {
+      "title": "NACHTFLOHMARKT - 24.01.2026",
+      "date": "24.Jan",
+      "startDate": "2026-01-24",
+      "endDate": "2026-01-24",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/20180127_Nachtflohmarkt-7c7a487d.jpg",
+      "link": "https://www.mvgm.de/de/event/nachtflohmarkt-24-01-2026/",
       "tags": []
     },
     {
