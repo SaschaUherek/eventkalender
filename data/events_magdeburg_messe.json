@@ -1,6 +1,6 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-01-20T00:50:32.053Z",
+  "scraped_at": "2026-01-21T00:52:43.987Z",
   "events": [
     {
       "title": "NIGHT OF FREESTYLE - 13 UHR",
@@ -836,6 +836,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/202504-Bild-mvgm-de-EVENTS-Tierwelt3-web-ea6ef551.jpg",
       "link": "https://www.mvgm.de/de/event/messe-tierwelt-2026/",
+      "tags": []
+    },
+    {
+      "title": "YES CHOIR - ABBA",
+      "date": "18.Apr",
+      "startDate": "2026-04-18",
+      "endDate": "2026-04-18",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Yes-Choir-AMO-e19ba1ac.png",
+      "link": "https://www.mvgm.de/de/event/yes-choir-abba/",
       "tags": []
     },
     {
@@ -1851,6 +1862,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -1969,6 +1991,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -2236,6 +2269,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -2354,6 +2398,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -2621,6 +2676,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -2739,6 +2805,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -3006,6 +3083,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -3124,6 +3212,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -3391,6 +3490,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -3509,6 +3619,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -3776,6 +3897,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -3894,6 +4026,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -4161,6 +4304,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -4279,6 +4433,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -4546,6 +4711,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -4664,6 +4840,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -4931,6 +5118,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -5049,6 +5247,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -5316,6 +5525,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -5434,6 +5654,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -5701,6 +5932,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -5819,6 +6061,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -6086,6 +6339,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -6204,6 +6468,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -6471,6 +6746,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -6589,6 +6875,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -6856,6 +7153,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -6974,6 +7282,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -7241,6 +7560,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -7359,6 +7689,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -7626,6 +7967,17 @@
       "tags": []
     },
     {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2026-01-14",
@@ -7744,6 +8096,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "HEINZ RUDOLF KUNZE & VERSTÄRKUNG ANGEBOT UND NACHFRAGE TOUR 2026",
+      "date": "24.Okt",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Design-ohne-Titel-26-25ada8da.png",
+      "link": "https://www.mvgm.de/de/event/strong-heinz-rudolf-kunze-verstaerkung-strong-strong-angebot-und-nachfrage-tour-2026-strong/",
       "tags": []
     },
     {
@@ -8008,6 +8371,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Philharmonia-Frankfurt-Foto-Armin-von-Bismarck-7809f7fd.jpg",
       "link": "https://www.mvgm.de/de/event/dresdner-kreuzchor-2026-kopie/",
+      "tags": []
+    },
+    {
+      "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
+      "date": "06.Jan",
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-06",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
       "tags": []
     },
     {
