@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-01-22T00:54:28.369Z",
+  "scraped_at": "2026-01-23T00:51:45.972Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -449,6 +449,19 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-mcc.jpg",
       "link": "https://www.manga-comic-con.de",
       "tags": []
+    },
+    {
+      "title": "32. Leipziger Antiquariatsmesse",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-22",
+      "date": "2026-03-19 – 2026-03-22",
+      "location": "Leipziger Messe",
+      "description": "Die 32. Leipziger Antiquariatsmesse mit der beliebten Literaturmeile bietet eine Vielfalt an antiquarischen Büchern, Grafiken, Fotografien und Autografen. Sie findet im Rahmen der Leipziger Buchmesse in Halle 5 statt und lädt zum Stöbern und Kaufen ein. Die Veranstalterin abooks.de Marianne Fleischer-Bartsch und über 30 Antiquariate aus dem In- und Ausland freuen sich auf Ihren Besuch.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-antiquariat-32.jpg",
+      "link": "https://www.abooks.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
     },
     {
       "title": "Bio-Europe Spring",
@@ -952,6 +965,17 @@
         "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
+    },
+    {
+      "title": "hy.tec mittendrin",
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-26",
+      "date": "2026-06-25 – 2026-06-26",
+      "location": "Chemnitz",
+      "description": "Die hy.tec 2026 ist die Plattform für Austausch, Wissenstransfer und konkrete Lösungen entlang der gesamten Produktionskette von Wasserstoffsystemen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-hytec.jpg",
+      "link": "https://www.hytec-leipzig.de",
+      "tags": []
     },
     {
       "title": "UPDATE Hämatologie / Onkologie 2026",
