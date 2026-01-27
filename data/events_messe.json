@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-01-26T00:55:33.311Z",
+  "scraped_at": "2026-01-27T00:54:04.924Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1444,6 +1444,17 @@
       "description": "Die PARTNER PFERD vereint hochkarätigen Turniersport mit einer umfassenden Ausstellung, informative Sonderschauen mit unterhaltsamen Abendshows, eine Kinder-Erlebniswelt mit abwechslungsreichen Vorführungen und Präsentationen im Aktionsring. Die PARTNER PFERD zeigt facettenreichen Reitsport mit Stars zum Anfassen und lockt jährlich tausende Pferdesportfans, Profi- und Hobbyreiter nach Leipzig. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-partner-pferd.jpg",
       "link": "https://www.partner-pferd.de",
+      "tags": []
+    },
+    {
+      "title": "HAUS-GARTEN-FREIZEIT",
+      "startDate": "2027-01-30",
+      "endDate": "2027-02-07",
+      "date": "2027-01-30 – 2027-02-07",
+      "location": "Leipziger Messe",
+      "description": "HAUS-GARTEN-FREIZEIT bietet: Vielfalt sowie Erlebnis, Shopping, Inspiration für die ganze Familie. Vielfältige Erlebnisbereiche und Sonderschauen runden das Messeerlebnis ab. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-haus-garten-freizeit.jpg",
+      "link": "https://www.haus-garten-freizeit.de",
       "tags": []
     },
     {
