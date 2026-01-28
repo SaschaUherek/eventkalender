@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-01-27T00:54:32.409Z",
+  "scraped_at": "2026-01-28T00:51:46.385Z",
   "events": [
     {
       "title": "SC DHfK - Bergischer HC",
@@ -781,6 +781,17 @@
       "description": null,
       "image": "/fileadmin/files/_processed_/f/d/csm_Pressefoto_CHRIS_TALL_Keep_Laughing_3__c__Robert_Maschke_74bb863844.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/chris-tall/948",
+      "tags": []
+    },
+    {
+      "title": "Sarah Brightman",
+      "date": "Montag, 30.11.2026",
+      "startDate": "2026-11-30",
+      "endDate": "2026-11-30",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/_processed_/f/d/csm_01-SarahBrightman-2025SBPRS_0a3459fcff.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sarah-brightman/1023",
       "tags": []
     },
     {
