@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-01-29T00:58:36.790Z",
+  "scraped_at": "2026-01-30T00:59:14.750Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -248,6 +248,20 @@
       "description": "Die DERMATOLOGIE kompakt + praxisnah ist eine gemeinsame Veranstaltung von DDG und BVDD, die über drei Tage ein attraktives Fortbildungsangebot im Bereich der Dermatologie bietet. Dieses Fortbildungsangebot mit unmittelbarer Nähe zur täglichen Arbeit ist speziell zugeschnitten für niedergelassene und für klinisch tätige Dermatologinnen oder Dermatologen. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-dermatologie-kopra.jpg",
       "link": "https://www.derma-tagungen.de",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "8. Leipziger Hämatologie Symposium",
+      "startDate": "2026-02-27",
+      "endDate": "2026-02-28",
+      "date": "2026-02-27 – 2026-02-28",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Das 8. Leipziger Hämatologie Symposium (LHS) ist eine zweitägige Präsenzfortbildung in der KONGRESSHALLE am Zoo Leipzig, bei der renommierte Expertinnen und Experten aus ganz Deutschland aktuelle Entwicklungen in der hämatologischen Forschung, Diagnostik und Therapie vorstellen. Im Mittelpunkt stehen praxisrelevante Updates sowie der intensive wissenschaftliche Austausch zwischen Klinik und Praxis.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2022/master-haematologie-leipzig.jpg",
+      "link": "https://leipzig-haematologie.de/lhs/",
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
@@ -1221,6 +1235,20 @@
       ]
     },
     {
+      "title": "2. TI-SUMMIT 2026",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-08",
+      "date": "2026-10-07 – 2026-10-08",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Der TI-SUMMIT ist der Messekongress und Branchengipfel, bei dem sich alles rund um die Themenfelder der gematik und Anwendungen der Telematikinfrastruktur (TI & TI 2.0) dreht - von ePA und E-Rezept über KIM und TI-Messenger bis hin zu TI-Gateway, PoPP, digitalen Identitäten, KI in der TI u.v.m. Nach einer erfolgreichen Erstauflage im Sommer 2025 geht das Eventformat rund um das digital-vernetzte Gesundheitswesen in Deutschland im Herbst 2026 in die zweite Auflage.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-ti-summit.jpg",
+      "link": "https://www.tisummit.de",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "IMEX America",
       "startDate": "2026-10-13",
       "endDate": "2026-10-15",
@@ -1394,6 +1422,19 @@
       ]
     },
     {
+      "title": "8. jobmesse leipzig",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-22",
+      "date": "2026-11-21 – 2026-11-22",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2022/master-jobmesse-leipzig.jpg",
+      "link": "https://jobmessen.de/de/leipzig",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "Big 5 Global",
       "startDate": "2026-11-23",
       "endDate": "2026-11-26",
@@ -1455,6 +1496,17 @@
       "description": "HAUS-GARTEN-FREIZEIT bietet: Vielfalt sowie Erlebnis, Shopping, Inspiration für die ganze Familie. Vielfältige Erlebnisbereiche und Sonderschauen runden das Messeerlebnis ab. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-haus-garten-freizeit.jpg",
       "link": "https://www.haus-garten-freizeit.de",
+      "tags": []
+    },
+    {
+      "title": "HANDWERK live",
+      "startDate": "2027-01-30",
+      "endDate": "2027-02-07",
+      "date": "2027-01-30 – 2027-02-07",
+      "location": "Leipziger Messe",
+      "description": "Eine umfassende Leistungsschau zeigt das Handwerk auf der HANDWERK live – in Zusammenarbeit mit allen ostdeutschen Handwerkskammern. Die Aussteller bieten Produkte, Dienstleistungen und Beratung unter anderem aus den Bereichen Bauen, Wohnen, Ernährung, Gesundheit und Mode. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-handwerk-live.jpg",
+      "link": "https://www.handwerksmesse-leipzig.de",
       "tags": []
     },
     {
