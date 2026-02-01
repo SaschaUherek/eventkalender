@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-01-31T00:56:27.735Z",
+  "scraped_at": "2026-02-01T01:09:18.083Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -707,6 +707,19 @@
       ]
     },
     {
+      "title": "DBT2026",
+      "startDate": "2026-04-21",
+      "endDate": "2026-04-22",
+      "date": "2026-04-21 – 2026-04-22",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Klassentreffen der Biotechnologie in Leipzig! Auf den DBT2026 erwartet Sie ein toller Mix - spannendes Programm, eine abwechslungsreiche Industrieausstellung, eine stimmungsvolle Abendveranstaltung und viel Raum zum Netzwerken, speziell im Rahmen eines Partneringfeatures mit vielen interessanten Menschen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-dbt26.jpg",
+      "link": "https://www.german-biotech.day/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "DCK 2026 - 143. Deutscher Chirurgie Kongress",
       "startDate": "2026-04-22",
       "endDate": "2026-04-24",
@@ -950,6 +963,19 @@
       "link": "https://www.therapiemesse-muenchen.de",
       "tags": [
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Leipzig Dance Festival",
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-21",
+      "date": "2026-06-19 – 2026-06-21",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Erlebt die qualifiziertesten und besten Trainerinnen und Trainer der Welt von Freitag bis Sonntag in zahlreichen Workshops in den Bereichen Standard, Latein, West Coast Swing, Linedance, Tango Argentino, Swing und Salsa. Als besonderes Highlight erlebt ihr die Night of the Dancing Stars - die weltbesten Tanzpaare sowie einige unserer Coaches werden Euch mit ihren Shows verzaubern. Außerdem finden am Freitag- und Samstagabend in allen Sälen verschiedene Tanzpartys statt. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-dancefestival.jpg",
+      "link": "https://www.leipzig-dancefestival.de",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -1636,6 +1662,17 @@
         "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
+    },
+    {
+      "title": "efa:ON",
+      "startDate": "2027-09-21",
+      "endDate": "2027-09-23",
+      "date": "2027-09-21 – 2027-09-23",
+      "location": "Leipziger Messe",
+      "description": "Die efa:ON ist die einzige Fachmesse für Elektro-, Gebäude- und Lichttechnik für Mitteldeutschland. Auf der efa:ON treffen Hersteller und Dienstleister auf Fachbesucher aus Handwerk, Industrie-, Gewerbe- und Energieversorgungsunternehmen, auf Handel, Planer, Architekten, Ingenieure und Gebäudebetreiber sowie den Branchennachwuchs. Als zentrale Plattform bietet sie dem Fachpublikum durch die Kombination von Ausstellung, Fachprogramm und Event großen Mehrwert durch Austausch und Weiterbildung",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-efaon.jpg",
+      "link": "https://www.efa-messe.com",
+      "tags": []
     },
     {
       "title": "Hobbymesse Leipzig",
