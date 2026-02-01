@@ -1,29 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-01-31T00:57:23.457Z",
+  "scraped_at": "2026-02-01T01:10:08.719Z",
   "events": [
-    {
-      "title": "DAMWILDFÜTTERUNG 31.01.2026",
-      "date": "31.Jan",
-      "startDate": "2026-01-31",
-      "endDate": "2026-01-31",
-      "location": "Elbauenpark",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/Elbauenpark-Imageshooting_387_Foto_Andreas_Lander-cf362b0b.jpg",
-      "link": "https://www.mvgm.de/de/event/damwildfuetterung-31-01-2026/",
-      "tags": []
-    },
-    {
-      "title": "PAUL PANZER",
-      "date": "31.Jan",
-      "startDate": "2026-01-31",
-      "endDate": "2026-01-31",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/PAUL-PANZER-Schoene-neue-Welt-welcome-to-hell-Artwork-quer-1-519128ca.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-paul-panzer-strong/",
-      "tags": []
-    },
     {
       "title": "SANDTHEATER ON TOUR: HANS ZIMMER - MEISTER DER FILMMUSIK",
       "date": "03.Feb",
@@ -1831,8 +1809,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -1842,8 +1820,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -1853,8 +1831,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -1969,28 +1947,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -2216,8 +2172,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -2227,8 +2183,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -2238,8 +2194,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -2354,28 +2310,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -2601,8 +2535,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -2612,8 +2546,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -2623,8 +2557,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -2739,28 +2673,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -2986,8 +2898,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -2997,8 +2909,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -3008,8 +2920,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -3124,28 +3036,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -3371,8 +3261,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -3382,8 +3272,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -3393,8 +3283,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -3509,28 +3399,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -3756,8 +3624,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -3767,8 +3635,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -3778,8 +3646,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -3894,28 +3762,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -4141,8 +3987,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -4152,8 +3998,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -4163,8 +4009,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -4279,28 +4125,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -4526,8 +4350,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -4537,8 +4361,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -4548,8 +4372,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -4664,28 +4488,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -4911,8 +4713,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -4922,8 +4724,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -4933,8 +4735,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -5049,28 +4851,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -5296,8 +5076,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -5307,8 +5087,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -5318,8 +5098,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -5434,28 +5214,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -5681,8 +5439,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -5692,8 +5450,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -5703,8 +5461,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -5819,28 +5577,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -6066,8 +5802,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -6077,8 +5813,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -6088,8 +5824,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -6204,28 +5940,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -6451,8 +6165,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -6462,8 +6176,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -6473,8 +6187,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -6589,28 +6303,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -6836,8 +6528,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -6847,8 +6539,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -6858,8 +6550,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -6974,28 +6666,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -7221,8 +6891,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -7232,8 +6902,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -7243,8 +6913,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -7359,28 +7029,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -7606,8 +7254,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -7617,8 +7265,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -7628,8 +7276,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
@@ -7744,28 +7392,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
-      "tags": []
-    },
-    {
-      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 28.10.2026",
-      "date": "28.Okt",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-28-10-2026/",
-      "tags": []
-    },
-    {
-      "title": "AMIGOS UND DANIELA ALFINITO 2026",
-      "date": "30.Okt",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
-      "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
     {
@@ -7991,8 +7617,8 @@
     {
       "title": "BEST OF CLASSIC – DAS WIENER NEUJAHRSKONZERT 2027",
       "date": "06.Jan",
-      "startDate": "2026-01-06",
-      "endDate": "2026-01-06",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
@@ -8002,8 +7628,8 @@
     {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
-      "startDate": "2026-01-14",
-      "endDate": "2026-01-14",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-14",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
@@ -8013,8 +7639,8 @@
     {
       "title": "ALAIN FREI - „JETZT!“",
       "date": "28.Jan",
-      "startDate": "2026-01-28",
-      "endDate": "2026-01-28",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
