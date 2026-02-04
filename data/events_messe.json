@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-02-03T01:02:58.719Z",
+  "scraped_at": "2026-02-04T00:58:24.194Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -318,6 +318,20 @@
       "link": "https://www.dgo-online.de/termine/tagungen/detailansicht/31-leipziger-fachseminar-am-03-maerz-2026",
       "tags": [
         "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Experts Live Germany 2026 ",
+      "startDate": "2026-03-03",
+      "endDate": "2026-03-04",
+      "date": "2026-03-03 – 2026-03-04",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Die Experts Live Germany ist eine Konferenz von der Community für die Community. Insgesamt 30 Expertinnen und Experten (darunter zahlreiche Microsoft MVPs) präsentieren in 6 Tracks die News und Trends aus dem Microsoft Umfeld. Von Azure und AI-Themen über die Hybrid-Cloud, Security und Workplace- & Collaboration-Bereiche. Tickets sowie Infos zu Speakern und Agenda auf der Website.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-experts-live.jpg",
+      "link": "https://expertslive.de",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
       ]
     },
     {
@@ -771,6 +785,20 @@
       "link": "mailto:j.kowollik@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "International Transport Forum",
+      "startDate": "2026-05-06",
+      "endDate": "2026-05-08",
+      "date": "2026-05-06 – 2026-05-08",
+      "location": "CCL",
+      "description": "Das International Transport Forum - Annual Summit ist ein vom Weltverkehrsforum der OECD jährlich organisiertes Gipfeltreffen von Verkehrsministern, bei dem jeweils ein strategisch wichtiges Thema erörtert wird. Minister aus über 60 Mitgliedsländern des Weltverkehrsforums tauschen sich in Leipzig mit Entscheidungsträgern aus Wirtschaft, Verwaltung und Wissenschaft über Mobilität der Zukunft aus. Der Titel der Veranstaltung lautet: \"Funding Resilient Transport\"",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-itf.jpg",
+      "link": "https://summit.itf-oecd.org/",
+      "tags": [
+        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
@@ -1669,10 +1697,25 @@
       "endDate": "2027-09-23",
       "date": "2027-09-21 – 2027-09-23",
       "location": "Leipziger Messe",
-      "description": "Die efa:ON ist die einzige Fachmesse für Elektro-, Gebäude- und Lichttechnik für Mitteldeutschland. Auf der efa:ON treffen Hersteller und Dienstleister auf Fachbesucher aus Handwerk, Industrie-, Gewerbe- und Energieversorgungsunternehmen, auf Handel, Planer, Architekten, Ingenieure und Gebäudebetreiber sowie den Branchennachwuchs. Als zentrale Plattform bietet sie dem Fachpublikum durch die Kombination von Ausstellung, Fachprogramm und Event großen Mehrwert durch Austausch und Weiterbildung",
+      "description": "Die efa:ON ist die einzige Fachmesse für Elektro-, Gebäude- und Lichttechnik für Mitteldeutschland. Auf der efa:ON treffen Hersteller und Dienstleister auf Fachbesucher aus Handwerk, Industrie-, Gewerbe- und Energieversorgungsunternehmen, auf Handel, Planer, Architekten, Ingenieure und Gebäudebetreiber sowie den Branchennachwuchs. Als zentrale Plattform bietet sie dem Fachpublikum durch die Kombination von Ausstellung, Fachprogramm und Event großen Mehrwert durch Austausch und Weiterbildung.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-efaon.jpg",
       "link": "https://www.efa-messe.com",
-      "tags": []
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "netze:ON",
+      "startDate": "2027-09-21",
+      "endDate": "2027-09-23",
+      "date": "2027-09-21 – 2027-09-23",
+      "location": "Leipziger Messe",
+      "description": "Die netze:ON ist die Fachmesse für Energietechnik, Verteil- und Breitbandnetze. Als zentrale Plattform bietet sie Fachleuten aus der Energiewirtschaft, Technologieanbietern und Innovatoren die einzigartige Gelegenheit, aktuelle Entwicklungen, Herausforderungen und Lösungen im Bereich der Netztechnik und digitalen Transformation zu diskutieren und voranzutreiben. Parallel zur netze:ON findet die efa:ON statt. Gemeinsam bilden die Fachmessen den Messeverbund für die Energiewende. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-netzeon.jpg",
+      "link": "https://www.netze-on.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
     },
     {
       "title": "Hobbymesse Leipzig",
