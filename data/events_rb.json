@@ -1,6 +1,6 @@
 {
   "source": "RB Leipzig Heimspiele (OpenLigaDB)",
-  "scraped_at": "2026-02-04T00:58:55.253Z",
+  "scraped_at": "2026-02-05T01:01:03.433Z",
   "events": [
     {
       "title": "RB Leipzig – 1. FC Heidenheim 1846",
@@ -212,9 +212,9 @@
     },
     {
       "title": "RB Leipzig – TSG Hoffenheim",
-      "startDate": "2026-03-21",
-      "endDate": "2026-03-21",
-      "date": "21.3.2026 · 15:30",
+      "startDate": "2026-03-20",
+      "endDate": "2026-03-20",
+      "date": "20.3.2026 · 20:30",
       "location": "Red Bull Arena (geplant)",
       "description": "Bundesliga Heimspiel",
       "image": null,
