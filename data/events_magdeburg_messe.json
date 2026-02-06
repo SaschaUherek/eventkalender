@@ -1,6 +1,6 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-02-05T01:01:39.609Z",
+  "scraped_at": "2026-02-06T00:59:26.613Z",
   "events": [
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2026",
@@ -2214,6 +2214,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -2310,6 +2321,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -2412,6 +2445,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -2508,6 +2552,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -2610,6 +2676,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -2706,6 +2783,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -2808,6 +2907,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -2904,6 +3014,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -3006,6 +3138,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -3102,6 +3245,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -3204,6 +3369,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -3300,6 +3476,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -3402,6 +3600,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -3498,6 +3707,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -3600,6 +3831,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -3696,6 +3938,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -3798,6 +4062,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -3894,6 +4169,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -3996,6 +4293,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -4092,6 +4400,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -4194,6 +4524,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -4290,6 +4631,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -4392,6 +4755,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -4488,6 +4862,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -4590,6 +4986,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -4686,6 +5093,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -4788,6 +5217,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -4884,6 +5324,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -4986,6 +5448,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -5082,6 +5555,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     },
     {
@@ -5184,6 +5679,17 @@
       "tags": []
     },
     {
+      "title": "MAITE KELLY",
+      "date": "19.Mär",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/maite-Kelly-GETEC-Arena-2027-f7e66736.jpg",
+      "link": "https://www.mvgm.de/de/event/maite-kelly-4/",
+      "tags": []
+    },
+    {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
       "startDate": "2026-04-16",
@@ -5280,6 +5786,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/The-Music-of-Queen-Live-2027-5-60867486.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-queen-live-2027/",
+      "tags": []
+    },
+    {
+      "title": "TORSTEN STRÄTER",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
+      "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "ANDREA BERG",
+      "date": "05.Nov",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
+      "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
       "tags": []
     }
   ]
