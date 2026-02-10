@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-02-09T01:04:23.693Z",
+  "scraped_at": "2026-02-10T01:12:59.549Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1193,6 +1193,20 @@
       "link": "http://www.kgst-forum.de",
       "tags": [
         "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Pharmed & Healthcare",
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-24",
+      "date": "2026-09-22 – 2026-09-24",
+      "location": "Ho-Chi-Minh-Stadt, Vietnam",
+      "description": "Internationale Medizintechnikmesse mit deutschem Gemeinschaftsstand",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-pharmedi.jpg",
+      "link": "https://www.spectaris.de/medizintechnik/termine/detail/pharmed-healthcare-vietnam-2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
       ]
     },
     {
