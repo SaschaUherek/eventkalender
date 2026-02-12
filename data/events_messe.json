@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-02-11T01:10:40.324Z",
+  "scraped_at": "2026-02-12T01:03:08.449Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1130,8 +1130,8 @@
     {
       "title": "Nordic Life Science Days",
       "startDate": "2026-09-08",
-      "endDate": "2026-09-10",
-      "date": "2026-09-08 – 2026-09-10",
+      "endDate": "2026-09-09",
+      "date": "2026-09-08 – 2026-09-09",
       "location": "Stockholm, Schweden",
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-nls-days.jpg",
@@ -1289,6 +1289,20 @@
       "tags": []
     },
     {
+      "title": "WHX Johannesburg",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-08",
+      "date": "2026-10-06 – 2026-10-08",
+      "location": "Johannesburg, Südafrika",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-whx-johannesburg.jpg",
+      "link": "mailto:j.kowollik@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "BIO Japan",
       "startDate": "2026-10-07",
       "endDate": "2026-10-09",
@@ -1325,20 +1339,6 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-imex.jpg",
       "link": "mailto:o.seifert@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "WHX Cape Town (ehemals Africa Health)",
-      "startDate": "2026-10-13",
-      "endDate": "2026-10-15",
-      "date": "2026-10-13 – 2026-10-15",
-      "location": "Kapstadt, Südafrika",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-whx-capetown.jpg",
-      "link": "mailto:j.kowollik@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -1532,9 +1532,9 @@
     },
     {
       "title": "COSMOPROF India",
-      "startDate": "2026-12-04",
-      "endDate": "2026-12-06",
-      "date": "2026-12-04 – 2026-12-06",
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-12",
+      "date": "2026-12-10 – 2026-12-12",
       "location": "Mumbai, Indien",
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-cosmoprof-india.jpg",
