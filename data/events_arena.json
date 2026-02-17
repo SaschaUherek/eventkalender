@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-02-16T01:03:56.422Z",
+  "scraped_at": "2026-02-17T01:02:50.735Z",
   "events": [
     {
       "title": "SC DHfK - Bergischer HC",
@@ -164,7 +164,7 @@
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
       "image": "/fileadmin/_processed_/files_user/7/4/csm_2024-08-05_vorlaeufiges_Bild_b575eafdb4.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-mt-melsungen/850",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-thsv-eisenach/850",
       "tags": []
     },
     {
@@ -274,7 +274,7 @@
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
       "image": "/fileadmin/_processed_/files_user/7/4/csm_2024-08-05_vorlaeufiges_Bild_07ad5c6373.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-magdeburg/963",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-vfl-gummersbach/963",
       "tags": []
     },
     {
@@ -366,6 +366,17 @@
       "tags": []
     },
     {
+      "title": "SC DHfK Handball vs. HC Erlangen",
+      "date": "Donnerstag, 30.04.2026",
+      "startDate": "2026-04-30",
+      "endDate": "2026-04-30",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/7/4/csm_2024-08-05_vorlaeufiges_Bild_6e81626ec0.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-handball-vs-hc-erlangen/563",
+      "tags": []
+    },
+    {
       "title": "Johannes Oerding",
       "date": "Freitag, 01.05.2026",
       "startDate": "2026-05-01",
@@ -427,7 +438,7 @@
       "endDate": "2026-05-09",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/_processed_/files_user/3/a/csm_10_Pressefoto_SCHILLER_Euphoria_2026_C_Annemone_Taake_6c44769462.jpg",
+      "image": "/fileadmin/_processed_/files_user/7/1/csm_Schiller_Euphoria_26-sc_kar_presse_landscape_fc40226254.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/schiller/866",
       "tags": []
     },
@@ -451,6 +462,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/6/2/csm_02_Pressefoto_ONOT_TheTaylorSwiftTributeByXenna_Tour2026_c_RED_Entertainment_946ef19d3e.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/one-night-of-taylor/959",
+      "tags": []
+    },
+    {
+      "title": "SC DHfK -  MT Melsungen",
+      "date": "Donnerstag, 21.05.2026",
+      "startDate": "2026-05-21",
+      "endDate": "2026-05-21",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/7/4/csm_2024-08-05_vorlaeufiges_Bild_07ad5c6373.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-mt-melsungen-1/1024",
       "tags": []
     },
     {
@@ -495,6 +517,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/b/3/csm_Pressshot20251_Calum_Scott_Credit_Tom_Cockram_e98a8607ac.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/calum-scott/1003",
+      "tags": []
+    },
+    {
+      "title": "SC DHfK - GWD Minden",
+      "date": "Sonntag, 07.06.2026",
+      "startDate": "2026-06-07",
+      "endDate": "2026-06-07",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/7/4/csm_2024-08-05_vorlaeufiges_Bild_07ad5c6373.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-gwd-minden/1025",
       "tags": []
     },
     {
@@ -790,7 +823,7 @@
       "endDate": "2026-11-28",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/_processed_/files_user/6/1/csm_Chistmas_Calling_2026_press_low_res_f6253325bd.jpg",
+      "image": "/fileadmin/_processed_/files_user/6/1/csm_Chistmas_Calling_2026_press_low_res_3b69fc1c39.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/rea-garveys-christmas-calling/1004",
       "tags": []
     },
