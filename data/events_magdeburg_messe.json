@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-02-18T01:05:33.978Z",
+  "scraped_at": "2026-02-19T01:04:59.602Z",
   "events": [
-    {
-      "title": "DIE NACHT DER MUSICALS - DAS ORIGINAL 2026",
-      "date": "18.Feb",
-      "startDate": "2026-02-18",
-      "endDate": "2026-02-18",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/2025-Plakat-Die-Nacht-der-Musicals-web1-713c7ceb.jpg",
-      "link": "https://www.mvgm.de/de/event/die-nacht-der-musicals-das-original-2026/",
-      "tags": []
-    },
     {
       "title": "GOLDEN ACE - DIE MAGIER 2026",
       "date": "19.Feb",
@@ -627,6 +616,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Internet-Haupteil-1090x800px-Osterschatzsuche-3934c2f5.jpg",
       "link": null,
+      "tags": []
+    },
+    {
+      "title": "FERIENSPASS \"JAHRTAUSENDTURM\" - 01.04.2026",
+      "date": "01.Apr",
+      "startDate": "2026-04-01",
+      "endDate": "2026-04-01",
+      "location": "Jahrtausendturm",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/MVGM-Jahrtausendturm_026_Foto_Andreas_Lander-5ce29272.jpg",
+      "link": "https://www.mvgm.de/de/event/ferienspass-jahrtausendturm-01-04-2026/",
       "tags": []
     },
     {
