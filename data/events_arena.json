@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-02-20T01:00:24.929Z",
+  "scraped_at": "2026-02-21T00:59:05.655Z",
   "events": [
     {
       "title": "SC DHfK - Bergischer HC",
@@ -902,6 +902,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/0/7/csm_02_Pressefoto_BAP_DieZielgerade2026_WolfgangNiedecken_Fotocredit_TinaNiedecken_df133427b1.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/bap/974",
+      "tags": []
+    },
+    {
+      "title": "Holiday on Ice",
+      "date": "Mittwoch, 23.12.2026",
+      "startDate": "2026-12-23",
+      "endDate": "2026-12-23",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/user_upload/veranstaltungen/Konzert_Show/2026-12-23_HOI/HOI_HORIZONS_2.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/holiday-on-ice-1/1026",
       "tags": []
     },
     {
