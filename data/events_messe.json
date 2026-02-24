@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-02-23T01:02:40.053Z",
+  "scraped_at": "2026-02-24T01:00:53.318Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -348,10 +348,10 @@
       ]
     },
     {
-      "title": "Disney on Ice \"Heldenhafte Abenteuer\"",
+      "title": "Disney on Ice „Heldenhafte Abenteuer“",
       "startDate": "2026-03-06",
-      "endDate": "2026-03-09",
-      "date": "2026-03-06 – 2026-03-09",
+      "endDate": "2026-03-08",
+      "date": "2026-03-06 – 2026-03-08",
       "location": "Leipziger Messe",
       "description": "Im Frühjahr 2026 kommt die neue Show Disney On Ice „Heldenhafte Abenteuer“ nach Leipzig und verzaubert das kleine und große Publikum mit den schönsten Disney Klassikern und den beliebtesten modernen Geschichten. Micky Maus, Minnie Maus, Donald Duck und Goofy laden alle Gäste zu einer fantastischen Show mit spannenden Heldengeschichten ein, in denen sich alles um die wichtigsten Werte im Leben dreht: Liebe, Zusammenhalt und der Glaube an sich selbst. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-disney.jpg",
