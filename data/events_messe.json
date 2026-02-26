@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-02-25T01:06:25.267Z",
+  "scraped_at": "2026-02-26T00:59:49.068Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1487,6 +1487,19 @@
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Touristik & Caravaning Leipzig 2026",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-22",
+      "date": "2026-11-18 – 2026-11-22",
+      "location": "Leipziger Messe",
+      "description": "Erlebe die größte Vielfalt rund um Touristik, Caravaning, Outdoor und Kulinarik auf der Touristik & Caravaning Leipzig (TC Leipzig) und finde deinen Traumurlaub. Zahlreiche Erlebniswelten voller Entertainment und Information warten auf dich. Die TC Leipzig ist weit mehr als eine klassische Ausstellung von Urlaubszielen. Hier kannst du Urlaub erleben, schmecken, fühlen, sehen, testen, vergleichen, aussuchen, vorbereiten, planen und auch buchen. Oder ganz einfach die vielen Angebote genießen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2023/master-tc.jpg",
+      "link": "https://www.messe-stuttgart.de/tc/",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
