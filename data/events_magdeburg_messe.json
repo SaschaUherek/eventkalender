@@ -1,6 +1,6 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-02-25T01:07:20.338Z",
+  "scraped_at": "2026-02-26T01:00:49.970Z",
   "events": [
     {
       "title": "ANDRÉ RIEU - TOUR 2026",
@@ -1151,7 +1151,7 @@
       "date": "04.Jul",
       "startDate": "2026-07-04",
       "endDate": "2026-07-04",
-      "location": "MDCC-Parkbühne",
+      "location": "Elbauenpark",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Holi-Festival-Magdeburg-MDCC-PArkbuehne-4e6d4d6f.jpg",
       "link": "https://www.mvgm.de/de/event/holi-festival/",
@@ -1395,7 +1395,7 @@
       "endDate": "2026-08-29",
       "location": "MDCC-Parkbühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/Silly-DSC-4236-final-Detlef-Schneider-8bbb5376.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/Silly-DSC-4236-final-Detlef-Schneider-2e40b743.jpg",
       "link": "https://www.mvgm.de/de/event/silly-mit-julia-neigel-elektroakustik-open-air-tour-2026/",
       "tags": []
     },
