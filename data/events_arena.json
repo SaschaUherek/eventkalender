@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-02-27T01:00:54.868Z",
+  "scraped_at": "2026-02-28T00:54:44.257Z",
   "events": [
     {
       "title": "SC DHfK - Bergischer HC",
@@ -88,6 +88,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/0/2/csm_2025-02-24_aktuelles_Bild_a676b7b72c.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/musikparade-2026/902",
+      "tags": []
+    },
+    {
+      "title": "SC DHfK - TVB Stuttgart",
+      "date": "Sonntag, 15.03.2026",
+      "startDate": "2026-03-15",
+      "endDate": "2026-03-15",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/user_upload/veranstaltungen/Sport/SC_DHfK_Heimspiele/Saison_2025-2026/11_4zu3_Stuttgart.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-tvb-stuttgart/565",
       "tags": []
     },
     {
@@ -627,6 +638,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/c/e/csm_Chris_Norman__c_Marcel_Brell_5e7ff815cd.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/chris-norman/978",
+      "tags": []
+    },
+    {
+      "title": "Bryan Adams",
+      "date": "Samstag, 10.10.2026",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/c/e/csm_2026_Bryan_Adams_RWTP_Press_Photo__gross__77d80d825f.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/bryan-adams/1027",
       "tags": []
     },
     {
