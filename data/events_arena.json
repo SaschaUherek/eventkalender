@@ -1,29 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-03-03T01:03:20.929Z",
+  "scraped_at": "2026-03-04T00:59:58.164Z",
   "events": [
-    {
-      "title": "Powerwolf",
-      "date": "Dienstag, 03.03.2026",
-      "startDate": "2026-03-03",
-      "endDate": "2026-03-03",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/files/user_upload/veranstaltungen/Konzert_Show/2026-03-03_Powerwolf/Grafik.png",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/powerwolf/952",
-      "tags": []
-    },
-    {
-      "title": "Sean Paul",
-      "date": "Donnerstag, 05.03.2026",
-      "startDate": "2026-03-05",
-      "endDate": "2026-03-05",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/5/1/csm_PRESS_PICTURE_2_CREDIT_SEAN_PAUL_web_9c8dfe048d.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sean-paul/995",
-      "tags": []
-    },
     {
       "title": "Ben Zucker",
       "date": "Samstag, 07.03.2026",
