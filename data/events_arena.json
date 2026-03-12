@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-03-11T00:58:32.953Z",
+  "scraped_at": "2026-03-12T00:55:35.036Z",
   "events": [
     {
       "title": "Felix Lobrecht",
@@ -1034,6 +1034,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/9/d/csm_03_DieFantastischenVier_DerLetzteBus_Credit_Mumpi_Kuenster_e908c88a4c.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/die-fantastischen-vier/989",
+      "tags": []
+    },
+    {
+      "title": "Jan Böhmermann & Das Rundfunk Tanzorchester Ehrenfeld",
+      "date": "Donnerstag, 21.01.2027",
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-21",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/a/b/csm_20270121_Boehmermann_7097564398.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/jan-boehmermann-das-rundfunk-tanzorchester-ehrenfeld/1028",
       "tags": []
     },
     {
