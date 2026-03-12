@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-03-11T00:58:06.199Z",
+  "scraped_at": "2026-03-12T00:55:06.871Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1060,6 +1060,17 @@
       ]
     },
     {
+      "title": "LEIPZIGER MARKT MUSIK",
+      "startDate": "2026-07-31",
+      "endDate": "2026-08-09",
+      "date": "2026-07-31 – 2026-08-09",
+      "location": "Leipziger Marktplatz",
+      "description": "Die LEIPZIGER MARKT MUSIK kehrt im August zurück und verspricht eine außergewöhnliche Veranstaltung. Erleben Sie unvergessliche Live-Konzerte unter freiem Himmel, begleitet von einer sommerlichen Kulinarik und einem wahren Genuss für die Sinne. Veranstaltet wird das Festival von FAIRNET, einem Unternehmen der Leipziger Messe Unternehmensgruppe, und drei Leipziger Gastronomen sowie Unterstützung der Stadt Leipzig.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-markt-musik-oj.jpg",
+      "link": "http://www.leipziger-markt-musik.de",
+      "tags": []
+    },
+    {
       "title": "MEDCARE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-02",
@@ -1686,6 +1697,19 @@
       "description": "Die therapie LEIPZIG zeigt, was morgen möglich ist. Als deutschlandweit größte Plattform für medizinische Rehabilitation und Prävention bietet sie Therapeuten, Medizinern und Entscheidern eine enorme Bandbreite an innovativen Lösungen und fortschrittlichen Konzepten.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-therapie-lpz.jpg",
       "link": "https://www.therapie-leipzig.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "CosmeticBusiness",
+      "startDate": "2027-06-09",
+      "endDate": "2027-06-10",
+      "date": "2027-06-09 – 2027-06-10",
+      "location": "München",
+      "description": "Die CosmeticBusiness ist die Leitmesse für die Kosmetikindustrie im deutschsprachigen Raum. Sie ist unverzichtbarer Impulsgeber für erfolgreiche Produktentwicklungen in Deutschland, Österreich und der Schweiz. Die Fachmesse inspiriert mit Neuheiten und Trends entlang der gesamten Wertschöpfungskette – vom Inhaltsstoff bis zur Verpackung. Fachbesucher aus Entwicklung und Beschaffung schätzen das effiziente Netzwerken mit ihrem internationalen Lieferanten-Universum an nur einem Ort.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cosmetic-business.jpg",
+      "link": "https://www.cosmetic-business.com/de/",
       "tags": [
         "Nur für Fachbesucher"
       ]
