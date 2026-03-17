@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-03-16T01:09:34.792Z",
+  "scraped_at": "2026-03-17T01:02:32.659Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -823,7 +823,7 @@
       "date": "2026-05-13 – 2026-05-15",
       "location": "CCL",
       "description": "Kongress für medizinische Radiologie und bildgeführte Therapie - offen für alle Teilnehmende aus der Radiologie, Medizintechnologie, Medizinphysik und andere Naturwissenschaften sowie medizinischen Fachrichtungen, IT in der Medizin ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-roeko.jpg",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-roeko-2026.jpg",
       "link": "https://roentgenkongress.de/",
       "tags": [
         "Gastveranstaltung",
@@ -1384,6 +1384,19 @@
       ]
     },
     {
+      "title": "marrylove Hochzeitsmesse Leipzig",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "date": "2026-10-31 – 2026-11-01",
+      "location": "CCL",
+      "description": "Die Hochzeitsmesse in Leipzig für Brautpaare: Entdeckt regionale Hochzeitsdienstleister, aktuelle Trends, Brautmode, Trauringe und kreative Ideen für eine unvergessliche Hochzeit. Die marrylove Hochzeitsmesse in Leipzig ist der Treffpunkt für alle, die ihre Hochzeit mit Inspiration und den passenden Profis planen möchten. Entdecke regionale Aussteller aus den Bereichen Brautmode, Trauringe, Hochzeitslocations, Fotografie, Dekoration und mehr. Die Hochzeitsmesse Leipzig bietet frische Ideen, persönliche Beratung und echte Trends für Deinen großen Tag.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-marry-love-2026.jpg",
+      "link": "https://marrylove.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "Smart City Expo World Congress",
       "startDate": "2026-11-03",
       "endDate": "2026-11-05",
@@ -1778,6 +1791,19 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-hobbymesse.jpg",
       "link": "https://www.hobbymesse.de",
       "tags": []
+    },
+    {
+      "title": "DSAG-Jahreskongress 2027",
+      "startDate": "2027-10-19",
+      "endDate": "2027-10-21",
+      "date": "2027-10-19 – 2027-10-21",
+      "location": "CCL",
+      "description": "Der DSAG-Jahreskongress ist der wichtigste Treffpunkt für SAP-Anwenderunternehmen im deutschsprachigen Raum. Er ist die Plattform für Orientierung, Erfahrungsaustausch und Netzwerken. Seit dem Jahr 2000 erfreut sich der jährlich im Wechsel in Bremen, Leipzig und Köln stattfindende Kongress der Deutschsprachigen SAP-Anwendergruppe e. V. (DSAG) stetig wachsender Beliebtheit. Inzwischen besuchen die dreitägige Veranstaltung über 5.500 Teilnehmer:innen – Tendenz steigend.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-dsag.jpg",
+      "link": "https://www.dsag.de/jahreskongress",
+      "tags": [
+        "Gastveranstaltung"
+      ]
     },
     {
       "title": "ISS GUT!",
