@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-03-16T01:10:53.018Z",
+  "scraped_at": "2026-03-17T01:03:52.766Z",
   "events": [
-    {
-      "title": "BEN ZUCKER",
-      "date": "16.Mär",
-      "startDate": "2026-03-16",
-      "endDate": "2026-03-16",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/7/01-Pressefoto-BenZucker-Drinnen2026-credit-ChrisHeidrich-www-8fe8fb2f.jpg",
-      "link": "https://www.mvgm.de/de/event/ben-zucker-3/",
-      "tags": []
-    },
     {
       "title": "ROCK THE CIRCUS - MUSIK FÜR DIE AUGEN",
       "date": "19.Mär",
@@ -1958,6 +1947,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2026-03-12",
+      "endDate": "2026-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
       "tags": []
     },
     {
