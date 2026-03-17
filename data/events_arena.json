@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-03-16T01:10:26.812Z",
+  "scraped_at": "2026-03-17T01:03:25.857Z",
   "events": [
     {
       "title": "Sarah Connor",
@@ -1023,6 +1023,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/b/3/csm_2025-01-10_olaf-schubert-und-freunde-large__c_Amac_Garbe_4c700f308b.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/olaf-schubert-und-seine-freunde/897",
+      "tags": []
+    },
+    {
+      "title": "Musikparade",
+      "date": "Freitag, 05.03.2027",
+      "startDate": "2027-03-05",
+      "endDate": "2027-03-05",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/d/4/csm_2025-01-24_Pressebild_a6653f9605.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/musikparade/1029",
       "tags": []
     },
     {
