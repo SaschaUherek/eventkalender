@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-03-23T01:06:23.500Z",
+  "scraped_at": "2026-03-24T00:59:02.193Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1593,28 +1593,6 @@
       "tags": []
     },
     {
-      "title": "HAUS-GARTEN-FREIZEIT",
-      "startDate": "2027-01-30",
-      "endDate": "2027-02-07",
-      "date": "2027-01-30 – 2027-02-07",
-      "location": "Leipziger Messe",
-      "description": "HAUS-GARTEN-FREIZEIT bietet: Vielfalt sowie Erlebnis, Shopping, Inspiration für die ganze Familie. Vielfältige Erlebnisbereiche und Sonderschauen runden das Messeerlebnis ab. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-haus-garten-freizeit.jpg",
-      "link": "https://www.haus-garten-freizeit.de",
-      "tags": []
-    },
-    {
-      "title": "HANDWERK live",
-      "startDate": "2027-01-30",
-      "endDate": "2027-02-07",
-      "date": "2027-01-30 – 2027-02-07",
-      "location": "Leipziger Messe",
-      "description": "Eine umfassende Leistungsschau zeigt das Handwerk auf der HANDWERK live – in Zusammenarbeit mit allen ostdeutschen Handwerkskammern. Die Aussteller bieten Produkte, Dienstleistungen und Beratung unter anderem aus den Bereichen Bauen, Wohnen, Ernährung, Gesundheit und Mode. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-handwerk-live.jpg",
-      "link": "https://www.handwerksmesse-leipzig.de",
-      "tags": []
-    },
-    {
       "title": "VetMed",
       "startDate": "2027-02-05",
       "endDate": "2027-02-06",
@@ -1626,6 +1604,28 @@
       "tags": [
         "Nur für Fachbesucher"
       ]
+    },
+    {
+      "title": "HAUS-GARTEN-FREIZEIT",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-14",
+      "date": "2027-02-06 – 2027-02-14",
+      "location": "Leipziger Messe",
+      "description": "HAUS-GARTEN-FREIZEIT bietet: Vielfalt sowie Erlebnis, Shopping, Inspiration für die ganze Familie. Vielfältige Erlebnisbereiche und Sonderschauen runden das Messeerlebnis ab. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-haus-garten-freizeit.jpg",
+      "link": "https://www.haus-garten-freizeit.de",
+      "tags": []
+    },
+    {
+      "title": "HANDWERK live",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-14",
+      "date": "2027-02-06 – 2027-02-14",
+      "location": "Leipziger Messe",
+      "description": "Eine umfassende Leistungsschau zeigt das Handwerk auf der HANDWERK live – in Zusammenarbeit mit allen ostdeutschen Handwerkskammern. Die Aussteller bieten Produkte, Dienstleistungen und Beratung unter anderem aus den Bereichen Bauen, Wohnen, Ernährung, Gesundheit und Mode. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-handwerk-live.jpg",
+      "link": "https://www.handwerksmesse-leipzig.de",
+      "tags": []
     },
     {
       "title": "Forum Hebammenarbeit Leipzig 2027",
