@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-03-24T00:59:53.709Z",
+  "scraped_at": "2026-03-25T01:05:21.563Z",
   "events": [
     {
       "title": "Thomas Anders sings Modern Talking",
@@ -957,6 +957,17 @@
       "description": null,
       "image": "/fileadmin/files/user_upload/veranstaltungen/Konzert_Show/2027-01-13_Feuerwerk_der_Turnkunst/FW27_hope_SoMe_4zu5.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/feuerwerk-der-turnkunst-1/1017",
+      "tags": []
+    },
+    {
+      "title": "tAKiDA",
+      "date": "Freitag, 15.01.2027",
+      "startDate": "2027-01-15",
+      "endDate": "2027-01-15",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/e/f/csm_01-Takida_BandImage_AUG-2024_ORG_web_eb407b9236.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/takida/1031",
       "tags": []
     },
     {
