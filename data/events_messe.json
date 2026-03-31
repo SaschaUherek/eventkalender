@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-03-30T01:13:28.483Z",
+  "scraped_at": "2026-03-31T01:10:58.356Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -149,7 +149,7 @@
       "date": "2026-02-09 – 2026-02-12",
       "location": "Dubai, VAE",
       "description": "Landesbeteiligungen Sachsen und Rheinland-Pfalz",
-      "image": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-whx.jpg",
       "link": "mailto:j.kowollik@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
@@ -449,7 +449,7 @@
       "date": "2026-03-17 – 2026-03-19",
       "location": "Tokio, Japan",
       "description": "Landesbeteiligung Bayern ",
-      "image": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-smart-energy-week.jpg",
       "link": "https://www.lm-international.com/lb_sew_2026",
       "tags": [
         "Auslandsmesse – LMI",
@@ -1593,6 +1593,48 @@
       "tags": []
     },
     {
+      "title": "SIL & Interfilière Paris",
+      "startDate": "2027-01-16",
+      "endDate": "2027-01-18",
+      "date": "2027-01-16 – 2027-01-18",
+      "location": "Paris, Frankreich ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-sil-interfiliere.jpg",
+      "link": "mailto:i.weidemann@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "WHX Dubai",
+      "startDate": "2027-01-25",
+      "endDate": "2027-01-28",
+      "date": "2027-01-25 – 2027-01-28",
+      "location": "Dubai, VAE",
+      "description": "Landesbeteiligungen Sachsen",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-whx.jpg",
+      "link": "mailto:j.kowollik@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "KBIS",
+      "startDate": "2027-02-02",
+      "endDate": "2027-02-04",
+      "date": "2027-02-02 – 2027-02-04",
+      "location": "Las Vegas, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "VetMed",
       "startDate": "2027-02-05",
       "endDate": "2027-02-06",
@@ -1642,6 +1684,20 @@
       ]
     },
     {
+      "title": "GDC Game Developers Conference",
+      "startDate": "2027-03-01",
+      "endDate": "2027-03-05",
+      "date": "2027-03-01 – 2027-03-05",
+      "location": "San Francisco, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-gdc.jpg",
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "Z",
       "startDate": "2027-03-02",
       "endDate": "2027-03-05",
@@ -1664,6 +1720,20 @@
       "tags": []
     },
     {
+      "title": "JEC World",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-04",
+      "date": "2027-03-02 – 2027-03-04",
+      "location": "Paris, Frankreich",
+      "description": "Landesbeteiligungen NRW und Bayern",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-jec.jpg",
+      "link": "https://www.lm-international.com/lb_jec_2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "Grinding Technology Japan",
       "startDate": "2027-03-10",
       "endDate": "2027-03-12",
@@ -1672,6 +1742,20 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-grinding.jpg",
       "link": "mailto:m.aljoschin@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "London Book Fair",
+      "startDate": "2027-03-16",
+      "endDate": "2027-03-18",
+      "date": "2027-03-16 – 2027-03-18",
+      "location": "London, Großbritannien ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-london-book-fair.jpg",
+      "link": "mailto:j.kowollik@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -1698,6 +1782,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-ispo-2027.jpg",
       "link": "http://www.ispo-congress.com",
       "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "SMART ENERGY WEEK",
+      "startDate": "2027-03-24",
+      "endDate": "2027-03-26",
+      "date": "2027-03-24 – 2027-03-26",
+      "location": "Tokio, Japan",
+      "description": "Landesbeteiligung Bayern ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-smart-energy-week.jpg",
+      "link": "mailto:s.mueller@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
     },
