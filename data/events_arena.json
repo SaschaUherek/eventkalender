@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-03-30T01:14:39.961Z",
+  "scraped_at": "2026-03-31T01:12:08.426Z",
   "events": [
     {
       "title": "Beat it!",
@@ -1045,6 +1045,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/2/c/csm_2025-10-13_Pressefoto_af53a5e55d.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/lea/976",
+      "tags": []
+    },
+    {
+      "title": "Paul Panzer",
+      "date": "Samstag, 29.05.2027",
+      "startDate": "2027-05-29",
+      "endDate": "2027-05-29",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/7/c/csm_Pressefoto_PAUL_PANZER_SCHOENE_NEUE_WELT_...Welcome_To_Hell__c__publiks_2023_web_e6a8e56a94.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/paul-panzer-1/1032",
       "tags": []
     },
     {
