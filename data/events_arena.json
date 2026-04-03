@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-04-02T01:08:54.652Z",
+  "scraped_at": "2026-04-03T01:11:58.508Z",
   "events": [
-    {
-      "title": "7vs.Wild",
-      "date": "Donnerstag, 02.04.2026",
-      "startDate": "2026-04-02",
-      "endDate": "2026-04-02",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/5/d/csm_7vsWild2025_Cast-Otto-Sabrina-Roofless_Post_ohne_eventim_0bd4ca4ba5.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/7vswild/862",
-      "tags": []
-    },
     {
       "title": "Howard Carpendale",
       "date": "Mittwoch, 08.04.2026",
@@ -97,7 +86,7 @@
       "endDate": "2026-04-16",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/_processed_/files_user/7/4/csm_2024-08-05_vorlaeufiges_Bild_07ad5c6373.jpg",
+      "image": "/fileadmin/_processed_/files_user/7/4/csm_14_4zu3_Gummersbach_21f95dbabf.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-vfl-gummersbach/963",
       "tags": []
     },
