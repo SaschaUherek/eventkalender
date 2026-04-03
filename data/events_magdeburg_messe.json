@@ -1,51 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-04-02T01:09:24.621Z",
+  "scraped_at": "2026-04-03T01:12:33.370Z",
   "events": [
-    {
-      "title": "OSTERSCHATZSUCHE 2026",
-      "date": "02.Apr",
-      "startDate": "2026-04-02",
-      "endDate": "2026-04-02",
-      "location": "Elbauenpark",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Internet-Haupteil-1090x800px-Osterschatzsuche-3934c2f5.jpg",
-      "link": null,
-      "tags": []
-    },
-    {
-      "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
-      "date": "02.Apr",
-      "startDate": "2026-04-02",
-      "endDate": "2026-04-02",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
-      "link": "https://www.mvgm.de/de/event/jahrtausendturm-sonderausstellung-lego-r-mobil-ausstellung-rund-um-die-staunenswerte-welt-der-lego-r-fahrzeuge-kopie/",
-      "tags": []
-    },
-    {
-      "title": "HOLIDAY ON ICE- CINEMA OF DREAMS",
-      "date": "02.Apr",
-      "startDate": "2026-04-02",
-      "endDate": "2026-04-02",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
-      "link": "https://www.mvgm.de/de/event/holiday-on-ice-cinema-of-dreams/",
-      "tags": []
-    },
-    {
-      "title": "HOLIDAY ON ICE- CINEMA OF DREAMS",
-      "date": "02.Apr",
-      "startDate": "2026-04-02",
-      "endDate": "2026-04-02",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/HOliday-on-icE-web-f21e5a45.jpg",
-      "link": "https://www.mvgm.de/de/event/holiday-on-ice-cinema-of-dreams-2/",
-      "tags": []
-    },
     {
       "title": "OSTERSCHATZSUCHE 2026",
       "date": "03.Apr",
@@ -1939,6 +1895,17 @@
       "tags": []
     },
     {
+      "title": "GRILL DEN HENSSLER - SOMMER SPECIAL 02.06.2026",
+      "date": "02.Jun",
+      "startDate": "2026-06-02",
+      "endDate": "2026-06-02",
+      "location": "Seebühne",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/20210612-Grill-den-Henssler-d826b599.jpg",
+      "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-02-06-2026/",
+      "tags": []
+    },
+    {
       "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
       "date": "03.Jun",
       "startDate": "2026-06-03",
@@ -1950,6 +1917,17 @@
       "tags": []
     },
     {
+      "title": "GRILL DEN HENSSLER - SOMMER SPECIAL 03.06.2026",
+      "date": "03.Jun",
+      "startDate": "2026-06-03",
+      "endDate": "2026-06-03",
+      "location": "Seebühne",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/20210612-Grill-den-Henssler-d826b599.jpg",
+      "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-03-06-2026/",
+      "tags": []
+    },
+    {
       "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
       "date": "04.Jun",
       "startDate": "2026-06-04",
@@ -1958,6 +1936,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
       "link": "https://www.mvgm.de/de/event/jahrtausendturm-sonderausstellung-lego-r-mobil-ausstellung-rund-um-die-staunenswerte-welt-der-lego-r-fahrzeuge-kopie/",
+      "tags": []
+    },
+    {
+      "title": "GRILL DEN HENSSLER - SOMMER SPECIAL 04.06.2026",
+      "date": "04.Jun",
+      "startDate": "2026-06-04",
+      "endDate": "2026-06-04",
+      "location": "Seebühne",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/20210612-Grill-den-Henssler-d826b599.jpg",
+      "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-04-06-2026/",
       "tags": []
     },
     {
@@ -1994,6 +1983,17 @@
       "tags": []
     },
     {
+      "title": "GRILL DEN HENSSLER - SOMMER SPECIAL 06.06.2026",
+      "date": "06.Jun",
+      "startDate": "2026-06-06",
+      "endDate": "2026-06-06",
+      "location": "Seebühne",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/20210612-Grill-den-Henssler-d826b599.jpg",
+      "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-05-06-2026/",
+      "tags": []
+    },
+    {
       "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
       "date": "07.Jun",
       "startDate": "2026-06-07",
@@ -2005,6 +2005,17 @@
       "tags": []
     },
     {
+      "title": "GRILL DEN HENSSLER - SOMMER SPECIAL 07.06.2026",
+      "date": "07.Jun",
+      "startDate": "2026-06-07",
+      "endDate": "2026-06-07",
+      "location": "Seebühne",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/20210612-Grill-den-Henssler-d826b599.jpg",
+      "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-07-06-2026/",
+      "tags": []
+    },
+    {
       "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
       "date": "08.Jun",
       "startDate": "2026-06-08",
@@ -2013,6 +2024,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
       "link": "https://www.mvgm.de/de/event/jahrtausendturm-sonderausstellung-lego-r-mobil-ausstellung-rund-um-die-staunenswerte-welt-der-lego-r-fahrzeuge-kopie/",
+      "tags": []
+    },
+    {
+      "title": "GRILL DEN HENSSLER - SOMMER SPECIAL 08.06.2026",
+      "date": "08.Jun",
+      "startDate": "2026-06-08",
+      "endDate": "2026-06-08",
+      "location": "Seebühne",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/20210612-Grill-den-Henssler-d826b599.jpg",
+      "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-08-06-2026/",
       "tags": []
     },
     {
@@ -4392,6 +4414,17 @@
       "tags": []
     },
     {
+      "title": "KATHARINA THALBACH LIEST: MISS MERKEL MORD UNTER DEM WEIHNACHTSBAUM",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/Pressefoto-Katharina-Thalbach-quadr-a4dd60cb.jpg",
+      "link": "https://www.mvgm.de/de/event/katharina-thalbach-liest-miss-merkel-mord-unter-dem-weihnachtsbaum/",
+      "tags": []
+    },
+    {
       "title": "NIGHTS ON BROADWAY - A TRIBUTE TO THE BEE GEES PERFORMED BY NIGHT FEVER",
       "date": "13.Nov",
       "startDate": "2026-11-13",
@@ -4579,6 +4612,17 @@
       "tags": []
     },
     {
+      "title": "WEIHNACHTEN IN DEN BERGEN",
+      "date": "14.Dez",
+      "startDate": "2026-12-14",
+      "endDate": "2026-12-14",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/WidB-Standard-1920x1080px-322646fa.jpg",
+      "link": "https://www.mvgm.de/de/event/weihnachten-in-den-bergen/",
+      "tags": []
+    },
+    {
       "title": "PHILHARMONIE FRANKFURT",
       "date": "18.Dez",
       "startDate": "2026-12-18",
@@ -4609,6 +4653,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/ABBA-GOLD-Pressphoto-Surprise-1-8872227b.jpg",
       "link": "https://www.mvgm.de/de/event/abba-gold-the-concert-show-2/",
+      "tags": []
+    },
+    {
+      "title": "GAME OF THRONES & HOUSE OF THE DRAGON - DAS KONZERT",
+      "date": "20.Jan",
+      "startDate": "2027-01-20",
+      "endDate": "2027-01-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/GoT-HotD-Pressebild01-15x10cm-babe1052.jpg",
+      "link": "https://www.mvgm.de/de/event/game-of-thrones-house-of-the-dragon-das-konzert-2/",
       "tags": []
     },
     {
@@ -4653,6 +4708,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
       "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
       "tags": []
     },
     {
@@ -4777,6 +4843,17 @@
       "tags": []
     },
     {
+      "title": "WAHNSINN! DIE SHOW 2027 - DIE JUBILÄUMSTOURNEE - MIT DEN HITS VON WOLFGANG PETRY",
+      "date": "13.Mär",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/82011-08-WAHNSINN-Die-Show-Foto-HolgerFichtner-5cfabcae.webp",
+      "link": "https://www.mvgm.de/de/event/wahnsinn-die-show-2027-die-jubilaeumstournee-mit-den-hits-von-wolfgang-petry/",
+      "tags": []
+    },
+    {
       "title": "MAITE KELLY",
       "date": "19.Mär",
       "startDate": "2027-03-19",
@@ -4832,6 +4909,17 @@
       "tags": []
     },
     {
+      "title": "THE 12 TENORS I LEGACY TOUR",
+      "date": "20.Apr",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
+      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2026-04-24",
@@ -4851,6 +4939,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
     {
@@ -4909,6 +5008,17 @@
       "tags": []
     },
     {
+      "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
+      "date": "11.Sep",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
+      "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -4920,6 +5030,17 @@
       "tags": []
     },
     {
+      "title": "KARAT - 45 JAHRE \"DER BLAUE PLANET\"",
+      "date": "30.Okt",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
+      "tags": []
+    },
+    {
       "title": "ANDREA BERG",
       "date": "05.Nov",
       "startDate": "2026-11-05",
@@ -4928,6 +5049,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
+      "tags": []
+    },
+    {
+      "title": "LOVER-A TRIBUTE TO TAYLOR SWIFT",
+      "date": "08.Feb",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -4953,6 +5140,17 @@
       "tags": []
     },
     {
+      "title": "WAHNSINN! DIE SHOW 2027 - DIE JUBILÄUMSTOURNEE - MIT DEN HITS VON WOLFGANG PETRY",
+      "date": "13.Mär",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/82011-08-WAHNSINN-Die-Show-Foto-HolgerFichtner-5cfabcae.webp",
+      "link": "https://www.mvgm.de/de/event/wahnsinn-die-show-2027-die-jubilaeumstournee-mit-den-hits-von-wolfgang-petry/",
+      "tags": []
+    },
+    {
       "title": "MAITE KELLY",
       "date": "19.Mär",
       "startDate": "2027-03-19",
@@ -5008,6 +5206,17 @@
       "tags": []
     },
     {
+      "title": "THE 12 TENORS I LEGACY TOUR",
+      "date": "20.Apr",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
+      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2026-04-24",
@@ -5027,6 +5236,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
     {
@@ -5085,6 +5305,17 @@
       "tags": []
     },
     {
+      "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
+      "date": "11.Sep",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
+      "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -5096,6 +5327,17 @@
       "tags": []
     },
     {
+      "title": "KARAT - 45 JAHRE \"DER BLAUE PLANET\"",
+      "date": "30.Okt",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
+      "tags": []
+    },
+    {
       "title": "ANDREA BERG",
       "date": "05.Nov",
       "startDate": "2026-11-05",
@@ -5104,6 +5346,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
+      "tags": []
+    },
+    {
+      "title": "LOVER-A TRIBUTE TO TAYLOR SWIFT",
+      "date": "08.Feb",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -5129,6 +5437,17 @@
       "tags": []
     },
     {
+      "title": "WAHNSINN! DIE SHOW 2027 - DIE JUBILÄUMSTOURNEE - MIT DEN HITS VON WOLFGANG PETRY",
+      "date": "13.Mär",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/82011-08-WAHNSINN-Die-Show-Foto-HolgerFichtner-5cfabcae.webp",
+      "link": "https://www.mvgm.de/de/event/wahnsinn-die-show-2027-die-jubilaeumstournee-mit-den-hits-von-wolfgang-petry/",
+      "tags": []
+    },
+    {
       "title": "MAITE KELLY",
       "date": "19.Mär",
       "startDate": "2027-03-19",
@@ -5184,6 +5503,17 @@
       "tags": []
     },
     {
+      "title": "THE 12 TENORS I LEGACY TOUR",
+      "date": "20.Apr",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
+      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2026-04-24",
@@ -5203,6 +5533,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
     {
@@ -5261,6 +5602,17 @@
       "tags": []
     },
     {
+      "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
+      "date": "11.Sep",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
+      "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -5272,6 +5624,17 @@
       "tags": []
     },
     {
+      "title": "KARAT - 45 JAHRE \"DER BLAUE PLANET\"",
+      "date": "30.Okt",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
+      "tags": []
+    },
+    {
       "title": "ANDREA BERG",
       "date": "05.Nov",
       "startDate": "2026-11-05",
@@ -5280,6 +5643,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
+      "tags": []
+    },
+    {
+      "title": "LOVER-A TRIBUTE TO TAYLOR SWIFT",
+      "date": "08.Feb",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -5305,6 +5734,17 @@
       "tags": []
     },
     {
+      "title": "WAHNSINN! DIE SHOW 2027 - DIE JUBILÄUMSTOURNEE - MIT DEN HITS VON WOLFGANG PETRY",
+      "date": "13.Mär",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/82011-08-WAHNSINN-Die-Show-Foto-HolgerFichtner-5cfabcae.webp",
+      "link": "https://www.mvgm.de/de/event/wahnsinn-die-show-2027-die-jubilaeumstournee-mit-den-hits-von-wolfgang-petry/",
+      "tags": []
+    },
+    {
       "title": "MAITE KELLY",
       "date": "19.Mär",
       "startDate": "2027-03-19",
@@ -5360,6 +5800,17 @@
       "tags": []
     },
     {
+      "title": "THE 12 TENORS I LEGACY TOUR",
+      "date": "20.Apr",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
+      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2026-04-24",
@@ -5379,6 +5830,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
     {
@@ -5437,6 +5899,17 @@
       "tags": []
     },
     {
+      "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
+      "date": "11.Sep",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
+      "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -5448,6 +5921,17 @@
       "tags": []
     },
     {
+      "title": "KARAT - 45 JAHRE \"DER BLAUE PLANET\"",
+      "date": "30.Okt",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
+      "tags": []
+    },
+    {
       "title": "ANDREA BERG",
       "date": "05.Nov",
       "startDate": "2026-11-05",
@@ -5456,6 +5940,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
+      "tags": []
+    },
+    {
+      "title": "LOVER-A TRIBUTE TO TAYLOR SWIFT",
+      "date": "08.Feb",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -5481,6 +6031,17 @@
       "tags": []
     },
     {
+      "title": "WAHNSINN! DIE SHOW 2027 - DIE JUBILÄUMSTOURNEE - MIT DEN HITS VON WOLFGANG PETRY",
+      "date": "13.Mär",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/82011-08-WAHNSINN-Die-Show-Foto-HolgerFichtner-5cfabcae.webp",
+      "link": "https://www.mvgm.de/de/event/wahnsinn-die-show-2027-die-jubilaeumstournee-mit-den-hits-von-wolfgang-petry/",
+      "tags": []
+    },
+    {
       "title": "MAITE KELLY",
       "date": "19.Mär",
       "startDate": "2027-03-19",
@@ -5536,6 +6097,17 @@
       "tags": []
     },
     {
+      "title": "THE 12 TENORS I LEGACY TOUR",
+      "date": "20.Apr",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
+      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2026-04-24",
@@ -5555,6 +6127,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
     {
@@ -5613,6 +6196,17 @@
       "tags": []
     },
     {
+      "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
+      "date": "11.Sep",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
+      "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -5624,6 +6218,17 @@
       "tags": []
     },
     {
+      "title": "KARAT - 45 JAHRE \"DER BLAUE PLANET\"",
+      "date": "30.Okt",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
+      "tags": []
+    },
+    {
       "title": "ANDREA BERG",
       "date": "05.Nov",
       "startDate": "2026-11-05",
@@ -5632,6 +6237,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
+      "tags": []
+    },
+    {
+      "title": "LOVER-A TRIBUTE TO TAYLOR SWIFT",
+      "date": "08.Feb",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -5657,6 +6328,17 @@
       "tags": []
     },
     {
+      "title": "WAHNSINN! DIE SHOW 2027 - DIE JUBILÄUMSTOURNEE - MIT DEN HITS VON WOLFGANG PETRY",
+      "date": "13.Mär",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/82011-08-WAHNSINN-Die-Show-Foto-HolgerFichtner-5cfabcae.webp",
+      "link": "https://www.mvgm.de/de/event/wahnsinn-die-show-2027-die-jubilaeumstournee-mit-den-hits-von-wolfgang-petry/",
+      "tags": []
+    },
+    {
       "title": "MAITE KELLY",
       "date": "19.Mär",
       "startDate": "2027-03-19",
@@ -5712,6 +6394,17 @@
       "tags": []
     },
     {
+      "title": "THE 12 TENORS I LEGACY TOUR",
+      "date": "20.Apr",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
+      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2026-04-24",
@@ -5731,6 +6424,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
     {
@@ -5789,6 +6493,17 @@
       "tags": []
     },
     {
+      "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
+      "date": "11.Sep",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
+      "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -5800,6 +6515,17 @@
       "tags": []
     },
     {
+      "title": "KARAT - 45 JAHRE \"DER BLAUE PLANET\"",
+      "date": "30.Okt",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
+      "tags": []
+    },
+    {
       "title": "ANDREA BERG",
       "date": "05.Nov",
       "startDate": "2026-11-05",
@@ -5808,6 +6534,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
+      "tags": []
+    },
+    {
+      "title": "LOVER-A TRIBUTE TO TAYLOR SWIFT",
+      "date": "08.Feb",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -5833,6 +6625,17 @@
       "tags": []
     },
     {
+      "title": "WAHNSINN! DIE SHOW 2027 - DIE JUBILÄUMSTOURNEE - MIT DEN HITS VON WOLFGANG PETRY",
+      "date": "13.Mär",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/82011-08-WAHNSINN-Die-Show-Foto-HolgerFichtner-5cfabcae.webp",
+      "link": "https://www.mvgm.de/de/event/wahnsinn-die-show-2027-die-jubilaeumstournee-mit-den-hits-von-wolfgang-petry/",
+      "tags": []
+    },
+    {
       "title": "MAITE KELLY",
       "date": "19.Mär",
       "startDate": "2027-03-19",
@@ -5888,6 +6691,17 @@
       "tags": []
     },
     {
+      "title": "THE 12 TENORS I LEGACY TOUR",
+      "date": "20.Apr",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
+      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2026-04-24",
@@ -5907,6 +6721,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
     {
@@ -5965,6 +6790,17 @@
       "tags": []
     },
     {
+      "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
+      "date": "11.Sep",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
+      "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -5976,6 +6812,17 @@
       "tags": []
     },
     {
+      "title": "KARAT - 45 JAHRE \"DER BLAUE PLANET\"",
+      "date": "30.Okt",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
+      "tags": []
+    },
+    {
       "title": "ANDREA BERG",
       "date": "05.Nov",
       "startDate": "2026-11-05",
@@ -5984,6 +6831,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
+      "tags": []
+    },
+    {
+      "title": "LOVER-A TRIBUTE TO TAYLOR SWIFT",
+      "date": "08.Feb",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -6009,6 +6922,17 @@
       "tags": []
     },
     {
+      "title": "WAHNSINN! DIE SHOW 2027 - DIE JUBILÄUMSTOURNEE - MIT DEN HITS VON WOLFGANG PETRY",
+      "date": "13.Mär",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/82011-08-WAHNSINN-Die-Show-Foto-HolgerFichtner-5cfabcae.webp",
+      "link": "https://www.mvgm.de/de/event/wahnsinn-die-show-2027-die-jubilaeumstournee-mit-den-hits-von-wolfgang-petry/",
+      "tags": []
+    },
+    {
       "title": "MAITE KELLY",
       "date": "19.Mär",
       "startDate": "2027-03-19",
@@ -6064,6 +6988,17 @@
       "tags": []
     },
     {
+      "title": "THE 12 TENORS I LEGACY TOUR",
+      "date": "20.Apr",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
+      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2026-04-24",
@@ -6083,6 +7018,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
     {
@@ -6141,6 +7087,17 @@
       "tags": []
     },
     {
+      "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
+      "date": "11.Sep",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
+      "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -6152,6 +7109,17 @@
       "tags": []
     },
     {
+      "title": "KARAT - 45 JAHRE \"DER BLAUE PLANET\"",
+      "date": "30.Okt",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
+      "tags": []
+    },
+    {
       "title": "ANDREA BERG",
       "date": "05.Nov",
       "startDate": "2026-11-05",
@@ -6160,6 +7128,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
+      "tags": []
+    },
+    {
+      "title": "LOVER-A TRIBUTE TO TAYLOR SWIFT",
+      "date": "08.Feb",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -6185,6 +7219,17 @@
       "tags": []
     },
     {
+      "title": "WAHNSINN! DIE SHOW 2027 - DIE JUBILÄUMSTOURNEE - MIT DEN HITS VON WOLFGANG PETRY",
+      "date": "13.Mär",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/82011-08-WAHNSINN-Die-Show-Foto-HolgerFichtner-5cfabcae.webp",
+      "link": "https://www.mvgm.de/de/event/wahnsinn-die-show-2027-die-jubilaeumstournee-mit-den-hits-von-wolfgang-petry/",
+      "tags": []
+    },
+    {
       "title": "MAITE KELLY",
       "date": "19.Mär",
       "startDate": "2027-03-19",
@@ -6240,6 +7285,17 @@
       "tags": []
     },
     {
+      "title": "THE 12 TENORS I LEGACY TOUR",
+      "date": "20.Apr",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
+      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2026-04-24",
@@ -6259,6 +7315,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
     {
@@ -6317,6 +7384,17 @@
       "tags": []
     },
     {
+      "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
+      "date": "11.Sep",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
+      "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -6328,6 +7406,17 @@
       "tags": []
     },
     {
+      "title": "KARAT - 45 JAHRE \"DER BLAUE PLANET\"",
+      "date": "30.Okt",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
+      "tags": []
+    },
+    {
       "title": "ANDREA BERG",
       "date": "05.Nov",
       "startDate": "2026-11-05",
@@ -6336,6 +7425,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
+      "tags": []
+    },
+    {
+      "title": "LOVER-A TRIBUTE TO TAYLOR SWIFT",
+      "date": "08.Feb",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -6361,6 +7516,17 @@
       "tags": []
     },
     {
+      "title": "WAHNSINN! DIE SHOW 2027 - DIE JUBILÄUMSTOURNEE - MIT DEN HITS VON WOLFGANG PETRY",
+      "date": "13.Mär",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/82011-08-WAHNSINN-Die-Show-Foto-HolgerFichtner-5cfabcae.webp",
+      "link": "https://www.mvgm.de/de/event/wahnsinn-die-show-2027-die-jubilaeumstournee-mit-den-hits-von-wolfgang-petry/",
+      "tags": []
+    },
+    {
       "title": "MAITE KELLY",
       "date": "19.Mär",
       "startDate": "2027-03-19",
@@ -6416,6 +7582,17 @@
       "tags": []
     },
     {
+      "title": "THE 12 TENORS I LEGACY TOUR",
+      "date": "20.Apr",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
+      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2026-04-24",
@@ -6435,6 +7612,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
     {
@@ -6493,6 +7681,17 @@
       "tags": []
     },
     {
+      "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
+      "date": "11.Sep",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
+      "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -6504,6 +7703,17 @@
       "tags": []
     },
     {
+      "title": "KARAT - 45 JAHRE \"DER BLAUE PLANET\"",
+      "date": "30.Okt",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
+      "tags": []
+    },
+    {
       "title": "ANDREA BERG",
       "date": "05.Nov",
       "startDate": "2026-11-05",
@@ -6512,6 +7722,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
+      "tags": []
+    },
+    {
+      "title": "LOVER-A TRIBUTE TO TAYLOR SWIFT",
+      "date": "08.Feb",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
+      "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -6537,6 +7813,17 @@
       "tags": []
     },
     {
+      "title": "WAHNSINN! DIE SHOW 2027 - DIE JUBILÄUMSTOURNEE - MIT DEN HITS VON WOLFGANG PETRY",
+      "date": "13.Mär",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/82011-08-WAHNSINN-Die-Show-Foto-HolgerFichtner-5cfabcae.webp",
+      "link": "https://www.mvgm.de/de/event/wahnsinn-die-show-2027-die-jubilaeumstournee-mit-den-hits-von-wolfgang-petry/",
+      "tags": []
+    },
+    {
       "title": "MAITE KELLY",
       "date": "19.Mär",
       "startDate": "2027-03-19",
@@ -6592,6 +7879,17 @@
       "tags": []
     },
     {
+      "title": "THE 12 TENORS I LEGACY TOUR",
+      "date": "20.Apr",
+      "startDate": "2026-04-20",
+      "endDate": "2026-04-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
+      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2026-04-24",
@@ -6611,6 +7909,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
     {
@@ -6669,6 +7978,17 @@
       "tags": []
     },
     {
+      "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
+      "date": "11.Sep",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
+      "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -6677,6 +7997,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/torsten-straeter-26-27-tickets-header-72524ca1.jpg",
       "link": "https://www.mvgm.de/de/event/torsten-straeter-2/",
+      "tags": []
+    },
+    {
+      "title": "KARAT - 45 JAHRE \"DER BLAUE PLANET\"",
+      "date": "30.Okt",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
     {
