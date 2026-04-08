@@ -1,31 +1,9 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-04-07T01:12:42.162Z",
+  "scraped_at": "2026-04-08T01:14:06.758Z",
   "events": [
     {
       "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
-      "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
-      "link": "https://www.mvgm.de/de/event/jahrtausendturm-sonderausstellung-lego-r-mobil-ausstellung-rund-um-die-staunenswerte-welt-der-lego-r-fahrzeuge-kopie/",
-      "tags": []
-    },
-    {
-      "title": "SUPER HÜPFBURGENLAND",
-      "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
-      "location": "Elbauenpark",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/7/Huepfburgenland-80b8b869.png",
-      "link": "https://www.mvgm.de/de/event/super-huepfburgenland/",
-      "tags": []
-    },
-    {
-      "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
       "date": "08.Apr",
       "startDate": "2026-04-08",
       "endDate": "2026-04-08",
@@ -66,6 +44,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Huepfburgenland-80b8b869.png",
       "link": "https://www.mvgm.de/de/event/super-huepfburgenland/",
+      "tags": []
+    },
+    {
+      "title": "FORCED TO MODE - BLACK CELEBRATION TOUR 2026",
+      "date": "09.Apr",
+      "startDate": "2026-04-09",
+      "endDate": "2026-04-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/F2M-NikoSchmuck-2-bearbeitet-9f612e8c.jpg",
+      "link": "https://www.mvgm.de/de/event/forced-to-mode-black-celebration-tour-2026/",
       "tags": []
     },
     {
@@ -231,6 +220,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Huepfburgenland-80b8b869.png",
       "link": "https://www.mvgm.de/de/event/super-huepfburgenland/",
+      "tags": []
+    },
+    {
+      "title": "SC MAGDEBURG - HC ERLANGEN",
+      "date": "12.Apr",
+      "startDate": "2026-04-12",
+      "endDate": "2026-04-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/getec-arena-handball-011-foto-andreas-lander-1fb27c68.jpg",
+      "link": "https://www.mvgm.de/de/event/sc-magdeburg-hc-erlangen-7/",
       "tags": []
     },
     {
