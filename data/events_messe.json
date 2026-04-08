@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-04-07T01:11:20.231Z",
+  "scraped_at": "2026-04-08T01:12:46.871Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1568,6 +1568,20 @@
       ]
     },
     {
+      "title": "35. Jahrestagung der Deutschen Transplantationsgesellschaft ",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-05",
+      "date": "2026-12-02 – 2026-12-05",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Zukunft gemeinsam gestalten, unter diesem Leitgedanken möchten wir die aktuellen Entwicklungen und Herausforderungen der Transplantationsmedizin diskutieren. Die diesjährige Tagung bietet auch einen organübergreifenden PatienInnentag, der AKTX für Pflege begleitet die Tagung, ein interprofessioneller Tag fördert gezielt die berufsübergreifende Zusammenarbeit und mit Österreich als Partnerland richten wir den Blick auf globale Herausforderungen und innovative Ansätze in der TX-Medizin.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-dtg.jpg",
+      "link": "http://www.dtg2026.org",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "COSMOPROF India",
       "startDate": "2026-12-10",
       "endDate": "2026-12-12",
@@ -1796,6 +1810,20 @@
       "link": "mailto:s.mueller@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "108. Deutscher Röntgenkongress (RÖKO LEIPZIG 2027)",
+      "startDate": "2027-05-05",
+      "endDate": "2027-05-07",
+      "date": "2027-05-05 – 2027-05-07",
+      "location": "CCL",
+      "description": "Dieser Kongress für medizinische Radiologie und bildgeführte Therapie ist nur für Fachpublikum geöffnet. Dabei stehen folgende Berufsgruppen besonders im Fokus Teilnehmende aus der Radiologie, Medizintechnologie, Medizinphysik und anderen Naturwissenschaften sowie medizinischen Fachrichtungen. Ebenso Fachpublikum aus dem Bereich IT in der Medizin. Eine Anmeldung ist erforderlich. Ergänzend findet der RÖKO DIGITAL 10. März - 19. Juni 2027 statt.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-roeko.jpg",
+      "link": "https://roentgenkongress.de/",
+      "tags": [
+        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
