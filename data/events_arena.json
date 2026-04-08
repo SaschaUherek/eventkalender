@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-04-07T01:12:13.414Z",
+  "scraped_at": "2026-04-08T01:13:38.772Z",
   "events": [
     {
       "title": "Howard Carpendale",
@@ -262,7 +262,7 @@
       "endDate": "2026-05-15",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/_processed_/files_user/1/6/csm_1._BOSSE_POLAROID_cFELIXAARON_f940b7c7ec.jpg",
+      "image": "/fileadmin/_processed_/files_user/6/8/csm_2._BOSSE_HANDPRINT_cFELIXAARON_ab34eee14b.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/bosse/947",
       "tags": []
     },
@@ -462,6 +462,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/0/0/csm_Pressefoto_TUTTY_TRAN_1__c__Marvin_Ruppert_b67680231b.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/tutty-tran/973",
+      "tags": []
+    },
+    {
+      "title": "Placebo",
+      "date": "Montag, 12.10.2026",
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-12",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/9/5/csm_Placebo_-_Lead_Press_Shot__Credit_Scarlet_Page__Web2_b940fc33e5.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/placebo/1030",
       "tags": []
     },
     {
