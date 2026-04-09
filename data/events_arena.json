@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-04-08T01:13:38.772Z",
+  "scraped_at": "2026-04-09T01:03:09.041Z",
   "events": [
-    {
-      "title": "Howard Carpendale",
-      "date": "Mittwoch, 08.04.2026",
-      "startDate": "2026-04-08",
-      "endDate": "2026-04-08",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/c/d/csm_HCarpendale_26_Abschied_Gold_Schwarz-sc_highl_art_square_67d8437e78.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/howard-carpendale-1/864",
-      "tags": []
-    },
     {
       "title": "SC DHfK - FA! Göppingen",
       "date": "Donnerstag, 09.04.2026",
@@ -317,7 +306,7 @@
       "endDate": "2026-05-29",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/_processed_/files_user/f/6/csm_Der-Herr-der-Ringe-Die-Gefa__hrten-In-Concert-16x9_75a9851d11.jpg",
+      "image": "/fileadmin/_processed_/files_user/b/1/csm_HdR1-Banner-SoMe_Leipzig_1080_x_1080_5af9815220.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/der-herr-der-ringe/956",
       "tags": []
     },
@@ -1034,6 +1023,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/2/c/csm_2025-10-13_Pressefoto_af53a5e55d.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/lea/976",
+      "tags": []
+    },
+    {
+      "title": "Abbamania The Show",
+      "date": "Dienstag, 25.05.2027",
+      "startDate": "2027-05-25",
+      "endDate": "2027-05-25",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/d/f/csm_260320_ABBAMania27_Blanko_Story_9x16_fe158bfe13.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/abbamania-the-show/1033",
       "tags": []
     },
     {
