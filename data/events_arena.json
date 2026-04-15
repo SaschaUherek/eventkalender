@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-04-14T01:18:23.837Z",
+  "scraped_at": "2026-04-15T01:16:21.552Z",
   "events": [
-    {
-      "title": "Falco Meets Amadeus",
-      "date": "Dienstag, 14.04.2026",
-      "startDate": "2026-04-14",
-      "endDate": "2026-04-14",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/f/d/csm_1080x1080_ca83e319dc.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/falco-meets-amadeus/954",
-      "tags": []
-    },
     {
       "title": "Santiano",
       "date": "Mittwoch, 15.04.2026",
@@ -968,6 +957,28 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/d/0/csm_Pressefoto_TAHNEE_Ein_Touch_Too_Much__c__TAHNEE_1c54aea9d9.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/tahnee/894",
+      "tags": []
+    },
+    {
+      "title": "Roland Kaiser",
+      "date": "Freitag, 16.04.2027",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/e/c/csm_RolandKaiser_Unser-Moment_Arena_Tour-Termine2027_996ee348f7.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/roland-kaiser/1037",
+      "tags": []
+    },
+    {
+      "title": "Roland Kaiser",
+      "date": "Samstag, 17.04.2027",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/e/c/csm_RolandKaiser_Unser-Moment_Arena_Tour-Termine2027_996ee348f7.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/roland-kaiser/1038",
       "tags": []
     },
     {
