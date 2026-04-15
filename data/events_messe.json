@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-04-14T01:17:31.586Z",
+  "scraped_at": "2026-04-15T01:15:05.478Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1107,6 +1107,19 @@
       "description": "Im Congress Center Leipzig von 10:00 bis 16:00 Uhr, findet die 29. Jobmesse statt. Der Eintritt ist kostenfrei, eine Vorab-Registrierung wird empfohlen, um Wartezeiten am Einlass zu verkürzen. Nutze die Chance – frag nach, hör zu und zeig, was in dir steckt. Du hast innovative Ideen? Dann bist du auf der richtigen Bühne. So meldest du dich an: Registriere dich jetzt unter www.jobmesse-Leipzig.de und gestalte deine Zukunft aktiv.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2024/master-jobmesse.jpg",
       "link": "https://jobmesse-leipzig.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Goldene Henne 2026",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-04",
+      "date": "2026-09-04 – 2026-09-04",
+      "location": "Leipziger Messe",
+      "description": "Deutschlands größter Publikumspreis wird seit über 30 Jahren verliehen. Übertragen wid die Live-Sendung ab 20:15 Uhr in der ARD, Tickets können online erworben werden. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2025/master-henne-2025.jpg",
+      "link": "https://www.mdr-ticketshop.de",
       "tags": [
         "Gastveranstaltung"
       ]
