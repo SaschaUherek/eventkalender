@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-04-20T01:19:49.666Z",
+  "scraped_at": "2026-04-21T01:17:20.749Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -584,20 +584,6 @@
       "link": "https://www.agra-messe.de",
       "tags": [
         "Gastveranstaltung"
-      ]
-    },
-    {
-      "title": "ADIBF Buchmesse Abu Dhabi",
-      "startDate": "2026-04-11",
-      "endDate": "2026-04-20",
-      "date": "2026-04-11 – 2026-04-20",
-      "location": "Abu Dhabi, VAE ",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-abu-dhabi-bookfair.jpg",
-      "link": "mailto:s.mueller@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
       ]
     },
     {
@@ -1193,6 +1179,20 @@
       ]
     },
     {
+      "title": "ADIBF Buchmesse Abu Dhabi",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-18",
+      "date": "2026-09-13 – 2026-09-18",
+      "location": "Abu Dhabi, VAE ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-abu-dhabi-bookfair.jpg",
+      "link": "mailto:s.mueller@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "MICAM / MIPEL (Autumn)",
       "startDate": "2026-09-13",
       "endDate": "2026-09-15",
@@ -1631,6 +1631,19 @@
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "30. originale Jobmesse Leipzig",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-23",
+      "date": "2027-01-22 – 2027-01-23",
+      "location": "CCL",
+      "description": "Schluss mit endlosen Klicks durch Bewerbungsportale. Im Congress Center Leipzig lernst du Arbeitgeber persönlich kennen. Stelle Fragen direkt, knüpfe Kontakte und hinterlasse einen Eindruck, der zählt. Das erwartet dich: direkter Kontakt zu Unternehmen - echte Einblicke - schnellere Jobchancen - für Ausbildung, Studium oder Jobwechsel - Ausbildungsplätze duale Studiengänge - Jobs und Praktika. Hol dir dein kostenloses Ticket auf jobmesse-leipzig.de.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2027/master-jobmesse-2027.jpg",
+      "link": "https://jobmesse-leipzig.de",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
