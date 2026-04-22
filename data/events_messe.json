@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-04-21T01:17:20.749Z",
+  "scraped_at": "2026-04-22T01:15:48.121Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -870,20 +870,6 @@
       ]
     },
     {
-      "title": "The Hotel Show",
-      "startDate": "2026-06-02",
-      "endDate": "2026-06-04",
-      "date": "2026-06-02 – 2026-06-04",
-      "location": "Dubai, VAE ",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-hotel-show.jpg",
-      "link": "https://www.lm-international.com/bb_hotelshow_2026",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Sino Dental",
       "startDate": "2026-06-09",
       "endDate": "2026-06-12",
@@ -1256,6 +1242,20 @@
       "description": "Landesbeteiligung Bayern",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-fib.jpg",
       "link": "https://www.lm-international.com/lb_fib_2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "The Hotel Show",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-30",
+      "date": "2026-09-28 – 2026-09-30",
+      "location": "Dubai, VAE ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-hotel-show.jpg",
+      "link": "https://www.lm-international.com/bb_hotelshow_2026",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
