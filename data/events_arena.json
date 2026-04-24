@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-04-23T01:22:03.441Z",
+  "scraped_at": "2026-04-24T01:21:50.335Z",
   "events": [
     {
       "title": "Ehrlich Brothers",
@@ -880,6 +880,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/8/c/csm_Maite_Kelly_klein_f7746a937f.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/maite-kelly/977",
+      "tags": []
+    },
+    {
+      "title": "Beat It!",
+      "date": "Montag, 22.03.2027",
+      "startDate": "2027-03-22",
+      "endDate": "2027-03-22",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/f/c/csm_Anzeige_BEAT_IT45_x_45_mm_21ef922329.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/beat-it/1047",
       "tags": []
     },
     {
