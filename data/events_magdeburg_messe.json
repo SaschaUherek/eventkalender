@@ -1,6 +1,6 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-04-24T01:22:17.624Z",
+  "scraped_at": "2026-04-25T01:15:27.426Z",
   "events": [
     {
       "title": "NACHTFLOHMARKT - 25.04.2026",
@@ -124,6 +124,17 @@
       "tags": []
     },
     {
+      "title": "ALEXANDER STEVENS & JACQUELINE BELLE - TRUE CRIME - TOXIC LOVE",
+      "date": "05.Mai",
+      "startDate": "2026-05-05",
+      "endDate": "2026-05-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/toxic-love-true-crime-new-fb-post-1200x628-zst-0446cc76.png",
+      "link": "https://www.mvgm.de/de/event/alexander-stevens-jacqueline-belle-true-crime-toxic-love/",
+      "tags": []
+    },
+    {
       "title": "THE MAGIC NIGHT OF DANCE MUSICALS",
       "date": "07.Mai",
       "startDate": "2026-05-07",
@@ -132,6 +143,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Dance-Musicals-Plakat-2025-web-4a0b617a.jpg",
       "link": "https://www.mvgm.de/de/event/the-magic-night-of-dance-musicals-2/",
+      "tags": []
+    },
+    {
+      "title": "DIE MESSE FÜR SENIOREN UND ANGEHÖRIGE",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/MVGM-Johanniskirche-001-Foto-Andreas-Lander-d33d630b.jpg",
+      "link": "https://www.mvgm.de/de/event/die-messe-fuer-senioren-und-angehoerige/",
       "tags": []
     },
     {
@@ -168,6 +190,17 @@
       "tags": []
     },
     {
+      "title": "GEDENKKONZERT ZUR ZERSTÖRUNG MAGDEBURGS 1631",
+      "date": "10.Mai",
+      "startDate": "2026-05-10",
+      "endDate": "2026-05-10",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/MVGM-Johanniskirche-001-Foto-Andreas-Lander-d33d630b.jpg",
+      "link": "https://www.mvgm.de/de/event/gedenkkonzert-zur-zerstoerung-magdeburgs-1631/",
+      "tags": []
+    },
+    {
       "title": "SC MAGDEBURG - HSV HAMBURG",
       "date": "10.Mai",
       "startDate": "2026-05-10",
@@ -176,6 +209,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/d/getec-arena-handball-011-foto-andreas-lander-1fb27c68.jpg",
       "link": "https://www.mvgm.de/de/event/sc-magdeburg-hsv-hamburg-2/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER REDEN ÜBER DEN FRIEDEN",
+      "date": "10.Mai",
+      "startDate": "2026-05-10",
+      "endDate": "2026-05-10",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/MVGM-Johanniskirche-001-Foto-Andreas-Lander-d33d630b.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-reden-ueber-den-frieden/",
       "tags": []
     },
     {
@@ -267,6 +311,17 @@
       "tags": []
     },
     {
+      "title": "CRIMENIGHT - WAHRE VERBRECHEN.MAGDEBURG",
+      "date": "22.Mai",
+      "startDate": "2026-05-22",
+      "endDate": "2026-05-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/MVGM-Johanniskirche_015_Foto_Andreas_Lander-920a9d29.jpg",
+      "link": "https://www.mvgm.de/de/event/crimenight-wahre-verbrechen-magdeburg/",
+      "tags": []
+    },
+    {
       "title": "EUROCHEERMASTERS 2026",
       "date": "23.Mai",
       "startDate": "2026-05-23",
@@ -284,8 +339,19 @@
       "endDate": "2026-05-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-seitlich-32b01c52.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/touring-osan-yaran-stage-s-3840x1040-2025-ec563979.jpg",
       "link": "https://www.mvgm.de/de/event/osan-yaran-aus-prinzip-2/",
+      "tags": []
+    },
+    {
+      "title": "DA PACEM - KONZERT KAMMERORCHESTER DES KONSERVATORIUMS",
+      "date": "24.Mai",
+      "startDate": "2026-05-24",
+      "endDate": "2026-05-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/da-pacem-78bc7cf3.jpg",
+      "link": "https://www.mvgm.de/de/event/da-pacem-konzert-kammerorchester-des-konservatoriums/",
       "tags": []
     },
     {
@@ -1026,17 +1092,6 @@
       "tags": []
     },
     {
-      "title": "MÖRDERN AUF DER SPUR 2026 - TRUE CRIME",
-      "date": "11.Okt",
-      "startDate": "2026-10-11",
-      "endDate": "2026-10-11",
-      "location": "Johanniskirche",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/bild-richter-capari-32c7bfa3.jpg",
-      "link": "https://www.mvgm.de/de/event/moerdern-auf-der-spur-2026-true-crime/",
-      "tags": []
-    },
-    {
       "title": "FERIENSPASS: ENTDECKUNGSTOUR WASSER 20.10.2026",
       "date": "20.Okt",
       "startDate": "2026-10-20",
@@ -1155,6 +1210,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Addams-1720x1200-af94950e.jpg",
       "link": "https://www.mvgm.de/de/event/the-addams-family-das-musical-2026/",
+      "tags": []
+    },
+    {
+      "title": "MÖRDERN AUF DER SPUR 2026 - TRUE CRIME",
+      "date": "01.Nov",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/bild-richter-capari-32c7bfa3.jpg",
+      "link": "https://www.mvgm.de/de/event/moerdern-auf-der-spur-2026-true-crime/",
       "tags": []
     },
     {
@@ -1819,9 +1885,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -1881,6 +1947,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -2116,9 +2248,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -2178,6 +2310,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -2413,9 +2611,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -2475,6 +2673,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -2710,9 +2974,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -2772,6 +3036,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -3007,9 +3337,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -3069,6 +3399,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -3304,9 +3700,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -3366,6 +3762,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -3601,9 +4063,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -3663,6 +4125,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -3898,9 +4426,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -3960,6 +4488,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -4195,9 +4789,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -4257,6 +4851,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -4492,9 +5152,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -4554,6 +5214,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -4789,9 +5515,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -4851,6 +5577,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -5086,9 +5878,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -5148,6 +5940,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -5383,9 +6241,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -5445,6 +6303,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -5680,9 +6604,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -5742,6 +6666,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -5977,9 +6967,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -6039,6 +7029,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -6274,9 +7330,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
@@ -6336,6 +7392,72 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "EISKÖNIGIN 1&2 DIE MUSIK-SHOW AUF EIS MIT GROSSEM ENSEMBLE 2027",
+      "date": "30.Jan",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-30",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/HC-Eiskoenigin-Pressebild01-35c0dff3.jpg",
+      "link": "https://www.mvgm.de/de/event/eiskoenigin-1-2-die-musik-show-auf-eis-mit-grossem-ensemble-2027/",
+      "tags": []
+    },
+    {
+      "title": "SEBASTIAN KNAUER & JOHANNES STRATE - KLASSIK MEETS POP TOUR 2027",
+      "date": "01.Feb",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-01",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/2026-03-24-MS-Sebastian-Knauer-Johannes-Strate-2026-Social-Media-1920x1080-3d4bd5b0.png",
+      "link": "https://www.mvgm.de/de/event/sebastian-knauer-johannes-strate-klassik-meets-pop-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/HC-KoenigderLoewen-Pressebild2-14a97a1f.jpg",
+      "link": "https://www.mvgm.de/de/event/der-koenig-der-loewen-the-music-live-in-concert-4/",
+      "tags": []
+    },
+    {
+      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "LISA ECKHART 2027",
+      "date": "05.Feb",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-05",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
+      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
+      "tags": []
+    },
+    {
+      "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
+      "date": "06.Feb",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
     {
@@ -6571,9 +7693,9 @@
     },
     {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "30.Mai",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-30",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
