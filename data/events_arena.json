@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-04-24T01:21:50.335Z",
+  "scraped_at": "2026-04-25T01:15:00.577Z",
   "events": [
-    {
-      "title": "Ehrlich Brothers",
-      "date": "Freitag, 24.04.2026",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/files/user_upload/veranstaltungen/Konzert_Show/2026-04-26_Ehrlich_Brothers/Ehrlich_Brothers_-__c_S-Promotion_Event_Gmbh__Foto_Christoph_Koestlin.png",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ehrlich-brothers-1/986",
-      "tags": []
-    },
     {
       "title": "Ehrlich Brothers",
       "date": "Samstag, 25.04.2026",
@@ -737,6 +726,39 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/3/1/csm_CAVALLUNA_Die_Farben_des_Lebens_Artwork_quer_9e68ecc0d7.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/cavalluna-1/1021",
+      "tags": []
+    },
+    {
+      "title": "Ehrlich Brothers",
+      "date": "Samstag, 09.01.2027",
+      "startDate": "2027-01-09",
+      "endDate": "2027-01-09",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/4/9/csm_EB-WONDERWORLD_SocialMedia_4zu3_e746174d33.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ehrlich-brothers/1049",
+      "tags": []
+    },
+    {
+      "title": "Ehrlich Brothers",
+      "date": "Sonntag, 10.01.2027",
+      "startDate": "2027-01-10",
+      "endDate": "2027-01-10",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/4/9/csm_EB-WONDERWORLD_SocialMedia_4zu3_e746174d33.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ehrlich-brothers/1050",
+      "tags": []
+    },
+    {
+      "title": "Ehrlich Brothers",
+      "date": "Sonntag, 10.01.2027",
+      "startDate": "2027-01-10",
+      "endDate": "2027-01-10",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/4/9/csm_EB-WONDERWORLD_SocialMedia_4zu3_e746174d33.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ehrlich-brothers/1051",
       "tags": []
     },
     {
