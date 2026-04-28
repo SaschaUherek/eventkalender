@@ -1,6 +1,6 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-04-27T01:25:20.659Z",
+  "scraped_at": "2026-04-28T01:31:55.120Z",
   "events": [
     {
       "title": "BALLETT \"CINDERELLA\"",
@@ -9,7 +9,7 @@
       "endDate": "2026-04-30",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/web-cind-2025-20x20-pict-0dddcd1a.jpg",
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
       "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
@@ -47,24 +47,13 @@
       "tags": []
     },
     {
-      "title": "1.FC MADGEBURG - HERTHA BSC",
-      "date": "02.Mai",
-      "startDate": "2026-05-02",
-      "endDate": "2026-05-02",
-      "location": "Avnet Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/mdcc-arena-werner-klapper-d52256c9.jpg",
-      "link": "https://www.mvgm.de/de/event/1-fc-madgeburg-hertha-bsc/",
-      "tags": []
-    },
-    {
       "title": "MAGDEBURG DARTS GALA 2026",
       "date": "02.Mai",
       "startDate": "2026-05-02",
       "endDate": "2026-05-02",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Darts-Gala-2026-86a669b4.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Darts-Gala-2026-d07a362c.jpg",
       "link": "https://www.mvgm.de/de/event/magdeburg-darts-gala-2026/",
       "tags": []
     },
@@ -75,7 +64,7 @@
       "endDate": "2026-05-02",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/b/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-fd4e063a.jpg",
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk/",
       "tags": []
     },
@@ -86,8 +75,19 @@
       "endDate": "2026-05-02",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Schneewittchen-und-die-sieben-Boybands-09ee0bdc.png",
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
       "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "1.FC MADGEBURG - HERTHA BSC",
+      "date": "03.Mai",
+      "startDate": "2026-05-03",
+      "endDate": "2026-05-03",
+      "location": "Avnet Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/mdcc-arena-werner-klapper-d52256c9.jpg",
+      "link": "https://www.mvgm.de/de/event/1-fc-madgeburg-hertha-bsc/",
       "tags": []
     },
     {
@@ -108,7 +108,7 @@
       "endDate": "2026-05-07",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/7/Dance-Musicals-Plakat-2025-web-4a0b617a.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Dance-Musicals-Plakat-2025-web-90419ce2.jpg",
       "link": "https://www.mvgm.de/de/event/the-magic-night-of-dance-musicals-2/",
       "tags": []
     },
@@ -119,7 +119,7 @@
       "endDate": "2026-05-08",
       "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/MVGM-Johanniskirche-001-Foto-Andreas-Lander-d33d630b.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/MVGM-Johanniskirche-001-Foto-Andreas-Lander-1295d2cd.jpg",
       "link": "https://www.mvgm.de/de/event/die-messe-fuer-senioren-und-angehoerige/",
       "tags": []
     },
@@ -130,7 +130,7 @@
       "endDate": "2026-05-09",
       "location": "Elbauenpark",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/210724-PG-Oldtimertag1-Fotograf-Peter-Gercke-6beb41ee.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/210724-PG-Oldtimertag1-Fotograf-Peter-Gercke-8581dc4a.jpg",
       "link": "https://www.mvgm.de/de/event/16-magdeburger-oldtimertag/",
       "tags": []
     },
@@ -163,7 +163,7 @@
       "endDate": "2026-05-10",
       "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/MVGM-Johanniskirche-001-Foto-Andreas-Lander-d33d630b.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/MVGM-Johanniskirche-001-Foto-Andreas-Lander-1295d2cd.jpg",
       "link": "https://www.mvgm.de/de/event/gedenkkonzert-zur-zerstoerung-magdeburgs-1631/",
       "tags": []
     },
@@ -174,7 +174,7 @@
       "endDate": "2026-05-10",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/getec-arena-handball-011-foto-andreas-lander-1fb27c68.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/getec-arena-handball-011-foto-andreas-lander-6dd2f3cb.jpg",
       "link": "https://www.mvgm.de/de/event/sc-magdeburg-hsv-hamburg-2/",
       "tags": []
     },
@@ -185,7 +185,7 @@
       "endDate": "2026-05-10",
       "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/MVGM-Johanniskirche-001-Foto-Andreas-Lander-d33d630b.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/MVGM-Johanniskirche-001-Foto-Andreas-Lander-1295d2cd.jpg",
       "link": "https://www.mvgm.de/de/event/magdeburger-reden-ueber-den-frieden/",
       "tags": []
     },
@@ -196,7 +196,7 @@
       "endDate": "2026-05-14",
       "location": "Elbauenpark",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/a/Elbauenpark-Prinzessinnentag-Foto-Andreas-Lander-10082025-MVGM-GmbH-008-d36bcb80.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/Elbauenpark-Prinzessinnentag-Foto-Andreas-Lander-10082025-MVGM-GmbH-008-f88cbc1b.jpg",
       "link": "https://www.mvgm.de/de/event/prinzessinnentag-2026/",
       "tags": []
     },
@@ -218,7 +218,7 @@
       "endDate": "2026-05-14",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-2-c-Gregor-Hohenberg-web-8fc53dbe.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-2-c-Gregor-Hohenberg-web-1ee8896f.jpg",
       "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-5/",
       "tags": []
     },
@@ -240,7 +240,7 @@
       "endDate": "2026-05-15",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Pressefoto-MARKUS-KREBS-6-c-JP-Fotografie-257043e3.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/Pressefoto-MARKUS-KREBS-6-c-JP-Fotografie-0bdf27b2.jpg",
       "link": "https://www.mvgm.de/de/event/markus-krebs-2026/",
       "tags": []
     },
@@ -273,7 +273,7 @@
       "endDate": "2026-05-21",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/getec-arena-handball-011-foto-andreas-lander-1fb27c68.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/getec-arena-handball-011-foto-andreas-lander-6dd2f3cb.jpg",
       "link": "https://www.mvgm.de/de/event/sc-magdeburg-sg-flensburg-handewitt-5/",
       "tags": []
     },
@@ -284,7 +284,7 @@
       "endDate": "2026-05-22",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/MVGM-Johanniskirche_015_Foto_Andreas_Lander-920a9d29.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/MVGM-Johanniskirche_015_Foto_Andreas_Lander-564c83e8.jpg",
       "link": "https://www.mvgm.de/de/event/crimenight-wahre-verbrechen-magdeburg/",
       "tags": []
     },
@@ -317,7 +317,7 @@
       "endDate": "2026-05-24",
       "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/da-pacem-78bc7cf3.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/da-pacem-ade85215.jpg",
       "link": "https://www.mvgm.de/de/event/da-pacem-konzert-kammerorchester-des-konservatoriums/",
       "tags": []
     },
@@ -350,7 +350,7 @@
       "endDate": "2026-05-29",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-HERR-SCHRoeDER-Der-Rest-ist-Hausaugabe-c-Boris-Breuer-web-c553ec14.jpg",
+      "image": "https://www.mvgm.de/assets/images/1/Pressefoto-HERR-SCHRoeDER-Der-Rest-ist-Hausaugabe-c-Boris-Breuer-web-dda185e9.jpg",
       "link": "https://www.mvgm.de/de/event/herr-schroeder-der-rest-ist-hausaufgabe-2/",
       "tags": []
     },
@@ -361,7 +361,7 @@
       "endDate": "2026-06-02",
       "location": "Seebühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/20210612-Grill-den-Henssler-d826b599.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/20210612-Grill-den-Henssler-da40a5e0.jpg",
       "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-02-06-2026/",
       "tags": []
     },
@@ -372,7 +372,7 @@
       "endDate": "2026-06-03",
       "location": "Seebühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/20210612-Grill-den-Henssler-d826b599.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/20210612-Grill-den-Henssler-da40a5e0.jpg",
       "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-03-06-2026/",
       "tags": []
     },
@@ -383,7 +383,7 @@
       "endDate": "2026-06-03",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/getec-arena-handball-011-foto-andreas-lander-1fb27c68.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/getec-arena-handball-011-foto-andreas-lander-6dd2f3cb.jpg",
       "link": "https://www.mvgm.de/de/event/sc-magdeburg-vfl-gummersbach-4/",
       "tags": []
     },
@@ -394,7 +394,7 @@
       "endDate": "2026-06-04",
       "location": "Seebühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/20210612-Grill-den-Henssler-d826b599.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/20210612-Grill-den-Henssler-da40a5e0.jpg",
       "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-04-06-2026/",
       "tags": []
     },
@@ -405,7 +405,7 @@
       "endDate": "2026-06-06",
       "location": "Elbauenpark",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/2026-LAGA-CUP-Internet-1920x1080px-c0152b58.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/2026-LAGA-CUP-Internet-1920x1080px-fb4ebf40.jpg",
       "link": "https://www.mvgm.de/de/event/landschaftsgaertner-cup-sachsen-anhalt-2026/",
       "tags": []
     },
@@ -416,7 +416,7 @@
       "endDate": "2026-06-06",
       "location": "Seebühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/20210612-Grill-den-Henssler-d826b599.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/20210612-Grill-den-Henssler-da40a5e0.jpg",
       "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-05-06-2026/",
       "tags": []
     },
@@ -427,7 +427,7 @@
       "endDate": "2026-06-07",
       "location": "Seebühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/20210612-Grill-den-Henssler-d826b599.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/20210612-Grill-den-Henssler-da40a5e0.jpg",
       "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-07-06-2026/",
       "tags": []
     },
@@ -438,7 +438,7 @@
       "endDate": "2026-06-08",
       "location": "Seebühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/20210612-Grill-den-Henssler-d826b599.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/20210612-Grill-den-Henssler-da40a5e0.jpg",
       "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-08-06-2026/",
       "tags": []
     },
@@ -460,7 +460,7 @@
       "endDate": "2026-06-27",
       "location": "Elbauenpark",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Love%20Music-b4e5fd99.jpg",
+      "image": "https://www.mvgm.de/assets/images/9/Love%20Music-8d964815.jpg",
       "link": "https://www.mvgm.de/de/event/love-music-festival-2026/",
       "tags": []
     },
@@ -647,7 +647,7 @@
       "endDate": "2026-07-31",
       "location": "Seebühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/a/magical-harry-potter-Header-1725647422-984b6f67.png",
+      "image": "https://www.mvgm.de/assets/images/e/magical-harry-potter-Header-1725647422-0bb27e09.png",
       "link": "https://www.mvgm.de/de/event/the-magical-music-of-harry-potter-live-in-concert-3/",
       "tags": []
     },
@@ -658,7 +658,7 @@
       "endDate": "2026-07-31",
       "location": "Seebühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/7/Hans-Zimmer-Star-Entertainment-d1516578.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/Hans-Zimmer-Star-Entertainment-5b72a113.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-hans-zimmer-others-a-celebration-of-film-music-3/",
       "tags": []
     },
@@ -691,7 +691,7 @@
       "endDate": "2026-08-07",
       "location": "MDCC-Parkbühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/florian-kuenstler-bf01745b.png",
+      "image": "https://www.mvgm.de/assets/images/f/florian-kuenstler-bb450ce0.png",
       "link": "https://www.mvgm.de/de/event/florian-kuenstler-alles-nur-geliehen-tour-2026-2027/",
       "tags": []
     },
@@ -757,7 +757,7 @@
       "endDate": "2026-08-21",
       "location": "Seebühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/George-Michael-e3201b05.jpeg",
+      "image": "https://www.mvgm.de/assets/images/6/George-Michael-88085537.jpeg",
       "link": "https://www.mvgm.de/de/event/freedom-a-tribute-to-george-michael/",
       "tags": []
     },
@@ -801,7 +801,7 @@
       "endDate": "2026-08-28",
       "location": "MDCC-Parkbühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/7/Nino-de-angelo-23d50ee6.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/Nino-de-angelo-163f8ac6.jpg",
       "link": "https://www.mvgm.de/de/event/nino-de-angelo-vivi-la-vita/",
       "tags": []
     },
@@ -812,7 +812,7 @@
       "endDate": "2026-08-29",
       "location": "Elbauenpark",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/b/Internet-Haupteil-1090x800px-OMMMA-neu-31b0b8d1.jpg",
+      "image": "https://www.mvgm.de/assets/images/a/Internet-Haupteil-1090x800px-OMMMA-neu-29dfd005.jpg",
       "link": "https://www.mvgm.de/de/event/27-ommma-ost-mobil-meeting-magdeburg-praesentiert-von-roestfein/",
       "tags": []
     },
@@ -823,7 +823,7 @@
       "endDate": "2026-08-29",
       "location": "MDCC-Parkbühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Silly-DSC-4236-final-Detlef-Schneider-2e40b743.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/Silly-DSC-4236-final-Detlef-Schneider-6199fe40.jpg",
       "link": "https://www.mvgm.de/de/event/silly-mit-julia-neigel-elektroakustik-open-air-tour-2026/",
       "tags": []
     },
@@ -834,7 +834,7 @@
       "endDate": "2026-08-30",
       "location": "MDCC-Parkbühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/20250119-Pressefoto-Olaf-Schubert-5dbbbcd5.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/20250119-Pressefoto-Olaf-Schubert-616c783e.jpg",
       "link": "https://www.mvgm.de/de/event/olaf-schubert-und-seine-freunde-jetzt-oder-now/",
       "tags": []
     },
@@ -867,7 +867,7 @@
       "endDate": "2026-09-05",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/AnnenMayKantereit-web-70e636a4.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/AnnenMayKantereit-web-04092bf9.jpg",
       "link": "https://www.mvgm.de/de/event/annenmaykantereit-live-2026/",
       "tags": []
     },
@@ -922,7 +922,7 @@
       "endDate": "2026-09-18",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/invictus-tour-2026-tickets-457253-3687853-1240x480-e534fc48.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/invictus-tour-2026-tickets-457253-3687853-1240x480-6eef40ca.jpg",
       "link": "https://www.mvgm.de/de/event/weimar-invictus-tour-part-ii/",
       "tags": []
     },
@@ -944,7 +944,7 @@
       "endDate": "2026-09-19",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/Storytelling-Piano-Dennis-Alexander-Volk-scaled-350f8b81.webp",
+      "image": "https://www.mvgm.de/assets/images/9/Storytelling-Piano-Dennis-Alexander-Volk-scaled-0fba641e.webp",
       "link": "https://www.mvgm.de/de/event/storytelling-piano-dennis-alexander-volk/",
       "tags": []
     },
@@ -966,7 +966,7 @@
       "endDate": "2026-09-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/AtzeSchroederQuerformatCreditBorisBreuer-a7f197d4.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/AtzeSchroederQuerformatCreditBorisBreuer-d09c92b7.jpg",
       "link": "https://www.mvgm.de/de/event/atze-schroeder-lovemachine/",
       "tags": []
     },
@@ -1054,7 +1054,7 @@
       "endDate": "2026-10-10",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/d/88073-03-Pressefoto-ChrisNorman-LIFELINES-Fotocredit-MarcelBrell-631c8907.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/88073-03-Pressefoto-ChrisNorman-LIFELINES-Fotocredit-MarcelBrell-369726d6.jpg",
       "link": "https://www.mvgm.de/de/event/chris-norman-band-lifelines-tour-2026/",
       "tags": []
     },
@@ -1120,7 +1120,7 @@
       "endDate": "2026-10-26",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/4-5-Sportfreunde-Stiller-MAWI-Logo-fe80f703.png",
+      "image": "https://www.mvgm.de/assets/images/0/4-5-Sportfreunde-Stiller-MAWI-Logo-d347118e.png",
       "link": "https://www.mvgm.de/de/event/sportfreunde-stiller-2026/",
       "tags": []
     },
@@ -1153,7 +1153,7 @@
       "endDate": "2026-10-30",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Amigos26-1920x1080px-cef53ea9.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/Amigos26-1920x1080px-5ccec9e5.jpg",
       "link": "https://www.mvgm.de/de/event/amigos-und-daniela-alfinito-2026/",
       "tags": []
     },
@@ -1164,7 +1164,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/b/Pressefoto-CHRIS-TALL-Keep-Laughing-2-c-Robert-Maschke-web-031ab90a.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-CHRIS-TALL-Keep-Laughing-2-c-Robert-Maschke-web-3f1e07c9.jpg",
       "link": "https://www.mvgm.de/de/event/chris-tall-keep-laughing/",
       "tags": []
     },
@@ -1175,7 +1175,7 @@
       "endDate": "2026-10-31",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Addams-1720x1200-af94950e.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Addams-1720x1200-fdce3f75.jpg",
       "link": "https://www.mvgm.de/de/event/the-addams-family-das-musical-2026/",
       "tags": []
     },
@@ -1208,7 +1208,7 @@
       "endDate": "2026-11-07",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/messe-magdeburger-angeltage-29b59bf4.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
       "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-sa/",
       "tags": []
     },
@@ -1219,7 +1219,7 @@
       "endDate": "2026-11-07",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Imad-Poster-Square-LARGE-web-73b529df.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/Imad-Poster-Square-LARGE-web-4c1f8d3e.jpg",
       "link": "https://www.mvgm.de/de/event/imad-magician-live/",
       "tags": []
     },
@@ -1241,7 +1241,7 @@
       "endDate": "2026-11-08",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/messe-magdeburger-angeltage-29b59bf4.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
       "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so/",
       "tags": []
     },
@@ -1274,7 +1274,7 @@
       "endDate": "2026-11-13",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/NF-19-Ren-van-der-Voorden-55933ee5.jpg",
+      "image": "https://www.mvgm.de/assets/images/b/NF-19-Ren-van-der-Voorden-823228ed.jpg",
       "link": "https://www.mvgm.de/de/event/nights-on-broadway-strong-a-tribute-to-the-bee-gees-performed-by-night-fever-strong/",
       "tags": []
     },
@@ -1318,7 +1318,7 @@
       "endDate": "2026-11-20",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Gregorian-1920x1080-4d230cf4.png",
+      "image": "https://www.mvgm.de/assets/images/d/Gregorian-1920x1080-ff312ea6.png",
       "link": "https://www.mvgm.de/de/event/gregorian-3/",
       "tags": []
     },
@@ -1329,7 +1329,7 @@
       "endDate": "2026-11-23",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/SalutSalon-Weihnachten-Credit-Soulkitchen-Quartett-Baum-1-ff6c6b26.jpg",
+      "image": "https://www.mvgm.de/assets/images/7/SalutSalon-Weihnachten-Credit-Soulkitchen-Quartett-Baum-1-0b07bb7f.jpg",
       "link": "https://www.mvgm.de/de/event/salut-salon-weihnachten-mit-salut-salon/",
       "tags": []
     },
@@ -1340,7 +1340,7 @@
       "endDate": "2026-11-26",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Aber-bitte-mit-Helene-April-2026-d512f090.jpg",
+      "image": "https://www.mvgm.de/assets/images/a/Aber-bitte-mit-Helene-April-2026-1e06da10.jpg",
       "link": "https://www.mvgm.de/de/event/aber-bitte-mit-helene-die-grosse-konzertshow/",
       "tags": []
     },
@@ -1351,7 +1351,7 @@
       "endDate": "2026-11-27",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/A-Million-Dreams-Presse-82adf3e6.jpg",
+      "image": "https://www.mvgm.de/assets/images/d/A-Million-Dreams-Presse-f14ff688.jpg",
       "link": "https://www.mvgm.de/de/event/a-million-dreams/",
       "tags": []
     },
@@ -1439,7 +1439,7 @@
       "endDate": "2026-12-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/CAVALLUNA-Die-Farben-des-Lebens-Artwork-quer-7a7ea745.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/CAVALLUNA-Die-Farben-des-Lebens-Artwork-quer-252ede4c.jpg",
       "link": "https://www.mvgm.de/de/event/cavalluna-die-farben-des-lebens-12-12-2026-14-00-uhr/",
       "tags": []
     },
@@ -1450,7 +1450,7 @@
       "endDate": "2026-12-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/CAVALLUNA-Die-Farben-des-Lebens-Artwork-quer-7a7ea745.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/CAVALLUNA-Die-Farben-des-Lebens-Artwork-quer-252ede4c.jpg",
       "link": "https://www.mvgm.de/de/event/cavalluna-die-farben-des-lebens-12-12-2026-19-00-uhr/",
       "tags": []
     },
@@ -1461,7 +1461,7 @@
       "endDate": "2026-12-13",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/CAVALLUNA-Die-Farben-des-Lebens-Artwork-quer-7a7ea745.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/CAVALLUNA-Die-Farben-des-Lebens-Artwork-quer-252ede4c.jpg",
       "link": "https://www.mvgm.de/de/event/cavalluna-die-farben-des-lebens-13-12-2026-13-00-uhr/",
       "tags": []
     },
@@ -1494,7 +1494,7 @@
       "endDate": "2027-01-06",
       "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/b/20200105-06-bestofclassic-kulturpalast-dd-xxl-5b7ea759.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/20200105-06-bestofclassic-kulturpalast-dd-xxl-a1bf885b.jpg",
       "link": "https://www.mvgm.de/de/event/best-of-classic-das-wiener-neujahrskonzert-2027/",
       "tags": []
     },
@@ -1516,7 +1516,7 @@
       "endDate": "2027-01-20",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/GoT-HotD-Pressebild01-15x10cm-babe1052.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/GoT-HotD-Pressebild01-15x10cm-d3254731.jpg",
       "link": "https://www.mvgm.de/de/event/game-of-thrones-house-of-the-dragon-das-konzert-2/",
       "tags": []
     },
@@ -1527,7 +1527,7 @@
       "endDate": "2027-01-28",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/b/Alain-Frei-31100730-2-45704b54.jpg",
+      "image": "https://www.mvgm.de/assets/images/6/Alain-Frei-31100730-2-01d227d0.jpg",
       "link": "https://www.mvgm.de/de/event/alain-frei-jetzt/",
       "tags": []
     },
@@ -1593,7 +1593,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -1615,7 +1615,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -1703,7 +1703,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -1769,7 +1769,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -1813,7 +1813,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -1901,7 +1901,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -1923,7 +1923,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -1945,7 +1945,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -2033,7 +2033,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2099,7 +2099,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -2143,7 +2143,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -2231,7 +2231,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -2253,7 +2253,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -2275,7 +2275,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -2363,7 +2363,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2429,7 +2429,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -2473,7 +2473,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -2561,7 +2561,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -2583,7 +2583,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -2605,7 +2605,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -2693,7 +2693,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -2759,7 +2759,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -2803,7 +2803,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -2891,7 +2891,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -2913,7 +2913,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -2935,7 +2935,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -3023,7 +3023,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -3089,7 +3089,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -3133,7 +3133,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -3221,7 +3221,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -3243,7 +3243,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -3265,7 +3265,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -3353,7 +3353,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -3419,7 +3419,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -3463,7 +3463,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -3551,7 +3551,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -3573,7 +3573,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -3595,7 +3595,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -3683,7 +3683,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -3749,7 +3749,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -3793,7 +3793,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -3881,7 +3881,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -3903,7 +3903,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -3925,7 +3925,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -4013,7 +4013,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -4079,7 +4079,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -4123,7 +4123,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -4211,7 +4211,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -4233,7 +4233,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -4255,7 +4255,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -4343,7 +4343,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -4409,7 +4409,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -4453,7 +4453,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -4541,7 +4541,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -4563,7 +4563,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -4585,7 +4585,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -4673,7 +4673,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -4739,7 +4739,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -4783,7 +4783,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -4871,7 +4871,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -4893,7 +4893,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -4915,7 +4915,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -5003,7 +5003,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -5069,7 +5069,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -5113,7 +5113,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -5201,7 +5201,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -5223,7 +5223,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -5245,7 +5245,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -5333,7 +5333,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -5399,7 +5399,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -5443,7 +5443,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -5531,7 +5531,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -5553,7 +5553,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -5575,7 +5575,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -5663,7 +5663,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -5729,7 +5729,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -5773,7 +5773,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -5861,7 +5861,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -5883,7 +5883,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -5905,7 +5905,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -5993,7 +5993,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -6059,7 +6059,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -6103,7 +6103,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -6191,7 +6191,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -6213,7 +6213,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -6235,7 +6235,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -6323,7 +6323,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -6389,7 +6389,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -6433,7 +6433,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -6521,7 +6521,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -6543,7 +6543,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -6565,7 +6565,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -6653,7 +6653,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -6719,7 +6719,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -6763,7 +6763,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -6851,7 +6851,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
@@ -6873,7 +6873,7 @@
       "endDate": "2027-02-05",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressebild-3-quer-Frontm3n-Tour2027-a49a4a20.jpg",
+      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
       "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
       "tags": []
     },
@@ -6895,7 +6895,7 @@
       "endDate": "2027-02-06",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Gestoert-aber-Geil-Magdeburg-135d8aad.jpg",
+      "image": "https://www.mvgm.de/assets/images/e/Gestoert-aber-Geil-Magdeburg-126e6481.jpg",
       "link": "https://www.mvgm.de/de/event/gestoert-aber-geil-strong-musik-vom-und-fuers-herz-tour-2027-strong/",
       "tags": []
     },
@@ -6983,7 +6983,7 @@
       "endDate": "2027-03-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5cdac4e9.png",
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
       "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
@@ -7049,7 +7049,7 @@
       "endDate": "2026-04-17",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-2b7cfd05.jpg",
+      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
       "tags": []
     },
@@ -7093,7 +7093,7 @@
       "endDate": "2026-05-07",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-f60ff7b3.jpg",
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
       "tags": []
     },
@@ -7181,7 +7181,7 @@
       "endDate": "2026-10-30",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/KARAT-45JahreBlauerPlanet-komprimiert-6b0fdba7.png",
+      "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
       "tags": []
     },
