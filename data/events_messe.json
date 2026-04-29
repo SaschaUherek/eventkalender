@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-04-28T01:30:09.401Z",
+  "scraped_at": "2026-04-29T01:46:02.382Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1410,6 +1410,19 @@
       ]
     },
     {
+      "title": "immocation Festival 2026",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "date": "2026-10-31 – 2026-11-01",
+      "location": "Leipziger Messe",
+      "description": "Das immocation Festival 2026 - der Ort, an dem sich Immobilieninvestoren treffen und voneinander lernen! Maximales Expertenwissen: 2 Bühnen mit tiefen Immobilieninhalten für jedes Investorenlevel – vom Einsteiger bis Superpro.Top Netzwerkmöglichkeiten: Persönlicher Austausch mit den Coaches und aktiven Immobilieninvestoren 180+ Aussteller, um genau die Partner zu finden, die du brauchst. Verschiedene Messepartys am Samstag Abend. Buch dir dein Ticket jetzt!",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-immocation-neutral.jpg",
+      "link": "https://immocation.de/Festival",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "Smart City Expo World Congress",
       "startDate": "2026-11-03",
       "endDate": "2026-11-05",
@@ -1837,6 +1850,19 @@
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "NIGHT OF FREESTYLE",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
+      "date": "2027-04-17 – 2027-04-17",
+      "location": "Leipziger Messe",
+      "description": "Auch in der Saison 2027 wird die Night of Freestyle erneut auf große Deutschlandtour gehen und das Level von atemberaubenden Stunts und Tricks nochmals erhöhen. Die Zuschauer dürfen sich wieder auf Disziplinen wie Freestyle Motocross, Mountainbike, BMX, Snowmobile, Quads, Buggy und Scooter freuen, die ihre besten Tricks präsentieren werden, begleitet von einer großartigen Pyro- und Lasershow.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2027/master-night-freestyle.jpg",
+      "link": "https://nightoffreestyle.de/events/messe-1-leipzig/",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
