@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-04-29T01:46:02.382Z",
+  "scraped_at": "2026-04-30T01:44:16.661Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1863,6 +1863,20 @@
       "link": "https://nightoffreestyle.de/events/messe-1-leipzig/",
       "tags": [
         "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Kazakhstan Machinery Fair",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-23",
+      "date": "2027-04-21 – 2027-04-23",
+      "location": "Astana, Kasachstan",
+      "description": "Bei der Kazakhstan Machinery Fair handelt es sich um die wichtigste Veranstaltung im Bereich Maschinenbau und Metallverarbeitung in Kasachstan und Zentralasien. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-kasachstan-machinery-fair.jpg",
+      "link": "mailto:u.briese@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
       ]
     },
     {
