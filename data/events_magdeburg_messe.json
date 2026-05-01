@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-04-30T01:45:51.735Z",
+  "scraped_at": "2026-05-01T01:49:09.834Z",
   "events": [
-    {
-      "title": "BALLETT \"CINDERELLA\"",
-      "date": "30.Apr",
-      "startDate": "2026-04-30",
-      "endDate": "2026-04-30",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
-      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
-      "tags": []
-    },
     {
       "title": "FARINELLI BAROCKT VIVALDI",
       "date": "01.Mai",
@@ -66,17 +55,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk/",
-      "tags": []
-    },
-    {
-      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
-      "date": "02.Mai",
-      "startDate": "2026-05-02",
-      "endDate": "2026-05-02",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
-      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -1631,6 +1609,17 @@
       "tags": []
     },
     {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
+      "tags": []
+    },
+    {
       "title": "RIVERDANCE 30 JAHRE",
       "date": "12.Feb",
       "startDate": "2027-02-12",
@@ -1661,6 +1650,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -1743,8 +1743,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -1754,8 +1754,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -1765,8 +1765,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -1776,8 +1776,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -1787,8 +1787,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -1798,8 +1798,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -1917,28 +1917,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -1958,6 +1936,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -1991,6 +1980,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -2073,8 +2073,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -2084,8 +2084,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -2095,8 +2095,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -2106,8 +2106,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -2117,8 +2117,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -2128,8 +2128,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -2247,28 +2247,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -2288,6 +2266,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -2321,6 +2310,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -2403,8 +2403,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -2414,8 +2414,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -2425,8 +2425,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -2436,8 +2436,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -2447,8 +2447,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -2458,8 +2458,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -2577,28 +2577,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -2618,6 +2596,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -2651,6 +2640,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -2733,8 +2733,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -2744,8 +2744,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -2755,8 +2755,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -2766,8 +2766,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -2777,8 +2777,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -2788,8 +2788,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -2907,28 +2907,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -2948,6 +2926,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -2981,6 +2970,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -3063,8 +3063,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -3074,8 +3074,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -3085,8 +3085,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -3096,8 +3096,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -3107,8 +3107,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -3118,8 +3118,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -3237,28 +3237,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -3278,6 +3256,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -3311,6 +3300,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -3393,8 +3393,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -3404,8 +3404,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -3415,8 +3415,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -3426,8 +3426,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -3437,8 +3437,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -3448,8 +3448,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -3567,28 +3567,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -3608,6 +3586,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -3641,6 +3630,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -3723,8 +3723,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -3734,8 +3734,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -3745,8 +3745,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -3756,8 +3756,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -3767,8 +3767,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -3778,8 +3778,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -3897,28 +3897,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -3938,6 +3916,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -3971,6 +3960,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -4053,8 +4053,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -4064,8 +4064,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -4075,8 +4075,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -4086,8 +4086,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -4097,8 +4097,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -4108,8 +4108,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -4227,28 +4227,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -4268,6 +4246,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -4301,6 +4290,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -4383,8 +4383,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -4394,8 +4394,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -4405,8 +4405,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -4416,8 +4416,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -4427,8 +4427,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -4438,8 +4438,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -4557,28 +4557,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -4598,6 +4576,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -4631,6 +4620,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -4713,8 +4713,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -4724,8 +4724,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -4735,8 +4735,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -4746,8 +4746,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -4757,8 +4757,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -4768,8 +4768,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -4887,28 +4887,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -4928,6 +4906,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -4961,6 +4950,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -5043,8 +5043,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -5054,8 +5054,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -5065,8 +5065,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -5076,8 +5076,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -5087,8 +5087,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -5098,8 +5098,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -5217,28 +5217,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -5258,6 +5236,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -5291,6 +5280,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -5373,8 +5373,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -5384,8 +5384,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -5395,8 +5395,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -5406,8 +5406,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -5417,8 +5417,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -5428,8 +5428,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -5547,28 +5547,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -5588,6 +5566,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -5621,6 +5610,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -5703,8 +5703,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -5714,8 +5714,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -5725,8 +5725,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -5736,8 +5736,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -5747,8 +5747,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -5758,8 +5758,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -5877,28 +5877,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -5918,6 +5896,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -5951,6 +5940,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -6033,8 +6033,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -6044,8 +6044,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -6055,8 +6055,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -6066,8 +6066,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -6077,8 +6077,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -6088,8 +6088,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -6207,28 +6207,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -6248,6 +6226,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -6281,6 +6270,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -6363,8 +6363,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -6374,8 +6374,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -6385,8 +6385,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -6396,8 +6396,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -6407,8 +6407,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -6418,8 +6418,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -6537,28 +6537,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -6578,6 +6556,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -6611,6 +6600,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -6693,8 +6693,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -6704,8 +6704,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -6715,8 +6715,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -6726,8 +6726,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -6737,8 +6737,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -6748,8 +6748,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
@@ -6867,28 +6867,6 @@
       "tags": []
     },
     {
-      "title": "FRONTM3N - ONE FOR ALL - TOUR 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressebild-3-quer-Frontm3n-Tour2027-279fefd6.jpg",
-      "link": "https://www.mvgm.de/de/event/frontm3n-one-for-all-tour-2027/",
-      "tags": []
-    },
-    {
-      "title": "LISA ECKHART 2027",
-      "date": "05.Feb",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-Lisa-Eckhart-bearbeitet-56925c6b.jpg",
-      "link": "https://www.mvgm.de/de/event/lisa-eckhart-2027/",
-      "tags": []
-    },
-    {
       "title": "GESTÖRT ABER GEIL - „MUSIK VOM UND FÜRS HERZ“ TOUR 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
@@ -6908,6 +6886,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "BALLETT \"CINDERELLA\"",
+      "date": "11.Feb",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/web-cind-2025-20x20-pict-adc31533.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-cinderella/",
       "tags": []
     },
     {
@@ -6941,6 +6930,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
       "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
       "tags": []
     },
     {
@@ -7023,8 +7023,8 @@
     {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
-      "startDate": "2026-04-07",
-      "endDate": "2026-04-07",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-07",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/OldShatterhand-345d7e61.png",
@@ -7034,8 +7034,8 @@
     {
       "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
       "date": "16.Apr",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-16",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-16",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
@@ -7045,8 +7045,8 @@
     {
       "title": "GREENBEATS MOMENTUM TOUR",
       "date": "17.Apr",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-17",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
@@ -7056,8 +7056,8 @@
     {
       "title": "THE 12 TENORS I LEGACY TOUR",
       "date": "20.Apr",
-      "startDate": "2026-04-20",
-      "endDate": "2026-04-20",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-20",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
@@ -7067,8 +7067,8 @@
     {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "GETEC-Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Musikparade-2027-8e7a2930.jpg",
@@ -7078,8 +7078,8 @@
     {
       "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
       "date": "24.Apr",
-      "startDate": "2026-04-24",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
