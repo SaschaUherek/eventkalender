@@ -1,6 +1,6 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-05-04T01:29:18.131Z",
+  "scraped_at": "2026-05-05T01:29:15.683Z",
   "events": [
     {
       "title": "ALEXANDER STEVENS & JACQUELINE BELLE - TRUE CRIME - TOXIC LOVE",
@@ -1411,6 +1411,17 @@
       "tags": []
     },
     {
+      "title": "BALLETT \"NUSSKNACKER\" | KLASSISCHES ETOILE BALLETT",
+      "date": "09.Jan",
+      "startDate": "2027-01-09",
+      "endDate": "2027-01-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/nussknacker-a51eb361.jpg",
+      "link": "https://www.mvgm.de/de/event/ballett-nussknacker-klassisches-etoile-ballett/",
+      "tags": []
+    },
+    {
       "title": "ABBA GOLD – THE CONCERT SHOW",
       "date": "14.Jan",
       "startDate": "2027-01-14",
@@ -1430,6 +1441,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/GoT-HotD-Pressebild01-15x10cm-d3254731.jpg",
       "link": "https://www.mvgm.de/de/event/game-of-thrones-house-of-the-dragon-das-konzert-2/",
+      "tags": []
+    },
+    {
+      "title": "DR. MARK BENECKE 2027",
+      "date": "27.Jan",
+      "startDate": "2027-01-27",
+      "endDate": "2027-01-27",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Mark-Benecke-2027-9f87bcdf.jpg",
+      "link": "https://www.mvgm.de/de/event/dr-mark-benecke-2027/",
       "tags": []
     },
     {
@@ -1554,6 +1576,17 @@
       "tags": []
     },
     {
+      "title": "TONI KRAHL UND DIE KINX VOM PRENZLAUER BERG - TOUR 2027",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/79735-03-ToniKrahl-Credit-MichaelPetersohn-bad834c9.webp",
+      "link": "https://www.mvgm.de/de/event/toni-krahl-und-die-kinx-vom-prenzlauer-berg-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "RIVERDANCE 30 JAHRE",
       "date": "12.Feb",
       "startDate": "2027-02-12",
@@ -1576,6 +1609,17 @@
       "tags": []
     },
     {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
       "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
       "date": "22.Feb",
       "startDate": "2027-02-22",
@@ -1587,6 +1631,17 @@
       "tags": []
     },
     {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -1617,6 +1672,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -1719,6 +1785,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -1749,6 +1826,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -1851,6 +1939,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -1881,6 +2046,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -1983,6 +2159,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -2013,6 +2200,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -2115,6 +2313,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -2145,6 +2420,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -2247,6 +2533,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -2277,6 +2574,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -2379,6 +2687,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -2409,6 +2794,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -2511,6 +2907,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -2541,6 +2948,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -2643,6 +3061,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -2673,6 +3168,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -2775,6 +3281,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -2805,6 +3322,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -2907,6 +3435,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -2937,6 +3542,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -3039,6 +3655,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -3069,6 +3696,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -3171,6 +3809,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -3201,6 +3916,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -3303,6 +4029,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -3333,6 +4070,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -3435,6 +4183,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -3465,6 +4290,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -3567,6 +4403,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -3597,6 +4444,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -3699,6 +4557,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -3729,6 +4664,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -3831,6 +4777,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -3861,6 +4818,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -3963,6 +4931,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -3993,6 +5038,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -4095,6 +5151,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -4125,6 +5192,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -4227,6 +5305,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -4257,6 +5412,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -4359,6 +5525,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -4389,6 +5566,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -4491,6 +5679,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -4521,6 +5786,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -4623,6 +5899,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -4653,6 +5940,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -4755,6 +6053,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -4785,6 +6160,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -4887,6 +6273,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -4917,6 +6314,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -5019,6 +6427,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -5049,6 +6534,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -5151,6 +6647,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -5181,6 +6688,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -5283,6 +6801,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -5313,6 +6908,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -5415,6 +7021,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -5445,6 +7062,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -5547,6 +7175,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -5577,6 +7282,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -5679,6 +7395,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -5709,6 +7436,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -5811,6 +7549,83 @@
       "tags": []
     },
     {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "RIVERDANCE 30 JAHRE",
+      "date": "12.Feb",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
+      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
+      "tags": []
+    },
+    {
+      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
+      "date": "13.Feb",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
+      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
+      "tags": []
+    },
+    {
+      "title": "BEAT IT! – DIE ERFOLGSSHOW ÜBER DEN KING OF POP!",
+      "date": "21.Feb",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/Anzeige-BEAT-IT138-x-80-mm-e0a8f2a2.jpg",
+      "link": "https://www.mvgm.de/de/event/beat-it-die-erfolgsshow-ueber-den-king-of-pop/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
       "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
       "date": "02.Mär",
       "startDate": "2027-03-02",
@@ -5841,6 +7656,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
       "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
       "tags": []
     },
     {
@@ -5943,6 +7769,17 @@
       "tags": []
     },
     {
+      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
+      "date": "22.Apr",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
+      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
       "title": "MUSIKPARADE – DIE NEUE SHOW 2027",
       "date": "24.Apr",
       "startDate": "2027-04-24",
@@ -5973,6 +7810,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
       "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -6072,6 +7920,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/andrea-berg-tour2027-7bab9cce.jpg",
       "link": "https://www.mvgm.de/de/event/andrea-berg-3/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
       "tags": []
     }
   ]
