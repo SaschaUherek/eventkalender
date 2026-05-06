@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-05-05T01:29:15.683Z",
+  "scraped_at": "2026-05-06T01:27:46.490Z",
   "events": [
-    {
-      "title": "ALEXANDER STEVENS & JACQUELINE BELLE - TRUE CRIME - TOXIC LOVE",
-      "date": "05.Mai",
-      "startDate": "2026-05-05",
-      "endDate": "2026-05-05",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/toxic-love-true-crime-new-fb-post-1200x628-zst-0446cc76.png",
-      "link": "https://www.mvgm.de/de/event/alexander-stevens-jacqueline-belle-true-crime-toxic-love/",
-      "tags": []
-    },
     {
       "title": "THE MAGIC NIGHT OF DANCE MUSICALS",
       "date": "07.Mai",
@@ -220,17 +209,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/b/touring-osan-yaran-stage-s-3840x1040-2025-ec563979.jpg",
       "link": "https://www.mvgm.de/de/event/osan-yaran-aus-prinzip-2/",
-      "tags": []
-    },
-    {
-      "title": "DA PACEM - KONZERT KAMMERORCHESTER DES KONSERVATORIUMS",
-      "date": "24.Mai",
-      "startDate": "2026-05-24",
-      "endDate": "2026-05-24",
-      "location": "Johanniskirche",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/b/da-pacem-ade85215.jpg",
-      "link": "https://www.mvgm.de/de/event/da-pacem-konzert-kammerorchester-des-konservatoriums/",
       "tags": []
     },
     {
@@ -1906,6 +1884,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -1958,28 +1958,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -2280,6 +2258,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -2332,28 +2332,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -2654,6 +2632,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -2706,28 +2706,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -3028,6 +3006,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -3080,28 +3080,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -3402,6 +3380,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -3454,28 +3454,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -3776,6 +3754,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -3828,28 +3828,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -4150,6 +4128,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -4202,28 +4202,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -4524,6 +4502,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -4576,28 +4576,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -4898,6 +4876,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -4950,28 +4950,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -5272,6 +5250,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -5324,28 +5324,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -5646,6 +5624,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -5698,28 +5698,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -6020,6 +5998,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -6072,28 +6072,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -6394,6 +6372,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -6446,28 +6446,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -6768,6 +6746,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -6820,28 +6820,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -7142,6 +7120,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -7194,28 +7194,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -7516,6 +7494,28 @@
       "tags": []
     },
     {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
+      "tags": []
+    },
+    {
       "title": "TORSTEN STRÄTER",
       "date": "29.Okt",
       "startDate": "2026-10-29",
@@ -7568,28 +7568,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "RIVERDANCE 30 JAHRE",
-      "date": "12.Feb",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Riverdance-c0a4afca.jpg",
-      "link": "https://www.mvgm.de/de/event/riverdance-30-jahre/",
-      "tags": []
-    },
-    {
-      "title": "MONIKA GRUBER - ES HUIFT JA NIX",
-      "date": "13.Feb",
-      "startDate": "2027-02-13",
-      "endDate": "2027-02-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/3/Monika-Gruber-Es-huift-ja-nix-c-Starupphoto-05e1904a.jpg",
-      "link": "https://www.mvgm.de/de/event/monika-gruber-es-huift-ja-nix/",
       "tags": []
     },
     {
@@ -7887,6 +7865,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "CONNI - DAS MUSICAL",
+      "date": "16.Okt",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
+      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
+      "tags": []
+    },
+    {
+      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
+      "date": "29.Okt",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
