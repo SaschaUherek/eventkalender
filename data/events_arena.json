@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-05-08T01:48:54.576Z",
+  "scraped_at": "2026-05-09T01:44:42.149Z",
   "events": [
-    {
-      "title": "Frei.Wild",
-      "date": "Freitag, 08.05.2026",
-      "startDate": "2026-05-08",
-      "endDate": "2026-05-08",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/4/6/csm_FW_Press_5_f0198bebbe.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/freiwild/923",
-      "tags": []
-    },
     {
       "title": "Schiller",
       "date": "Samstag, 09.05.2026",
@@ -631,6 +620,17 @@
     },
     {
       "title": "Ehrlich Brothers",
+      "date": "Freitag, 08.01.2027",
+      "startDate": "2027-01-08",
+      "endDate": "2027-01-08",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/4/9/csm_EB-WONDERWORLD_SocialMedia_4zu3_e746174d33.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ehrlich-brothers/1052",
+      "tags": []
+    },
+    {
+      "title": "Ehrlich Brothers",
       "date": "Samstag, 09.01.2027",
       "startDate": "2027-01-09",
       "endDate": "2027-01-09",
@@ -669,7 +669,7 @@
       "endDate": "2027-01-13",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/files/user_upload/veranstaltungen/Konzert_Show/2027-01-13_Feuerwerk_der_Turnkunst/FW27_hope_SoMe_4zu5.png",
+      "image": "/fileadmin/_processed_/files_user/3/c/csm_FW27_hope_SoMe_4zu5_c9f9a7f06d.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/feuerwerk-der-turnkunst-1/1016",
       "tags": []
     },
@@ -680,7 +680,7 @@
       "endDate": "2027-01-14",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/files/user_upload/veranstaltungen/Konzert_Show/2027-01-13_Feuerwerk_der_Turnkunst/FW27_hope_SoMe_4zu5.png",
+      "image": "/fileadmin/_processed_/files_user/3/c/csm_FW27_hope_SoMe_4zu5_c9f9a7f06d.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/feuerwerk-der-turnkunst-1/1017",
       "tags": []
     },
