@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-05-13T01:51:44.991Z",
+  "scraped_at": "2026-05-14T01:54:30.360Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1794,7 +1794,7 @@
       "location": "Chiba, Japan",
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-grinding.jpg",
-      "link": "mailto:m.aljoschin@LM-international.com",
+      "link": "https://www.lm-international.com/bb_gtj_2027",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
