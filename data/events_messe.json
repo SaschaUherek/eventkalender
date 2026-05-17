@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-05-16T01:45:10.999Z",
+  "scraped_at": "2026-05-17T01:49:25.274Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1851,6 +1851,17 @@
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
+    },
+    {
+      "title": "CAGGTUS Leipzig",
+      "startDate": "2027-04-09",
+      "endDate": "2027-04-11",
+      "date": "2027-04-09 – 2027-04-11",
+      "location": "Leipziger Messe",
+      "description": "Die CAGGTUS Leipzig ist das Gaming-Festival in Leipzig und bringt alle zusammen, die Gaming lieben. Hier trifft sich die Community und feiert gemeinsam ein langes Wochenende – in der virtuellen und der realen Welt. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-caggtus.jpg",
+      "link": "https://www.caggtus.de",
+      "tags": []
     },
     {
       "title": "NIGHT OF FREESTYLE",
