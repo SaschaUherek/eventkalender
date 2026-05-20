@@ -1,7 +1,29 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-05-19T01:59:36.057Z",
+  "scraped_at": "2026-05-20T01:59:32.607Z",
   "events": [
+    {
+      "title": "MAGDEBURGER DEVELOPER DAYS 2026",
+      "date": "20.Mai",
+      "startDate": "2026-05-20",
+      "endDate": "2026-05-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/MDD-Logo-17fb4be5.png",
+      "link": null,
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER DEVELOPER DAYS 2026",
+      "date": "21.Mai",
+      "startDate": "2026-05-21",
+      "endDate": "2026-05-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/MDD-Logo-17fb4be5.png",
+      "link": null,
+      "tags": []
+    },
     {
       "title": "SC MAGDEBURG - SG FLENSBURG-HANDEWITT",
       "date": "21.Mai",
@@ -11,6 +33,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/2/getec-arena-handball-011-foto-andreas-lander-6dd2f3cb.jpg",
       "link": "https://www.mvgm.de/de/event/sc-magdeburg-sg-flensburg-handewitt-5/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER DEVELOPER DAYS 2026",
+      "date": "22.Mai",
+      "startDate": "2026-05-22",
+      "endDate": "2026-05-22",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/MDD-Logo-17fb4be5.png",
+      "link": null,
       "tags": []
     },
     {
@@ -198,39 +231,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/Johanniskirche-Sinfoniekonzert-2cc1e4fa.jpg",
       "link": "https://www.mvgm.de/de/event/sinfonieorchester-md-musikfreunde-e-v-klang-wellen/",
-      "tags": []
-    },
-    {
-      "title": "MAGDEBURGER DEVELOPER DAYS 2026",
-      "date": "18.Jun",
-      "startDate": "2026-06-18",
-      "endDate": "2026-06-18",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/MDD-Logo-17fb4be5.png",
-      "link": null,
-      "tags": []
-    },
-    {
-      "title": "MAGDEBURGER DEVELOPER DAYS 2026",
-      "date": "19.Jun",
-      "startDate": "2026-06-19",
-      "endDate": "2026-06-19",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/MDD-Logo-17fb4be5.png",
-      "link": null,
-      "tags": []
-    },
-    {
-      "title": "MAGDEBURGER DEVELOPER DAYS 2026",
-      "date": "20.Jun",
-      "startDate": "2026-06-20",
-      "endDate": "2026-06-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/MDD-Logo-17fb4be5.png",
-      "link": null,
       "tags": []
     },
     {
