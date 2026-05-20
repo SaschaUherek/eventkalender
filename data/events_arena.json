@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-05-19T01:59:09.959Z",
+  "scraped_at": "2026-05-20T01:59:01.491Z",
   "events": [
     {
       "title": "SC DHfK -  MT Melsungen",
@@ -55,6 +55,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/b/3/csm_Pressshot20251_Calum_Scott_Credit_Tom_Cockram_e98a8607ac.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/calum-scott/1003",
+      "tags": []
+    },
+    {
+      "title": "SC DHfK - GWD Minden",
+      "date": "Sonntag, 07.06.2026",
+      "startDate": "2026-06-07",
+      "endDate": "2026-06-07",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/a/5/csm_17_4zu3_Minden_9a2a431658.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-gwd-minden/1025",
       "tags": []
     },
     {
@@ -946,6 +957,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/d/f/csm_260320_ABBAMania27_Blanko_Story_9x16_fe158bfe13.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/abbamania-the-show/1033",
+      "tags": []
+    },
+    {
+      "title": "André Rieu",
+      "date": "Mittwoch, 26.05.2027",
+      "startDate": "2027-05-26",
+      "endDate": "2027-05-26",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/a/2/csm_AR-Artwork2027-SQUARE_0535da22d0.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/andre-rieu/1053",
       "tags": []
     },
     {
