@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-05-21T01:58:10.242Z",
+  "scraped_at": "2026-05-22T02:00:06.145Z",
   "events": [
-    {
-      "title": "SC DHfK -  MT Melsungen",
-      "date": "Donnerstag, 21.05.2026",
-      "startDate": "2026-05-21",
-      "endDate": "2026-05-21",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/b/e/csm_16_4zu3_Melsungen_f105be923d.png",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-mt-melsungen-1/1024",
-      "tags": []
-    },
     {
       "title": "Night of the Jumps",
       "date": "Samstag, 23.05.2026",
@@ -1056,6 +1045,28 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/5/d/csm_Pressegrafik_RALF_SCHMITZ_Schmitzmaen__c__HPR_Kuenstler___Medien_GmbH_klein_3e77e6b13e.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ralf-schmitz-1/1005",
+      "tags": []
+    },
+    {
+      "title": "DRACULA",
+      "date": "Dienstag, 14.12.2027",
+      "startDate": "2027-12-14",
+      "endDate": "2027-12-14",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/0/8/csm_DRACULA_Keyvisual_1748x1240_ac8b149d38.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/dracula/1054",
+      "tags": []
+    },
+    {
+      "title": "DRACULA",
+      "date": "Mittwoch, 15.12.2027",
+      "startDate": "2027-12-15",
+      "endDate": "2027-12-15",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/0/8/csm_DRACULA_Keyvisual_1748x1240_ac8b149d38.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/dracula/1055",
       "tags": []
     },
     {
