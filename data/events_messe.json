@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-05-22T01:59:14.467Z",
+  "scraped_at": "2026-05-23T01:49:53.468Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1913,19 +1913,6 @@
       "description": "Die therapie LEIPZIG zeigt, was morgen möglich ist. Als deutschlandweit größte Plattform für medizinische Rehabilitation und Prävention bietet sie Therapeuten, Medizinern und Entscheidern eine enorme Bandbreite an innovativen Lösungen und fortschrittlichen Konzepten.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-therapie-lpz.jpg",
       "link": "https://www.therapie-leipzig.de",
-      "tags": [
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "CosmeticBusiness",
-      "startDate": "2027-06-09",
-      "endDate": "2027-06-10",
-      "date": "2027-06-09 – 2027-06-10",
-      "location": "München",
-      "description": "Die CosmeticBusiness ist die Leitmesse für die Kosmetikindustrie im deutschsprachigen Raum. Sie ist unverzichtbarer Impulsgeber für erfolgreiche Produktentwicklungen in Deutschland, Österreich und der Schweiz. Die Fachmesse inspiriert mit Neuheiten und Trends entlang der gesamten Wertschöpfungskette – vom Inhaltsstoff bis zur Verpackung. Fachbesucher aus Entwicklung und Beschaffung schätzen das effiziente Netzwerken mit ihrem internationalen Lieferanten-Universum an nur einem Ort.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cosmetic-business.jpg",
-      "link": "https://www.cosmetic-business.com/de/",
       "tags": [
         "Nur für Fachbesucher"
       ]
