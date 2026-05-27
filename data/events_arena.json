@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-05-26T01:55:16.700Z",
+  "scraped_at": "2026-05-27T02:03:35.845Z",
   "events": [
     {
       "title": "André Rieu",
@@ -693,6 +693,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/b/3/csm_2025-01-10_olaf-schubert-und-freunde-large__c_Amac_Garbe_4c700f308b.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/olaf-schubert-und-seine-freunde/897",
+      "tags": []
+    },
+    {
+      "title": "Electric Callboy",
+      "date": "Dienstag, 02.03.2027",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/7/4/csm_2026-05-22_Pressebild__c_Christian_Ripkens_c1f6235a84.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/electric-callboy/1056",
       "tags": []
     },
     {
