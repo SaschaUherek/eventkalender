@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-05-29T01:57:10.641Z",
+  "scraped_at": "2026-05-30T01:52:33.865Z",
   "events": [
-    {
-      "title": "HERR SCHRÖDER „DER REST IST HAUSAUFGABE\"",
-      "date": "29.Mai",
-      "startDate": "2026-05-29",
-      "endDate": "2026-05-29",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Pressefoto-HERR-SCHRoeDER-Der-Rest-ist-Hausaugabe-c-Boris-Breuer-web-dda185e9.jpg",
-      "link": "https://www.mvgm.de/de/event/herr-schroeder-der-rest-ist-hausaufgabe-2/",
-      "tags": []
-    },
     {
       "title": "SES BOX-GALA BOXEN LIVE: \"DER WM SHOWDOWN\" ROMAN FRESS VS. TOMMY PUNCH",
       "date": "30.Mai",
@@ -113,6 +102,28 @@
       "tags": []
     },
     {
+      "title": "PFLANZEN FÜR ALLE | 11.06.",
+      "date": "11.Jun",
+      "startDate": "2026-06-11",
+      "endDate": "2026-06-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/AMO-Mai-2016_001_Foto_Andreas_Lander-1e92c2ab.jpg",
+      "link": "https://www.mvgm.de/de/event/pflanzen-fuer-alle/",
+      "tags": []
+    },
+    {
+      "title": "PFLANZEN FÜR ALLE | 12.06.",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/AMO-Mai-2016_001_Foto_Andreas_Lander-1e92c2ab.jpg",
+      "link": "https://www.mvgm.de/de/event/pflanzen-fuer-alle-12-06/",
+      "tags": []
+    },
+    {
       "title": "DJ BOBO ARENA TOUR 2026",
       "date": "12.Jun",
       "startDate": "2026-06-12",
@@ -121,6 +132,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/CJ-Bobo-FB-Event-Cover-Magdeburg-712ee393.jpg",
       "link": "https://www.mvgm.de/de/event/dj-bobo-arena-tour-2026/",
+      "tags": []
+    },
+    {
+      "title": "PFLANZEN FÜR ALLE | 13.06.",
+      "date": "13.Jun",
+      "startDate": "2026-06-13",
+      "endDate": "2026-06-13",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/AMO-Mai-2016_001_Foto_Andreas_Lander-1e92c2ab.jpg",
+      "link": "https://www.mvgm.de/de/event/pflanzen-fuer-alle-13-06/",
       "tags": []
     },
     {
@@ -143,6 +165,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/d/Elbauenpark-Prinzessinnentag-Foto-Andreas-Lander-10082025-MVGM-GmbH-008-f88cbc1b.jpg",
       "link": "https://www.mvgm.de/de/event/prinzessinnentag-2026-2/",
+      "tags": []
+    },
+    {
+      "title": "REFORMATIONSGEDENKEN 2026",
+      "date": "26.Jun",
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-26",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/MVGM-Johanniskirche-001-Foto-Andreas-Lander-1295d2cd.jpg",
+      "link": "https://www.mvgm.de/de/event/reformationsgedenken-2026/",
+      "tags": []
+    },
+    {
+      "title": "DER GROSSE WOBAU-FERIENSPASS 2026",
+      "date": "27.Jun",
+      "startDate": "2026-06-27",
+      "endDate": "2026-06-27",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/b/engelhardt-events-xxl-riesenparkour-051-foto-andreas-lander-1-d668126c.jpg",
+      "link": "https://www.mvgm.de/de/event/der-grosse-wobau-ferienspass-2026/",
       "tags": []
     },
     {
@@ -1279,6 +1323,17 @@
       "tags": []
     },
     {
+      "title": "DAS SCHLAGER MUSICAL - AB IN DEN SÜDEN 2026/2027",
+      "date": "06.Jan",
+      "startDate": "2027-01-06",
+      "endDate": "2027-01-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/ab-in-den-sueden-tickets-header-027c00cb.jpg",
+      "link": "https://www.mvgm.de/de/event/das-schlager-musical-ab-in-den-sueden-2026-2027/",
+      "tags": []
+    },
+    {
       "title": "BALLETT \"NUSSKNACKER\" | KLASSISCHES ETOILE BALLETT",
       "date": "09.Jan",
       "startDate": "2027-01-09",
@@ -1433,6 +1488,17 @@
       "tags": []
     },
     {
+      "title": "DREI HASELNÜSSE FÜR ASCHENBRÖDEL - DAS MUSICAL | 08.02.",
+      "date": "08.Feb",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/3HNFA-KV-LS-3881849e.jpg",
+      "link": "https://www.mvgm.de/de/event/drei-haselnuesse-fuer-aschenbroedel-das-musical-08-02/",
+      "tags": []
+    },
+    {
       "title": "LOVER-A TRIBUTE TO TAYLOR SWIFT",
       "date": "08.Feb",
       "startDate": "2027-02-08",
@@ -1441,6 +1507,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Charity-eden-Lover-Pink-Stage-c-Charity-Eden-087625cf.jpg",
       "link": "https://www.mvgm.de/de/event/lover-a-tribute-to-taylor-swift/",
+      "tags": []
+    },
+    {
+      "title": "DREI HASELNÜSSE FÜR ASCHENBRÖDEL - DAS MUSICAL | 09.02.",
+      "date": "09.Feb",
+      "startDate": "2027-02-09",
+      "endDate": "2027-02-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/3HNFA-KV-LS-3881849e.jpg",
+      "link": "https://www.mvgm.de/de/event/drei-haselnuesse-fuer-aschenbroedel-das-musical-09-02/",
+      "tags": []
+    },
+    {
+      "title": "DREI HASELNÜSSE FÜR ASCHENBRÖDEL - DAS MUSICAL | 10.02.",
+      "date": "10.Feb",
+      "startDate": "2027-02-10",
+      "endDate": "2027-02-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/3HNFA-KV-LS-3881849e.jpg",
+      "link": "https://www.mvgm.de/de/event/drei-haselnuesse-fuer-aschenbroedel-das-musical-10-02/",
       "tags": []
     },
     {
@@ -1576,6 +1664,17 @@
       "tags": []
     },
     {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
       "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
       "date": "12.Mär",
       "startDate": "2027-03-12",
@@ -1620,6 +1719,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -1741,6 +1851,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -1749,6 +1870,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -1840,6 +1972,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -1851,6 +1994,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -1859,6 +2013,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -1936,6 +2101,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -1972,6 +2247,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -2093,6 +2379,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -2101,6 +2398,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -2192,6 +2500,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -2203,6 +2522,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -2211,6 +2541,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -2288,6 +2629,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -2324,6 +2775,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -2445,6 +2907,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -2453,6 +2926,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -2544,6 +3028,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -2555,6 +3050,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -2563,6 +3069,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -2640,6 +3157,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -2676,6 +3303,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -2797,6 +3435,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -2805,6 +3454,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -2896,6 +3556,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -2907,6 +3578,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -2915,6 +3597,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -2992,6 +3685,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -3028,6 +3831,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -3149,6 +3963,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -3157,6 +3982,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -3248,6 +4084,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -3259,6 +4106,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -3267,6 +4125,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -3344,6 +4213,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -3380,6 +4359,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -3501,6 +4491,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -3509,6 +4510,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -3600,6 +4612,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -3611,6 +4634,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -3619,6 +4653,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -3696,6 +4741,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -3732,6 +4887,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -3853,6 +5019,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -3861,6 +5038,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -3952,6 +5140,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -3963,6 +5162,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -3971,6 +5181,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -4048,6 +5269,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -4084,6 +5415,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -4205,6 +5547,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -4213,6 +5566,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -4304,6 +5668,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -4315,6 +5690,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -4323,6 +5709,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -4400,6 +5797,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -4436,6 +5943,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -4557,6 +6075,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -4565,6 +6094,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -4656,6 +6196,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -4667,6 +6218,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -4675,6 +6237,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -4752,6 +6325,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -4788,6 +6471,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -4909,6 +6603,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -4917,6 +6622,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -5008,6 +6724,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -5019,6 +6746,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -5027,6 +6765,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -5104,6 +6853,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -5140,6 +6999,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -5261,6 +7131,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -5269,6 +7150,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -5360,6 +7252,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -5371,6 +7274,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -5379,6 +7293,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -5456,6 +7381,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -5492,6 +7527,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -5613,6 +7659,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -5621,6 +7678,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -5712,6 +7780,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -5723,6 +7802,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -5731,6 +7821,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -5808,6 +7909,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -5844,6 +8055,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -5965,6 +8187,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -5973,6 +8206,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -6064,6 +8308,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -6075,6 +8330,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -6083,6 +8349,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -6160,6 +8437,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -6196,6 +8583,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -6317,6 +8715,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -6325,6 +8734,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -6416,6 +8836,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -6427,6 +8858,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -6435,6 +8877,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -6512,6 +8965,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -6548,6 +9111,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -6669,6 +9243,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -6677,6 +9262,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -6768,6 +9364,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -6779,6 +9386,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -6787,6 +9405,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -6864,6 +9493,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -6900,6 +9639,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -7021,6 +9771,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -7029,6 +9790,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -7120,6 +9892,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -7131,6 +9914,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -7139,6 +9933,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -7216,6 +10021,116 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
+      "tags": []
+    },
+    {
+      "title": "SCHNEEWITTCHEN UND DIE 7 BOYBANDS",
+      "date": "02.Mär",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Schneewittchen-und-die-sieben-Boybands-e11897a2.png",
+      "link": "https://www.mvgm.de/de/event/schneewittchen-und-die-7-boybands/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 13 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-13-uhr/",
+      "tags": []
+    },
+    {
+      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
+      "date": "06.Mär",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
+      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
+      "tags": []
+    },
+    {
+      "title": "DRACULA - DAS BÖSE HAT EINEN NAMEN",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/DRACULA-2000x1250px-neu-c-Genius-Concerts-c9a810db.png",
+      "link": "https://www.mvgm.de/de/event/dracula-das-boese-hat-einen-namen/",
+      "tags": []
+    },
+    {
+      "title": "MESSE MAGDEBOOT 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/MVGM_Messe_Magdeburg_Magdeboot_Foto_Andreas_Lander_008-0488943d.jpg",
+      "link": "https://www.mvgm.de/de/event/messe-magdeboot-2027/",
+      "tags": []
+    },
+    {
+      "title": "GOLDEN ACE - DIE MAGIER 2027",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Golden-Ace-98256cbc.png",
+      "link": "https://www.mvgm.de/de/event/golden-ace-die-magier-2027/",
+      "tags": []
+    },
+    {
+      "title": "INA MÜLLER UND BAND: DIE 6.0 TOUR",
+      "date": "12.Mär",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Pressefoto-Ina-Mueller-und-Band-Die-6-0-Tour-web-5b1688a5.png",
+      "link": "https://www.mvgm.de/de/event/ina-mueller-und-band-die-6-0-tour/",
       "tags": []
     },
     {
@@ -7252,6 +10167,17 @@
       "tags": []
     },
     {
+      "title": "MONO INC. SYMPHONIC SHOWS · TOUR 2027",
+      "date": "03.Apr",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-03",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Mono-Inc-81129cd4.jpg",
+      "link": "https://www.mvgm.de/de/event/mono-inc-symphonic-shows-tour-2027/",
+      "tags": []
+    },
+    {
       "title": "OLD SHATTERHAND UNTER KOJOTEN - HARDY KRÜGER JR. + RADIOLIVETHEATER",
       "date": "07.Apr",
       "startDate": "2027-04-07",
@@ -7373,6 +10299,17 @@
       "tags": []
     },
     {
+      "title": "MANFRED MANN´S EARTH BAND 2027",
+      "date": "21.Apr",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-21",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
+      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
+      "tags": []
+    },
+    {
       "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
       "date": "22.Apr",
       "startDate": "2027-04-22",
@@ -7381,6 +10318,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
       "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
+      "tags": []
+    },
+    {
+      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
+      "date": "23.Apr",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-23",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
+      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -7472,6 +10420,17 @@
       "tags": []
     },
     {
+      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
+      "date": "12.Jun",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
+      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
+      "tags": []
+    },
+    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -7483,6 +10442,17 @@
       "tags": []
     },
     {
+      "title": "BERNHARD BRINK – DANKE FÜR DIE ZEIT!",
+      "date": "06.Sep",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/bernhard-brink-tickets-header-ef628938.jpg",
+      "link": "https://www.mvgm.de/de/event/bernhard-brink-danke-fuer-die-zeit/",
+      "tags": []
+    },
+    {
       "title": "MICHAEL MITTERMEIER - OLDBOY... SIND WIR BALD DA?",
       "date": "11.Sep",
       "startDate": "2026-09-11",
@@ -7491,6 +10461,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "FANTASY - 30 JAHRE FANTASY",
+      "date": "05.Okt",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
+      "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
       "tags": []
     },
     {
@@ -7568,6 +10549,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
       "tags": []
     }
   ]
