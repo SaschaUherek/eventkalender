@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-06-01T02:12:37.682Z",
+  "scraped_at": "2026-06-02T02:13:17.116Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1018,6 +1018,19 @@
       "tags": []
     },
     {
+      "title": "Impericon Festival 2026",
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-27",
+      "date": "2026-06-26 – 2026-06-27",
+      "location": "Leipziger Messe",
+      "description": "Das Impericon Festival ist das Metalcore und Hardcore Festival in Leipzig.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2025/master-impericon.jpg",
+      "link": "https://www.impericon.com/de/pages/festival",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "UPDATE Hämatologie / Onkologie 2026",
       "startDate": "2026-07-03",
       "endDate": "2026-07-04",
@@ -1688,6 +1701,19 @@
       ]
     },
     {
+      "title": "DIAM & DDM Süd",
+      "startDate": "2027-02-03",
+      "endDate": "2027-02-04",
+      "date": "2027-02-03 – 2027-02-04",
+      "location": "Heilbronn",
+      "description": "Die DIAM & DDM ist der größte nationale Branchentreff für Industriearmaturen und Dichtungstechnik – ein exklusives Forum, das sich als feste Größe im Messekalender etabliert hat. Hier treffen sich Profis, um Innovationen zu präsentieren, wertvolle Kontakte zu knüpfen und in einem starken Netzwerk zusammenzuarbeiten. Ein vielfältiges Rahmen-, Workshop- und Vortragsprogramm sorgt für direkten Austausch und echte Mehrwerte. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-diam.jpg",
+      "link": "https://www.diam-ddm.com/",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "VetMed",
       "startDate": "2027-02-05",
       "endDate": "2027-02-06",
@@ -1891,6 +1917,20 @@
       ]
     },
     {
+      "title": "Messekongress Schadenmanagement & Assistance",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-23",
+      "date": "2027-04-22 – 2027-04-23",
+      "location": "CCL",
+      "description": "Entscheidungsträger der Versicherungsunternehmen, Sachverständiger, Makler, Assekuradeure sowie Dienstleister treffen sich in Leipzig zum Schadenhighlight der Branche. Die Kombination aus Fachkongress und Fachmesse bietet ein perfektes Umfeld, um Schadenthemen zu diskutieren, Innovationen und hochaktuelle Produktideen kennenzulernen, Jahresgespräche zu führen sowie Partner, Kollegen und Freunde zu treffen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2021/master-messekongress-schaden.jpg",
+      "link": "https://www.versicherungsforen.net/messekongress-schadenmanagement-assistance",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "108. Deutscher Röntgenkongress (RÖKO LEIPZIG 2027)",
       "startDate": "2027-05-05",
       "endDate": "2027-05-07",
@@ -2018,6 +2058,19 @@
       "description": "Die ISS GUT! ist die führende Fachmesse für den gesamten Außer-Haus-Markt in Ostdeutschland. Sie ist Plattform für Produkte, Leistungen und Trends aus dem Gastgewerbe und der Ernährungswirtschaft. Als Branchentreff für Gastronomen, Hoteliers, Caterer, Bäcker, Fleischer und der Gemeinschaftsverpflegung rückt die ISS GUT! die Themen Regionale Produkte, Digitalisierung und Nachhaltigkeit besonders in den Fokus.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-iss-gut-ut.jpg",
       "link": "http://www.iss-gut-leipzig.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "DIAM & DDM West",
+      "startDate": "2027-11-17",
+      "endDate": "2027-11-18",
+      "date": "2027-11-17 – 2027-11-18",
+      "location": "Bochum",
+      "description": "Die DIAM & DDM ist der größte nationale Branchentreff für Industriearmaturen und Dichtungstechnik – ein exklusives Forum, das sich als feste Größe im Messekalender etabliert hat. Hier treffen sich Profis, um Innovationen zu präsentieren, wertvolle Kontakte zu knüpfen und in einem starken Netzwerk zusammenzuarbeiten. Ein vielfältiges Rahmen-, Workshop- und Vortragsprogramm sorgt für direkten Austausch und echte Mehrwerte. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-diam.jpg",
+      "link": "https://www.diam-ddm.de/bochum.html",
       "tags": [
         "Nur für Fachbesucher"
       ]
