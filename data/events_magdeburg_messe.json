@@ -1,27 +1,16 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-06-02T02:14:17.878Z",
+  "scraped_at": "2026-06-03T02:31:55.563Z",
   "events": [
     {
       "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
-      "date": "02.Jun",
-      "startDate": "2026-06-02",
-      "endDate": "2026-06-02",
+      "date": "03.Jun",
+      "startDate": "2026-06-03",
+      "endDate": "2026-06-03",
       "location": "Jahrtausendturm",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
       "link": "https://www.mvgm.de/de/event/jahrtausendturm-sonderausstellung-lego-r-mobil-ausstellung-rund-um-die-staunenswerte-welt-der-lego-r-fahrzeuge-kopie/",
-      "tags": []
-    },
-    {
-      "title": "GRILL DEN HENSSLER - SOMMER SPECIAL 02.06.2026",
-      "date": "02.Jun",
-      "startDate": "2026-06-02",
-      "endDate": "2026-06-02",
-      "location": "Seebühne",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/7/20210612-Grill-den-Henssler-da40a5e0.jpg",
-      "link": "https://www.mvgm.de/de/event/grill-den-henssler-sommer-special-02-06-2026/",
       "tags": []
     },
     {
@@ -1972,17 +1961,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -2024,28 +2002,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -2101,28 +2057,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -2500,17 +2434,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -2552,28 +2475,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -2629,28 +2530,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -3028,17 +2907,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -3080,28 +2948,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -3157,28 +3003,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -3556,17 +3380,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -3608,28 +3421,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -3685,28 +3476,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -4084,17 +3853,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -4136,28 +3894,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -4213,28 +3949,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -4612,17 +4326,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -4664,28 +4367,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -4741,28 +4422,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -5140,17 +4799,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -5192,28 +4840,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -5269,28 +4895,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -5668,17 +5272,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -5720,28 +5313,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -5797,28 +5368,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -6196,17 +5745,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -6248,28 +5786,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -6325,28 +5841,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -6724,17 +6218,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -6776,28 +6259,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -6853,28 +6314,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -7252,17 +6691,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -7304,28 +6732,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -7381,28 +6787,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -7780,17 +7164,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -7832,28 +7205,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -7909,28 +7260,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -8308,17 +7637,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -8360,28 +7678,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -8437,28 +7733,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -8836,17 +8110,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -8888,28 +8151,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -8965,28 +8206,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -9364,17 +8583,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -9416,28 +8624,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -9493,28 +8679,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -9892,17 +9056,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -9944,28 +9097,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -10021,28 +9152,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
-      "date": "22.Feb",
-      "startDate": "2027-02-22",
-      "endDate": "2027-02-22",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
-      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
       "tags": []
     },
     {
@@ -10420,17 +9529,6 @@
       "tags": []
     },
     {
-      "title": "SMOKIE - THE GREATEST HITS - LIVE 2027",
-      "date": "12.Jun",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-12",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/1920x1080-ba4595bd.jpg",
-      "link": "https://www.mvgm.de/de/event/smokie-the-greatest-hits-live-2027/",
-      "tags": []
-    },
-    {
       "title": "THE MUSIC OF QUEEN LIVE 2027",
       "date": "03.Sep",
       "startDate": "2026-09-03",
@@ -10472,28 +9570,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/Fantasy-1170519-Lars-Laion-klein-002-7b450dea.jpg",
       "link": "https://www.mvgm.de/de/event/fantasy-30-jahre-fantasy/",
-      "tags": []
-    },
-    {
-      "title": "CONNI - DAS MUSICAL",
-      "date": "16.Okt",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/250928-Conni-Musical-Cocomico-deHaar-DSC7844-6ca1d268.jpg",
-      "link": "https://www.mvgm.de/de/event/conni-das-musical/",
-      "tags": []
-    },
-    {
-      "title": "BEYOND THE HORIZON - THE SOUNDS OF VANGELIS",
-      "date": "29.Okt",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/1920x1080-1c4c2ee9.jpg",
-      "link": "https://www.mvgm.de/de/event/strong-beyond-the-horizon-the-sounds-of-vangelis-strong/",
       "tags": []
     },
     {
@@ -10549,17 +9625,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-212b5c3a.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
       "tags": []
     }
   ]
