@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-06-03T02:30:51.055Z",
+  "scraped_at": "2026-06-04T02:28:11.270Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1084,6 +1084,20 @@
       ]
     },
     {
+      "title": "Glasfaserforum Sachsen",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-01",
+      "date": "2026-09-01 – 2026-09-01",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Das Glasfaserforum Sachsen nimmt in diesem Jahr mehrere Themen in den Fokus. Im Mittelpunkt stehen die Novellierung des Telekommunikationsgesetzes, die Zukunft des Glasfaserausbaus sowie die Frage, wie Energiewende und digitale Infrastruktur zusammengedacht werden können. Darüber hinaus wird die Bedeutung von Rechenzentren für Sachsen beleuchtet. Praxisbeispiele zeigen zudem, welchen Mehrwert Digitalisierung heute und künftig für Gesellschaft und Wirtschaft schafft. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-glasfaserforum-2026.jpg",
+      "link": "https://www.netze-on.de/de/glasfaserforum/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "29. Jobmesse Leipzig",
       "startDate": "2026-09-04",
       "endDate": "2026-09-05",
@@ -1275,19 +1289,6 @@
       ]
     },
     {
-      "title": "DIAM & DDM",
-      "startDate": "2026-09-30",
-      "endDate": "2026-10-01",
-      "date": "2026-09-30 – 2026-10-01",
-      "location": "Leipzig/Schkeuditz",
-      "description": "Die DIAM & DDM ist eine Fachmesse für Industriearmaturen, Dichtungs-, Automatisierungs- und Antriebstechnik. Sie bietet Herstellern, Zulieferern und Anwendern eine Plattform zum Austausch über Produkte, Lösungen und technische Entwicklungen. Im Mittelpunkt stehen Anwendungen aus der Prozess-, Chemie-, Energie- und Fertigungsindustrie. Die Besucher sind Fachleute aus Planung, Betrieb, Instandhaltung und Einkauf, die sich über Innovationen und praxisorientierte Lösungen informieren möchten.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-diam.jpg",
-      "link": "https://www.diam-ddm.de",
-      "tags": [
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "chor.com",
       "startDate": "2026-10-01",
       "endDate": "2026-10-04",
@@ -1441,7 +1442,7 @@
       "endDate": "2026-11-05",
       "date": "2026-11-03 – 2026-11-05",
       "location": "Barcelona, Spanien",
-      "description": "Landesbeteiligung Sachsen ",
+      "description": "Landesbeteiligung Sachsen und Landesbeteiligung Rheinland-Pfalz",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
       "link": "mailto:j.kowollik@LM-international.com",
       "tags": [
@@ -2071,6 +2072,19 @@
       "description": "Die DIAM & DDM ist der größte nationale Branchentreff für Industriearmaturen und Dichtungstechnik – ein exklusives Forum, das sich als feste Größe im Messekalender etabliert hat. Hier treffen sich Profis, um Innovationen zu präsentieren, wertvolle Kontakte zu knüpfen und in einem starken Netzwerk zusammenzuarbeiten. Ein vielfältiges Rahmen-, Workshop- und Vortragsprogramm sorgt für direkten Austausch und echte Mehrwerte. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-diam.jpg",
       "link": "https://www.diam-ddm.de/bochum.html",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "14. Leipziger Tierärztekongress mit vetexpo europe",
+      "startDate": "2028-01-20",
+      "endDate": "2028-01-22",
+      "date": "2028-01-20 – 2028-01-22",
+      "location": "Leipziger Messe",
+      "description": "Der Leipziger Tierärztekongress mit vetexpo europe ist die größte Fortbildungsveranstaltung für Tierärztinnen und Tierärzte im deutschsprachigen Raum und eine der führenden Fachplattformen Europas. Nur hier erhalten Tiermediziner aller Bereiche und andere Berufsgruppen des Veterinärwesens sowohl im Kongress als auch in der vetexpo europe ein umfassendes Angebot, bei dem tierartspezifische sowie fachübergreifende Themen im Fokus stehen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-trk-2026-de.jpg",
+      "link": "https://www.tieraerztekongress.de",
       "tags": [
         "Nur für Fachbesucher"
       ]
