@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-06-05T02:03:08.461Z",
+  "scraped_at": "2026-06-06T01:54:45.457Z",
   "events": [
     {
       "title": "SC DHfK - GWD Minden",
@@ -814,6 +814,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/b/7/csm_SNdJ_2026_Herzen_schlagern-sc_highl_presse_square_434c5c44e5.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/die-schlagernacht-des-jahres-2027/1034",
+      "tags": []
+    },
+    {
+      "title": "Sabaton",
+      "date": "Dienstag, 27.04.2027",
+      "startDate": "2027-04-27",
+      "endDate": "2027-04-27",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/3/c/csm_sabaton-july-2025-4x5-_c_Steve_Bright_14f9af46cc.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sabaton/1057",
       "tags": []
     },
     {
