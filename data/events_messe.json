@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-06-09T01:51:06.563Z",
+  "scraped_at": "2026-06-10T02:02:24.444Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1564,6 +1564,20 @@
       "link": "https://www.messe-stuttgart.de/tc/",
       "tags": [
         "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Deutscher Tourismustag 2026",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-19",
+      "date": "2026-11-18 – 2026-11-19",
+      "location": "CCL",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-deutscher-tourismusverband.jpg",
+      "link": "https://www.deutschertourismusverband.de/veranstaltungen/deutscher-tourismustag",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
       ]
     },
     {
