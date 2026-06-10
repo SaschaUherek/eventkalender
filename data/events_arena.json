@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-06-09T01:51:39.527Z",
+  "scraped_at": "2026-06-10T02:03:16.266Z",
   "events": [
-    {
-      "title": "Zucchero",
-      "date": "Dienstag, 09.06.2026",
-      "startDate": "2026-06-09",
-      "endDate": "2026-06-09",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/f/3/csm_2024-12-19_vorlaeufiges_Bild_4a6a23ba94.png",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/zucchero/893",
-      "tags": []
-    },
     {
       "title": "Böhse Onkelz",
       "date": "Freitag, 12.06.2026",
@@ -682,6 +671,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/4/7/csm_Riverdance__2__Photo_credit__c__Abhann_Productions_7b049ee0e5.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/riverdance-30/991",
+      "tags": []
+    },
+    {
+      "title": "The Australian Pink Floyd Show",
+      "date": "Montag, 15.03.2027",
+      "startDate": "2027-03-15",
+      "endDate": "2027-03-15",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/5/9/csm_the-australian-pink-floyd-show-2027-fb-post-1200x628_406e2e825e.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/the-australian-pink-floyd-show/1058",
       "tags": []
     },
     {
