@@ -1,7 +1,18 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-06-10T02:03:45.974Z",
+  "scraped_at": "2026-06-11T02:14:44.032Z",
   "events": [
+    {
+      "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
+      "date": "11.Jun",
+      "startDate": "2026-06-11",
+      "endDate": "2026-06-11",
+      "location": "Jahrtausendturm",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
+      "link": "https://www.mvgm.de/de/event/jahrtausendturm-sonderausstellung-lego-r-mobil-ausstellung-rund-um-die-staunenswerte-welt-der-lego-r-fahrzeuge-kopie/",
+      "tags": []
+    },
     {
       "title": "PFLANZEN FÜR ALLE | 11.06.",
       "date": "11.Jun",
@@ -517,17 +528,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
       "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30/",
-      "tags": []
-    },
-    {
-      "title": "OLAF DER FLIPPER\nWIR SAGEN DANKESCHÖN! 80 JAHRE DIE GEBURTSTAGSTOURNEE 2026",
-      "date": "11.Sep",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/20211105-03_Olaf_Pressebild_Credit%20Hans%20J%C3%B6rg%20Haas-ae1b9517.jpg",
-      "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
       "tags": []
     },
     {
