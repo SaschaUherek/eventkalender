@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-06-11T02:13:20.682Z",
+  "scraped_at": "2026-06-12T02:09:15.830Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1867,6 +1867,17 @@
       "tags": []
     },
     {
+      "title": "Manga Comic Con",
+      "startDate": "2027-03-18",
+      "endDate": "2027-03-21",
+      "date": "2027-03-18 – 2027-03-21",
+      "location": "Leipziger Messe",
+      "description": "Willkommen in der farbenfrohen Welt der Manga Comic Con. Vier Tage lang möchten wir eure Leidenschaft feiern! Was es zu erleben gibt? Zahlreiche Neuerscheinungen großer Verlage. Signierstunden eurer Stars. Spannende Serien im Anime-Kino. Farbenfrohe Cosplayerinnen und Cosplayer. Und jede Menge Workshops. Ihr habt so viel Fantasie. Wir freuen uns auf euch! Die MCC ist Teil der Leipziger Buchmesse.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-mcc.jpg",
+      "link": "https://www.manga-comic-con.de",
+      "tags": []
+    },
+    {
       "title": "ISPO 21. Weltkongress",
       "startDate": "2027-03-22",
       "endDate": "2027-03-25",
@@ -1968,6 +1979,19 @@
       "description": "Die therapie LEIPZIG zeigt, was morgen möglich ist. Als deutschlandweit größte Plattform für medizinische Rehabilitation und Prävention bietet sie Therapeuten, Medizinern und Entscheidern eine enorme Bandbreite an innovativen Lösungen und fortschrittlichen Konzepten.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-therapie-lpz.jpg",
       "link": "https://www.therapie-leipzig.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "CosmeticBusiness",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-03",
+      "date": "2027-06-02 – 2027-06-03",
+      "location": "München",
+      "description": "Die CosmeticBusiness ist die Leitmesse für die Kosmetikindustrie im deutschsprachigen Raum. Sie ist unverzichtbarer Impulsgeber für erfolgreiche Produktentwicklungen in Deutschland, Österreich und der Schweiz. Die Fachmesse inspiriert mit Neuheiten und Trends entlang der gesamten Wertschöpfungskette – vom Inhaltsstoff bis zur Verpackung. Fachbesucher aus Entwicklung und Beschaffung schätzen das effiziente Netzwerken mit ihrem internationalen Lieferanten-Universum an nur einem Ort.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cosmetic-business.jpg",
+      "link": "https://www.cosmetic-business.com/de/",
       "tags": [
         "Nur für Fachbesucher"
       ]
