@@ -1,0 +1,1388 @@
+{
+  "meta": {
+    "source": "curated_citymood_venues",
+    "city": "Leipzig",
+    "generated": "2026-06-13",
+    "count": 73
+  },
+  "venues": [
+    {
+      "id": "distillery",
+      "name": "Distillery",
+      "lat": 51.3159,
+      "lng": 12.3871,
+      "amenity": "nightclub",
+      "moods": [
+        "party"
+      ],
+      "tags": [
+        "techno",
+        "club",
+        "nacht",
+        "elektronisch"
+      ],
+      "zone": "connewitz",
+      "priority": 9
+    },
+    {
+      "id": "institut_fuer_zukunft",
+      "name": "Institut für Zukunft (IfZ)",
+      "lat": 51.3346,
+      "lng": 12.3957,
+      "amenity": "nightclub",
+      "moods": [
+        "party"
+      ],
+      "tags": [
+        "techno",
+        "club",
+        "underground",
+        "elektronisch"
+      ],
+      "zone": "innenstadt",
+      "priority": 9
+    },
+    {
+      "id": "conne_island",
+      "name": "Conne Island",
+      "lat": 51.305,
+      "lng": 12.3918,
+      "amenity": "nightclub",
+      "moods": [
+        "party",
+        "feierabend"
+      ],
+      "tags": [
+        "konzert",
+        "club",
+        "alternativ",
+        "open air"
+      ],
+      "zone": "connewitz",
+      "priority": 8
+    },
+    {
+      "id": "moritzbastei_club",
+      "name": "Moritzbastei",
+      "lat": 51.3375,
+      "lng": 12.3792,
+      "amenity": "nightclub",
+      "moods": [
+        "party",
+        "feierabend",
+        "chill"
+      ],
+      "tags": [
+        "club",
+        "kultur",
+        "gewölbe",
+        "live"
+      ],
+      "zone": "innenstadt",
+      "priority": 8
+    },
+    {
+      "id": "taeubchenthal",
+      "name": "Täubchenthal",
+      "lat": 51.3346,
+      "lng": 12.3399,
+      "amenity": "nightclub",
+      "moods": [
+        "party",
+        "feierabend"
+      ],
+      "tags": [
+        "konzert",
+        "club",
+        "indie",
+        "live"
+      ],
+      "zone": "plagwitz",
+      "priority": 8
+    },
+    {
+      "id": "werk2_club",
+      "name": "Werk 2",
+      "lat": 51.3076,
+      "lng": 12.3723,
+      "amenity": "nightclub",
+      "moods": [
+        "party",
+        "feierabend"
+      ],
+      "tags": [
+        "konzert",
+        "club",
+        "kultur",
+        "vielfalt"
+      ],
+      "zone": "connewitz",
+      "priority": 7
+    },
+    {
+      "id": "ilses_erika",
+      "name": "Ilses Erika",
+      "lat": 51.3194,
+      "lng": 12.3748,
+      "amenity": "nightclub",
+      "moods": [
+        "party",
+        "feierabend"
+      ],
+      "tags": [
+        "club",
+        "indie",
+        "alternativ",
+        "bar"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 7
+    },
+    {
+      "id": "horns_erben",
+      "name": "Horns Erben",
+      "lat": 51.3196,
+      "lng": 12.3728,
+      "amenity": "nightclub",
+      "moods": [
+        "party",
+        "feierabend"
+      ],
+      "tags": [
+        "club",
+        "dj",
+        "bar",
+        "nacht"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 7
+    },
+    {
+      "id": "anker",
+      "name": "Anker",
+      "lat": 51.3353,
+      "lng": 12.3955,
+      "amenity": "bar",
+      "moods": [
+        "party",
+        "feierabend"
+      ],
+      "tags": [
+        "bar",
+        "konzert",
+        "live",
+        "alternativ"
+      ],
+      "zone": "innenstadt",
+      "priority": 6
+    },
+    {
+      "id": "kosmos_leipzig",
+      "name": "Kosmos",
+      "lat": 51.3412,
+      "lng": 12.3956,
+      "amenity": "nightclub",
+      "moods": [
+        "party"
+      ],
+      "tags": [
+        "club",
+        "techno",
+        "elektronisch",
+        "nacht"
+      ],
+      "zone": "innenstadt",
+      "priority": 7
+    },
+    {
+      "id": "noisy_joes",
+      "name": "Noisy Joe's",
+      "lat": 51.341,
+      "lng": 12.374,
+      "amenity": "bar",
+      "moods": [
+        "party",
+        "feierabend"
+      ],
+      "tags": [
+        "bar",
+        "live music",
+        "konzert",
+        "rock"
+      ],
+      "zone": "innenstadt",
+      "priority": 6
+    },
+    {
+      "id": "praline",
+      "name": "Praline",
+      "lat": 51.3376,
+      "lng": 12.38,
+      "amenity": "bar",
+      "moods": [
+        "party",
+        "feierabend"
+      ],
+      "tags": [
+        "bar",
+        "cocktails",
+        "nacht",
+        "lounge"
+      ],
+      "zone": "innenstadt",
+      "priority": 6
+    },
+    {
+      "id": "soltau",
+      "name": "Soltau",
+      "lat": 51.3409,
+      "lng": 12.3759,
+      "amenity": "bar",
+      "moods": [
+        "party",
+        "feierabend"
+      ],
+      "tags": [
+        "bar",
+        "alternativ",
+        "indie",
+        "nacht"
+      ],
+      "zone": "innenstadt",
+      "priority": 6
+    },
+    {
+      "id": "nachtcafe",
+      "name": "Nachtcafé",
+      "lat": 51.3195,
+      "lng": 12.374,
+      "amenity": "nightclub",
+      "moods": [
+        "party"
+      ],
+      "tags": [
+        "club",
+        "nacht",
+        "mainstream",
+        "dj"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 5
+    },
+    {
+      "id": "moai_beach",
+      "name": "Moai Beach Club",
+      "lat": 51.348,
+      "lng": 12.362,
+      "amenity": "nightclub",
+      "moods": [
+        "party",
+        "feierabend"
+      ],
+      "tags": [
+        "club",
+        "bar",
+        "sommer",
+        "open air"
+      ],
+      "zone": "innenstadt",
+      "priority": 6
+    },
+    {
+      "id": "bellinis_bar",
+      "name": "Bellinis",
+      "lat": 51.3399,
+      "lng": 12.3736,
+      "amenity": "bar",
+      "moods": [
+        "feierabend",
+        "party",
+        "essen"
+      ],
+      "tags": [
+        "cocktails",
+        "bar",
+        "restaurant",
+        "live music"
+      ],
+      "zone": "innenstadt",
+      "priority": 8
+    },
+    {
+      "id": "barfussgaesschen_zone",
+      "name": "Barfußgässchen",
+      "lat": 51.3408,
+      "lng": 12.3738,
+      "amenity": "bar",
+      "moods": [
+        "feierabend",
+        "essen",
+        "party"
+      ],
+      "tags": [
+        "bars",
+        "gastro",
+        "ausgehen",
+        "abend"
+      ],
+      "zone": "innenstadt",
+      "priority": 9
+    },
+    {
+      "id": "apels_garten",
+      "name": "Apels Garten",
+      "lat": 51.34,
+      "lng": 12.371,
+      "amenity": "bar",
+      "moods": [
+        "feierabend",
+        "chill"
+      ],
+      "tags": [
+        "biergarten",
+        "sommer",
+        "entspannt",
+        "bier"
+      ],
+      "zone": "innenstadt",
+      "priority": 7
+    },
+    {
+      "id": "gosenschenke",
+      "name": "Gosenschenke Ohne Bedenken",
+      "lat": 51.353,
+      "lng": 12.3884,
+      "amenity": "pub",
+      "moods": [
+        "feierabend",
+        "essen"
+      ],
+      "tags": [
+        "gose",
+        "bier",
+        "traditionell",
+        "pub"
+      ],
+      "zone": "gohlis",
+      "priority": 7
+    },
+    {
+      "id": "zills_tunnel",
+      "name": "Zills Tunnel",
+      "lat": 51.3405,
+      "lng": 12.3735,
+      "amenity": "pub",
+      "moods": [
+        "feierabend",
+        "essen"
+      ],
+      "tags": [
+        "traditionell",
+        "bier",
+        "gastro",
+        "gemütlich"
+      ],
+      "zone": "innenstadt",
+      "priority": 7
+    },
+    {
+      "id": "barthels_hof",
+      "name": "Barthels Hof",
+      "lat": 51.3407,
+      "lng": 12.3743,
+      "amenity": "bar",
+      "moods": [
+        "feierabend",
+        "essen"
+      ],
+      "tags": [
+        "historisch",
+        "bar",
+        "gastro",
+        "innenstadt"
+      ],
+      "zone": "innenstadt",
+      "priority": 7
+    },
+    {
+      "id": "flowerpower",
+      "name": "Flower Power",
+      "lat": 51.3198,
+      "lng": 12.3742,
+      "amenity": "bar",
+      "moods": [
+        "feierabend",
+        "party"
+      ],
+      "tags": [
+        "bar",
+        "retro",
+        "alternativ",
+        "karli"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 6
+    },
+    {
+      "id": "volkshaus",
+      "name": "Volkshaus Leipzig",
+      "lat": 51.3194,
+      "lng": 12.3736,
+      "amenity": "bar",
+      "moods": [
+        "feierabend",
+        "party"
+      ],
+      "tags": [
+        "bar",
+        "konzert",
+        "veranstaltung",
+        "alternativ"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 6
+    },
+    {
+      "id": "cafe_waldi",
+      "name": "Café Waldi",
+      "lat": 51.32,
+      "lng": 12.373,
+      "amenity": "bar",
+      "moods": [
+        "feierabend",
+        "chill"
+      ],
+      "tags": [
+        "bar",
+        "cafe",
+        "gemütlich",
+        "karli"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 6
+    },
+    {
+      "id": "nochbesserleben",
+      "name": "Noch Besser Leben",
+      "lat": 51.3196,
+      "lng": 12.3732,
+      "amenity": "bar",
+      "moods": [
+        "feierabend",
+        "party"
+      ],
+      "tags": [
+        "bar",
+        "konzert",
+        "alternativ",
+        "karli"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 7
+    },
+    {
+      "id": "stv_biergarten",
+      "name": "STV Biergarten",
+      "lat": 51.332,
+      "lng": 12.355,
+      "amenity": "biergarten",
+      "moods": [
+        "feierabend",
+        "chill"
+      ],
+      "tags": [
+        "biergarten",
+        "sommer",
+        "park",
+        "entspannt"
+      ],
+      "zone": "plagwitz",
+      "priority": 7
+    },
+    {
+      "id": "kohlrabizirkus",
+      "name": "Kohlrabizirkus",
+      "lat": 51.3245,
+      "lng": 12.382,
+      "amenity": "bar",
+      "moods": [
+        "feierabend",
+        "party"
+      ],
+      "tags": [
+        "konzert",
+        "bar",
+        "alternativ",
+        "events"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 7
+    },
+    {
+      "id": "ost_bar",
+      "name": "Ost Bar",
+      "lat": 51.335,
+      "lng": 12.395,
+      "amenity": "bar",
+      "moods": [
+        "feierabend",
+        "party"
+      ],
+      "tags": [
+        "bar",
+        "ostbar",
+        "cocktails",
+        "nacht"
+      ],
+      "zone": "innenstadt",
+      "priority": 6
+    },
+    {
+      "id": "bierbaumgarten",
+      "name": "Bierbaumgarten",
+      "lat": 51.3428,
+      "lng": 12.358,
+      "amenity": "biergarten",
+      "moods": [
+        "feierabend",
+        "chill"
+      ],
+      "tags": [
+        "biergarten",
+        "bier",
+        "sommer",
+        "entspannt"
+      ],
+      "zone": "innenstadt",
+      "priority": 6
+    },
+    {
+      "id": "zum_arabischen_coffe_baum",
+      "name": "Zum Arabischen Coffe Baum",
+      "lat": 51.3405,
+      "lng": 12.374,
+      "amenity": "restaurant",
+      "moods": [
+        "essen",
+        "feierabend"
+      ],
+      "tags": [
+        "restaurant",
+        "historisch",
+        "kaffee",
+        "mittag"
+      ],
+      "zone": "innenstadt",
+      "priority": 8
+    },
+    {
+      "id": "auerbachs_keller",
+      "name": "Auerbachs Keller",
+      "lat": 51.3398,
+      "lng": 12.3751,
+      "amenity": "restaurant",
+      "moods": [
+        "essen"
+      ],
+      "tags": [
+        "restaurant",
+        "historisch",
+        "sächsisch",
+        "abend"
+      ],
+      "zone": "innenstadt",
+      "priority": 8
+    },
+    {
+      "id": "moritzbastei_restaurant",
+      "name": "Moritzbastei Restaurant",
+      "lat": 51.3375,
+      "lng": 12.3792,
+      "amenity": "restaurant",
+      "moods": [
+        "essen",
+        "feierabend"
+      ],
+      "tags": [
+        "restaurant",
+        "gewölbe",
+        "gehobene küche",
+        "abend"
+      ],
+      "zone": "innenstadt",
+      "priority": 7
+    },
+    {
+      "id": "pilot_restaurant",
+      "name": "Pilot",
+      "lat": 51.3335,
+      "lng": 12.34,
+      "amenity": "restaurant",
+      "moods": [
+        "essen",
+        "feierabend"
+      ],
+      "tags": [
+        "restaurant",
+        "modern",
+        "plagwitz",
+        "abend"
+      ],
+      "zone": "plagwitz",
+      "priority": 7
+    },
+    {
+      "id": "cafe_telegraf",
+      "name": "Café Telegraf",
+      "lat": 51.338,
+      "lng": 12.34,
+      "amenity": "restaurant",
+      "moods": [
+        "essen",
+        "chill"
+      ],
+      "tags": [
+        "cafe",
+        "frühstück",
+        "brunch",
+        "plagwitz"
+      ],
+      "zone": "plagwitz",
+      "priority": 7
+    },
+    {
+      "id": "luise",
+      "name": "Luise",
+      "lat": 51.335,
+      "lng": 12.341,
+      "amenity": "restaurant",
+      "moods": [
+        "essen",
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "restaurant",
+        "cafe",
+        "plagwitz",
+        "vielseitig"
+      ],
+      "zone": "plagwitz",
+      "priority": 7
+    },
+    {
+      "id": "seven_senses",
+      "name": "Seven Senses",
+      "lat": 51.3402,
+      "lng": 12.373,
+      "amenity": "restaurant",
+      "moods": [
+        "essen"
+      ],
+      "tags": [
+        "restaurant",
+        "gehobene küche",
+        "innenstadt",
+        "abend"
+      ],
+      "zone": "innenstadt",
+      "priority": 7
+    },
+    {
+      "id": "stadtpfeiffer",
+      "name": "Stadtpfeiffer",
+      "lat": 51.3394,
+      "lng": 12.3815,
+      "amenity": "restaurant",
+      "moods": [
+        "essen"
+      ],
+      "tags": [
+        "restaurant",
+        "fine dining",
+        "sächsisch",
+        "gehobene küche"
+      ],
+      "zone": "innenstadt",
+      "priority": 8
+    },
+    {
+      "id": "falstaff",
+      "name": "Falstaff",
+      "lat": 51.3475,
+      "lng": 12.363,
+      "amenity": "restaurant",
+      "moods": [
+        "essen",
+        "feierabend"
+      ],
+      "tags": [
+        "restaurant",
+        "deutsch",
+        "mittag",
+        "abend"
+      ],
+      "zone": "innenstadt",
+      "priority": 6
+    },
+    {
+      "id": "habesha",
+      "name": "Habesha",
+      "lat": 51.3192,
+      "lng": 12.374,
+      "amenity": "restaurant",
+      "moods": [
+        "essen"
+      ],
+      "tags": [
+        "restaurant",
+        "äthiopisch",
+        "international",
+        "karli"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 7
+    },
+    {
+      "id": "spizz",
+      "name": "Spizz",
+      "lat": 51.3399,
+      "lng": 12.375,
+      "amenity": "restaurant",
+      "moods": [
+        "essen",
+        "feierabend"
+      ],
+      "tags": [
+        "restaurant",
+        "jazz",
+        "live",
+        "innenstadt"
+      ],
+      "zone": "innenstadt",
+      "priority": 7
+    },
+    {
+      "id": "villa_mignon",
+      "name": "Villa Mignon",
+      "lat": 51.348,
+      "lng": 12.374,
+      "amenity": "restaurant",
+      "moods": [
+        "essen"
+      ],
+      "tags": [
+        "restaurant",
+        "gehobene küche",
+        "romantisch",
+        "abend"
+      ],
+      "zone": "gohlis",
+      "priority": 7
+    },
+    {
+      "id": "sakura",
+      "name": "Sakura",
+      "lat": 51.3398,
+      "lng": 12.3738,
+      "amenity": "restaurant",
+      "moods": [
+        "essen"
+      ],
+      "tags": [
+        "restaurant",
+        "japanisch",
+        "sushi",
+        "international"
+      ],
+      "zone": "innenstadt",
+      "priority": 6
+    },
+    {
+      "id": "el_greco",
+      "name": "El Greco",
+      "lat": 51.333,
+      "lng": 12.387,
+      "amenity": "restaurant",
+      "moods": [
+        "essen",
+        "feierabend"
+      ],
+      "tags": [
+        "restaurant",
+        "griechisch",
+        "international",
+        "abend"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 6
+    },
+    {
+      "id": "cantina_mexicana",
+      "name": "Cantina Mexicana",
+      "lat": 51.321,
+      "lng": 12.376,
+      "amenity": "restaurant",
+      "moods": [
+        "essen",
+        "feierabend"
+      ],
+      "tags": [
+        "restaurant",
+        "mexikanisch",
+        "international",
+        "karli"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 6
+    },
+    {
+      "id": "indian_summer",
+      "name": "Indian Summer",
+      "lat": 51.3395,
+      "lng": 12.372,
+      "amenity": "restaurant",
+      "moods": [
+        "essen"
+      ],
+      "tags": [
+        "restaurant",
+        "indisch",
+        "international",
+        "innenstadt"
+      ],
+      "zone": "innenstadt",
+      "priority": 6
+    },
+    {
+      "id": "supperclub",
+      "name": "Supperclub",
+      "lat": 51.334,
+      "lng": 12.341,
+      "amenity": "restaurant",
+      "moods": [
+        "essen",
+        "feierabend"
+      ],
+      "tags": [
+        "restaurant",
+        "modern",
+        "plagwitz",
+        "abend"
+      ],
+      "zone": "plagwitz",
+      "priority": 7
+    },
+    {
+      "id": "kaiserbad",
+      "name": "Kaiserbad",
+      "lat": 51.3347,
+      "lng": 12.3415,
+      "amenity": "restaurant",
+      "moods": [
+        "essen",
+        "chill"
+      ],
+      "tags": [
+        "restaurant",
+        "cafe",
+        "plagwitz",
+        "frühstück"
+      ],
+      "zone": "plagwitz",
+      "priority": 7
+    },
+    {
+      "id": "lindenauer_markt_gastro",
+      "name": "Lindenauer Markt",
+      "lat": 51.339,
+      "lng": 12.328,
+      "amenity": "restaurant",
+      "moods": [
+        "essen",
+        "feierabend",
+        "chill"
+      ],
+      "tags": [
+        "gastro",
+        "markt",
+        "international",
+        "lindenau"
+      ],
+      "zone": "lindenau",
+      "priority": 7
+    },
+    {
+      "id": "cafe_lene",
+      "name": "Café Lene",
+      "lat": 51.3393,
+      "lng": 12.3275,
+      "amenity": "cafe",
+      "moods": [
+        "essen",
+        "chill"
+      ],
+      "tags": [
+        "cafe",
+        "frühstück",
+        "brunch",
+        "lindenau"
+      ],
+      "zone": "lindenau",
+      "priority": 6
+    },
+    {
+      "id": "soba",
+      "name": "Soba Noodle Bar",
+      "lat": 51.3388,
+      "lng": 12.326,
+      "amenity": "restaurant",
+      "moods": [
+        "essen"
+      ],
+      "tags": [
+        "restaurant",
+        "asiatisch",
+        "noodles",
+        "lindenau"
+      ],
+      "zone": "lindenau",
+      "priority": 6
+    },
+    {
+      "id": "verona_pizza",
+      "name": "Verona",
+      "lat": 51.34,
+      "lng": 12.372,
+      "amenity": "restaurant",
+      "moods": [
+        "essen"
+      ],
+      "tags": [
+        "restaurant",
+        "pizza",
+        "italienisch",
+        "innenstadt"
+      ],
+      "zone": "innenstadt",
+      "priority": 5
+    },
+    {
+      "id": "cafe_grundmann",
+      "name": "Café Grundmann",
+      "lat": 51.316,
+      "lng": 12.3718,
+      "amenity": "cafe",
+      "moods": [
+        "arbeiten",
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "cafe",
+        "ruhig",
+        "laptop",
+        "kaffee"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 7
+    },
+    {
+      "id": "cafe_kandler",
+      "name": "Café Kandler",
+      "lat": 51.3399,
+      "lng": 12.3808,
+      "amenity": "cafe",
+      "moods": [
+        "chill",
+        "essen"
+      ],
+      "tags": [
+        "cafe",
+        "konditorei",
+        "kuchen",
+        "klassisch"
+      ],
+      "zone": "innenstadt",
+      "priority": 7
+    },
+    {
+      "id": "cafe_riquet",
+      "name": "Café Riquet",
+      "lat": 51.3402,
+      "lng": 12.3752,
+      "amenity": "cafe",
+      "moods": [
+        "chill",
+        "essen"
+      ],
+      "tags": [
+        "cafe",
+        "historisch",
+        "jugendstil",
+        "kaffee"
+      ],
+      "zone": "innenstadt",
+      "priority": 8
+    },
+    {
+      "id": "telegraph_cafe",
+      "name": "Telegraph",
+      "lat": 51.3388,
+      "lng": 12.3412,
+      "amenity": "cafe",
+      "moods": [
+        "arbeiten",
+        "chill"
+      ],
+      "tags": [
+        "cafe",
+        "laptop",
+        "ruhig",
+        "plagwitz"
+      ],
+      "zone": "plagwitz",
+      "priority": 7
+    },
+    {
+      "id": "substanz",
+      "name": "Substanz",
+      "lat": 51.339,
+      "lng": 12.326,
+      "amenity": "cafe",
+      "moods": [
+        "chill",
+        "arbeiten"
+      ],
+      "tags": [
+        "cafe",
+        "kreativ",
+        "laptop",
+        "lindenau"
+      ],
+      "zone": "lindenau",
+      "priority": 6
+    },
+    {
+      "id": "cafe_time",
+      "name": "Café Time",
+      "lat": 51.3198,
+      "lng": 12.3745,
+      "amenity": "cafe",
+      "moods": [
+        "chill",
+        "arbeiten"
+      ],
+      "tags": [
+        "cafe",
+        "ruhig",
+        "laptop",
+        "karli"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 6
+    },
+    {
+      "id": "wood_coffee",
+      "name": "Wood Coffee",
+      "lat": 51.335,
+      "lng": 12.343,
+      "amenity": "cafe",
+      "moods": [
+        "arbeiten",
+        "chill"
+      ],
+      "tags": [
+        "cafe",
+        "specialty coffee",
+        "laptop",
+        "plagwitz"
+      ],
+      "zone": "plagwitz",
+      "priority": 7
+    },
+    {
+      "id": "ostkind",
+      "name": "Ostkind",
+      "lat": 51.337,
+      "lng": 12.396,
+      "amenity": "cafe",
+      "moods": [
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "cafe",
+        "bar",
+        "alternativ",
+        "ost"
+      ],
+      "zone": "innenstadt",
+      "priority": 6
+    },
+    {
+      "id": "nach_der_schule",
+      "name": "Nach der Schule",
+      "lat": 51.335,
+      "lng": 12.395,
+      "amenity": "cafe",
+      "moods": [
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "cafe",
+        "bar",
+        "cocktails",
+        "gemütlich"
+      ],
+      "zone": "innenstadt",
+      "priority": 6
+    },
+    {
+      "id": "heaven_cafe",
+      "name": "Heaven",
+      "lat": 51.3395,
+      "lng": 12.3395,
+      "amenity": "cafe",
+      "moods": [
+        "chill",
+        "essen"
+      ],
+      "tags": [
+        "cafe",
+        "frühstück",
+        "brunch",
+        "plagwitz"
+      ],
+      "zone": "plagwitz",
+      "priority": 6
+    },
+    {
+      "id": "schaubude",
+      "name": "Schaubude",
+      "lat": 51.3197,
+      "lng": 12.3738,
+      "amenity": "cafe",
+      "moods": [
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "cafe",
+        "bar",
+        "karli",
+        "alternativ"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 6
+    },
+    {
+      "id": "oper_leipzig",
+      "name": "Oper Leipzig",
+      "lat": 51.3399,
+      "lng": 12.3815,
+      "amenity": "theatre",
+      "moods": [
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "oper",
+        "kultur",
+        "klassik",
+        "abend"
+      ],
+      "zone": "innenstadt",
+      "priority": 8
+    },
+    {
+      "id": "gewandhaus",
+      "name": "Gewandhaus",
+      "lat": 51.3399,
+      "lng": 12.3811,
+      "amenity": "theatre",
+      "moods": [
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "konzert",
+        "klassik",
+        "kultur",
+        "abend"
+      ],
+      "zone": "innenstadt",
+      "priority": 8
+    },
+    {
+      "id": "schauspiel_leipzig",
+      "name": "Schauspiel Leipzig",
+      "lat": 51.3399,
+      "lng": 12.3815,
+      "amenity": "theatre",
+      "moods": [
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "theater",
+        "kultur",
+        "abend",
+        "drama"
+      ],
+      "zone": "innenstadt",
+      "priority": 7
+    },
+    {
+      "id": "schaubuehne_lindenfels",
+      "name": "Schaubühne Lindenfels",
+      "lat": 51.338,
+      "lng": 12.343,
+      "amenity": "theatre",
+      "moods": [
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "theater",
+        "kultur",
+        "film",
+        "alternativ"
+      ],
+      "zone": "plagwitz",
+      "priority": 7
+    },
+    {
+      "id": "cinema_paradiso",
+      "name": "Cinema Paradiso",
+      "lat": 51.3195,
+      "lng": 12.3748,
+      "amenity": "cinema",
+      "moods": [
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "kino",
+        "film",
+        "entspannt",
+        "karli"
+      ],
+      "zone": "suedvorstadt",
+      "priority": 6
+    },
+    {
+      "id": "passage_kinos",
+      "name": "Passage Kinos",
+      "lat": 51.3398,
+      "lng": 12.375,
+      "amenity": "cinema",
+      "moods": [
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "kino",
+        "film",
+        "innenstadt",
+        "abend"
+      ],
+      "zone": "innenstadt",
+      "priority": 7
+    },
+    {
+      "id": "luru_kino",
+      "name": "Luru Kino",
+      "lat": 51.3388,
+      "lng": 12.3435,
+      "amenity": "cinema",
+      "moods": [
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "kino",
+        "arthouse",
+        "film",
+        "plagwitz"
+      ],
+      "zone": "plagwitz",
+      "priority": 6
+    },
+    {
+      "id": "museum_bildenden_kuenste",
+      "name": "Museum der Bildenden Künste",
+      "lat": 51.3415,
+      "lng": 12.376,
+      "amenity": "theatre",
+      "moods": [
+        "chill"
+      ],
+      "tags": [
+        "museum",
+        "kunst",
+        "ausstellung",
+        "kultur"
+      ],
+      "zone": "innenstadt",
+      "priority": 7
+    },
+    {
+      "id": "grassi_museum",
+      "name": "Grassi Museum",
+      "lat": 51.3378,
+      "lng": 12.389,
+      "amenity": "theatre",
+      "moods": [
+        "chill"
+      ],
+      "tags": [
+        "museum",
+        "kunst",
+        "ausstellung",
+        "kultur"
+      ],
+      "zone": "innenstadt",
+      "priority": 7
+    },
+    {
+      "id": "spinnerei",
+      "name": "Baumwollspinnerei",
+      "lat": 51.338,
+      "lng": 12.3326,
+      "amenity": "theatre",
+      "moods": [
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "kunst",
+        "galerie",
+        "kreativ",
+        "plagwitz"
+      ],
+      "zone": "plagwitz",
+      "priority": 8
+    },
+    {
+      "id": "kunstkraftwerk_venue",
+      "name": "Kunstkraftwerk Leipzig",
+      "lat": 51.332,
+      "lng": 12.3355,
+      "amenity": "theatre",
+      "moods": [
+        "chill",
+        "feierabend"
+      ],
+      "tags": [
+        "kunst",
+        "immersiv",
+        "ausstellung",
+        "plagwitz"
+      ],
+      "zone": "plagwitz",
+      "priority": 7
+    }
+  ]
+}
