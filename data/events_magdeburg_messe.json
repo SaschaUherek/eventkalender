@@ -1,12 +1,12 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-06-18T02:15:32.876Z",
+  "scraped_at": "2026-06-19T02:43:00.751Z",
   "events": [
     {
       "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
-      "date": "18.Jun",
-      "startDate": "2026-06-18",
-      "endDate": "2026-06-18",
+      "date": "19.Jun",
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-19",
       "location": "Jahrtausendturm",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
@@ -790,7 +790,7 @@
       "endDate": "2026-11-01",
       "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Moerdern-auf-der-Spur-Eventim-1240x480Px-MVGM-GmbH-1-11-26-f0bf16aa.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/MVGM-Events-1920x1080px-149c00f0.jpg",
       "link": "https://www.mvgm.de/de/event/moerdern-auf-der-spur-2026-true-crime/",
       "tags": []
     },
