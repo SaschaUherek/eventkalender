@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-06-22T02:30:54.161Z",
+  "scraped_at": "2026-06-23T01:58:01.620Z",
   "events": [
     {
       "title": "AnnenMayKantereit",
@@ -253,6 +253,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/f/b/csm_instagram_1080x1080_8ce2bbd439.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/unheilig-special-guests/968",
+      "tags": []
+    },
+    {
+      "title": "Papa Roach",
+      "date": "Montag, 23.11.2026",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-23",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/b/e/csm_Papa_Roach_-__c_Travis_Shinn_dce99e18a3.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/papa-roach/1060",
       "tags": []
     },
     {
@@ -784,6 +795,17 @@
       "tags": []
     },
     {
+      "title": "MAFFAY + OERDING",
+      "date": "Donnerstag, 29.04.2027",
+      "startDate": "2027-04-29",
+      "endDate": "2027-04-29",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/d/5/csm_MAFFAY___OERDING_KEYVISUAL__c_Jennifer_Toebben_13dce8e40f.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/maffay-oerding/1062",
+      "tags": []
+    },
+    {
       "title": "LEA",
       "date": "Samstag, 01.05.2027",
       "startDate": "2027-05-01",
@@ -1012,6 +1034,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/0/8/csm_DRACULA_Keyvisual_1748x1240_ac8b149d38.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/dracula/1055",
+      "tags": []
+    },
+    {
+      "title": "Olaf Schubert",
+      "date": "Freitag, 21.01.2028",
+      "startDate": "2028-01-21",
+      "endDate": "2028-01-21",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/c/a/csm_Pressefoto-Olaf-Schubert-Jetzt-oder-Now-Foto-Amac-Garbe_7d9e503d93.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/olaf-schubert/1061",
       "tags": []
     },
     {
