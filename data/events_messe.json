@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-06-24T01:56:25.298Z",
+  "scraped_at": "2026-06-25T01:59:47.638Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1261,6 +1261,19 @@
       ]
     },
     {
+      "title": "Heinze ArchitekTOUR PROJECTS26 ",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "date": "2026-09-24 – 2026-09-24",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Unter dem Motto PROJECTS rückt die Heinze ArchitekTOUR realisierte Architektur in den Mittelpunkt. In einer multimedialen Ausstellung und begleitenden Kurzvorträgen werden ausgewählte regionale Projekte und die Geschichten hinter ihrer Entstehung präsentiert. In Kooperation mit der Architektenkammer Sachsen geben Architektinnen und Architekten Einblicke in Planung und Umsetzung. Ein kompaktes, interaktives Format für Inspiration, Austausch und neue Perspektiven. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-projects.jpg",
+      "link": "https://architektour.heinze.de/?utm_source=ext_website&utm_medium=referral&utm_campaign=4119",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "FIB Feria Internacional Industrial de Bogotá",
       "startDate": "2026-09-28",
       "endDate": "2026-10-02",
@@ -1380,6 +1393,19 @@
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Sächsischer Krankenhaustag 2026",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "date": "2026-10-16 – 2026-10-16",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-kgs.jpg",
+      "link": "https://events.khg-sachsen.de/event-details?event_id=1051",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -1675,6 +1701,19 @@
       ]
     },
     {
+      "title": "nextlub 2027",
+      "startDate": "2027-01-20",
+      "endDate": "2027-01-21",
+      "date": "2027-01-20 – 2027-01-21",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Sustainability, ecological and geopolitical demands create new challenges for tribologists and lubrication experts. Promoting appropriate innovative technologies and closing knowledge gaps are the intentions of the 3rd nextlub conference. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-nextlub.jpg",
+      "link": "https://www.nextlub.com/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "30. originale Jobmesse Leipzig",
       "startDate": "2027-01-22",
       "endDate": "2027-01-23",
@@ -1725,6 +1764,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-diam.jpg",
       "link": "https://www.diam-ddm.com/",
       "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "19. Deutsche Kardiodiagnostik-Tage",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-06",
+      "date": "2027-02-04 – 2027-02-06",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Kardiologen, Radiologen und Nuklearmediziner tauschen sich bei den DKDT über aktuelle Entwicklungen der nichtinvasiven kardiovaskulären Bildgebung aus. Der Fachkongress fördert die interdisziplinäre Zusammenarbeit, insbesondere bei MRT und CT. Auch Studierende, MTRAs und Pflegepersonal sind eingeladen. Eine Industrieausstellung präsentiert technische Neuerungen, Geräte und moderne Methoden der Bildauswertung. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-kad-2027.jpg",
+      "link": "https://kardiodiagnostik.de",
+      "tags": [
+        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
@@ -1842,6 +1895,20 @@
       ]
     },
     {
+      "title": "37. FVO-Tagung",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-14",
+      "date": "2027-03-12 – 2027-03-14",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Jährlich trifft sich die Fortbildungsgemeinschaft Veterinärophtalmologie (FVO), um sich fortzubilden und auszutauschen: 2027 in Leipzig.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-fvo.jpg",
+      "link": "https://www.fvo-vet.de/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "London Book Fair",
       "startDate": "2027-03-16",
       "endDate": "2027-03-18",
@@ -1905,6 +1972,20 @@
       ]
     },
     {
+      "title": "Deutscher Kitaleitungskongress Leipzig 2027",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "date": "2027-04-08 – 2027-04-08",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Der DKLK ist die größte Fachveranstaltung für Kitaleitungen, Fachberatungen und Trägervertretungen im deutschsprachigen Raum. Im Fokus stehen fachlicher Austausch, praxisnahe Impulse und aktuelle Trends rund um frühkindliche Bildung, Kitamanagement und Führung. Workshops, Vorträge, Praxisforen und eine begleitende Fachausstellung bieten Expert*innenwissen, Vernetzung und direkt anwendbare Lösungen für den Kita-Alltag.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-dklk-2027.jpg",
+      "link": "https://deutscher-kitaleitungskongress.de/leipzig/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "CAGGTUS Leipzig",
       "startDate": "2027-04-09",
       "endDate": "2027-04-11",
@@ -1914,6 +1995,19 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-caggtus.jpg",
       "link": "https://www.caggtus.de",
       "tags": []
+    },
+    {
+      "title": "17. Leipziger Wollefest und Stoffmesse",
+      "startDate": "2027-04-10",
+      "endDate": "2027-04-11",
+      "date": "2027-04-10 – 2027-04-11",
+      "location": "Leipziger Messe",
+      "description": "Das Leipziger Wollefest und Stoffmesse ist die Messe für Stricken, Häkeln, Spinnen, Nähen und kreative Textil-Träume in der Glashalle.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2027/master-wollefest-filzrausch.jpg",
+      "link": "https://www.leipziger-wollefest.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
     },
     {
       "title": "NIGHT OF FREESTYLE",
@@ -1951,6 +2045,20 @@
       "description": "Entscheidungsträger der Versicherungsunternehmen, Sachverständiger, Makler, Assekuradeure sowie Dienstleister treffen sich in Leipzig zum Schadenhighlight der Branche. Die Kombination aus Fachkongress und Fachmesse bietet ein perfektes Umfeld, um Schadenthemen zu diskutieren, Innovationen und hochaktuelle Produktideen kennenzulernen, Jahresgespräche zu führen sowie Partner, Kollegen und Freunde zu treffen.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2021/master-messekongress-schaden.jpg",
       "link": "https://www.versicherungsforen.net/messekongress-schadenmanagement-assistance",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "76. Wissenschaftlicher Kongress – Der Öffentliche Gesundheitsdienst ",
+      "startDate": "2027-04-27",
+      "endDate": "2027-04-30",
+      "date": "2027-04-27 – 2027-04-30",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Der 76. Wissenschaftliche Kongress des Öffentlichen Gesundheitsdienstes findet 2027 in Leipzig statt. Freuen Sie sich auf ein abwechslungsreiches Programm mit aktuellen wissenschaftlichen Erkenntnissen, fachlichem Austausch und interdisziplinären Diskussionen. Themenschwerpunkte sind unter anderem Kinder- und Jugendgesundheit, Infektionsschutz, Psychiatrie, Gesundheitsberichterstattung, Prävention und Umweltmedizin sowie weitere aktuelle Themen des Öffentlichen Gesundheitsdienstes.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-bvoegd.jpg",
+      "link": "https://www.bvoegd-kongress.de/",
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
