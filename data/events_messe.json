@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-06-26T02:01:18.924Z",
+  "scraped_at": "2026-06-27T01:55:12.372Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1662,6 +1662,19 @@
       ]
     },
     {
+      "title": "130. LIPSIA-BUNDESSCHAU",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "date": "2026-12-04 – 2026-12-06",
+      "location": "CCL",
+      "description": "Die Leipziger Rassegeflügelausstellung - LIPSIA - vom Leipziger Rassegeflügelzüchterverein 1869 e. V. gehört für Züchter von Rassegeflügel zu den wichtigsten Veranstaltungen ihrer Zunft.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2021/master-lipsia.jpg",
+      "link": "https://www.lipsia-rassegefluegel.de/oeffnungszeiten-eintrittspreise",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "COSMOPROF India",
       "startDate": "2026-12-10",
       "endDate": "2026-12-12",
@@ -1986,6 +1999,19 @@
       ]
     },
     {
+      "title": "Mitteldeutscher Schulleitungskongress 2027",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "date": "2027-04-08 – 2027-04-08",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Zum MSLK treffen sich Schulleitungen und stellvertretende Schulleitungen aus Sachsen, Sachsen-Anhalt und Thüringen. Der Kongress bietet Raum für Inspiration, kollegialen Austausch und neue Perspektiven auf zeitgemäße Schulführung. Hochkarätige Vorträge, praxisnahe Foren und interaktive Austauschformate liefern konkrete Impulse und Lösungen für aktuelle Herausforderungen im Schulalltag. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-mslk.jpg",
+      "link": "https://mitteldeutscher-schulleitungskongress.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "CAGGTUS Leipzig",
       "startDate": "2027-04-09",
       "endDate": "2027-04-11",
@@ -2102,6 +2128,32 @@
       "link": "https://www.cosmetic-business.com/de/",
       "tags": [
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "med.Logistica",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-03",
+      "date": "2027-06-02 – 2027-06-03",
+      "location": "Leipziger Messe",
+      "description": "Die med.Logistica ist der zentrale Treffpunkt für Fach- und Führungskräfte, die Prozesse in Krankenhäusern, medizinischen Einrichtungen und im Gesundheitswesen gestalten, steuern und optimieren. Hier erhalten Sie einen umfassenden Überblick über aktuelle Entwicklungen, innovative Lösungen und zentrale Ansätze zur Prozessoptimierung im Alltag der stationären und ambulanten Versorgung.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-medlogistica.jpg",
+      "link": "https://www.medlogistica.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "XXVI International Grassland Congress - IGC 2027",
+      "startDate": "2027-06-13",
+      "endDate": "2027-06-18",
+      "date": "2027-06-13 – 2027-06-18",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "The IGC 2027, hosted by JKI, TI, and ZALF, will showcase diverse aspects of natural and semi-natural grasslands as well as improved grasslands managed at varying intensities, including the cultivation and use of forage crops. Topics will include the sustainable development of on-farm food production, along with the interactions of grassland management with ecosystem functioning, climate change, biodiversity, and society as a whole. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-igc.jpg",
+      "link": "https://igc2027.org",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
