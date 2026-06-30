@@ -1,29 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-06-29T02:07:50.615Z",
+  "scraped_at": "2026-06-30T02:02:00.439Z",
   "events": [
-    {
-      "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
-      "date": "29.Jun",
-      "startDate": "2026-06-29",
-      "endDate": "2026-06-29",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
-      "link": "https://www.mvgm.de/de/event/jahrtausendturm-sonderausstellung-lego-r-mobil-ausstellung-rund-um-die-staunenswerte-welt-der-lego-r-fahrzeuge-kopie/",
-      "tags": []
-    },
-    {
-      "title": "DER GROSSE WOBAU-FERIENSPASS 2026",
-      "date": "29.Jun",
-      "startDate": "2026-06-29",
-      "endDate": "2026-06-29",
-      "location": "Elbauenpark",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/b/engelhardt-events-xxl-riesenparkour-051-foto-andreas-lander-1-d668126c.jpg",
-      "link": "https://www.mvgm.de/de/event/der-grosse-wobau-ferienspass-2026/",
-      "tags": []
-    },
     {
       "title": "FIRMENSTAFFEL 2026",
       "date": "02.Jul",
@@ -528,6 +506,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/20190917-musik-am-nachmittag-fotolia-55105727-l-7c3238ae-f59797cb.jpg",
       "link": "https://www.mvgm.de/de/event/musik-am-nachmittag-16-09-2026/",
+      "tags": []
+    },
+    {
+      "title": "WEIMAR - INVICTUS TOUR PART II",
+      "date": "18.Sep",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/invictus-tour-2026-tickets-457253-3687853-1240x480-6eef40ca.jpg",
+      "link": "https://www.mvgm.de/de/event/weimar-invictus-tour-part-ii/",
+      "tags": []
+    },
+    {
+      "title": "LANDESERNTEDANKFEST 19.09.2026",
+      "date": "19.Sep",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/20190914_15_amg_fb_post_erntedankfest-91fbe80d.jpg",
+      "link": "https://www.mvgm.de/de/event/landeserntedankfest-2026/",
       "tags": []
     },
     {
