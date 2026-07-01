@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-06-30T02:01:35.061Z",
+  "scraped_at": "2026-07-01T02:07:04.600Z",
   "events": [
     {
       "title": "AnnenMayKantereit",
@@ -803,6 +803,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/d/5/csm_MAFFAY___OERDING_KEYVISUAL__c_Jennifer_Toebben_13dce8e40f.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/maffay-oerding/1062",
+      "tags": []
+    },
+    {
+      "title": "MAFFAY + OERDING",
+      "date": "Freitag, 30.04.2027",
+      "startDate": "2027-04-30",
+      "endDate": "2027-04-30",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/d/5/csm_MAFFAY___OERDING_KEYVISUAL__c_Jennifer_Toebben_13dce8e40f.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/maffay-oerding/1063",
       "tags": []
     },
     {
