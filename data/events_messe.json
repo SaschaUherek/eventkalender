@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-06-30T02:00:21.522Z",
+  "scraped_at": "2026-07-01T02:05:50.365Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1137,20 +1137,6 @@
       ]
     },
     {
-      "title": "INDEX Saudi Arabia",
-      "startDate": "2026-09-06",
-      "endDate": "2026-09-08",
-      "date": "2026-09-06 – 2026-09-08",
-      "location": "Riad, Saudi Arabien",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-index.jpg",
-      "link": "https://www.lm-international.com/ev_index_2026",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Nordic Life Science Days",
       "startDate": "2026-09-08",
       "endDate": "2026-09-09",
@@ -1220,6 +1206,20 @@
       ]
     },
     {
+      "title": "INDEX Saudi Arabia",
+      "startDate": "2026-09-15",
+      "endDate": "2026-09-17",
+      "date": "2026-09-15 – 2026-09-17",
+      "location": "Riad, Saudi Arabien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-index.jpg",
+      "link": "https://www.lm-international.com/ev_index_2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "KGSt-FORUM 2026 ",
       "startDate": "2026-09-16",
       "endDate": "2026-09-18",
@@ -1254,7 +1254,7 @@
       "location": "CCL",
       "description": "Programm: Mittwoch, 23.09.2026: Spezialsitzung Forum für junge Geotechnik-Ingenieure und -Ingenieurinnen - Donnerstag, 24.09.2026, und Freitag, 25.09.2026: Vortragsveranstaltung zu den Themen - Regionale Projekte - Geotechnische Aspekte im Infrastrukturbau - Forschung und Innovation - Tunnelbau und unterirdische Bauwerke - Spezialtiefbau - Ressourcenschonung und Nachhaltigkeit in der Geotechnik & Bauen im Bestand - Normung - Risikomanagement - Samstag, 26.09.2026: Exkursion",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-baugrundtagung.jpg",
-      "link": "https://www.baugrundtagung.com/",
+      "link": "https://www.dggt.de/index.php?option=com_content&view=article&id=377&Itemid=193",
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
