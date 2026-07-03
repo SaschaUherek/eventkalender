@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-07-02T01:59:12.975Z",
+  "scraped_at": "2026-07-03T01:29:47.063Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1901,7 +1901,7 @@
       "location": "Paris, Frankreich",
       "description": "Landesbeteiligungen NRW und Bayern",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-jec.jpg",
-      "link": "https://www.lm-international.com/lb_jec_2026",
+      "link": "https://www.lm-international.com/lb_jec_2027",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -2070,7 +2070,7 @@
       "location": "Astana, Kasachstan",
       "description": "Bei der Kazakhstan Machinery Fair handelt es sich um die wichtigste Veranstaltung im Bereich Maschinenbau und Metallverarbeitung in Kasachstan und Zentralasien. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-kasachstan-machinery-fair.jpg",
-      "link": "mailto:u.briese@LM-international.com",
+      "link": "https://www.lm-international.com/ev_kmf_2027",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -2247,6 +2247,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-hobbymesse.jpg",
       "link": "https://www.hobbymesse.de",
       "tags": []
+    },
+    {
+      "title": "Ingenieurkammertag Sachsen 2027",
+      "startDate": "2027-10-07",
+      "endDate": "2027-10-07",
+      "date": "2027-10-07 – 2027-10-07",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-ingenieurkammer-sachsen.jpg",
+      "link": "https://ing-sn.de/veranstaltungen/ingenieurkammertag-sachsen/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
     },
     {
       "title": "Jahrestagung der Deutschen, Österreichischen und Schweizerischen Gesellschaften für Hämatologie und Medizinische Onkologie",
