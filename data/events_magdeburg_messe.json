@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-07-07T01:50:07.983Z",
+  "scraped_at": "2026-07-08T01:22:17.475Z",
   "events": [
-    {
-      "title": "FERIENSPASS: ENTDECKUNGSTOUR WALD - 07.07.2026",
-      "date": "07.Jul",
-      "startDate": "2026-07-07",
-      "endDate": "2026-07-07",
-      "location": "Elbauenpark",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Elbauenpark-Imageshooting-364-Foto-Andreas-Lander-bce86c76.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-wald-07-07-2026/",
-      "tags": []
-    },
     {
       "title": "FERIENSPASS ELBEREXIS-DINOEXPEDITION - 08.07.2026",
       "date": "08.Jul",
@@ -187,6 +176,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Hans-Zimmer-Star-Entertainment-5b72a113.jpg",
       "link": "https://www.mvgm.de/de/event/the-music-of-hans-zimmer-others-a-celebration-of-film-music-3/",
+      "tags": []
+    },
+    {
+      "title": "PANORAMANACHT IN DER JOHANNISKIRCHE",
+      "date": "01.Aug",
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-01",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/MVGM-Johanniskirche_024_Foto_Andreas_Lander-8fc7835f.jpg",
+      "link": "https://www.mvgm.de/de/event/panoramanacht-in-der-johanniskirche-2/",
       "tags": []
     },
     {
@@ -504,7 +504,7 @@
       "endDate": "2026-09-19",
       "location": "Elbauenpark",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/20190914_15_amg_fb_post_erntedankfest-91fbe80d.jpg",
+      "image": "https://www.mvgm.de/assets/images/9/LEF-2026-Banner-Facebook-Event-6348bdc5.jpg",
       "link": "https://www.mvgm.de/de/event/landeserntedankfest-2026/",
       "tags": []
     },
@@ -526,7 +526,7 @@
       "endDate": "2026-09-20",
       "location": "Elbauenpark",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/20190914_15_amg_fb_post_erntedankfest-91fbe80d.jpg",
+      "image": "https://www.mvgm.de/assets/images/9/LEF-2026-Banner-Facebook-Event-6348bdc5.jpg",
       "link": "https://www.mvgm.de/de/event/landeserntedankfest-20-09-2026/",
       "tags": []
     },
