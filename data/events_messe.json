@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-07-08T01:20:47.386Z",
+  "scraped_at": "2026-07-09T01:28:45.547Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1992,7 +1992,7 @@
       "location": "Tokio, Japan",
       "description": "Landesbeteiligung Bayern ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-smart-energy-week.jpg",
-      "link": "mailto:s.mueller@LM-international.com",
+      "link": "https://www.lm-international.com/lb_sew_2027",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
