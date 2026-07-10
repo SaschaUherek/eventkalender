@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-07-09T01:29:48.174Z",
+  "scraped_at": "2026-07-10T01:27:01.528Z",
   "events": [
     {
       "title": "AnnenMayKantereit",
@@ -550,6 +550,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/4/9/csm_EB-WONDERWORLD_SocialMedia_4zu3_e746174d33.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ehrlich-brothers/1051",
+      "tags": []
+    },
+    {
+      "title": "Falco Meets Amadeus",
+      "date": "Dienstag, 12.01.2027",
+      "startDate": "2027-01-12",
+      "endDate": "2027-01-12",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/e/a/csm_1080x1080_04dbeedc97.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/falco-meets-amadeus/1065",
       "tags": []
     },
     {
