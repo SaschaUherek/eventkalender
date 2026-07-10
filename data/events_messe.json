@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-07-09T01:28:45.547Z",
+  "scraped_at": "2026-07-10T01:26:13.518Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -2158,6 +2158,19 @@
       ]
     },
     {
+      "title": "EBAN Congress Leipzig 2027 ",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-04",
+      "date": "2027-06-02 – 2027-06-04",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Der European Business Angel Congress (EBAN) 2027 bringt Europas führende Investoren und Investorinnen, Innovatoren und Innovatorinnen sowie Vordenkende nach Sachsen. Drei Tage lang entsteht ein einzigartiges Format aus Networking, Spitzenpanels, Start-up-Pitches und strategischem Austausch, das Investitionen in die nächste Generation europäischer Innovationen fördert. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-eban.jpg",
+      "link": "https://www.futuresax.de/eban-congress/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "XXVI International Grassland Congress - IGC 2027",
       "startDate": "2027-06-13",
       "endDate": "2027-06-18",
@@ -2340,6 +2353,28 @@
       "tags": [
         "Nur für Fachbesucher"
       ]
+    },
+    {
+      "title": "Intec",
+      "startDate": "2029-03-06",
+      "endDate": "2029-03-09",
+      "date": "2029-03-06 – 2029-03-09",
+      "location": "Leipziger Messe",
+      "description": "Die Intec, Internationale Fachmesse für Werkzeugmaschinen, Fertigungs- und Automatísierungstechnik, ist eine der führenden Messen für die metallbearbeitende Industrie in Deutschland und Europa. Ausstellungsschwerpunkte sind spanende und abtragende Werkzeugmaschinen, Präzisionswerkzeuge, Spanntechnik, Automatisierungs- und Handhabungstechnik, Messtechnik und Qualitätssicherung.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-intec.jpg",
+      "link": "https://www.messe-intec.de",
+      "tags": []
+    },
+    {
+      "title": "Z",
+      "startDate": "2029-03-06",
+      "endDate": "2029-03-09",
+      "date": "2029-03-06 – 2029-03-09",
+      "location": "Leipziger Messe",
+      "description": "Die Z ist eine der führenden internationalen Zuliefermessen in Europa. Alle zwei Jahre ist sie Plattform für Zulieferer der unteren und mittleren Produktionsstufen sowie für industrielle Dienstleister. Mit ihrem umfangreichen Angebot ist die Zuliefermesse ein passgenauer Branchentreff für Entscheider und Experten aus dem Maschinen- und Anlagenbau, der Automobil- und Fahrzeugindustrie, dem Werkzeugbau und weiterer Industriebereiche. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-zuliefermesse.jpg",
+      "link": "https://www.zuliefermesse.de",
+      "tags": []
     }
   ]
 }
