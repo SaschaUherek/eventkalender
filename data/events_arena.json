@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-07-13T01:23:02.896Z",
+  "scraped_at": "2026-07-14T01:12:26.108Z",
   "events": [
     {
       "title": "AnnenMayKantereit",
@@ -1034,6 +1034,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/e/e/csm_Pressefoto_Die-Prinzen__c_Sven-Sindt-1130x650_e176225488.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/die-prinzen/1039",
+      "tags": []
+    },
+    {
+      "title": "Wincent Weiss",
+      "date": "Montag, 15.11.2027",
+      "startDate": "2027-11-15",
+      "endDate": "2027-11-15",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/2/a/csm_Credit_ChristophKoestlin__1__3e0cc304b5.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/wincent-weiss/1066",
       "tags": []
     },
     {
