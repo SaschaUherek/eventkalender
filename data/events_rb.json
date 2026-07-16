@@ -1,6 +1,6 @@
 {
   "source": "RB Leipzig Heimspiele (OpenLigaDB)",
-  "scraped_at": "2026-07-15T01:09:40.974Z",
+  "scraped_at": "2026-07-16T01:18:42.041Z",
   "events": [
     {
       "title": "RB Leipzig – Borussia Mönchengladbach",
@@ -20,9 +20,9 @@
     },
     {
       "title": "RB Leipzig – Hamburger SV",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "date": "12.9.2026 · 15:30",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-13",
+      "date": "13.9.2026 · 15:30",
       "location": "Red Bull Arena (geplant)",
       "description": "Bundesliga Heimspiel",
       "image": null,
