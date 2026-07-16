@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-07-15T01:10:07.937Z",
+  "scraped_at": "2026-07-16T01:19:08.625Z",
   "events": [
-    {
-      "title": "FERIENSPASS ELBEREXIS-DINOEXPEDITION - 15.07.2026",
-      "date": "15.Jul",
-      "startDate": "2026-07-15",
-      "endDate": "2026-07-15",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/MVGM-Elbauenpark-Imageshooting-20260418-117-Foto-Andreas-Lander-c0f9c90a.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-elberexis-dinoexpedition-15-07-2026/",
-      "tags": []
-    },
     {
       "title": "SUZI QUATRO & BAND",
       "date": "17.Jul",
@@ -498,6 +487,17 @@
       "tags": []
     },
     {
+      "title": "3. INTERNATIONALES CHORFEST: LANGE NACHT DER CHÖRE",
+      "date": "18.Sep",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "location": "Hyparschale",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/internationales-Chorfest-70ea319a.jpg",
+      "link": "https://www.mvgm.de/de/event/lange-nacht-der-choere/",
+      "tags": []
+    },
+    {
       "title": "WEIMAR - INVICTUS TOUR PART II",
       "date": "18.Sep",
       "startDate": "2026-09-18",
@@ -627,6 +627,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/9/Perspektiven%20Messe%20Banner-2e546f14.jpg",
       "link": "https://www.mvgm.de/de/event/messe-perspektiven-2026-sa/",
+      "tags": []
+    },
+    {
+      "title": "LUMAGICA MAGDEBURG 2026/2027",
+      "date": "02.Okt",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-02",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/1920x1080-fc95bb59.jpg",
+      "link": "https://www.mvgm.de/de/event/lumagica-magdeburg-2026-2027/",
       "tags": []
     },
     {
@@ -1279,6 +1290,17 @@
       "tags": []
     },
     {
+      "title": "TOURISMA 2027",
+      "date": "08.Jan",
+      "startDate": "2027-01-08",
+      "endDate": "2027-01-08",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/MVGM-Messe_004_Foto_Andreas_Lander-f087eba3.jpg",
+      "link": "https://www.mvgm.de/de/event/tourisma-2027/",
+      "tags": []
+    },
+    {
       "title": "BALLETT \"NUSSKNACKER\" | KLASSISCHES ETOILE BALLETT",
       "date": "09.Jan",
       "startDate": "2027-01-09",
@@ -1433,7 +1455,7 @@
       "tags": []
     },
     {
-      "title": "FALCO MEETS AMADEUS",
+      "title": "FALCO MEETS AMADEUS 2027",
       "date": "06.Feb",
       "startDate": "2027-02-06",
       "endDate": "2027-02-06",
@@ -1884,6 +1906,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -2057,6 +2090,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -2357,6 +2412,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -2530,6 +2596,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -2830,6 +2918,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -3003,6 +3102,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -3303,6 +3424,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -3476,6 +3608,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -3776,6 +3930,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -3949,6 +4114,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -4249,6 +4436,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -4422,6 +4620,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -4722,6 +4942,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -4895,6 +5126,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -5195,6 +5448,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -5368,6 +5632,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -5668,6 +5954,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -5841,6 +6138,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -6141,6 +6460,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -6314,6 +6644,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -6614,6 +6966,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -6787,6 +7150,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -7087,6 +7472,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -7260,6 +7656,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -7560,6 +7978,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -7733,6 +8162,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -8033,6 +8484,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -8206,6 +8668,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -8506,6 +8990,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -8679,6 +9174,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -8979,6 +9496,17 @@
       "tags": []
     },
     {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
       "title": "DARK TENOR – ROCK MEETS KLASSIK",
       "date": "07.Mai",
       "startDate": "2027-05-07",
@@ -9152,6 +9680,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MANOWAR - KINGS OF METAL FIGHTING THE WORLD TOUR 2027",
+      "date": "22.Feb",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-22",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Manowar-2027-616004d8.jpg",
+      "link": "https://www.mvgm.de/de/event/manowar-kings-of-metal-fighting-the-world-tour-2027/",
+      "tags": []
+    },
+    {
+      "title": "THE MAGIC OF HANS ZIMMER - THE CONCERT",
+      "date": "26.Feb",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/the-magic-of-hans-zimmer-the-concert-tickets-header-681ec71a.jpg",
+      "link": "https://www.mvgm.de/de/event/the-magic-of-hans-zimmer-the-concert/",
       "tags": []
     },
     {
@@ -9449,6 +9999,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
       "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
       "tags": []
     },
     {
