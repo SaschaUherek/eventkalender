@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-07-16T01:18:15.064Z",
+  "scraped_at": "2026-07-17T01:22:01.147Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1642,6 +1642,20 @@
       "description": "Der Messekongress ist mit über 500 Teilnehmende und 50 Aussteller eines der führenden Branche With over 500 participants and 50 exhibitors, the trade fair congress is one of the leading industry get-togethers for IT managers from insurance companies and IT service providers.ntreffs für IT-Verantwortliche der Versicherungsunternehmen und IT-Dienstleister.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-mk-it-versicherungen.jpg",
       "link": "https://www.versicherungsforen.net/mk-it",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "ZEG Messe Leipzig",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "date": "2026-11-27 – 2026-11-27",
+      "location": "CCL",
+      "description": "Auf der ZEG präsentieren sich etwa 100 Aussteller mit aktuellen Produkten, Neuheiten und Lösungen aus der Holzbranche. Die Fachmesse bietet Gewerbetreibenden die Möglichkeit, sich über Entwicklungen der Branche zu informieren, Produkte kennenzulernen und mit Ausstellern ins Gespräch zu kommen. Öffungszeiten: 9.00 bis 15.00 Uhr",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2024/master-zeg.jpg",
+      "link": "https://www.zeg-holz.de",
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
