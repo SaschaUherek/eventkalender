@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-07-17T01:22:27.685Z",
+  "scraped_at": "2026-07-18T01:14:30.703Z",
   "events": [
     {
       "title": "AnnenMayKantereit",
@@ -682,6 +682,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/4/7/csm_Riverdance__2__Photo_credit__c__Abhann_Productions_7b049ee0e5.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/riverdance-30/991",
+      "tags": []
+    },
+    {
+      "title": "Cindy aus Marzahn",
+      "date": "Sonntag, 14.03.2027",
+      "startDate": "2027-03-14",
+      "endDate": "2027-03-14",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/7/c/csm_CINDY-2026_SM_5zu4_1350x1080_0dc1ba8fea.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/cindy-aus-marzahn/1067",
       "tags": []
     },
     {
