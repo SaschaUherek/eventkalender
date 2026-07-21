@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-07-20T01:22:51.045Z",
+  "scraped_at": "2026-07-21T01:19:34.459Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -2314,6 +2314,19 @@
       "link": "https://www.dsag.de/jahreskongress",
       "tags": [
         "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "active connected",
+      "startDate": "2027-10-26",
+      "endDate": "2027-10-27",
+      "date": "2027-10-26 – 2027-10-27",
+      "location": "Leipziger Messe",
+      "description": "Mit der active connected startet die Leipziger Messe ein neues, zukunftsweisendes Fachformat für Prävention, Sport und Fitness. Während die therapie-Messen das Gesundwerden fokussieren, rückt die active connected das Gesundbleiben in den Mittelpunkt – und wird so zum zentralen Treffpunkt für alle, die Menschen in Bewegung bringen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-active-connected.jpg",
+      "link": "https://www.active-connected.de",
+      "tags": [
+        "Nur für Fachbesucher"
       ]
     },
     {
