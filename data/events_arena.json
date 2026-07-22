@@ -1,7 +1,18 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-07-21T01:20:00.795Z",
+  "scraped_at": "2026-07-22T01:18:29.895Z",
   "events": [
+    {
+      "title": "SC DHfK - GWD Minden",
+      "date": "Montag, 31.08.2026",
+      "startDate": "2026-08-31",
+      "endDate": "2026-08-31",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/1/7/csm_Minden_4zu3_26-27_91e01699f3.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-gwd-minden/1068",
+      "tags": []
+    },
     {
       "title": "AnnenMayKantereit",
       "date": "Donnerstag, 10.09.2026",
@@ -25,6 +36,17 @@
       "tags": []
     },
     {
+      "title": "SC DHfK – VfL Lübeck-Schwartau",
+      "date": "Samstag, 12.09.2026",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-12",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/c/5/csm_Lu__beck-Schwartau_4zu3_26-27_d1b76ff22a.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-vfl-luebeck-schwartau/1069",
+      "tags": []
+    },
+    {
       "title": "Das Größte Malle Festival",
       "date": "Samstag, 26.09.2026",
       "startDate": "2026-09-26",
@@ -36,6 +58,17 @@
       "tags": []
     },
     {
+      "title": "SC DHfK – TSV Bayer Dormagen",
+      "date": "Sonntag, 27.09.2026",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/6/c/csm_Bayer_Dormagen_4zu3_26-27_0bef217697.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-tsv-bayer-dormagen/1070",
+      "tags": []
+    },
+    {
       "title": "NENA",
       "date": "Donnerstag, 01.10.2026",
       "startDate": "2026-10-01",
@@ -44,6 +77,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/d/0/csm_Nena_Live_4_copyright_Sarah_Rechbauer___Laugh___Peas_Entertainment___Lifestyle_GmbH_e6221ce0b5.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/nena/950",
+      "tags": []
+    },
+    {
+      "title": "SC DHfK – TuS N.-Lübbecke",
+      "date": "Donnerstag, 08.10.2026",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-08",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/9/0/csm_Lu__bbecke_4zu3_26-27_d0a816e956.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-tus-n-luebbecke/1071",
       "tags": []
     },
     {
@@ -99,6 +143,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/6/4/csm_DieNervigen__c_Die_Nervigen_3e367989fd.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/die-nervigen/970",
+      "tags": []
+    },
+    {
+      "title": "SC DHfK – ASV Hamm-Westfalen",
+      "date": "Freitag, 16.10.2026",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/7/3/csm_ASV_Hamm_4zu3_26-27_deeb6e0d7c.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-asv-hamm-westfalen/1072",
       "tags": []
     },
     {
