@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-07-22T01:19:01.895Z",
+  "scraped_at": "2026-07-23T01:26:09.469Z",
   "events": [
-    {
-      "title": "FERIENSPASS ELBEREXIS-DINOEXPEDITION - 22.07.2026",
-      "date": "22.Jul",
-      "startDate": "2026-07-22",
-      "endDate": "2026-07-22",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/MVGM-Elbauenpark-Imageshooting-20260418-117-Foto-Andreas-Lander-c0f9c90a.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-elberexis-dinoexpedition-22-07-2026/",
-      "tags": []
-    },
     {
       "title": "FERIENSPASS: ENTDECKUNGSTOUR WIESE - 28.07.2026",
       "date": "28.Jul",
@@ -1906,6 +1895,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -2046,17 +2046,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -2368,6 +2357,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -2508,17 +2508,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -2830,6 +2819,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -2970,17 +2970,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -3292,6 +3281,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -3432,17 +3432,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -3754,6 +3743,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -3894,17 +3894,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -4216,6 +4205,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -4356,17 +4356,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -4678,6 +4667,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -4818,17 +4818,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -5140,6 +5129,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -5280,17 +5280,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -5602,6 +5591,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -5742,17 +5742,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -6064,6 +6053,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -6204,17 +6204,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -6526,6 +6515,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -6666,17 +6666,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -6988,6 +6977,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -7128,17 +7128,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -7450,6 +7439,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -7590,17 +7590,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -7912,6 +7901,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -8052,17 +8052,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -8374,6 +8363,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -8514,17 +8514,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -8836,6 +8825,17 @@
       "tags": []
     },
     {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
+      "tags": []
+    },
+    {
       "title": "JOJA WENDT - „DAS BIEST UND DAS SCHÖNE - EIN KLAVIERKONZERT ZWISCHEN POWER UND PRÄZISION“",
       "date": "23.Mai",
       "startDate": "2027-05-23",
@@ -8976,17 +8976,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
-      "tags": []
-    },
-    {
-      "title": "NIGHT OF FREESTYLE 06.03. | 19 UHR",
-      "date": "06.Mär",
-      "startDate": "2027-03-06",
-      "endDate": "2027-03-06",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/Night-of-Freestyle-2027-92101d49.jpg",
-      "link": "https://www.mvgm.de/de/event/night-of-freestyle-06-03-19-uhr-kopie/",
       "tags": []
     },
     {
@@ -9295,6 +9284,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-MIRJA-REGENSBURG-2-c-Christian-Hebrock-002-a410cbed.jpg",
       "link": "https://www.mvgm.de/de/event/mirja-regensburg-alles-wird-gut/",
+      "tags": []
+    },
+    {
+      "title": "CINDY AUS MARZAHN - EINMAL PRINZESSIN UND ZURÜCK!",
+      "date": "21.Mai",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Cindy-aus-Marzahn-8f978cd3.jpg",
+      "link": "https://www.mvgm.de/de/event/cindy-aus-marzahn-einmal-prinzessin-und-zurueck-3/",
       "tags": []
     },
     {
