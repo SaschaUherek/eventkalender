@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-07-23T01:25:38.645Z",
+  "scraped_at": "2026-07-24T01:22:08.568Z",
   "events": [
     {
       "title": "SC DHfK - GWD Minden",
@@ -223,6 +223,17 @@
       "tags": []
     },
     {
+      "title": "SC DHfK – TV 05/07 Hüttenberg",
+      "date": "Sonntag, 01.11.2026",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/0/d/csm_Logo_bearbeitet_8d242e7f67.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-tv-05-07-huettenberg/1073",
+      "tags": []
+    },
+    {
       "title": "90s Super Show",
       "date": "Samstag, 07.11.2026",
       "startDate": "2026-11-07",
@@ -308,6 +319,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/f/b/csm_instagram_1080x1080_8ce2bbd439.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/unheilig-special-guests/968",
+      "tags": []
+    },
+    {
+      "title": "SC DHfK – TV Emsdetten",
+      "date": "Sonntag, 22.11.2026",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/0/d/csm_Logo_bearbeitet_840f4cfdb3.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-tv-emsdetten/1074",
       "tags": []
     },
     {
@@ -410,6 +432,17 @@
       "tags": []
     },
     {
+      "title": "SC DHfK – Eulen Ludwigshafen",
+      "date": "Sonntag, 06.12.2026",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/0/d/csm_Logo_bearbeitet_2075e51916.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-eulen-ludwigshafen/1075",
+      "tags": []
+    },
+    {
       "title": "BAP",
       "date": "Montag, 07.12.2026",
       "startDate": "2026-12-07",
@@ -429,6 +462,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/d/6/csm_PAP_FEED_EINZELSTA__DTE_LEIPZIG_d022d55983.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/bonez-mc-raf-camora/1064",
+      "tags": []
+    },
+    {
+      "title": "SC DHfK – 1. VfL Potsdam",
+      "date": "Samstag, 19.12.2026",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-19",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/0/d/csm_Logo_bearbeitet_d9dc590cd9.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-1-vfl-potsdam/1076",
       "tags": []
     },
     {
