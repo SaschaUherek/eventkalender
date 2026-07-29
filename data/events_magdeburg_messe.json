@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-07-28T01:18:14.810Z",
+  "scraped_at": "2026-07-29T01:20:17.319Z",
   "events": [
-    {
-      "title": "FERIENSPASS: ENTDECKUNGSTOUR WIESE - 28.07.2026",
-      "date": "28.Jul",
-      "startDate": "2026-07-28",
-      "endDate": "2026-07-28",
-      "location": "Elbauenpark",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/Elbauenpark-Imageshooting_338_Foto_Andreas_Lander-1bc88399.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-wiese-28-07-2026/",
-      "tags": []
-    },
     {
       "title": "FERIENSPASS ELBEREXIS-DINOEXPEDITION - 29.07.2026",
       "date": "29.Jul",
@@ -836,6 +825,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/SIXX-PAXX-DREAMS-COVER-2-6c5c4e51.jpg",
       "link": "https://www.mvgm.de/de/event/sixx-paxx-dreams/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | PRE-OPENING | FR",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-pre-opening-fr/",
       "tags": []
     },
     {
@@ -1708,6 +1708,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -1903,6 +1914,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -2203,6 +2225,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -2398,6 +2431,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -2698,6 +2742,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -2893,6 +2948,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -3193,6 +3259,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -3388,6 +3465,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -3688,6 +3776,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -3883,6 +3982,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -4183,6 +4293,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -4378,6 +4499,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -4678,6 +4810,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -4873,6 +5016,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -5173,6 +5327,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -5368,6 +5533,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -5668,6 +5844,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -5863,6 +6050,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -6163,6 +6361,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -6358,6 +6567,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -6658,6 +6878,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -6853,6 +7084,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -7153,6 +7395,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -7348,6 +7601,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -7648,6 +7912,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -7843,6 +8118,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -8143,6 +8429,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -8338,6 +8635,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -8638,6 +8946,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -8833,6 +9152,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -9133,6 +9463,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -9328,6 +9669,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -9628,6 +9980,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE SCHLAGER HITPARADE 2027",
+      "date": "08.Apr",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/SHP27-Standard-1920x1080px-c755a6c0.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-schlager-hitparade-2027/",
+      "tags": []
+    },
+    {
       "title": "HOLIDAY ON ICE - NEUE SHOW: \"MIRAGE\" 2026/2027 | 09.04. - 16 UHR",
       "date": "09.Apr",
       "startDate": "2027-04-09",
@@ -9823,6 +10186,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
       "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
