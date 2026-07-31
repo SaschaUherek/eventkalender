@@ -1,29 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-07-30T01:13:15.388Z",
+  "scraped_at": "2026-07-31T01:26:19.544Z",
   "events": [
-    {
-      "title": "DER HERR DER RINGE & DER HOBBIT",
-      "date": "30.Jul",
-      "startDate": "2026-07-30",
-      "endDate": "2026-07-30",
-      "location": "Seebühne",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/c/MVGM-Elbauenpark-Seeb%2B%2Bhne_003_Foto_Andreas_Lander-5ebfbdd6.jpg",
-      "link": "https://www.mvgm.de/de/event/der-herr-der-ringe-der-hobbit/",
-      "tags": []
-    },
-    {
-      "title": "PINK FLOYD'S THE DARK SIDE OF THE MOON - LIVE IN CONCERT",
-      "date": "30.Jul",
-      "startDate": "2026-07-30",
-      "endDate": "2026-07-30",
-      "location": "Seebühne",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/MVGM-Elbauenpark-Seeb%2B%2Bhne_004_Foto_Andreas_Lander-38c62ead.jpg",
-      "link": "https://www.mvgm.de/de/event/pink-floyd-s-the-dark-side-of-the-moon-live-in-concert/",
-      "tags": []
-    },
     {
       "title": "THE MAGICAL MUSIC OF HARRY POTTER - LIVE IN CONCERT",
       "date": "31.Jul",
@@ -289,6 +267,17 @@
       "tags": []
     },
     {
+      "title": "1. FC MAGDEBURG – HOLSTEIN KIEL",
+      "date": "30.Aug",
+      "startDate": "2026-08-30",
+      "endDate": "2026-08-30",
+      "location": "Avnet Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/mdcc-arena-werner-klapper-d52256c9.jpg",
+      "link": "https://www.mvgm.de/de/event/1-fc-magdeburg-holstein-kiel-3/",
+      "tags": []
+    },
+    {
       "title": "OLAF SCHUBERT UND SEINE FREUNDE - JETZT ODER NOW!",
       "date": "30.Aug",
       "startDate": "2026-08-30",
@@ -374,6 +363,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/20211105-03_Olaf_Pressebild_Credit%20Hans%20J%C3%B6rg%20Haas-ae1b9517.jpg",
       "link": "https://www.mvgm.de/de/event/olaf-der-flipper-br-wir-sagen-dankeschoen-80-jahre-die-geburtstagstournee-2026/",
+      "tags": []
+    },
+    {
+      "title": "1. FC MAGDEBURG – 1. FC KAISERSLAUTERN",
+      "date": "12.Sep",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-12",
+      "location": "Avnet Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/mdcc-arena-werner-klapper-d52256c9.jpg",
+      "link": "https://www.mvgm.de/de/event/1-fc-magdeburg-1-fc-kaiserslautern-5/",
       "tags": []
     },
     {
@@ -1389,6 +1389,17 @@
       "tags": []
     },
     {
+      "title": "DOPPELPASS ON TOUR",
+      "date": "02.Feb",
+      "startDate": "2027-02-02",
+      "endDate": "2027-02-02",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Doppelpass-on-Tour-c-pics4news-5454a580.jpg",
+      "link": "https://www.mvgm.de/de/event/doppelpass-on-tour/",
+      "tags": []
+    },
+    {
       "title": "DER KÖNIG DER LÖWEN - THE MUSIC LIVE IN CONCERT",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -2126,14 +2137,14 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
       "tags": []
     },
     {
@@ -2148,14 +2159,14 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
       "tags": []
     },
     {
@@ -2170,14 +2181,14 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
       "tags": []
     },
     {
@@ -2192,14 +2203,14 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
       "tags": []
     },
     {
@@ -2214,14 +2225,14 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
       "tags": []
     },
     {
@@ -2236,14 +2247,14 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
       "tags": []
     },
     {
@@ -2258,14 +2269,14 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
       "tags": []
     },
     {
@@ -2277,6 +2288,171 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "ONE VIOLIN ORCHESTRA - CHRISTMAS",
+      "date": "18.Dez",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
+      "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
       "tags": []
     },
     {
