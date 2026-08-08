@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-08-07T01:58:40.557Z",
+  "scraped_at": "2026-08-08T00:41:50.435Z",
   "events": [
-    {
-      "title": "FLORIAN KÜNSTLER - ALLES NUR GELIEHEN - TOUR 2026/2027",
-      "date": "07.Aug",
-      "startDate": "2026-08-07",
-      "endDate": "2026-08-07",
-      "location": "MDCC-Parkbühne",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/f/florian-kuenstler-bb450ce0.png",
-      "link": "https://www.mvgm.de/de/event/florian-kuenstler-alles-nur-geliehen-tour-2026-2027/",
-      "tags": []
-    },
     {
       "title": "MEGA MALLE – DAS FESTIVAL DER MALLORCASTARS 2026",
       "date": "08.Aug",
@@ -1144,6 +1133,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/e/CAVALLUNA-Die-Farben-des-Lebens-Artwork-quer-252ede4c.jpg",
       "link": "https://www.mvgm.de/de/event/cavalluna-die-farben-des-lebens-13-12-2026-13-00-uhr/",
+      "tags": []
+    },
+    {
+      "title": "CAVALLUNA – DIE FARBEN DES LEBENS | 13.12.2026, 17:30 UHR",
+      "date": "13.Dez",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/CAVALLUNA-Die-Farben-des-Lebens-Artwork-quer-252ede4c.jpg",
+      "link": "https://www.mvgm.de/de/event/cavalluna-die-farben-des-lebens-13-12-2026-17-30-uhr/",
       "tags": []
     },
     {
