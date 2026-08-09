@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-08-08T00:40:50.561Z",
+  "scraped_at": "2026-08-09T00:42:59.362Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1070,20 +1070,6 @@
       ]
     },
     {
-      "title": "Medtec China",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-03",
-      "date": "2026-09-01 – 2026-09-03",
-      "location": "Shanghai, VR China",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-medtech-china.jpg",
-      "link": "mailto:j.kowollik@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Glasfaserforum Sachsen",
       "startDate": "2026-09-01",
       "endDate": "2026-09-01",
@@ -1094,6 +1080,20 @@
       "link": "https://www.netze-on.de/de/glasfaserforum/",
       "tags": [
         "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Medtec China",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-03",
+      "date": "2026-09-01 – 2026-09-03",
+      "location": "Shanghai, VR China",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-medtech-china.jpg",
+      "link": "mailto:j.kowollik@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
     },
@@ -1977,17 +1977,6 @@
       ]
     },
     {
-      "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
-      "startDate": "2027-03-18",
-      "endDate": "2027-03-21",
-      "date": "2027-03-18 – 2027-03-21",
-      "location": "Leipziger Messe",
-      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser, Autoren, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga Comic Con und dem Lesefestival Leipzig liest statt.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-lbm-relaunch.jpg",
-      "link": "https://www.leipziger-buchmesse.de",
-      "tags": []
-    },
-    {
       "title": "Manga Comic Con",
       "startDate": "2027-03-18",
       "endDate": "2027-03-21",
@@ -1996,6 +1985,17 @@
       "description": "Willkommen in der farbenfrohen Welt der Manga Comic Con. Vier Tage lang möchten wir eure Leidenschaft feiern! Was es zu erleben gibt? Zahlreiche Neuerscheinungen großer Verlage. Signierstunden eurer Stars. Spannende Serien im Anime-Kino. Farbenfrohe Cosplayerinnen und Cosplayer. Und jede Menge Workshops. Ihr habt so viel Fantasie. Wir freuen uns auf euch! Die MCC ist Teil der Leipziger Buchmesse.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-mcc.jpg",
       "link": "https://www.manga-comic-con.de",
+      "tags": []
+    },
+    {
+      "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
+      "startDate": "2027-03-18",
+      "endDate": "2027-03-21",
+      "date": "2027-03-18 – 2027-03-21",
+      "location": "Leipziger Messe",
+      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser, Autoren, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga Comic Con und dem Lesefestival Leipzig liest statt.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-lbm-relaunch.jpg",
+      "link": "https://www.leipziger-buchmesse.de",
       "tags": []
     },
     {
