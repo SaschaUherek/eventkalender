@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-08-10T00:44:37.938Z",
+  "scraped_at": "2026-08-11T00:44:37.212Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1365,6 +1365,19 @@
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Tanz-WM 2026",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "date": "2026-10-10 – 2026-10-10",
+      "location": "Leipziger Messe",
+      "description": "Gemeinsam mit der World DanceSport Federation laden wir Sie zu einem internationalen Tanzsport-Event ein! Lassen Sie sich von einem einzigartigen Tanzerlebnis begeistern: Bereits zum 16. Mal präsentieren wir Ihnen die weltbesten Tanzpaare auf dem Leipziger Parkett. In diesem Jahr erwartet Sie der spannende Wettkampf um den Weltmeistertitel im Standardtanz.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-tanz-wm-2026.jpg",
+      "link": "https://www.tanzen-leipzig.com",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
