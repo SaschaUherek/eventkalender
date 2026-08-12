@@ -1,18 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-08-11T00:45:40.111Z",
+  "scraped_at": "2026-08-12T00:53:09.735Z",
   "events": [
-    {
-      "title": "FERIENSPASS: ENTDECKUNGSTOUR BIBER - 11.08.2026",
-      "date": "11.Aug",
-      "startDate": "2026-08-11",
-      "endDate": "2026-08-11",
-      "location": "Elbauenpark",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Elbauenpark_Entdeckungstour_Biber_Foto_Andreas_Lander_05312023_%C2%A9NKE_GMBH_100-871a06fa.jpg",
-      "link": "https://www.mvgm.de/de/event/ferienspass-entdeckungstour-biber-11-08-2026/",
-      "tags": []
-    },
     {
       "title": "FERIENSPASS ELBEREXIS-DINOEXPEDITION - 12.08.2026",
       "date": "12.Aug",
@@ -176,6 +165,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/mdcc-arena-werner-klapper-d52256c9.jpg",
       "link": "https://www.mvgm.de/de/event/1-fc-magdeburg-holstein-kiel-3/",
+      "tags": []
+    },
+    {
+      "title": "»DEUTSCHLAND SPRICHT« LIVE IN MAGDEBURG",
+      "date": "30.Aug",
+      "startDate": "2026-08-30",
+      "endDate": "2026-08-30",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/Logo-Deutschland-spricht-Logo-Text-gruen-DIEZEIT-75da23d9.jpg",
+      "link": "https://www.mvgm.de/de/event/Deutschland-spricht/",
       "tags": []
     },
     {
