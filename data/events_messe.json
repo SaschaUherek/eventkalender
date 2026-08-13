@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-08-12T00:52:07.872Z",
+  "scraped_at": "2026-08-13T00:53:50.022Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1869,6 +1869,19 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-handwerk-live.jpg",
       "link": "https://www.handwerksmesse-leipzig.de",
       "tags": []
+    },
+    {
+      "title": "Motorräder Leipzig",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-08",
+      "date": "2027-02-06 – 2027-02-08",
+      "location": "Leipziger Messe",
+      "description": "MOTORRAD PUR ERLEBEN - Die Motorrad Messe in Mitteldeutschland. Der Treffpunkt für Motorradleidenschaft. Internationale Marken präsentieren ihre neuesten Modelle, innovative Technik, angesagte Bekleidung, hochwertiges Zubehör und attraktive Reiseangebote. Ausprobieren, Probesitzen, spektakuläre Shows genießen - auf der MOTORRÄDER LEIPZIG wird die Faszination Motorrad erlebbar.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2027/master-motorraeder.jpg",
+      "link": "https://www.motorraeder-leipzig.de/?_gl=1%2Azh3i3v%2A_gcl_au%2AMTMxNjQ5Nzk1OS4xNzg0NTU0NDM2%2A_ga%2AMTI3NjI1ODY2My4xNzc0OTM5ODgy%2A_ga_4TD46L112L%2AczE3ODY0MzUxODgkbzEyJGcxJHQxNzg2NDM1MjI3JGoyMSRsMCRoMA..",
+      "tags": [
+        "Gastveranstaltung"
+      ]
     },
     {
       "title": "Forum Hebammenarbeit Leipzig 2027",
