@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-08-17T00:29:21.020Z",
+  "scraped_at": "2026-08-18T00:29:07.852Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -2114,6 +2114,20 @@
       "link": "https://www.leipziger-wollefest.de",
       "tags": [
         "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "WORLD OF FIREPLACES 2027",
+      "startDate": "2027-04-13",
+      "endDate": "2027-04-15",
+      "date": "2027-04-13 – 2027-04-15",
+      "location": "Leipziger Messe",
+      "description": "Die WORLD OF FIREPLACES ist der internationale Branchentreffpunkt für Feuerstätten, Kamine, Öfen und moderne Wärmelösungen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2023/master-world-fireplaces.jpg",
+      "link": "https://www.world-of-fireplaces.de",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
       ]
     },
     {
