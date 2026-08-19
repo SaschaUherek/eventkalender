@@ -1,6 +1,6 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-08-18T00:30:06.290Z",
+  "scraped_at": "2026-08-19T00:30:09.057Z",
   "events": [
     {
       "title": "FREEDOM - A TRIBUTE TO GEORGE MICHAEL",
@@ -108,7 +108,7 @@
       "endDate": "2026-08-29",
       "location": "Elbauenpark",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/20260609-FB-Event-1200x630px-OMMMA-81786e59.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/OMMMA-Webseite-Eventmodul-1200x628px-bc936469.jpg",
       "link": "https://www.mvgm.de/de/event/27-ommma-ost-mobil-meeting-magdeburg-praesentiert-von-roestfein/",
       "tags": []
     },
@@ -1923,7 +1923,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -1991,6 +1991,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -2440,7 +2451,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -2508,6 +2519,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -2957,7 +2979,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -3025,6 +3047,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -3474,7 +3507,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -3542,6 +3575,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -3991,7 +4035,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -4059,6 +4103,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -4508,7 +4563,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -4576,6 +4631,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -5025,7 +5091,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -5093,6 +5159,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -5542,7 +5619,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -5610,6 +5687,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -6059,7 +6147,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -6127,6 +6215,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -6576,7 +6675,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -6644,6 +6743,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -7093,7 +7203,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -7161,6 +7271,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -7610,7 +7731,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -7678,6 +7799,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -8127,7 +8259,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -8195,6 +8327,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -8644,7 +8787,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -8712,6 +8855,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -9161,7 +9315,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -9229,6 +9383,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -9678,7 +9843,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -9746,6 +9911,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
@@ -10195,7 +10371,7 @@
       "endDate": "2027-05-09",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/0/NikP-Echt-1920x1080px-333ce92e.jpg",
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
       "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
@@ -10263,6 +10439,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/c/Loriot-Hauptmotiv-2-web-5eac5779.jpg",
       "link": "https://www.mvgm.de/de/event/loriot-der-grosse-loriot-abend-2/",
+      "tags": []
+    },
+    {
+      "title": "PYRO GAMES 2027 - DAS DUELL DER FEUERWERKER",
+      "date": "14.Aug",
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-14",
+      "location": "Elbauenpark",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pyro-Games-2024-691ca14b.jpg",
+      "link": "https://www.mvgm.de/de/event/pyro-games-2027-das-duell-der-feuerwerker/",
       "tags": []
     },
     {
