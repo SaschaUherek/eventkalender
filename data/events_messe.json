@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-08-18T00:29:07.852Z",
+  "scraped_at": "2026-08-19T00:29:12.290Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1881,20 +1881,6 @@
       "link": "https://www.motorraeder-leipzig.de/?_gl=1%2Azh3i3v%2A_gcl_au%2AMTMxNjQ5Nzk1OS4xNzg0NTU0NDM2%2A_ga%2AMTI3NjI1ODY2My4xNzc0OTM5ODgy%2A_ga_4TD46L112L%2AczE3ODY0MzUxODgkbzEyJGcxJHQxNzg2NDM1MjI3JGoyMSRsMCRoMA..",
       "tags": [
         "Gastveranstaltung"
-      ]
-    },
-    {
-      "title": "Forum Hebammenarbeit Leipzig 2027",
-      "startDate": "2027-02-26",
-      "endDate": "2027-02-27",
-      "date": "2027-02-26 – 2027-02-27",
-      "location": "CCL",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-hebammenforum.jpg",
-      "link": "https://events.thieme.com/forum-hebammenarbeit/",
-      "tags": [
-        "Gastveranstaltung",
-        "Nur für Fachbesucher"
       ]
     },
     {
