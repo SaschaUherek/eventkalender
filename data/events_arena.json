@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-08-19T00:29:40.453Z",
+  "scraped_at": "2026-08-20T00:29:37.125Z",
   "events": [
     {
       "title": "SC DHfK - GWD Minden",
@@ -1210,6 +1210,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/4/3/csm_2028-03-11_Martin_Ruetter_b00cbf1df0.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/martin-ruetter/990",
+      "tags": []
+    },
+    {
+      "title": "Kerstin Ott",
+      "date": "Mittwoch, 22.03.2028",
+      "startDate": "2028-03-22",
+      "endDate": "2028-03-22",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/b/f/csm_Pressefoto001__C_Jule_Merhoff_2f023baef7.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/kerstin-ott/1077",
       "tags": []
     }
   ]
