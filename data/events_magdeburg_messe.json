@@ -1,6 +1,6 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-08-20T00:30:06.083Z",
+  "scraped_at": "2026-08-21T00:33:00.564Z",
   "events": [
     {
       "title": "FREEDOM - A TRIBUTE TO GEORGE MICHAEL",
@@ -1048,6 +1048,17 @@
       "tags": []
     },
     {
+      "title": "WIENER OPERETTEN WEIHNACHT 2026",
+      "date": "10.Dez",
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-10",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/WienerOperettenWeihnacht-Ensemble-2024-1-KlausWuensch-Print-klein-5864cd5c.jpg",
+      "link": "https://www.mvgm.de/de/event/strong-wiener-operetten-weihnacht-strong/",
+      "tags": []
+    },
+    {
       "title": "SANTA MARIA - DAS MUSICAL: INSEL WIE AUS TRÄUMEN GEBOREN",
       "date": "11.Dez",
       "startDate": "2026-12-11",
@@ -1144,6 +1155,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/tarzan-musical-plakat-quer-1920x1080px-theater-liberi-kai-wienen-ae8537c9.jpg",
       "link": "https://www.mvgm.de/de/event/tarzan-das-musical-2/",
+      "tags": []
+    },
+    {
+      "title": "THE BEST OF BLACK GOSPEL - \"JOY TO THE WORLD\" TOUR",
+      "date": "04.Jan",
+      "startDate": "2027-01-04",
+      "endDate": "2027-01-04",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/Best-of-Black-Gospel-Pressebild-JanSadler-37cd1a39.jpg",
+      "link": "https://www.mvgm.de/de/event/the-best-of-black-gospel-joy-to-the-world-tour-2/",
       "tags": []
     },
     {
@@ -2132,7 +2154,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2143,8 +2165,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2165,7 +2209,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2176,8 +2220,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2198,7 +2264,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2209,8 +2275,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2231,7 +2319,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2242,8 +2330,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2264,7 +2374,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2275,8 +2385,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2297,7 +2429,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2308,8 +2440,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2330,7 +2484,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2341,8 +2495,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2363,7 +2539,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2374,8 +2550,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2396,7 +2594,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2407,8 +2605,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2429,7 +2649,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2440,8 +2660,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2462,7 +2704,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2473,8 +2715,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2495,7 +2759,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2506,8 +2770,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2528,7 +2814,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2539,8 +2825,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2561,7 +2869,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2572,8 +2880,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2594,7 +2924,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2605,8 +2935,30 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
+      "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
+      "date": "09.Dez",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Princess-Groupon-1280x771-c29617f9.jpg",
+      "link": "https://www.mvgm.de/de/event/princess-dreams-die-grosse-maerchenhafte-konzertshows/",
       "tags": []
     },
     {
@@ -2627,7 +2979,7 @@
       "endDate": "2027-02-04",
       "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/BOYBANDS-Facebook-Profil-e5e0c99e.jpg",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
@@ -2638,7 +2990,7 @@
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-JOHANN-KoeNIG-c-Marcus-Mueller-Saran-1980x1080-40790fe1.jpg",
+      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
       "tags": []
     }
