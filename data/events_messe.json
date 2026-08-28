@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-08-27T05:21:10.070Z",
+  "scraped_at": "2026-08-28T07:18:08.958Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1450,6 +1450,19 @@
       ]
     },
     {
+      "title": "Händlerbund SellerDay",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "date": "2026-10-29 – 2026-10-29",
+      "location": "CCL",
+      "description": "Der Händlerbund SellerDay bringt die E-Commerce-Branche an einem Ort zusammen, für alle, die ihr Onlinegeschäft nach vorne bringen wollen. Egal, ob du gerade deinen Shop startest, bereits skalierst, international expandierst oder dich auf den nächsten großen Schritt vorbereitest. Hier bekommst du Impulse, die dich wirklich weiterbringen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-haendlerbund.jpg",
+      "link": "https://www.haendlerbund.de/de/news/termine/haendlerbund-sellerday",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "marrylove Hochzeitsmesse Leipzig",
       "startDate": "2026-10-31",
       "endDate": "2026-11-01",
@@ -1805,6 +1818,20 @@
       "link": "mailto:g.weickert@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "UPDATE Hämatologie / Onkologie 2027",
+      "startDate": "2027-02-02",
+      "endDate": "2027-02-03",
+      "date": "2027-02-02 – 2027-02-03",
+      "location": "CCL",
+      "description": "28 Jahre UPDATE Hämatologie und Onkologie 2027. Die neuesten Erkenntnisse zu Gynäkologie, Leukämien, Lymphome, Gastrointestiale & Urologische Tumoren, Palliativmedizin und Lungenkarzinome werden von hochkarätigen Referenten vermittelt.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2025/master-haematologie-update.jpg",
+      "link": "https://www.onko-update.de/",
+      "tags": [
+        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
@@ -2219,6 +2246,19 @@
       "description": "Der European Business Angel Congress (EBAN) 2027 bringt Europas führende Investoren und Investorinnen, Innovatoren und Innovatorinnen sowie Vordenkende nach Sachsen. Drei Tage lang entsteht ein einzigartiges Format aus Networking, Spitzenpanels, Start-up-Pitches und strategischem Austausch, das Investitionen in die nächste Generation europäischer Innovationen fördert. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-eban.jpg",
       "link": "https://www.futuresax.de/eban-congress/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Kongress Christlicher Führungskräfte (KCF) ",
+      "startDate": "2027-06-10",
+      "endDate": "2027-06-12",
+      "date": "2027-06-10 – 2027-06-12",
+      "location": "CCL",
+      "description": "KRAFTVOLL FÜHREN. Der Kongress Christlicher Führungskräfte (KCF) ist der größte Wertekongress im deutschsprachigen Raum und dient zur Weiterentwicklung und zum Netzwerken im Kontext von Wirtschaft und Leadership. Er verbindet über Branchen- und Altersgrenzen hinweg Menschen, die mit ihrem christlichen Glauben im Berufsleben einen Unterschied machen wollen. Wir verbinden und inspirieren Menschen in Verantwortung. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2027/master-kcf.jpg",
+      "link": "http://www.kcf27.de",
       "tags": [
         "Gastveranstaltung"
       ]
