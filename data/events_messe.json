@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-09-02T01:38:41.705Z",
+  "scraped_at": "2026-09-03T01:42:51.676Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -2457,6 +2457,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-paintexpo.jpg",
       "link": "https://www.paintexpo.de",
       "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "109. Deutscher Röntgenkongress (RÖKO LEIPZIG 2028)",
+      "startDate": "2028-05-24",
+      "endDate": "2028-05-26",
+      "date": "2028-05-24 – 2028-05-26",
+      "location": "CCL",
+      "description": "Dieser Kongress für medizinische Radiologie und bildgeführte Therapie ist nur für Fachpublikum geöffnet. Dabei stehen die Berufsgruppen aus Radiologie, Medizintechnologie, Medizinphysik und anderen Naturwissenschaften sowie medizinischen Fachrichtungen besonders im Fokus . Ebenso Fachpublikum aus dem Bereich IT in der Medizin. Eine Anmeldung ist erforderlich. Ergänzend findet der RÖKO DIGITAL voraussichtlich vom 8. März bis 24. Juni 2028 statt.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-roeko.jpg",
+      "link": "https://roentgenkongress.de/",
+      "tags": [
+        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
