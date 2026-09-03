@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-09-02T01:39:10.836Z",
+  "scraped_at": "2026-09-03T01:43:19.057Z",
   "events": [
     {
       "title": "AnnenMayKantereit",
@@ -1100,6 +1100,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/5/f/csm_Pressefoto_JOHANN_KOENIG_Heute_ein_Koenig_3__c__Marcus_Mueller_Saran_1a8fd8036f.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/johann-koenig/992",
+      "tags": []
+    },
+    {
+      "title": "Montez",
+      "date": "Freitag, 08.10.2027",
+      "startDate": "2027-10-08",
+      "endDate": "2027-10-08",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/files/user_upload/veranstaltungen/Konzert_Show/2027-10-08_Montez/MONTEZ_Glueck_Presse_%40kesterday_4M4A3399-edit2.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/montez/1079",
       "tags": []
     },
     {
