@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-09-03T01:43:19.057Z",
+  "scraped_at": "2026-09-04T01:40:30.596Z",
   "events": [
     {
       "title": "AnnenMayKantereit",
@@ -773,6 +773,17 @@
       "tags": []
     },
     {
+      "title": "James Blunt",
+      "date": "Freitag, 12.03.2027",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/6/2/csm_JamesBlunt_Social_02_2027_1x1_98a484f041.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/james-blunt/1081",
+      "tags": []
+    },
+    {
       "title": "Cindy aus Marzahn",
       "date": "Sonntag, 14.03.2027",
       "startDate": "2027-03-14",
@@ -825,6 +836,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/8/c/csm_Maite_Kelly_klein_f7746a937f.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/maite-kelly/977",
+      "tags": []
+    },
+    {
+      "title": "Samra & Capital Bra",
+      "date": "Sonntag, 21.03.2027",
+      "startDate": "2027-03-21",
+      "endDate": "2027-03-21",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/2/8/csm_1200x628_bc97374e95.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/samra-capital-bra/1080",
       "tags": []
     },
     {
