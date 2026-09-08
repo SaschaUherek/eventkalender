@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-09-07T01:30:28.409Z",
+  "scraped_at": "2026-09-08T01:40:19.770Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -2080,9 +2080,9 @@
     },
     {
       "title": "Deutscher Kitaleitungskongress Leipzig 2027",
-      "startDate": "2027-04-08",
-      "endDate": "2027-04-08",
-      "date": "2027-04-08 – 2027-04-08",
+      "startDate": "2027-04-06",
+      "endDate": "2027-04-07",
+      "date": "2027-04-06 – 2027-04-07",
       "location": "KONGRESSHALLE am Zoo Leipzig",
       "description": "Der DKLK ist die größte Fachveranstaltung für Kitaleitungen, Fachberatungen und Trägervertretungen im deutschsprachigen Raum. Im Fokus stehen fachlicher Austausch, praxisnahe Impulse und aktuelle Trends rund um frühkindliche Bildung, Kitamanagement und Führung. Workshops, Vorträge, Praxisforen und eine begleitende Fachausstellung bieten Expert*innenwissen, Vernetzung und direkt anwendbare Lösungen für den Kita-Alltag.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-dklk-2027.jpg",
