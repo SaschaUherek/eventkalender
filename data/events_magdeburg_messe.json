@@ -1,6 +1,6 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-09-07T01:31:29.038Z",
+  "scraped_at": "2026-09-08T01:41:20.190Z",
   "events": [
     {
       "title": "SC-MAGDEBURG - KOLSTAD HANDBALL 2026",
@@ -80,17 +80,6 @@
       "tags": []
     },
     {
-      "title": "SC MAGDEBURG - HSG WETZLAR",
-      "date": "13.Sep",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-13",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/getec-arena-handball-011-foto-andreas-lander-6dd2f3cb.jpg",
-      "link": "https://www.mvgm.de/de/event/sc-magdeburg-hsg-wetzlar-9/",
-      "tags": []
-    },
-    {
       "title": "MAGDEBURGER FLOHMARKT FÜR BABY- UND KINDERSACHEN 2026",
       "date": "13.Sep",
       "startDate": "2026-09-13",
@@ -99,6 +88,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/2016-09-11_Babyflohmarkt_Spielzeug-d5df68fb.jpg",
       "link": "https://www.mvgm.de/de/event/magdeburger-flohmarkt-fuer-baby-und-kindersachen-2026-2/",
+      "tags": []
+    },
+    {
+      "title": "SC MAGDEBURG - HSG WETZLAR",
+      "date": "13.Sep",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-13",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/getec-arena-handball-011-foto-andreas-lander-6dd2f3cb.jpg",
+      "link": "https://www.mvgm.de/de/event/sc-magdeburg-hsg-wetzlar-9/",
       "tags": []
     },
     {
@@ -399,17 +399,6 @@
       "tags": []
     },
     {
-      "title": "SC MAGDEBURG - HC ERLANGEN",
-      "date": "04.Okt",
-      "startDate": "2026-10-04",
-      "endDate": "2026-10-04",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/getec-arena-handball-011-foto-andreas-lander-6dd2f3cb.jpg",
-      "link": "https://www.mvgm.de/de/event/sc-magdeburg-hc-erlangen-8/",
-      "tags": []
-    },
-    {
       "title": "22. MAGDEBURG MARATHON",
       "date": "04.Okt",
       "startDate": "2026-10-04",
@@ -418,6 +407,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/1/Magdeburg-Marathon-fa43bf08.jpg",
       "link": "https://www.mvgm.de/de/event/22-magdeburg-marathon/",
+      "tags": []
+    },
+    {
+      "title": "SC MAGDEBURG - HC ERLANGEN",
+      "date": "04.Okt",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-04",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/getec-arena-handball-011-foto-andreas-lander-6dd2f3cb.jpg",
+      "link": "https://www.mvgm.de/de/event/sc-magdeburg-hc-erlangen-8/",
       "tags": []
     },
     {
