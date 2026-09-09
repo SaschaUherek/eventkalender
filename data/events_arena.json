@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-09-07T01:30:59.285Z",
+  "scraped_at": "2026-09-09T01:48:27.283Z",
   "events": [
     {
       "title": "AnnenMayKantereit",
@@ -1144,6 +1144,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/4/3/csm_01_Pressefoto_AndreaBergLive2027_NadineVolz_8a54cadba5.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/andrea-berg/975",
+      "tags": []
+    },
+    {
+      "title": "Sascha Grammel",
+      "date": "Freitag, 15.10.2027",
+      "startDate": "2027-10-15",
+      "endDate": "2027-10-15",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/7/1/csm_Pressefoto_SASCHA_GRAMMEL_Warum_denn_nich__Fragezeichen___c__Panta_Management_GmbH_5d9c0d58da.jpeg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sascha-grammel/1082",
       "tags": []
     },
     {
