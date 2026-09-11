@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-09-10T01:43:33.688Z",
+  "scraped_at": "2026-09-11T01:42:34.594Z",
   "events": [
-    {
-      "title": "AnnenMayKantereit",
-      "date": "Donnerstag, 10.09.2026",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-10",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/f/1/csm_AnnenMayKantereit_PressPic2025-1_quer_Martin_Lamberty_Freigabe_c5d2d23a0d.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/annenmaykantereit/958",
-      "tags": []
-    },
     {
       "title": "AnnenMayKantereit",
       "date": "Freitag, 11.09.2026",
@@ -1100,6 +1089,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/5/d/csm_02_2025-pressefoto-dth-credit-robert-eikelpoth-01_e69328977e.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/die-toten-hosen/993",
+      "tags": []
+    },
+    {
+      "title": "Kraftklub",
+      "date": "Samstag, 03.07.2027",
+      "startDate": "2027-07-03",
+      "endDate": "2027-07-03",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/b/b/csm_KK-TOUR27-philipp_gladsome-01_4_3_6097e3df63.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/kraftklub/1083",
       "tags": []
     },
     {
