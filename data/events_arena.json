@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-09-11T01:42:34.594Z",
+  "scraped_at": "2026-09-12T01:48:37.655Z",
   "events": [
-    {
-      "title": "AnnenMayKantereit",
-      "date": "Freitag, 11.09.2026",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/f/1/csm_AnnenMayKantereit_PressPic2025-1_quer_Martin_Lamberty_Freigabe_c5d2d23a0d.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/annenmaykantereit/953",
-      "tags": []
-    },
     {
       "title": "SC DHfK – VfL Lübeck-Schwartau",
       "date": "Samstag, 12.09.2026",
@@ -1210,6 +1199,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/5/d/csm_Pressegrafik_RALF_SCHMITZ_Schmitzmaen__c__HPR_Kuenstler___Medien_GmbH_klein_3e77e6b13e.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ralf-schmitz-1/1005",
+      "tags": []
+    },
+    {
+      "title": "Deine Freunde",
+      "date": "Samstag, 04.12.2027",
+      "startDate": "2027-12-04",
+      "endDate": "2027-12-04",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/0/4/csm_Header-600x600-DF27_69d4bef128.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/deine-freunde/1084",
       "tags": []
     },
     {
