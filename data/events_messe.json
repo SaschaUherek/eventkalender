@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-09-14T01:57:10.988Z",
+  "scraped_at": "2026-09-15T02:05:41.890Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -2038,6 +2038,20 @@
       "tags": []
     },
     {
+      "title": "Cosmoprof Bologna",
+      "startDate": "2027-03-18",
+      "endDate": "2027-03-20",
+      "date": "2027-03-18 – 2027-03-20",
+      "location": "Bologna, Italien",
+      "description": null,
+      "image": null,
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "ISPO 21. Weltkongress",
       "startDate": "2027-03-22",
       "endDate": "2027-03-25",
@@ -2079,6 +2093,19 @@
       ]
     },
     {
+      "title": "BioOst",
+      "startDate": "2027-04-03",
+      "endDate": "2027-04-04",
+      "date": "2027-04-03 – 2027-04-04",
+      "location": "Leipziger Messe",
+      "description": "Seit dem Jahr 2026 ist die BioOst nicht nur für Fachbesucher, sondern auch für das interessierte Publikum geöffnet. Die BioOst ist Angebots- und Kommunikationsplattform für die deutsche Bio-Branche aus den Bereichen Bio-Lebensmittel, Naturkosmetik, Naturdrogerie, Reformwaren sowie der entsprechende Großhandel. Hinzu kommen regionale Angebote wie zum Beispiel Weingüter, Imkereien oder Käsereien. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-bioost-2026.jpg",
+      "link": "https://biomessen.info/bioost/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "Deutscher Kitaleitungskongress Leipzig 2027",
       "startDate": "2027-04-06",
       "endDate": "2027-04-07",
@@ -2093,6 +2120,20 @@
       ]
     },
     {
+      "title": "Laval Virtual",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-09",
+      "date": "2027-04-07 – 2027-04-09",
+      "location": "Laval, Frankreich",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-laval-virtual.jpg",
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "Mitteldeutscher Schulleitungskongress 2027",
       "startDate": "2027-04-08",
       "endDate": "2027-04-08",
@@ -2103,6 +2144,20 @@
       "link": "https://mitteldeutscher-schulleitungskongress.de",
       "tags": [
         "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Passenger Terminal EXPO",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "date": "2027-04-08 – 2027-04-08",
+      "location": "Amsterdam, Niederlande",
+      "description": null,
+      "image": null,
+      "link": "mailto:i.weidemann@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
       ]
     },
     {
@@ -2199,6 +2254,34 @@
       ]
     },
     {
+      "title": "International Transport Forum Summit",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-14",
+      "date": "2027-05-12 – 2027-05-14",
+      "location": "CCL",
+      "description": "Das International Transport Forum - Annual Summit ist ein vom Weltverkehrsforum der OECD jährlich organisiertes Gipfeltreffen von Verkehrsministern, bei dem jeweils ein strategisch wichtiges Thema erörtert wird. Minister aus über 70 Mitgliedsländern des Weltverkehrsforums tauschen sich in Leipzig mit Entscheidungsträgern aus Wirtschaft, Verwaltung und Wissenschaft über Mobilität der Zukunft aus. Der Titel der Veranstaltung lautet: \"Governing Resilient Transport\"",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-itf.jpg",
+      "link": "https://summit.itf-oecd.org/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Aluminium USA",
+      "startDate": "2027-05-19",
+      "endDate": "2027-05-20",
+      "date": "2027-05-19 – 2027-05-20",
+      "location": "Louisville, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "therapie LEIPZIG",
       "startDate": "2027-05-27",
       "endDate": "2027-05-29",
@@ -2248,6 +2331,48 @@
       "link": "https://www.futuresax.de/eban-congress/",
       "tags": [
         "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "BIO International Convention ",
+      "startDate": "2027-06-07",
+      "endDate": "2027-06-10",
+      "date": "2027-06-07 – 2027-06-10",
+      "location": "Philadelphia, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-bio-internat-convention.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "SID Display Week",
+      "startDate": "2027-06-08",
+      "endDate": "2027-06-10",
+      "date": "2027-06-08 – 2027-06-10",
+      "location": "San José, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-sid-display.jpg",
+      "link": "mailto:j.kowollik@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Sino Dental",
+      "startDate": "2027-06-09",
+      "endDate": "2027-06-12",
+      "date": "2027-06-09 – 2027-06-12",
+      "location": "Peking, VR China",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-sinodental.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
       ]
     },
     {
@@ -2336,7 +2461,7 @@
       "endDate": "2027-09-23",
       "date": "2027-09-21 – 2027-09-23",
       "location": "Leipziger Messe",
-      "description": "Die netze:ON ist die Fachmesse für Energietechnik, Verteil- und Breitbandnetze. Als zentrale Plattform bietet sie Fachleuten aus der Energiewirtschaft, Technologieanbietern und Innovatoren die einzigartige Gelegenheit, aktuelle Entwicklungen, Herausforderungen und Lösungen im Bereich der Netztechnik und digitalen Transformation zu diskutieren und voranzutreiben. Parallel zur netze:ON findet die efa:ON statt. Gemeinsam bilden die Fachmessen den Messeverbund für die Energiewende. ",
+      "description": "Die netze:ON ist die Fachmesse für intelligente Energienetze und digitale Infrastruktur in Mitteldeutschland. Im Mittelpunkt stehen der Ausbau und die Modernisierung von Strom-, Wärme- und Breitbandnetzen sowie deren Digitalisierung, intelligente Steuerung und sicherer, vernetzter Betrieb. Als regionale Arbeits- und Lösungsplattform zeigt die netze:ON das Zusammenspiel entlang des gesamten Infrastrukturprozesses – von der Planung und Ausrüstung bis zum Betrieb. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-netzeon.jpg",
       "link": "https://www.netze-on.de",
       "tags": [
@@ -2396,6 +2521,20 @@
       ]
     },
     {
+      "title": "BIO-Europe",
+      "startDate": "2027-10-25",
+      "endDate": "2027-10-27",
+      "date": "2027-10-25 – 2027-10-27",
+      "location": "Stockholm, Schweden",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-bio-europe.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "active connected",
       "startDate": "2027-10-26",
       "endDate": "2027-10-27",
@@ -2431,6 +2570,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-diam.jpg",
       "link": "https://www.diam-ddm.de/bochum.html",
       "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Excon",
+      "startDate": "2027-12-07",
+      "endDate": "2027-12-11",
+      "date": "2027-12-07 – 2027-12-11",
+      "location": "Bangalore, Indien",
+      "description": null,
+      "image": null,
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
     },
