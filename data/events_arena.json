@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-09-14T01:57:44.182Z",
+  "scraped_at": "2026-09-15T02:06:15.595Z",
   "events": [
     {
       "title": "Das Größte Malle Festival",
@@ -317,7 +317,7 @@
       "endDate": "2026-11-28",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/_processed_/files_user/6/1/csm_Chistmas_Calling_2026_press_low_res_41725f3350.jpg",
+      "image": "/fileadmin/_processed_/files_user/6/1/csm_Chistmas_Calling_2026_press_low_res_c331804154.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/rea-garveys-christmas-calling/1004",
       "tags": []
     },
@@ -399,7 +399,7 @@
       "tags": []
     },
     {
-      "title": "BAP",
+      "title": "Bonez",
       "date": "Montag, 07.12.2026",
       "startDate": "2026-12-07",
       "endDate": "2026-12-07",
@@ -935,6 +935,83 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/2/c/csm_2025-10-13_Pressefoto_af53a5e55d.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/lea/976",
+      "tags": []
+    },
+    {
+      "title": "Cirque du Soleil",
+      "date": "Mittwoch, 05.05.2027",
+      "startDate": "2027-05-05",
+      "endDate": "2027-05-05",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/d/9/csm_CDS_OVO_Zusatzshows_SocialIcon_00_840ff93f81.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/cirque-du-soleil/1085",
+      "tags": []
+    },
+    {
+      "title": "Cirque du Soleil",
+      "date": "Donnerstag, 06.05.2027",
+      "startDate": "2027-05-06",
+      "endDate": "2027-05-06",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/d/9/csm_CDS_OVO_Zusatzshows_SocialIcon_00_840ff93f81.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/cirque-du-soleil/1086",
+      "tags": []
+    },
+    {
+      "title": "Cirque du Soleil",
+      "date": "Freitag, 07.05.2027",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/d/9/csm_CDS_OVO_Zusatzshows_SocialIcon_00_840ff93f81.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/cirque-du-soleil/1087",
+      "tags": []
+    },
+    {
+      "title": "Cirque du Soleil",
+      "date": "Samstag, 08.05.2027",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/d/9/csm_CDS_OVO_Zusatzshows_SocialIcon_00_840ff93f81.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/cirque-du-soleil/1088",
+      "tags": []
+    },
+    {
+      "title": "Cirque du Soleil",
+      "date": "Samstag, 08.05.2027",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/d/9/csm_CDS_OVO_Zusatzshows_SocialIcon_00_840ff93f81.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/cirque-du-soleil/1089",
+      "tags": []
+    },
+    {
+      "title": "Cirque du Soleil",
+      "date": "Sonntag, 09.05.2027",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/d/9/csm_CDS_OVO_Zusatzshows_SocialIcon_00_840ff93f81.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/cirque-du-soleil/1090",
+      "tags": []
+    },
+    {
+      "title": "Cirque du Soleil",
+      "date": "Sonntag, 09.05.2027",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/d/9/csm_CDS_OVO_Zusatzshows_SocialIcon_00_840ff93f81.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/cirque-du-soleil/1091",
       "tags": []
     },
     {
