@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-09-15T02:05:41.890Z",
+  "scraped_at": "2026-09-16T01:56:46.007Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1911,6 +1911,20 @@
       ]
     },
     {
+      "title": "MICAM / MIPEL (Spring)",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-23",
+      "date": "2027-02-21 – 2027-02-23",
+      "location": "Mailand, Italien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "GDC Game Developers Conference",
       "startDate": "2027-03-01",
       "endDate": "2027-03-05",
@@ -2044,7 +2058,7 @@
       "date": "2027-03-18 – 2027-03-20",
       "location": "Bologna, Italien",
       "description": null,
-      "image": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-cosmoprof-bologna.jpg",
       "link": "mailto:g.weickert@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
@@ -2120,6 +2134,20 @@
       ]
     },
     {
+      "title": "Passenger Terminal EXPO",
+      "startDate": "2027-04-06",
+      "endDate": "2027-04-08",
+      "date": "2027-04-06 – 2027-04-08",
+      "location": "Amsterdam, Niederlande",
+      "description": null,
+      "image": null,
+      "link": "mailto:i.weidemann@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "Laval Virtual",
       "startDate": "2027-04-07",
       "endDate": "2027-04-09",
@@ -2144,20 +2172,6 @@
       "link": "https://mitteldeutscher-schulleitungskongress.de",
       "tags": [
         "Gastveranstaltung"
-      ]
-    },
-    {
-      "title": "Passenger Terminal EXPO",
-      "startDate": "2027-04-08",
-      "endDate": "2027-04-08",
-      "date": "2027-04-08 – 2027-04-08",
-      "location": "Amsterdam, Niederlande",
-      "description": null,
-      "image": null,
-      "link": "mailto:i.weidemann@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
       ]
     },
     {
@@ -2429,6 +2443,17 @@
       ]
     },
     {
+      "title": "LEIPZIGER MARKT MUSIK",
+      "startDate": "2027-08-06",
+      "endDate": "2027-08-15",
+      "date": "2027-08-06 – 2027-08-15",
+      "location": "Leipziger Marktplatz",
+      "description": "Die LEIPZIGER MARKT MUSIK kehrt im August zurück und verspricht eine außergewöhnliche Veranstaltung. Erleben Sie unvergessliche Live-Konzerte unter freiem Himmel, begleitet von einer sommerlichen Kulinarik und einem wahren Genuss für die Sinne. Veranstaltet wird das Festival von FAIRNET, einem Unternehmen der Leipziger Messe Unternehmensgruppe, und drei Leipziger Gastronomen sowie Unterstützung der Stadt Leipzig.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-markt-musik-oj.jpg",
+      "link": "http://www.leipziger-markt-musik.de",
+      "tags": []
+    },
+    {
       "title": "60. Jahrestagung der Deutschen Gesellschaft für Transfusionsmedizin und Immunhämatologie e. V. (DGTI)",
       "startDate": "2027-09-15",
       "endDate": "2027-09-17",
@@ -2580,7 +2605,7 @@
       "date": "2027-12-07 – 2027-12-11",
       "location": "Bangalore, Indien",
       "description": null,
-      "image": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-excon.jpg",
       "link": "mailto:g.weickert@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
