@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-09-17T02:01:26.811Z",
+  "scraped_at": "2026-09-18T01:48:56.043Z",
   "events": [
     {
       "title": "Das Größte Malle Festival",
@@ -1148,6 +1148,17 @@
     },
     {
       "title": "Kraftklub",
+      "date": "Freitag, 02.07.2027",
+      "startDate": "2027-07-02",
+      "endDate": "2027-07-02",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/b/b/csm_KK-TOUR27-philipp_gladsome-01_4_3_6097e3df63.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/kraftklub/1093",
+      "tags": []
+    },
+    {
+      "title": "Kraftklub",
       "date": "Samstag, 03.07.2027",
       "startDate": "2027-07-03",
       "endDate": "2027-07-03",
@@ -1155,6 +1166,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/b/b/csm_KK-TOUR27-philipp_gladsome-01_4_3_6097e3df63.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/kraftklub/1083",
+      "tags": []
+    },
+    {
+      "title": "Simply Red",
+      "date": "Donnerstag, 15.07.2027",
+      "startDate": "2027-07-15",
+      "endDate": "2027-07-15",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/d/6/csm_01_Pressefoto_SimplyRed_Credit_Dean_Chalkley__1__web_3371d6fe05.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/simply-red/1094",
       "tags": []
     },
     {
