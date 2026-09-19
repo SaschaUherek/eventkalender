@@ -1,40 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-09-18T01:49:24.811Z",
+  "scraped_at": "2026-09-19T01:54:19.026Z",
   "events": [
-    {
-      "title": "SACHSEN-ANHALT-AUSSTELLUNG | 18.09.",
-      "date": "18.Sep",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "location": "Messe Magdeburg",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/e/sachsen-anhalt-ausstellung-d1203eef.png",
-      "link": "https://www.mvgm.de/de/event/sachsen-anhalt-ausstellung-18-09/",
-      "tags": []
-    },
-    {
-      "title": "3. INTERNATIONALES CHORFEST: LANGE NACHT DER CHÖRE",
-      "date": "18.Sep",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "location": "Hyparschale",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/internationales-Chorfest-70ea319a.jpg",
-      "link": "https://www.mvgm.de/de/event/lange-nacht-der-choere/",
-      "tags": []
-    },
-    {
-      "title": "WEIMAR - INVICTUS TOUR PART II",
-      "date": "18.Sep",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/7/invictus-tour-2026-tickets-457253-3687853-1240x480-6eef40ca.jpg",
-      "link": "https://www.mvgm.de/de/event/weimar-invictus-tour-part-ii/",
-      "tags": []
-    },
     {
       "title": "LANDESERNTEDANKFEST 19.09.2026",
       "date": "19.Sep",
@@ -1939,17 +1906,6 @@
       "tags": []
     },
     {
-      "title": "\"ALASKA - DEM RUF DER WILDNIS FOLGEN\"",
-      "date": "20.Mär",
-      "startDate": "2027-03-20",
-      "endDate": "2027-03-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/Andreas-Kiesling-Foto-2026-25af66d7.jpeg",
-      "link": "https://www.mvgm.de/de/event/alaska-dem-ruf-der-wildnis-folgen/",
-      "tags": []
-    },
-    {
       "title": "TUTTY TRAN „WOK-LIFE-BALANCE“ 2027",
       "date": "20.Mär",
       "startDate": "2027-03-20",
@@ -2379,6 +2335,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -2497,50 +2464,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -2764,6 +2687,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -2882,50 +2816,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -3149,6 +3039,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -3267,50 +3168,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -3534,6 +3391,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -3652,50 +3520,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -3919,6 +3743,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -4037,50 +3872,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -4304,6 +4095,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -4422,50 +4224,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -4689,6 +4447,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -4807,50 +4576,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -5074,6 +4799,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -5192,50 +4928,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -5459,6 +5151,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -5577,50 +5280,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -5844,6 +5503,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -5962,50 +5632,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -6229,6 +5855,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -6347,50 +5984,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -6614,6 +6207,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -6732,50 +6336,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -6999,6 +6559,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -7117,50 +6688,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -7384,6 +6911,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -7502,50 +7040,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -7769,6 +7263,17 @@
       "tags": []
     },
     {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
+      "tags": []
+    },
+    {
       "title": "FANTASY - 30 JAHRE FANTASY",
       "date": "05.Okt",
       "startDate": "2026-10-05",
@@ -7887,50 +7392,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "TILL REINERS - DAS IST ALLES TEIL DER SHOW",
-      "date": "16.Apr",
-      "startDate": "2027-04-16",
-      "endDate": "2027-04-16",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/TR-Header-1758533160-1758534940-gabt8hu55-1758806841-co1rg6fp0-460d4536.jpeg",
-      "link": "https://www.mvgm.de/de/event/till-reiners-das-ist-alles-teil-der-show/",
-      "tags": []
-    },
-    {
-      "title": "GREENBEATS MOMENTUM TOUR",
-      "date": "17.Apr",
-      "startDate": "2027-04-17",
-      "endDate": "2027-04-17",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/greenbeats-Buehne-Querformat-Lo-res-Matthias-Rethmann-baebfca1.jpg",
-      "link": "https://www.mvgm.de/de/event/greenbeats-momentum-tour/",
-      "tags": []
-    },
-    {
-      "title": "THE 12 TENORS I LEGACY TOUR",
-      "date": "20.Apr",
-      "startDate": "2027-04-20",
-      "endDate": "2027-04-20",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/1/HC-12Tenors-Pressebild01-6b36f37e.jpg",
-      "link": "https://www.mvgm.de/de/event/the-12-tenors-i-legacy-tour/",
-      "tags": []
-    },
-    {
-      "title": "MANFRED MANN´S EARTH BAND 2027",
-      "date": "21.Apr",
-      "startDate": "2027-04-21",
-      "endDate": "2027-04-21",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/MMEB---FOTO-FRANK-WESP_Web-8f43b724.jpg",
-      "link": "https://www.mvgm.de/de/event/manfred-mann-s-earth-band-2027/",
       "tags": []
     },
     {
@@ -8151,6 +7612,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/RZ-MM-OLDBOY-Artwork-94f72b2e.jpg",
       "link": "https://www.mvgm.de/de/event/michael-mittermeier-oldboy-sind-wir-bald-da/",
+      "tags": []
+    },
+    {
+      "title": "SCALA & KOLACNY BROTHERS - SCALA 30",
+      "date": "24.Sep",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/Paul-Simoens-1993-Scala-9be2cb77.jpg",
+      "link": "https://www.mvgm.de/de/event/scala-kolacny-brothers-scala-30-2/",
       "tags": []
     },
     {
