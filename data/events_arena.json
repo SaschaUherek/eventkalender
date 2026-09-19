@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-09-18T01:48:56.043Z",
+  "scraped_at": "2026-09-19T01:53:46.765Z",
   "events": [
     {
       "title": "Das Größte Malle Festival",
@@ -399,7 +399,7 @@
       "tags": []
     },
     {
-      "title": "Bonez",
+      "title": "BAP",
       "date": "Montag, 07.12.2026",
       "startDate": "2026-12-07",
       "endDate": "2026-12-07",
@@ -1188,6 +1188,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/3/8/csm_RolandKaiser_OpenAir2027_Termine_4_3_b522b006de.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/roland-kaiser-1/1078",
+      "tags": []
+    },
+    {
+      "title": "Ronan Keating",
+      "date": "Mittwoch, 22.09.2027",
+      "startDate": "2027-09-22",
+      "endDate": "2027-09-22",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/f/c/csm_Photo_Ronan_Keating_Credit_Ray_Burmiston_fec2db5be4.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ronan-keating/1095",
       "tags": []
     },
     {
