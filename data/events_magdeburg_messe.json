@@ -1,7 +1,18 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-09-21T01:58:22.624Z",
+  "scraped_at": "2026-09-22T02:05:37.227Z",
   "events": [
+    {
+      "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
+      "date": "22.Sep",
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-22",
+      "location": "Jahrtausendturm",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
+      "link": "https://www.mvgm.de/de/event/jahrtausendturm-sonderausstellung-lego-r-mobil-ausstellung-rund-um-die-staunenswerte-welt-der-lego-r-fahrzeuge-kopie/",
+      "tags": []
+    },
     {
       "title": "SC MAGDEBURG - HSG WETZLAR DHB POKAL",
       "date": "23.Sep",
@@ -64,7 +75,7 @@
       "endDate": "2026-09-25",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/Perspektiven%20Messe%20Banner-2e546f14.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/Messe-perspektiven-1980-x-1080-px-57-5ca038aa.png",
       "link": "https://www.mvgm.de/de/event/messe-perspektiven-2026-fr/",
       "tags": []
     },
@@ -97,7 +108,7 @@
       "endDate": "2026-09-26",
       "location": "Messe Magdeburg",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/9/Perspektiven%20Messe%20Banner-2e546f14.jpg",
+      "image": "https://www.mvgm.de/assets/images/2/Messe-perspektiven-1980-x-1080-px-57-5ca038aa.png",
       "link": "https://www.mvgm.de/de/event/messe-perspektiven-2026-sa/",
       "tags": []
     },
@@ -154,6 +165,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/2/getec-arena-handball-011-foto-andreas-lander-6dd2f3cb.jpg",
       "link": "https://www.mvgm.de/de/event/sc-magdeburg-hc-erlangen-8/",
+      "tags": []
+    },
+    {
+      "title": "ÜBERSTUNDE",
+      "date": "08.Okt",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-08",
+      "location": "Hyparschale",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Hyparschale-Magdeburg-MVGM-GmbH-Foto-Andreas-Lander-3fea7716.png",
+      "link": "https://www.mvgm.de/de/event/ueberstunde/",
       "tags": []
     },
     {
@@ -1103,6 +1125,17 @@
       "tags": []
     },
     {
+      "title": "ADVENTSKONZERT DES JSO UND GSO 12.12.2026",
+      "date": "12.Dez",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-12",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/20211218%2B19-KON_JSO_GSO-Joki-web-f46c3a19.jpg",
+      "link": "https://www.mvgm.de/de/event/adventskonzert-des-jso-und-gso-12-12-2026/",
+      "tags": []
+    },
+    {
       "title": "CAVALLUNA – DIE FARBEN DES LEBENS | 12.12.2026, 19:00 UHR",
       "date": "12.Dez",
       "startDate": "2026-12-12",
@@ -1133,6 +1166,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/e/CAVALLUNA-Die-Farben-des-Lebens-Artwork-quer-252ede4c.jpg",
       "link": "https://www.mvgm.de/de/event/cavalluna-die-farben-des-lebens-13-12-2026-13-00-uhr/",
+      "tags": []
+    },
+    {
+      "title": "ADVENTSKONZERT DES JSO UND GSO 13.12.2026",
+      "date": "13.Dez",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-13",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/20211218%2B19-KON_JSO_GSO-Joki-web-f46c3a19.jpg",
+      "link": "https://www.mvgm.de/de/event/adventskonzert-des-jso-und-gso-13-12-2026/",
       "tags": []
     },
     {
@@ -2335,6 +2379,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -2387,6 +2442,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -2610,6 +2709,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -2662,6 +2772,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -2885,6 +3039,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -2937,6 +3102,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -3160,6 +3369,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -3212,6 +3432,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -3435,6 +3699,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -3487,6 +3762,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -3710,6 +4029,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -3762,6 +4092,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -3985,6 +4359,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -4037,6 +4422,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -4260,6 +4689,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -4312,6 +4752,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -4535,6 +5019,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -4587,6 +5082,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -4810,6 +5349,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -4862,6 +5412,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -5085,6 +5679,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -5137,6 +5742,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -5360,6 +6009,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -5412,6 +6072,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -5635,6 +6339,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -5687,6 +6402,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -5910,6 +6669,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -5962,6 +6732,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -6185,6 +6999,17 @@
       "tags": []
     },
     {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
+      "tags": []
+    },
+    {
       "title": "PRINCESS DREAMS - DIE GROSSE MÄRCHENHAFTE KONZERTSHOWS",
       "date": "09.Dez",
       "startDate": "2026-12-09",
@@ -6237,6 +7062,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
       "tags": []
     },
     {
@@ -6457,6 +7326,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/f/93669-02-diePRINZEN-Abschiedstournee2027-Credit-SvenSindt-1-b5f82739.webp",
       "link": "https://www.mvgm.de/de/event/die-prinzen-tschuessi-macht-s-gut-die-abschiedstournee/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 202",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-202/",
       "tags": []
     },
     {
