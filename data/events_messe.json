@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-09-21T01:56:56.223Z",
+  "scraped_at": "2026-09-22T02:04:16.146Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -2416,6 +2416,20 @@
       ]
     },
     {
+      "title": "Interior Lifystyle",
+      "startDate": "2027-06-23",
+      "endDate": "2027-06-25",
+      "date": "2027-06-23 – 2027-06-25",
+      "location": "Tokio, Japan",
+      "description": "Landesbeteiligung Sachsen",
+      "image": null,
+      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "33. Kongress der Deutschen Gesellschaft für Radioonkologie e.V. ",
       "startDate": "2027-06-24",
       "endDate": "2027-06-26",
@@ -2452,6 +2466,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-markt-musik-oj.jpg",
       "link": "http://www.leipziger-markt-musik.de",
       "tags": []
+    },
+    {
+      "title": "IBC",
+      "startDate": "2027-09-10",
+      "endDate": "2027-09-13",
+      "date": "2027-09-10 – 2027-09-13",
+      "location": "Amsterdam, Niederlande",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "mailto:i.weidemann@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
     },
     {
       "title": "60. Jahrestagung der Deutschen Gesellschaft für Transfusionsmedizin und Immunhämatologie e. V. (DGTI)",
@@ -2582,6 +2610,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-iss-gut-ut.jpg",
       "link": "http://www.iss-gut-leipzig.de",
       "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "RE+",
+      "startDate": "2027-11-16",
+      "endDate": "2027-11-18",
+      "date": "2027-11-16 – 2027-11-18",
+      "location": "Las Vegas, USA ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
     },
