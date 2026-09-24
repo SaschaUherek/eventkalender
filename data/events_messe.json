@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-09-23T02:02:25.183Z",
+  "scraped_at": "2026-09-24T01:51:13.447Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1422,6 +1422,19 @@
       ]
     },
     {
+      "title": "HIVE Indoor 2026",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "date": "2026-10-17 – 2026-10-17",
+      "location": "Leipziger Messe",
+      "description": "Aus der Stadt aus Eisen in die Messehallen: Das HIVE Festival feiert seine Premiere auf der Leipziger Messe. Während es im Sommer in Ferropolis stattfindet, gibt es damit erstmals eine Herbst-Edition und ein Indoor-Event. Mit 70 Künstlern und 14 Stunden Rave ist das HIVE nach Veranstalterangaben der größte Indoor Rave in Deutschland. Das HIVE Festival steht für härteren Techno, Trance, Psytrance, Hardstyle, Rawstyle und Hitech.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-hive.jpg",
+      "link": "https://www.hive-festival.de/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "ACHEMA Middle East",
       "startDate": "2026-10-26",
       "endDate": "2026-10-28",
@@ -1909,6 +1922,17 @@
       "tags": [
         "Gastveranstaltung"
       ]
+    },
+    {
+      "title": "Velo Vibes Leipzig",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-14",
+      "date": "2027-02-12 – 2027-02-14",
+      "location": "Leipziger Messe",
+      "description": "Die Velo Vibes Leipzig ist die neue Plattform für Fahrrad-Begeisterte in der Region. Pünktlich zum Start der Radsaison im Februar ergänzt sie die HAUS-GARTEN-FREIZEIT mit einem vielfältigen Angebot rund ums Fahrrad. Ob Mountainbike, Trekkingrad, E-Bike, Lastenrad, Liegerad oder Tandem – Besucher erleben die Vielfalt der Fahrradwelt, testen Modelle, vergleichen Neuheiten und entdecken innovative Produkte sowie aktuelle Trends hautnah. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-velo-vibes.jpg",
+      "link": "https://www.velo-vibes.de",
+      "tags": []
     },
     {
       "title": "MICAM / MIPEL (Spring)",
