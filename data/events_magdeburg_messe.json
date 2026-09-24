@@ -1,40 +1,7 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-09-23T02:03:55.265Z",
+  "scraped_at": "2026-09-24T01:52:43.652Z",
   "events": [
-    {
-      "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
-      "date": "23.Sep",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
-      "link": "https://www.mvgm.de/de/event/jahrtausendturm-sonderausstellung-lego-r-mobil-ausstellung-rund-um-die-staunenswerte-welt-der-lego-r-fahrzeuge-kopie/",
-      "tags": []
-    },
-    {
-      "title": "SC MAGDEBURG - HSG WETZLAR DHB POKAL",
-      "date": "23.Sep",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/getec-arena-handball-011-foto-andreas-lander-6dd2f3cb.jpg",
-      "link": "https://www.mvgm.de/de/event/sc-magdeburg-hsg-wetzlar-dhb-pokal/",
-      "tags": []
-    },
-    {
-      "title": "ATZE SCHRÖDER - LOVEMACHINE",
-      "date": "23.Sep",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/b/AtzeSchroederQuerformatCreditBorisBreuer-d09c92b7.jpg",
-      "link": "https://www.mvgm.de/de/event/atze-schroeder-lovemachine/",
-      "tags": []
-    },
     {
       "title": "EXPLORE SCIENCE – MINT-ERLEBNISTAGE IN MAGDEBURG 24.09.2026",
       "date": "24.Sep",
@@ -1796,6 +1763,17 @@
       "tags": []
     },
     {
+      "title": "DAS PHANTOM DER OPER 2027",
+      "date": "11.Mär",
+      "startDate": "2027-03-11",
+      "endDate": "2027-03-11",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/hauptmotiv-phantom-der-oper-9d5a9302.png",
+      "link": "https://www.mvgm.de/de/event/das-phantom-der-oper-2027/",
+      "tags": []
+    },
+    {
       "title": "MESSE MAGDEBOOT 2027",
       "date": "12.Mär",
       "startDate": "2027-03-12",
@@ -2379,6 +2357,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -2486,28 +2475,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -2753,6 +2720,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -2860,28 +2838,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -3127,6 +3083,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -3234,28 +3201,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -3501,6 +3446,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -3608,28 +3564,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -3875,6 +3809,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -3982,28 +3927,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -4249,6 +4172,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -4356,28 +4290,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -4623,6 +4535,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -4730,28 +4653,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -4997,6 +4898,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -5104,28 +5016,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -5371,6 +5261,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -5478,28 +5379,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -5745,6 +5624,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -5852,28 +5742,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -6119,6 +5987,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -6226,28 +6105,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -6493,6 +6350,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -6600,28 +6468,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -6867,6 +6713,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -6974,28 +6831,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -7241,6 +7076,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -7348,28 +7194,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -7615,6 +7439,17 @@
       "tags": []
     },
     {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
+      "tags": []
+    },
+    {
       "title": "HAIRSPRAY - DAS MUSICAL 2027 AUF TOUR!",
       "date": "04.Nov",
       "startDate": "2026-11-04",
@@ -7722,28 +7557,6 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
-      "tags": []
-    },
-    {
-      "title": "BJÖRN VON MORGENSTERN - KREISVERKEHRFEST",
-      "date": "22.Apr",
-      "startDate": "2027-04-22",
-      "endDate": "2027-04-22",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/5/Pressefoto-BJoeRN-VON-MORGENSTERN-1-c-Sophie-Schwarzenberger-ed8fb5dd.jpg",
-      "link": "https://www.mvgm.de/de/event/bjoern-von-morgenstern-kreisverkehrfest/",
-      "tags": []
-    },
-    {
-      "title": "FREUNDINNEN MÜSSTE MAN SEIN - EIN ABEND MIT ANNETTE FRIER UND MAREN KROYMANN",
-      "date": "23.Apr",
-      "startDate": "2027-04-23",
-      "endDate": "2027-04-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/amo-kulturhaus-aus-erhoehter-aussenansicht-62703286.jpg",
-      "link": "https://www.mvgm.de/de/event/freundinnen-muesste-man-sein-ein-abend-mit-annette-frier-und-maren-kroymann/",
       "tags": []
     },
     {
@@ -7986,6 +7799,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/KARAT-45JahreBlauerPlanet-komprimiert-4b2fdd7d.png",
       "link": "https://www.mvgm.de/de/event/karat-45-jahre-der-blaue-planet/",
+      "tags": []
+    },
+    {
+      "title": "OSAN YARAN - WOLLEN WIR BEGINNEN?! 2027",
+      "date": "31.Okt",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Pressefoto-OSAN-YARAN-1-c-19deb02b.jpg",
+      "link": "https://www.mvgm.de/de/event/osan-yaran-wollen-wir-beginnen-2027/",
       "tags": []
     },
     {
