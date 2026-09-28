@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-09-27T02:06:27.763Z",
+  "scraped_at": "2026-09-28T02:11:25.305Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -308,6 +308,19 @@
       ]
     },
     {
+      "title": "31. Leipziger Fachseminar ",
+      "startDate": "2026-03-03",
+      "endDate": "2026-03-03",
+      "date": "2026-03-03 – 2026-03-03",
+      "location": "CCL",
+      "description": "Das Leipziger Fachseminar wird durch die Bezirksgruppen Sachsen und Thüringen der Deutschen Gesellschaft für Galvano- und Oberflächentechnik organisiert. Das Fachseminar bietet ein spannendes Vortragsprogramm zu den aktuellen Herausforderungen der Oberflächentechnik und wird von einer Fachausstellung begleitet. Im Rahmen des Fachseminars wird der Leipziger Galvanopreis für innovative oder ökologische Leistungen auf dem Gebiet der Oberflächentechnik verliehen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-dgo.jpg",
+      "link": "https://www.dgo-online.de/termine/tagungen/detailansicht/31-leipziger-fachseminar-am-03-maerz-2026",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "Experts Live Germany 2026 ",
       "startDate": "2026-03-03",
       "endDate": "2026-03-04",
@@ -319,19 +332,6 @@
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "31. Leipziger Fachseminar ",
-      "startDate": "2026-03-03",
-      "endDate": "2026-03-03",
-      "date": "2026-03-03 – 2026-03-03",
-      "location": "CCL",
-      "description": "Das Leipziger Fachseminar wird durch die Bezirksgruppen Sachsen und Thüringen der Deutschen Gesellschaft für Galvano- und Oberflächentechnik organisiert. Das Fachseminar bietet ein spannendes Vortragsprogramm zu den aktuellen Herausforderungen der Oberflächentechnik und wird von einer Fachausstellung begleitet. Im Rahmen des Fachseminars wird der Leipziger Galvanopreis für innovative oder ökologische Leistungen auf dem Gebiet der Oberflächentechnik verliehen.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-dgo.jpg",
-      "link": "https://www.dgo-online.de/termine/tagungen/detailansicht/31-leipziger-fachseminar-am-03-maerz-2026",
-      "tags": [
-        "Gastveranstaltung"
       ]
     },
     {
@@ -668,20 +668,6 @@
       ]
     },
     {
-      "title": "IDEM",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-19",
-      "date": "2026-04-17 – 2026-04-19",
-      "location": "Singapur",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-idem.jpg",
-      "link": "mailto:s.kramer-scholz@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Forum Hebammenarbeit",
       "startDate": "2026-04-17",
       "endDate": "2026-04-18",
@@ -705,6 +691,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-caggtus.jpg",
       "link": "https://www.caggtus.de",
       "tags": []
+    },
+    {
+      "title": "IDEM",
+      "startDate": "2026-04-17",
+      "endDate": "2026-04-19",
+      "date": "2026-04-17 – 2026-04-19",
+      "location": "Singapur",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-idem.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
     },
     {
       "title": "DBT2026",
@@ -953,19 +953,6 @@
       ]
     },
     {
-      "title": "Leipzig Dance Festival",
-      "startDate": "2026-06-19",
-      "endDate": "2026-06-21",
-      "date": "2026-06-19 – 2026-06-21",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": "Erlebt die qualifiziertesten und besten Trainerinnen und Trainer der Welt von Freitag bis Sonntag in zahlreichen Workshops in den Bereichen Standard, Latein, West Coast Swing, Linedance, Tango Argentino, Swing und Salsa. Als besonderes Highlight erlebt ihr die Night of the Dancing Stars - die weltbesten Tanzpaare sowie einige unserer Coaches werden Euch mit ihren Shows verzaubern. Außerdem finden am Freitag- und Samstagabend in allen Sälen verschiedene Tanzpartys statt. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-dancefestival.jpg",
-      "link": "https://www.leipzig-dancefestival.de",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "therapie MÜNCHEN",
       "startDate": "2026-06-19",
       "endDate": "2026-06-20",
@@ -976,6 +963,19 @@
       "link": "https://www.therapiemesse-muenchen.de",
       "tags": [
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Leipzig Dance Festival",
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-21",
+      "date": "2026-06-19 – 2026-06-21",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Erlebt die qualifiziertesten und besten Trainerinnen und Trainer der Welt von Freitag bis Sonntag in zahlreichen Workshops in den Bereichen Standard, Latein, West Coast Swing, Linedance, Tango Argentino, Swing und Salsa. Als besonderes Highlight erlebt ihr die Night of the Dancing Stars - die weltbesten Tanzpaare sowie einige unserer Coaches werden Euch mit ihren Shows verzaubern. Außerdem finden am Freitag- und Samstagabend in allen Sälen verschiedene Tanzpartys statt. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-dancefestival.jpg",
+      "link": "https://www.leipzig-dancefestival.de",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -1056,20 +1056,6 @@
       "tags": []
     },
     {
-      "title": "Medtec China",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-03",
-      "date": "2026-09-01 – 2026-09-03",
-      "location": "Shanghai, VR China",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-medtech-china.jpg",
-      "link": "mailto:j.kowollik@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "MEDCARE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-02",
@@ -1080,6 +1066,20 @@
       "link": "https://www.medcare-leipzig.de",
       "tags": [
         "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Medtec China",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-03",
+      "date": "2026-09-01 – 2026-09-03",
+      "location": "Shanghai, VR China",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-medtech-china.jpg",
+      "link": "mailto:j.kowollik@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
     },
@@ -1098,19 +1098,6 @@
       ]
     },
     {
-      "title": "Goldene Henne 2026",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-04",
-      "date": "2026-09-04 – 2026-09-04",
-      "location": "Leipziger Messe",
-      "description": "Deutschlands größter Publikumspreis wird seit über 30 Jahren verliehen. Übertragen wid die Live-Sendung ab 20:15 Uhr in der ARD, Tickets können online erworben werden. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-goldene-henne-2026.jpg",
-      "link": "https://www.mdr-ticketshop.de",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "29. Jobmesse Leipzig",
       "startDate": "2026-09-04",
       "endDate": "2026-09-05",
@@ -1119,6 +1106,19 @@
       "description": "Im Congress Center Leipzig von 10:00 bis 16:00 Uhr, findet die 29. Jobmesse statt. Der Eintritt ist kostenfrei, eine Vorab-Registrierung wird empfohlen, um Wartezeiten am Einlass zu verkürzen. Nutze die Chance – frag nach, hör zu und zeig, was in dir steckt. Du hast innovative Ideen? Dann bist du auf der richtigen Bühne. So meldest du dich an: Registriere dich jetzt unter www.jobmesse-Leipzig.de und gestalte deine Zukunft aktiv.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2024/master-jobmesse.jpg",
       "link": "https://jobmesse-leipzig.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Goldene Henne 2026",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-04",
+      "date": "2026-09-04 – 2026-09-04",
+      "location": "Leipziger Messe",
+      "description": "Deutschlands größter Publikumspreis wird seit über 30 Jahren verliehen. Übertragen wid die Live-Sendung ab 20:15 Uhr in der ARD, Tickets können online erworben werden. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-goldene-henne-2026.jpg",
+      "link": "https://www.mdr-ticketshop.de",
       "tags": [
         "Gastveranstaltung"
       ]
@@ -1178,20 +1178,6 @@
       ]
     },
     {
-      "title": "MICAM / MIPEL (Autumn)",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-15",
-      "date": "2026-09-13 – 2026-09-15",
-      "location": "Mailand, Italien",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
-      "link": "mailto:s.kramer-scholz@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "ADIBF Buchmesse Abu Dhabi",
       "startDate": "2026-09-13",
       "endDate": "2026-09-18",
@@ -1200,6 +1186,20 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-abu-dhabi-bookfair.jpg",
       "link": "mailto:s.mueller@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "MICAM / MIPEL (Autumn)",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-15",
+      "date": "2026-09-13 – 2026-09-15",
+      "location": "Mailand, Italien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -1274,20 +1274,6 @@
       ]
     },
     {
-      "title": "The Hotel Show",
-      "startDate": "2026-09-28",
-      "endDate": "2026-09-30",
-      "date": "2026-09-28 – 2026-09-30",
-      "location": "Dubai, VAE ",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-hotel-show.jpg",
-      "link": "https://www.lm-international.com/bb_hotelshow_2026",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "FIB Feria Internacional Industrial de Bogotá",
       "startDate": "2026-09-28",
       "endDate": "2026-10-02",
@@ -1296,6 +1282,20 @@
       "description": "Landesbeteiligung Bayern",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-fib.jpg",
       "link": "https://www.lm-international.com/lb_fib_2026",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "The Hotel Show",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-30",
+      "date": "2026-09-28 – 2026-09-30",
+      "location": "Dubai, VAE ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-hotel-show.jpg",
+      "link": "https://www.lm-international.com/bb_hotelshow_2026",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -1889,19 +1889,6 @@
       ]
     },
     {
-      "title": "Motorräder Leipzig",
-      "startDate": "2027-02-06",
-      "endDate": "2027-02-08",
-      "date": "2027-02-06 – 2027-02-08",
-      "location": "Leipziger Messe",
-      "description": "MOTORRAD PUR ERLEBEN - Die Motorrad Messe in Mitteldeutschland. Der Treffpunkt für Motorradleidenschaft. Internationale Marken präsentieren ihre neuesten Modelle, innovative Technik, angesagte Bekleidung, hochwertiges Zubehör und attraktive Reiseangebote. Ausprobieren, Probesitzen, spektakuläre Shows genießen - auf der MOTORRÄDER LEIPZIG wird die Faszination Motorrad erlebbar.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2027/master-motorraeder.jpg",
-      "link": "https://www.motorraeder-leipzig.de/?_gl=1%2Azh3i3v%2A_gcl_au%2AMTMxNjQ5Nzk1OS4xNzg0NTU0NDM2%2A_ga%2AMTI3NjI1ODY2My4xNzc0OTM5ODgy%2A_ga_4TD46L112L%2AczE3ODY0MzUxODgkbzEyJGcxJHQxNzg2NDM1MjI3JGoyMSRsMCRoMA..",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "HAUS-GARTEN-FREIZEIT",
       "startDate": "2027-02-06",
       "endDate": "2027-02-14",
@@ -1922,6 +1909,19 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-handwerk-live.jpg",
       "link": "https://www.handwerksmesse-leipzig.de",
       "tags": []
+    },
+    {
+      "title": "Motorräder Leipzig",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-08",
+      "date": "2027-02-06 – 2027-02-08",
+      "location": "Leipziger Messe",
+      "description": "MOTORRAD PUR ERLEBEN - Die Motorrad Messe in Mitteldeutschland. Der Treffpunkt für Motorradleidenschaft. Internationale Marken präsentieren ihre neuesten Modelle, innovative Technik, angesagte Bekleidung, hochwertiges Zubehör und attraktive Reiseangebote. Ausprobieren, Probesitzen, spektakuläre Shows genießen - auf der MOTORRÄDER LEIPZIG wird die Faszination Motorrad erlebbar.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2027/master-motorraeder.jpg",
+      "link": "https://www.motorraeder-leipzig.de/?_gl=1%2Azh3i3v%2A_gcl_au%2AMTMxNjQ5Nzk1OS4xNzg0NTU0NDM2%2A_ga%2AMTI3NjI1ODY2My4xNzc0OTM5ODgy%2A_ga_4TD46L112L%2AczE3ODY0MzUxODgkbzEyJGcxJHQxNzg2NDM1MjI3JGoyMSRsMCRoMA..",
+      "tags": [
+        "Gastveranstaltung"
+      ]
     },
     {
       "title": "Velo Vibes Leipzig",
@@ -1963,20 +1963,6 @@
       ]
     },
     {
-      "title": "JEC World",
-      "startDate": "2027-03-02",
-      "endDate": "2027-03-04",
-      "date": "2027-03-02 – 2027-03-04",
-      "location": "Paris, Frankreich",
-      "description": "Landesbeteiligungen NRW und Bayern",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-jec.jpg",
-      "link": "https://www.lm-international.com/lb_jec_2027",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Z",
       "startDate": "2027-03-02",
       "endDate": "2027-03-05",
@@ -1997,6 +1983,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-intec.jpg",
       "link": "https://www.messe-intec.de",
       "tags": []
+    },
+    {
+      "title": "JEC World",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-04",
+      "date": "2027-03-02 – 2027-03-04",
+      "location": "Paris, Frankreich",
+      "description": "Landesbeteiligungen NRW und Bayern",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-jec.jpg",
+      "link": "https://www.lm-international.com/lb_jec_2027",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
     },
     {
       "title": "You can! ",
@@ -2054,6 +2054,17 @@
       ]
     },
     {
+      "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
+      "startDate": "2027-03-18",
+      "endDate": "2027-03-21",
+      "date": "2027-03-18 – 2027-03-21",
+      "location": "Leipziger Messe",
+      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser, Autoren, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga Comic Con und dem Lesefestival Leipzig liest statt.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-lbm-relaunch.jpg",
+      "link": "https://www.leipziger-buchmesse.de",
+      "tags": []
+    },
+    {
       "title": "Manga Comic Con",
       "startDate": "2027-03-18",
       "endDate": "2027-03-21",
@@ -2077,17 +2088,6 @@
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
-    },
-    {
-      "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
-      "startDate": "2027-03-18",
-      "endDate": "2027-03-21",
-      "date": "2027-03-18 – 2027-03-21",
-      "location": "Leipziger Messe",
-      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser, Autoren, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga Comic Con und dem Lesefestival Leipzig liest statt.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-lbm-relaunch.jpg",
-      "link": "https://www.leipziger-buchmesse.de",
-      "tags": []
     },
     {
       "title": "ISPO 21. Weltkongress",
