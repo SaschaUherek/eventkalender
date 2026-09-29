@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-09-28T02:11:25.305Z",
+  "scraped_at": "2026-09-29T02:57:15.369Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1233,6 +1233,19 @@
       ]
     },
     {
+      "title": "Sächsischer Krankenhaustag 2026",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-16",
+      "date": "2026-09-16 – 2026-09-16",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-kgs.jpg",
+      "link": "https://events.khg-sachsen.de/event-details?event_id=1051",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "Pharmed & Healthcare",
       "startDate": "2026-09-22",
       "endDate": "2026-09-24",
@@ -1368,6 +1381,20 @@
       ]
     },
     {
+      "title": "Nephrologie 2026",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-11",
+      "date": "2026-10-08 – 2026-10-11",
+      "location": "CCL",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-nephrologie.jpg",
+      "link": "https://www.nephrologie-kongress.de/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "Tanz-WM 2026",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
@@ -1406,19 +1433,6 @@
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "Sächsischer Krankenhaustag 2026",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "date": "2026-10-16 – 2026-10-16",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-kgs.jpg",
-      "link": "https://events.khg-sachsen.de/event-details?event_id=1051",
-      "tags": [
-        "Gastveranstaltung"
       ]
     },
     {
@@ -2367,6 +2381,19 @@
       "description": "Der European Business Angel Congress (EBAN) 2027 bringt Europas führende Investoren und Investorinnen, Innovatoren und Innovatorinnen sowie Vordenkende nach Sachsen. Drei Tage lang entsteht ein einzigartiges Format aus Networking, Spitzenpanels, Start-up-Pitches und strategischem Austausch, das Investitionen in die nächste Generation europäischer Innovationen fördert. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-eban.jpg",
       "link": "https://www.futuresax.de/eban-congress/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Sächsische Innovationskonferenz 2027",
+      "startDate": "2027-06-04",
+      "endDate": "2027-06-04",
+      "date": "2027-06-04 – 2027-06-04",
+      "location": "Leipziger Messe",
+      "description": "Die Sächsische Innovationskonferenz zeigt, wie Sachsen als DeepTech- und Wissenschaftsstandort die Herausforderungen der Zukunft meistert. Erleben Sie inspirierende Keynotes, spannende Trends und konkrete Lösungen für eine nachhaltige Transformation. Überregionale Vernetzung, gezielte Matches und ein Blick auf Mittelstand und Internationalisierung machen die Konferenz zum Ort für alle, die Innovation gestalten - in Sachsen und darüber hinaus.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-futuresax.jpg",
+      "link": "https://www.futuresax.de/events/veranstaltung/saechsische-innovationskonferenz-2027",
       "tags": [
         "Gastveranstaltung"
       ]
