@@ -1,12 +1,12 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-09-29T02:58:32.942Z",
+  "scraped_at": "2026-09-30T02:39:52.374Z",
   "events": [
     {
       "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
-      "date": "29.Sep",
-      "startDate": "2026-09-29",
-      "endDate": "2026-09-29",
+      "date": "30.Sep",
+      "startDate": "2026-09-30",
+      "endDate": "2026-09-30",
       "location": "Jahrtausendturm",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
@@ -641,6 +641,17 @@
       "tags": []
     },
     {
+      "title": "UWE STEIMLE - \"NU!\"",
+      "date": "20.Nov",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-20",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/uwe-steimle-2-f769076c.jpg",
+      "link": "https://www.mvgm.de/de/event/uwe-steimle-nu/",
+      "tags": []
+    },
+    {
       "title": "GREGORIAN",
       "date": "20.Nov",
       "startDate": "2026-11-20",
@@ -850,6 +861,28 @@
       "tags": []
     },
     {
+      "title": "NORBERTUS MUSIZIERT ADVENTSKONZERT 02.12.2026",
+      "date": "02.Dez",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Weihnachtsmarkt-MD-2016-Johanniskirche_003_Foto_Andreas_Lander-5ccd58f4.jpg",
+      "link": "https://www.mvgm.de/de/event/norbertus-musiziert-adventskonzert-02-12-2026/",
+      "tags": []
+    },
+    {
+      "title": "NORBERTUS MUSIZIERT ADVENTSKONZERT 03.12.2026",
+      "date": "03.Dez",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-03",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Weihnachtsmarkt-MD-2016-Johanniskirche_003_Foto_Andreas_Lander-5ccd58f4.jpg",
+      "link": "https://www.mvgm.de/de/event/norbertus-musiziert-adventskonzert-03-12-2026/",
+      "tags": []
+    },
+    {
       "title": "„JIM KNOPF UND LUKAS DER LOKOMOTIVFÜHRER\" 04.12. | 09:00 UHR",
       "date": "04.Dez",
       "startDate": "2026-12-04",
@@ -905,6 +938,17 @@
       "tags": []
     },
     {
+      "title": "WEIHNACHTSORATORIUM 2026",
+      "date": "05.Dez",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Weihnachtsmarkt-MD-2016-Johanniskirche_001_Foto_Andreas_Lander-598e3579.jpg",
+      "link": "https://www.mvgm.de/de/event/weihnachtsoratorium-2026/",
+      "tags": []
+    },
+    {
       "title": "„JIM KNOPF UND LUKAS DER LOKOMOTIVFÜHRER\" 06.12. | 13:30 UHR",
       "date": "06.Dez",
       "startDate": "2026-12-06",
@@ -935,6 +979,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/20191209_gaby-rot-neu-2019_www-e46c9f00.jpg",
       "link": "https://www.mvgm.de/de/event/gaby-albrecht-weihnachtkonzert-2026/",
+      "tags": []
+    },
+    {
+      "title": "BENEFIZKONZERT LANDESKOMMANDO SACHSEN-ANHALT",
+      "date": "08.Dez",
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-08",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Weihnachtsmarkt-MD-2016-Johanniskirche_003_Foto_Andreas_Lander-5ccd58f4.jpg",
+      "link": "https://www.mvgm.de/de/event/benefizkonzert-landeskommando-sachsen-anhalt-2/",
       "tags": []
     },
     {
@@ -1433,14 +1488,14 @@
       "tags": []
     },
     {
-      "title": "DOPPELPASS ON TOUR",
+      "title": "DOPPELPASS ON TOUR 2027",
       "date": "02.Feb",
       "startDate": "2027-02-02",
       "endDate": "2027-02-02",
       "location": "AMO Kulturhaus",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/8/Doppelpass-on-Tour-c-pics4news-5454a580.jpg",
-      "link": "https://www.mvgm.de/de/event/doppelpass-on-tour/",
+      "link": "https://www.mvgm.de/de/event/doppelpass-on-tour-2027/",
       "tags": []
     },
     {
@@ -2555,14 +2610,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -3006,14 +3116,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -3457,14 +3622,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -3908,14 +4128,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -4359,14 +4634,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -4810,14 +5140,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -5261,14 +5646,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -5712,14 +6152,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -6163,14 +6658,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -6614,14 +7164,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -7065,14 +7670,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -7516,14 +8176,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -7967,14 +8682,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -8418,14 +9188,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -8869,14 +9694,69 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "„MICHAEL JACKSON TRIBUTE LIVE EXPERIENCE“",
+      "date": "24.Apr",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Jackson-Eventim-Header-Genius-web-d0e4dfaa.png",
+      "link": "https://www.mvgm.de/de/event/michael-jackson-tribute-live-experience-2/",
+      "tags": []
+    },
+    {
+      "title": "CORNAMUSA - WORLD OF PIPE ROCK AND IRISH DANCE - \"DAS FLÜSTERN DER STEINE\"",
+      "date": "01.Mai",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/Cornamusa-2027-1c006e80.jpg",
+      "link": "https://www.mvgm.de/de/event/cornamusa-world-of-pipe-rock-and-irish-dance-das-fluestern-der-steine/",
+      "tags": []
+    },
+    {
+      "title": "DARK TENOR – ROCK MEETS KLASSIK",
+      "date": "07.Mai",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Dark-Tenor-Symphonica-credit-Alexandra-Sira-2-2012ce31.jpg",
+      "link": "https://www.mvgm.de/de/event/dark-tenor-rock-meets-klassik/",
+      "tags": []
+    },
+    {
+      "title": "BÜLENT CEYLAN - DIKTATÜRK 2027",
+      "date": "08.Mai",
+      "startDate": "2027-05-08",
+      "endDate": "2027-05-08",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/Pressefoto-BueLENT-CEYLAN-2-c-Arno-Steinfort-9cead9fa.jpg",
+      "link": "https://www.mvgm.de/de/event/buelent-ceylan-diktatuerk-2027/",
+      "tags": []
+    },
+    {
+      "title": "NIK P. - ECHT - 30 JAHRE JUBILÄUMS TOUR",
+      "date": "09.Mai",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-09",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/c/NikP-Echt-1920x1080px-d2285db1.jpg",
+      "link": "https://www.mvgm.de/de/event/nik-p-echt-30-jahre-jubilaeums-tour/",
       "tags": []
     },
     {
@@ -9320,14 +10200,14 @@
       "tags": []
     },
     {
-      "title": "JOHANN KÖNIG - HEUTE IN KÖNIG",
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
       "date": "12.Mai",
       "startDate": "2027-05-12",
       "endDate": "2027-05-12",
       "location": "GETEC-Arena",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/8/heute-ein-koenig-tickets-466444-3740851-1240x480-f7b556e2.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-in-koenig/",
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
       "tags": []
     }
   ]
