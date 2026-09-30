@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-09-29T02:58:01.733Z",
+  "scraped_at": "2026-09-30T02:39:23.965Z",
   "events": [
     {
       "title": "NENA",
@@ -165,17 +165,6 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/0/d/csm_Logo_bearbeitet_7355169cc3.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-tv-05-07-huettenberg/1073",
-      "tags": []
-    },
-    {
-      "title": "NENA",
-      "date": "Montag, 02.11.2026",
-      "startDate": "2026-11-02",
-      "endDate": "2026-11-02",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/e/6/csm_1920x1080_blanko_735456b897.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/nena-1/1097",
       "tags": []
     },
     {
@@ -1265,6 +1254,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/4/c/csm_straeter-large_f4c88bbfc0.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/torsten-straeter/988",
+      "tags": []
+    },
+    {
+      "title": "NENA",
+      "date": "Dienstag, 02.11.2027",
+      "startDate": "2027-11-02",
+      "endDate": "2027-11-02",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/e/6/csm_1920x1080_blanko_735456b897.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/nena-1/1097",
       "tags": []
     },
     {
