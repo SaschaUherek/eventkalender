@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-09-30T02:38:38.997Z",
+  "scraped_at": "2026-10-01T02:42:47.072Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1449,20 +1449,6 @@
       ]
     },
     {
-      "title": "ACHEMA Middle East",
-      "startDate": "2026-10-26",
-      "endDate": "2026-10-28",
-      "date": "2026-10-26 – 2026-10-28",
-      "location": "Riad, Saudi-Arabien",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-achema.jpg",
-      "link": "https://www.lm-international.com/bb_achema_middle_east_2026",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "gamescom asia",
       "startDate": "2026-10-29",
       "endDate": "2026-11-01",
@@ -2633,6 +2619,20 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-bio-europe.jpg",
       "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "ACHEMA Middle East",
+      "startDate": "2027-10-26",
+      "endDate": "2027-10-28",
+      "date": "2027-10-26 – 2027-10-28",
+      "location": "Riad, Saudi-Arabien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-achema.jpg",
+      "link": "mailto:s.mueller@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
