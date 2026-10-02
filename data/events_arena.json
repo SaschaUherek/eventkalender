@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-10-01T02:43:33.120Z",
+  "scraped_at": "2026-10-02T02:47:31.058Z",
   "events": [
-    {
-      "title": "NENA",
-      "date": "Donnerstag, 01.10.2026",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-01",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/d/0/csm_Nena_Live_4_copyright_Sarah_Rechbauer___Laugh___Peas_Entertainment___Lifestyle_GmbH_e6221ce0b5.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/nena/950",
-      "tags": []
-    },
     {
       "title": "SC DHfK – TuS N.-Lübbecke",
       "date": "Donnerstag, 08.10.2026",
@@ -1166,6 +1155,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/3/8/csm_RolandKaiser_OpenAir2027_Termine_4_3_b522b006de.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/roland-kaiser-1/1078",
+      "tags": []
+    },
+    {
+      "title": "Tutty Tran",
+      "date": "Freitag, 17.09.2027",
+      "startDate": "2027-09-17",
+      "endDate": "2027-09-17",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/e/0/csm_Pressefoto_TUTTY_TRAN_2__c__Marvin_Ruppert_4db00046ee.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/tutty-tran-1/1098",
       "tags": []
     },
     {
