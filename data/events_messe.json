@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-10-02T02:46:44.157Z",
+  "scraped_at": "2026-10-03T02:33:06.232Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -308,6 +308,19 @@
       ]
     },
     {
+      "title": "31. Leipziger Fachseminar ",
+      "startDate": "2026-03-03",
+      "endDate": "2026-03-03",
+      "date": "2026-03-03 – 2026-03-03",
+      "location": "CCL",
+      "description": "Das Leipziger Fachseminar wird durch die Bezirksgruppen Sachsen und Thüringen der Deutschen Gesellschaft für Galvano- und Oberflächentechnik organisiert. Das Fachseminar bietet ein spannendes Vortragsprogramm zu den aktuellen Herausforderungen der Oberflächentechnik und wird von einer Fachausstellung begleitet. Im Rahmen des Fachseminars wird der Leipziger Galvanopreis für innovative oder ökologische Leistungen auf dem Gebiet der Oberflächentechnik verliehen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-dgo.jpg",
+      "link": "https://www.dgo-online.de/termine/tagungen/detailansicht/31-leipziger-fachseminar-am-03-maerz-2026",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "Experts Live Germany 2026 ",
       "startDate": "2026-03-03",
       "endDate": "2026-03-04",
@@ -319,19 +332,6 @@
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "31. Leipziger Fachseminar ",
-      "startDate": "2026-03-03",
-      "endDate": "2026-03-03",
-      "date": "2026-03-03 – 2026-03-03",
-      "location": "CCL",
-      "description": "Das Leipziger Fachseminar wird durch die Bezirksgruppen Sachsen und Thüringen der Deutschen Gesellschaft für Galvano- und Oberflächentechnik organisiert. Das Fachseminar bietet ein spannendes Vortragsprogramm zu den aktuellen Herausforderungen der Oberflächentechnik und wird von einer Fachausstellung begleitet. Im Rahmen des Fachseminars wird der Leipziger Galvanopreis für innovative oder ökologische Leistungen auf dem Gebiet der Oberflächentechnik verliehen.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-dgo.jpg",
-      "link": "https://www.dgo-online.de/termine/tagungen/detailansicht/31-leipziger-fachseminar-am-03-maerz-2026",
-      "tags": [
-        "Gastveranstaltung"
       ]
     },
     {
@@ -457,19 +457,6 @@
       ]
     },
     {
-      "title": "32. Leipziger Antiquariatsmesse",
-      "startDate": "2026-03-19",
-      "endDate": "2026-03-22",
-      "date": "2026-03-19 – 2026-03-22",
-      "location": "Leipziger Messe",
-      "description": "Die 32. Leipziger Antiquariatsmesse mit der beliebten Literaturmeile bietet eine Vielfalt an antiquarischen Büchern, Grafiken, Fotografien und Autografen. Sie findet im Rahmen der Leipziger Buchmesse in Halle 5 statt und lädt zum Stöbern und Kaufen ein. Die Veranstalterin abooks.de Marianne Fleischer-Bartsch und über 30 Antiquariate aus dem In- und Ausland freuen sich auf Ihren Besuch.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-antiquariat-32.jpg",
-      "link": "https://www.abooks.de",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
       "startDate": "2026-03-19",
       "endDate": "2026-03-22",
@@ -490,6 +477,19 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-mcc.jpg",
       "link": "https://www.manga-comic-con.de",
       "tags": []
+    },
+    {
+      "title": "32. Leipziger Antiquariatsmesse",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-22",
+      "date": "2026-03-19 – 2026-03-22",
+      "location": "Leipziger Messe",
+      "description": "Die 32. Leipziger Antiquariatsmesse mit der beliebten Literaturmeile bietet eine Vielfalt an antiquarischen Büchern, Grafiken, Fotografien und Autografen. Sie findet im Rahmen der Leipziger Buchmesse in Halle 5 statt und lädt zum Stöbern und Kaufen ein. Die Veranstalterin abooks.de Marianne Fleischer-Bartsch und über 30 Antiquariate aus dem In- und Ausland freuen sich auf Ihren Besuch.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-antiquariat-32.jpg",
+      "link": "https://www.abooks.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
     },
     {
       "title": "Bio-Europe Spring",
@@ -628,6 +628,19 @@
       ]
     },
     {
+      "title": "PaintExpo",
+      "startDate": "2026-04-14",
+      "endDate": "2026-04-17",
+      "date": "2026-04-14 – 2026-04-17",
+      "location": "Karlsruhe",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-paintexpo.jpg",
+      "link": "https://www.paintexpo.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "Messekongress Schadenmanagement & Assistance",
       "startDate": "2026-04-14",
       "endDate": "2026-04-15",
@@ -642,19 +655,6 @@
       ]
     },
     {
-      "title": "PaintExpo",
-      "startDate": "2026-04-14",
-      "endDate": "2026-04-17",
-      "date": "2026-04-14 – 2026-04-17",
-      "location": "Karlsruhe",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-paintexpo.jpg",
-      "link": "https://www.paintexpo.de",
-      "tags": [
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Deutscher Kongress für Parkinson und Bewegungsstörungen",
       "startDate": "2026-04-16",
       "endDate": "2026-04-18",
@@ -665,20 +665,6 @@
       "link": "https://dpg-kongress.de/",
       "tags": [
         "Gastveranstaltung"
-      ]
-    },
-    {
-      "title": "IDEM",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-19",
-      "date": "2026-04-17 – 2026-04-19",
-      "location": "Singapur",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-idem.jpg",
-      "link": "mailto:s.kramer-scholz@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
       ]
     },
     {
@@ -705,6 +691,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-caggtus.jpg",
       "link": "https://www.caggtus.de",
       "tags": []
+    },
+    {
+      "title": "IDEM",
+      "startDate": "2026-04-17",
+      "endDate": "2026-04-19",
+      "date": "2026-04-17 – 2026-04-19",
+      "location": "Singapur",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-idem.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
     },
     {
       "title": "DBT2026",
@@ -1056,20 +1056,6 @@
       "tags": []
     },
     {
-      "title": "Medtec China",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-03",
-      "date": "2026-09-01 – 2026-09-03",
-      "location": "Shanghai, VR China",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-medtech-china.jpg",
-      "link": "mailto:j.kowollik@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "MEDCARE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-02",
@@ -1080,6 +1066,20 @@
       "link": "https://www.medcare-leipzig.de",
       "tags": [
         "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Medtec China",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-03",
+      "date": "2026-09-01 – 2026-09-03",
+      "location": "Shanghai, VR China",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-medtech-china.jpg",
+      "link": "mailto:j.kowollik@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
     },
@@ -1151,19 +1151,6 @@
       ]
     },
     {
-      "title": "Deutscher Rheumatologiekongress 2026",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-12",
-      "date": "2026-09-09 – 2026-09-12",
-      "location": "CCL",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-rhk-2026.jpg",
-      "link": "https://www.rhkongress.de/",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "36. Deutscher Hautkrebskongress",
       "startDate": "2026-09-09",
       "endDate": "2026-09-12",
@@ -1178,17 +1165,16 @@
       ]
     },
     {
-      "title": "MICAM / MIPEL (Autumn)",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-15",
-      "date": "2026-09-13 – 2026-09-15",
-      "location": "Mailand, Italien",
+      "title": "Deutscher Rheumatologiekongress 2026",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-12",
+      "date": "2026-09-09 – 2026-09-12",
+      "location": "CCL",
       "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
-      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-rhk-2026.jpg",
+      "link": "https://www.rhkongress.de/",
       "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
+        "Gastveranstaltung"
       ]
     },
     {
@@ -1200,6 +1186,20 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-abu-dhabi-bookfair.jpg",
       "link": "mailto:s.mueller@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "MICAM / MIPEL (Autumn)",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-15",
+      "date": "2026-09-13 – 2026-09-15",
+      "location": "Mailand, Italien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -1524,19 +1524,6 @@
       "tags": []
     },
     {
-      "title": "azubi- & studientage Leipzig 2026",
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-07",
-      "date": "2026-11-06 – 2026-11-07",
-      "location": "Leipziger Messe",
-      "description": "Die Bildungsmesse azubi- & studientage Leipzig bietet Schülern und Schülerinnen, Lehrkräften und Eltern eine Informations-Plattform, um im persönlichen Gespräch Ausbildungs- und Bildungsangebote sowie Entwicklungsperspektiven von verschiedensten Unternehmen, privaten und staatlichen Berufs- und Hochschulen, Kammern, Behörden und Institutionen kennenzulernen und sich ein Bild über die potenziellen zukünftigen Arbeitgeber zu machen.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2025/master-azubi-studientage.jpg",
-      "link": "https://azubitage.de/leipzig",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "therapie HAMBURG",
       "startDate": "2026-11-06",
       "endDate": "2026-11-07",
@@ -1547,6 +1534,19 @@
       "link": "https://www.therapiemesse-hamburg.de",
       "tags": [
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "azubi- & studientage Leipzig 2026",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-07",
+      "date": "2026-11-06 – 2026-11-07",
+      "location": "Leipziger Messe",
+      "description": "Die Bildungsmesse azubi- & studientage Leipzig bietet Schülern und Schülerinnen, Lehrkräften und Eltern eine Informations-Plattform, um im persönlichen Gespräch Ausbildungs- und Bildungsangebote sowie Entwicklungsperspektiven von verschiedensten Unternehmen, privaten und staatlichen Berufs- und Hochschulen, Kammern, Behörden und Institutionen kennenzulernen und sich ein Bild über die potenziellen zukünftigen Arbeitgeber zu machen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2025/master-azubi-studientage.jpg",
+      "link": "https://azubitage.de/leipzig",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -1949,20 +1949,6 @@
       ]
     },
     {
-      "title": "JEC World",
-      "startDate": "2027-03-02",
-      "endDate": "2027-03-04",
-      "date": "2027-03-02 – 2027-03-04",
-      "location": "Paris, Frankreich",
-      "description": "Landesbeteiligungen NRW und Bayern",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-jec.jpg",
-      "link": "https://www.lm-international.com/lb_jec_2027",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Z",
       "startDate": "2027-03-02",
       "endDate": "2027-03-05",
@@ -1983,6 +1969,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-intec.jpg",
       "link": "https://www.messe-intec.de",
       "tags": []
+    },
+    {
+      "title": "JEC World",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-04",
+      "date": "2027-03-02 – 2027-03-04",
+      "location": "Paris, Frankreich",
+      "description": "Landesbeteiligungen NRW und Bayern",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-jec.jpg",
+      "link": "https://www.lm-international.com/lb_jec_2027",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
     },
     {
       "title": "You can! ",
@@ -2333,19 +2333,6 @@
       ]
     },
     {
-      "title": "EBAN Congress Leipzig 2027 ",
-      "startDate": "2027-06-02",
-      "endDate": "2027-06-04",
-      "date": "2027-06-02 – 2027-06-04",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": "Der European Business Angel Congress (EBAN) 2027 bringt Europas führende Investoren und Investorinnen, Innovatoren und Innovatorinnen sowie Vordenkende nach Sachsen. Drei Tage lang entsteht ein einzigartiges Format aus Networking, Spitzenpanels, Start-up-Pitches und strategischem Austausch, das Investitionen in die nächste Generation europäischer Innovationen fördert. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-eban.jpg",
-      "link": "https://www.futuresax.de/eban-congress/",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "CosmeticBusiness",
       "startDate": "2027-06-02",
       "endDate": "2027-06-03",
@@ -2369,6 +2356,19 @@
       "link": "https://www.medlogistica.de",
       "tags": [
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "EBAN Congress Leipzig 2027 ",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-04",
+      "date": "2027-06-02 – 2027-06-04",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Der European Business Angel Congress (EBAN) 2027 bringt Europas führende Investoren und Investorinnen, Innovatoren und Innovatorinnen sowie Vordenkende nach Sachsen. Drei Tage lang entsteht ein einzigartiges Format aus Networking, Spitzenpanels, Start-up-Pitches und strategischem Austausch, das Investitionen in die nächste Generation europäischer Innovationen fördert. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-eban.jpg",
+      "link": "https://www.futuresax.de/eban-congress/",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -2533,19 +2533,6 @@
       ]
     },
     {
-      "title": "netze:ON",
-      "startDate": "2027-09-21",
-      "endDate": "2027-09-23",
-      "date": "2027-09-21 – 2027-09-23",
-      "location": "Leipziger Messe",
-      "description": "Die netze:ON ist die Fachmesse für intelligente Energienetze und digitale Infrastruktur in Mitteldeutschland. Im Mittelpunkt stehen der Ausbau und die Modernisierung von Strom-, Wärme- und Breitbandnetzen sowie deren Digitalisierung, intelligente Steuerung und sicherer, vernetzter Betrieb. Als regionale Arbeits- und Lösungsplattform zeigt die netze:ON das Zusammenspiel entlang des gesamten Infrastrukturprozesses – von der Planung und Ausrüstung bis zum Betrieb. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-netzeon.jpg",
-      "link": "https://www.netze-on.de",
-      "tags": [
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "efa:ON",
       "startDate": "2027-09-21",
       "endDate": "2027-09-23",
@@ -2554,6 +2541,19 @@
       "description": "Die efa:ON ist die einzige Fachmesse für Elektro-, Gebäude- und Lichttechnik für Mitteldeutschland. Auf der efa:ON treffen Hersteller und Dienstleister auf Fachbesucher aus Handwerk, Industrie-, Gewerbe- und Energieversorgungsunternehmen, auf Handel, Planer, Architekten, Ingenieure und Gebäudebetreiber sowie den Branchennachwuchs. Als zentrale Plattform bietet sie dem Fachpublikum durch die Kombination von Ausstellung, Fachprogramm und Event großen Mehrwert durch Austausch und Weiterbildung.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-efaon.jpg",
       "link": "https://www.efa-messe.com",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "netze:ON",
+      "startDate": "2027-09-21",
+      "endDate": "2027-09-23",
+      "date": "2027-09-21 – 2027-09-23",
+      "location": "Leipziger Messe",
+      "description": "Die netze:ON ist die Fachmesse für intelligente Energienetze und digitale Infrastruktur in Mitteldeutschland. Im Mittelpunkt stehen der Ausbau und die Modernisierung von Strom-, Wärme- und Breitbandnetzen sowie deren Digitalisierung, intelligente Steuerung und sicherer, vernetzter Betrieb. Als regionale Arbeits- und Lösungsplattform zeigt die netze:ON das Zusammenspiel entlang des gesamten Infrastrukturprozesses – von der Planung und Ausrüstung bis zum Betrieb. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-netzeon.jpg",
+      "link": "https://www.netze-on.de",
       "tags": [
         "Nur für Fachbesucher"
       ]
