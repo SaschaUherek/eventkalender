@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-10-02T02:47:31.058Z",
+  "scraped_at": "2026-10-03T02:33:56.696Z",
   "events": [
     {
       "title": "SC DHfK – TuS N.-Lübbecke",
@@ -1375,6 +1375,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/b/f/csm_Pressefoto001__C_Jule_Merhoff_2f023baef7.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/kerstin-ott/1077",
+      "tags": []
+    },
+    {
+      "title": "DIE FANTASTISCHEN VIER",
+      "date": "Samstag, 10.06.2028",
+      "startDate": "2028-06-10",
+      "endDate": "2028-06-10",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/c/b/csm_01_DieFantastischenVier_DerLetzteBus_Credit_Mumpi_Kuenster_9650468615.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/die-fantastischen-vier-1/1099",
       "tags": []
     }
   ]
