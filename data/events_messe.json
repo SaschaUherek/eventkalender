@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-10-03T02:33:06.232Z",
+  "scraped_at": "2026-10-04T03:04:29.589Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -374,6 +374,19 @@
       ]
     },
     {
+      "title": "Grundwasser und Wassersicherheit im Wandel",
+      "startDate": "2026-03-10",
+      "endDate": "2026-03-13",
+      "date": "2026-03-10 – 2026-03-13",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Grundwasser ist die Grundlage für weite Teile unserer öffentlichen Wasserversorgung, speist Bäche, Flüsse und wichtige Ökosysteme. Der Klimawandel stellt die Grundwasser-Verfügbarkeit in Deutschland zunehmend in Frage und verändert gleichzeitig den Wasserbedarf. Ein Schlüssel zur sicheren Wasserversorgung ist ein naturnaher Landschaftswasserhaushalt, der Extreme puffert. Fachleute aus Forschung, Behörden, Unternehmen und Verbänden kommen zusammen, um sich hierzu auszutauschen und zu diskutieren.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-gddv.jpg",
+      "link": "https://tagung2026.fh-dggv.de/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "JEC World",
       "startDate": "2026-03-10",
       "endDate": "2026-03-12",
@@ -385,19 +398,6 @@
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "Grundwasser und Wassersicherheit im Wandel",
-      "startDate": "2026-03-10",
-      "endDate": "2026-03-13",
-      "date": "2026-03-10 – 2026-03-13",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": "Grundwasser ist die Grundlage für weite Teile unserer öffentlichen Wasserversorgung, speist Bäche, Flüsse und wichtige Ökosysteme. Der Klimawandel stellt die Grundwasser-Verfügbarkeit in Deutschland zunehmend in Frage und verändert gleichzeitig den Wasserbedarf. Ein Schlüssel zur sicheren Wasserversorgung ist ein naturnaher Landschaftswasserhaushalt, der Extreme puffert. Fachleute aus Forschung, Behörden, Unternehmen und Verbänden kommen zusammen, um sich hierzu auszutauschen und zu diskutieren.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-gddv.jpg",
-      "link": "https://tagung2026.fh-dggv.de/",
-      "tags": [
-        "Gastveranstaltung"
       ]
     },
     {
@@ -600,20 +600,6 @@
       ]
     },
     {
-      "title": "Seatrade Cruise Global",
-      "startDate": "2026-04-13",
-      "endDate": "2026-04-16",
-      "date": "2026-04-13 – 2026-04-16",
-      "location": "Miami, USA",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-seatrade.jpg",
-      "link": "mailto:o.seifert@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Bologna Children's Book Fair ",
       "startDate": "2026-04-13",
       "endDate": "2026-04-16",
@@ -622,6 +608,20 @@
       "description": "Landesbeteiligung Bayern ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-bologna-cbf.jpg",
       "link": "mailto:i.weidemann@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Seatrade Cruise Global",
+      "startDate": "2026-04-13",
+      "endDate": "2026-04-16",
+      "date": "2026-04-13 – 2026-04-16",
+      "location": "Miami, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-seatrade.jpg",
+      "link": "mailto:o.seifert@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -925,20 +925,6 @@
       ]
     },
     {
-      "title": "Messekongress Kundenmanagement in Versicherungen",
-      "startDate": "2026-06-16",
-      "endDate": "2026-06-17",
-      "date": "2026-06-16 – 2026-06-17",
-      "location": "CCL",
-      "description": "Der Messekongress Kundenmanagement in Versicherungen bringt die innovativsten Ideen und Lösungen zusammen und garantiert an zwei Tagen einen strukturierten Austausch und maximalen Wissenstransfer zu allen Aspekten des ganzheitlichen Kundenmanagements. Die Messe ist die ideale Plattform, um sich über Marktentwicklungen und Trends im Kundenmanagement der Assekuranz zu informieren, eigene Innovationen zu präsentieren, das Netzwerk zu erweitern und bestehende Kontakte zu pflegen. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-mk-versicherungen.jpg",
-      "link": "https://www.versicherungsforen.net/mk-kunde",
-      "tags": [
-        "Gastveranstaltung",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "FISPAL",
       "startDate": "2026-06-16",
       "endDate": "2026-06-19",
@@ -949,6 +935,20 @@
       "link": "mailto:o.seifert@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Messekongress Kundenmanagement in Versicherungen",
+      "startDate": "2026-06-16",
+      "endDate": "2026-06-17",
+      "date": "2026-06-16 – 2026-06-17",
+      "location": "CCL",
+      "description": "Der Messekongress Kundenmanagement in Versicherungen bringt die innovativsten Ideen und Lösungen zusammen und garantiert an zwei Tagen einen strukturierten Austausch und maximalen Wissenstransfer zu allen Aspekten des ganzheitlichen Kundenmanagements. Die Messe ist die ideale Plattform, um sich über Marktentwicklungen und Trends im Kundenmanagement der Assekuranz zu informieren, eigene Innovationen zu präsentieren, das Netzwerk zu erweitern und bestehende Kontakte zu pflegen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-mk-versicherungen.jpg",
+      "link": "https://www.versicherungsforen.net/mk-kunde",
+      "tags": [
+        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
@@ -1178,20 +1178,6 @@
       ]
     },
     {
-      "title": "ADIBF Buchmesse Abu Dhabi",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-18",
-      "date": "2026-09-13 – 2026-09-18",
-      "location": "Abu Dhabi, VAE ",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-abu-dhabi-bookfair.jpg",
-      "link": "mailto:s.mueller@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "MICAM / MIPEL (Autumn)",
       "startDate": "2026-09-13",
       "endDate": "2026-09-15",
@@ -1200,6 +1186,20 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
       "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "ADIBF Buchmesse Abu Dhabi",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-18",
+      "date": "2026-09-13 – 2026-09-18",
+      "location": "Abu Dhabi, VAE ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-abu-dhabi-bookfair.jpg",
+      "link": "mailto:s.mueller@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -1462,19 +1462,6 @@
       ]
     },
     {
-      "title": "marrylove Hochzeitsmesse Leipzig",
-      "startDate": "2026-10-31",
-      "endDate": "2026-11-01",
-      "date": "2026-10-31 – 2026-11-01",
-      "location": "CCL",
-      "description": "Die Hochzeitsmesse in Leipzig für Brautpaare: Entdeckt regionale Hochzeitsdienstleister, aktuelle Trends, Brautmode, Trauringe und kreative Ideen für eine unvergessliche Hochzeit. Die marrylove Hochzeitsmesse in Leipzig ist der Treffpunkt für alle, die ihre Hochzeit mit Inspiration und den passenden Profis planen möchten. Entdecke regionale Aussteller aus den Bereichen Brautmode, Trauringe, Hochzeitslocations, Fotografie, Dekoration und mehr. Die Hochzeitsmesse Leipzig bietet frische Ideen, persönliche Beratung und echte Trends für Deinen großen Tag.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-marry-love-2026.jpg",
-      "link": "https://marrylove.de",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "immocation Festival 2026",
       "startDate": "2026-10-31",
       "endDate": "2026-11-01",
@@ -1483,6 +1470,19 @@
       "description": "Das immocation Festival 2026 - der Ort, an dem sich Immobilieninvestoren treffen und voneinander lernen! Maximales Expertenwissen: 2 Bühnen mit tiefen Immobilieninhalten für jedes Investorenlevel – vom Einsteiger bis Superpro.Top Netzwerkmöglichkeiten: Persönlicher Austausch mit den Coaches und aktiven Immobilieninvestoren 180+ Aussteller, um genau die Partner zu finden, die du brauchst. Verschiedene Messepartys am Samstag Abend. Buch dir dein Ticket jetzt!",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-immocation-neutral.jpg",
       "link": "https://immocation.de/Festival",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "marrylove Hochzeitsmesse Leipzig",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "date": "2026-10-31 – 2026-11-01",
+      "location": "CCL",
+      "description": "Die Hochzeitsmesse in Leipzig für Brautpaare: Entdeckt regionale Hochzeitsdienstleister, aktuelle Trends, Brautmode, Trauringe und kreative Ideen für eine unvergessliche Hochzeit. Die marrylove Hochzeitsmesse in Leipzig ist der Treffpunkt für alle, die ihre Hochzeit mit Inspiration und den passenden Profis planen möchten. Entdecke regionale Aussteller aus den Bereichen Brautmode, Trauringe, Hochzeitslocations, Fotografie, Dekoration und mehr. Die Hochzeitsmesse Leipzig bietet frische Ideen, persönliche Beratung und echte Trends für Deinen großen Tag.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-marry-love-2026.jpg",
+      "link": "https://marrylove.de",
       "tags": [
         "Gastveranstaltung"
       ]
@@ -2333,19 +2333,6 @@
       ]
     },
     {
-      "title": "CosmeticBusiness",
-      "startDate": "2027-06-02",
-      "endDate": "2027-06-03",
-      "date": "2027-06-02 – 2027-06-03",
-      "location": "München",
-      "description": "Die CosmeticBusiness ist die Leitmesse für die Kosmetikindustrie im deutschsprachigen Raum. Sie ist unverzichtbarer Impulsgeber für erfolgreiche Produktentwicklungen in Deutschland, Österreich und der Schweiz. Die Fachmesse inspiriert mit Neuheiten und Trends entlang der gesamten Wertschöpfungskette – vom Inhaltsstoff bis zur Verpackung. Fachbesucher aus Entwicklung und Beschaffung schätzen das effiziente Netzwerken mit ihrem internationalen Lieferanten-Universum an nur einem Ort.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cosmetic-business.jpg",
-      "link": "https://www.cosmetic-business.com/de/",
-      "tags": [
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "med.Logistica",
       "startDate": "2027-06-02",
       "endDate": "2027-06-03",
@@ -2369,6 +2356,19 @@
       "link": "https://www.futuresax.de/eban-congress/",
       "tags": [
         "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "CosmeticBusiness",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-03",
+      "date": "2027-06-02 – 2027-06-03",
+      "location": "München",
+      "description": "Die CosmeticBusiness ist die Leitmesse für die Kosmetikindustrie im deutschsprachigen Raum. Sie ist unverzichtbarer Impulsgeber für erfolgreiche Produktentwicklungen in Deutschland, Österreich und der Schweiz. Die Fachmesse inspiriert mit Neuheiten und Trends entlang der gesamten Wertschöpfungskette – vom Inhaltsstoff bis zur Verpackung. Fachbesucher aus Entwicklung und Beschaffung schätzen das effiziente Netzwerken mit ihrem internationalen Lieferanten-Universum an nur einem Ort.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cosmetic-business.jpg",
+      "link": "https://www.cosmetic-business.com/de/",
+      "tags": [
+        "Nur für Fachbesucher"
       ]
     },
     {
