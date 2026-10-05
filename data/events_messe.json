@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-10-04T03:04:29.589Z",
+  "scraped_at": "2026-10-05T02:37:42.783Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -374,19 +374,6 @@
       ]
     },
     {
-      "title": "Grundwasser und Wassersicherheit im Wandel",
-      "startDate": "2026-03-10",
-      "endDate": "2026-03-13",
-      "date": "2026-03-10 – 2026-03-13",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": "Grundwasser ist die Grundlage für weite Teile unserer öffentlichen Wasserversorgung, speist Bäche, Flüsse und wichtige Ökosysteme. Der Klimawandel stellt die Grundwasser-Verfügbarkeit in Deutschland zunehmend in Frage und verändert gleichzeitig den Wasserbedarf. Ein Schlüssel zur sicheren Wasserversorgung ist ein naturnaher Landschaftswasserhaushalt, der Extreme puffert. Fachleute aus Forschung, Behörden, Unternehmen und Verbänden kommen zusammen, um sich hierzu auszutauschen und zu diskutieren.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-gddv.jpg",
-      "link": "https://tagung2026.fh-dggv.de/",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "JEC World",
       "startDate": "2026-03-10",
       "endDate": "2026-03-12",
@@ -398,6 +385,19 @@
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Grundwasser und Wassersicherheit im Wandel",
+      "startDate": "2026-03-10",
+      "endDate": "2026-03-13",
+      "date": "2026-03-10 – 2026-03-13",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Grundwasser ist die Grundlage für weite Teile unserer öffentlichen Wasserversorgung, speist Bäche, Flüsse und wichtige Ökosysteme. Der Klimawandel stellt die Grundwasser-Verfügbarkeit in Deutschland zunehmend in Frage und verändert gleichzeitig den Wasserbedarf. Ein Schlüssel zur sicheren Wasserversorgung ist ein naturnaher Landschaftswasserhaushalt, der Extreme puffert. Fachleute aus Forschung, Behörden, Unternehmen und Verbänden kommen zusammen, um sich hierzu auszutauschen und zu diskutieren.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-gddv.jpg",
+      "link": "https://tagung2026.fh-dggv.de/",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -457,6 +457,19 @@
       ]
     },
     {
+      "title": "32. Leipziger Antiquariatsmesse",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-22",
+      "date": "2026-03-19 – 2026-03-22",
+      "location": "Leipziger Messe",
+      "description": "Die 32. Leipziger Antiquariatsmesse mit der beliebten Literaturmeile bietet eine Vielfalt an antiquarischen Büchern, Grafiken, Fotografien und Autografen. Sie findet im Rahmen der Leipziger Buchmesse in Halle 5 statt und lädt zum Stöbern und Kaufen ein. Die Veranstalterin abooks.de Marianne Fleischer-Bartsch und über 30 Antiquariate aus dem In- und Ausland freuen sich auf Ihren Besuch.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-antiquariat-32.jpg",
+      "link": "https://www.abooks.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
       "startDate": "2026-03-19",
       "endDate": "2026-03-22",
@@ -477,19 +490,6 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-mcc.jpg",
       "link": "https://www.manga-comic-con.de",
       "tags": []
-    },
-    {
-      "title": "32. Leipziger Antiquariatsmesse",
-      "startDate": "2026-03-19",
-      "endDate": "2026-03-22",
-      "date": "2026-03-19 – 2026-03-22",
-      "location": "Leipziger Messe",
-      "description": "Die 32. Leipziger Antiquariatsmesse mit der beliebten Literaturmeile bietet eine Vielfalt an antiquarischen Büchern, Grafiken, Fotografien und Autografen. Sie findet im Rahmen der Leipziger Buchmesse in Halle 5 statt und lädt zum Stöbern und Kaufen ein. Die Veranstalterin abooks.de Marianne Fleischer-Bartsch und über 30 Antiquariate aus dem In- und Ausland freuen sich auf Ihren Besuch.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-antiquariat-32.jpg",
-      "link": "https://www.abooks.de",
-      "tags": [
-        "Gastveranstaltung"
-      ]
     },
     {
       "title": "Bio-Europe Spring",
@@ -600,20 +600,6 @@
       ]
     },
     {
-      "title": "Bologna Children's Book Fair ",
-      "startDate": "2026-04-13",
-      "endDate": "2026-04-16",
-      "date": "2026-04-13 – 2026-04-16",
-      "location": "Bologna, Italien",
-      "description": "Landesbeteiligung Bayern ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-bologna-cbf.jpg",
-      "link": "mailto:i.weidemann@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Seatrade Cruise Global",
       "startDate": "2026-04-13",
       "endDate": "2026-04-16",
@@ -628,15 +614,16 @@
       ]
     },
     {
-      "title": "PaintExpo",
-      "startDate": "2026-04-14",
-      "endDate": "2026-04-17",
-      "date": "2026-04-14 – 2026-04-17",
-      "location": "Karlsruhe",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-paintexpo.jpg",
-      "link": "https://www.paintexpo.de",
+      "title": "Bologna Children's Book Fair ",
+      "startDate": "2026-04-13",
+      "endDate": "2026-04-16",
+      "date": "2026-04-13 – 2026-04-16",
+      "location": "Bologna, Italien",
+      "description": "Landesbeteiligung Bayern ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-bologna-cbf.jpg",
+      "link": "mailto:i.weidemann@LM-international.com",
       "tags": [
+        "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
     },
@@ -651,6 +638,19 @@
       "link": "https://www.versicherungsforen.net/mk-schaden",
       "tags": [
         "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "PaintExpo",
+      "startDate": "2026-04-14",
+      "endDate": "2026-04-17",
+      "date": "2026-04-14 – 2026-04-17",
+      "location": "Karlsruhe",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-paintexpo.jpg",
+      "link": "https://www.paintexpo.de",
+      "tags": [
         "Nur für Fachbesucher"
       ]
     },
@@ -953,19 +953,6 @@
       ]
     },
     {
-      "title": "therapie MÜNCHEN",
-      "startDate": "2026-06-19",
-      "endDate": "2026-06-20",
-      "date": "2026-06-19 – 2026-06-20",
-      "location": "München",
-      "description": "Die therapie MÜNCHEN ist eine Fachmesse mit Kongress für Therapie und medizinische Rehabilitation und richtet sich an Physio-, Ergo- und Sporttherapeuten sowie Masseure und medizinische Bademeister im süddeutschen Raum und ganz Österreich. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/therapie-muenchen.jpg",
-      "link": "https://www.therapiemesse-muenchen.de",
-      "tags": [
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Leipzig Dance Festival",
       "startDate": "2026-06-19",
       "endDate": "2026-06-21",
@@ -976,6 +963,19 @@
       "link": "https://www.leipzig-dancefestival.de",
       "tags": [
         "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "therapie MÜNCHEN",
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-20",
+      "date": "2026-06-19 – 2026-06-20",
+      "location": "München",
+      "description": "Die therapie MÜNCHEN ist eine Fachmesse mit Kongress für Therapie und medizinische Rehabilitation und richtet sich an Physio-, Ergo- und Sporttherapeuten sowie Masseure und medizinische Bademeister im süddeutschen Raum und ganz Österreich. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/therapie-muenchen.jpg",
+      "link": "https://www.therapiemesse-muenchen.de",
+      "tags": [
+        "Nur für Fachbesucher"
       ]
     },
     {
@@ -993,6 +993,17 @@
       ]
     },
     {
+      "title": "hy.tec mittendrin",
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-26",
+      "date": "2026-06-25 – 2026-06-26",
+      "location": "Chemnitz",
+      "description": "Die hy.tec 2026 ist die Plattform für Austausch, Wissenstransfer und konkrete Lösungen entlang der gesamten Produktionskette von Wasserstoffsystemen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-hytec.jpg",
+      "link": "https://www.hytec-leipzig.de",
+      "tags": []
+    },
+    {
       "title": "32. Kongress der Deutschen Gesellschaft für Radioonkologie e.V. ",
       "startDate": "2026-06-25",
       "endDate": "2026-06-27",
@@ -1005,17 +1016,6 @@
         "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
-    },
-    {
-      "title": "hy.tec mittendrin",
-      "startDate": "2026-06-25",
-      "endDate": "2026-06-26",
-      "date": "2026-06-25 – 2026-06-26",
-      "location": "Chemnitz",
-      "description": "Die hy.tec 2026 ist die Plattform für Austausch, Wissenstransfer und konkrete Lösungen entlang der gesamten Produktionskette von Wasserstoffsystemen.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-hytec.jpg",
-      "link": "https://www.hytec-leipzig.de",
-      "tags": []
     },
     {
       "title": "Impericon Festival 2026",
@@ -1056,6 +1056,20 @@
       "tags": []
     },
     {
+      "title": "Glasfaserforum Sachsen",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-01",
+      "date": "2026-09-01 – 2026-09-01",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Das Glasfaserforum Sachsen nimmt in diesem Jahr mehrere Themen in den Fokus. Im Mittelpunkt stehen die Novellierung des Telekommunikationsgesetzes, die Zukunft des Glasfaserausbaus sowie die Frage, wie Energiewende und digitale Infrastruktur zusammengedacht werden können. Darüber hinaus wird die Bedeutung von Rechenzentren für Sachsen beleuchtet. Praxisbeispiele zeigen zudem, welchen Mehrwert Digitalisierung heute und künftig für Gesellschaft und Wirtschaft schafft. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-glasfaserforum-2026.jpg",
+      "link": "https://www.netze-on.de/de/glasfaserforum/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "MEDCARE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-02",
@@ -1080,20 +1094,6 @@
       "link": "mailto:j.kowollik@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "Glasfaserforum Sachsen",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-01",
-      "date": "2026-09-01 – 2026-09-01",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": "Das Glasfaserforum Sachsen nimmt in diesem Jahr mehrere Themen in den Fokus. Im Mittelpunkt stehen die Novellierung des Telekommunikationsgesetzes, die Zukunft des Glasfaserausbaus sowie die Frage, wie Energiewende und digitale Infrastruktur zusammengedacht werden können. Darüber hinaus wird die Bedeutung von Rechenzentren für Sachsen beleuchtet. Praxisbeispiele zeigen zudem, welchen Mehrwert Digitalisierung heute und künftig für Gesellschaft und Wirtschaft schafft. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-glasfaserforum-2026.jpg",
-      "link": "https://www.netze-on.de/de/glasfaserforum/",
-      "tags": [
-        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
@@ -1178,20 +1178,6 @@
       ]
     },
     {
-      "title": "MICAM / MIPEL (Autumn)",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-15",
-      "date": "2026-09-13 – 2026-09-15",
-      "location": "Mailand, Italien",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
-      "link": "mailto:s.kramer-scholz@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "ADIBF Buchmesse Abu Dhabi",
       "startDate": "2026-09-13",
       "endDate": "2026-09-18",
@@ -1200,6 +1186,20 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-abu-dhabi-bookfair.jpg",
       "link": "mailto:s.mueller@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "MICAM / MIPEL (Autumn)",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-15",
+      "date": "2026-09-13 – 2026-09-15",
+      "location": "Mailand, Italien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -1220,19 +1220,6 @@
       ]
     },
     {
-      "title": "KGSt-FORUM 2026 ",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-18",
-      "date": "2026-09-16 – 2026-09-18",
-      "location": "CCL",
-      "description": "Das KGSt-FORUM 2026 richtet sich an Fach- und Führungskräfte aus Verwaltung, Kommunen, Wissenschaft und Wirtschaft. Es werden über 4500 Teilnehmende aus 800 Kommunen erwartet, die sich in etwa 120 Fach- und Rahmenveranstaltungen zu Themen des kommunalen Managements austauschen. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-kgst.jpg",
-      "link": "http://www.kgst-forum.de",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "Sächsischer Krankenhaustag 2026",
       "startDate": "2026-09-16",
       "endDate": "2026-09-16",
@@ -1241,6 +1228,19 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-kgs.jpg",
       "link": "https://events.khg-sachsen.de/event-details?event_id=1051",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "KGSt-FORUM 2026 ",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-18",
+      "date": "2026-09-16 – 2026-09-18",
+      "location": "CCL",
+      "description": "Das KGSt-FORUM 2026 richtet sich an Fach- und Führungskräfte aus Verwaltung, Kommunen, Wissenschaft und Wirtschaft. Es werden über 4500 Teilnehmende aus 800 Kommunen erwartet, die sich in etwa 120 Fach- und Rahmenveranstaltungen zu Themen des kommunalen Managements austauschen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-kgst.jpg",
+      "link": "http://www.kgst-forum.de",
       "tags": [
         "Gastveranstaltung"
       ]
@@ -1462,19 +1462,6 @@
       ]
     },
     {
-      "title": "immocation Festival 2026",
-      "startDate": "2026-10-31",
-      "endDate": "2026-11-01",
-      "date": "2026-10-31 – 2026-11-01",
-      "location": "Leipziger Messe",
-      "description": "Das immocation Festival 2026 - der Ort, an dem sich Immobilieninvestoren treffen und voneinander lernen! Maximales Expertenwissen: 2 Bühnen mit tiefen Immobilieninhalten für jedes Investorenlevel – vom Einsteiger bis Superpro.Top Netzwerkmöglichkeiten: Persönlicher Austausch mit den Coaches und aktiven Immobilieninvestoren 180+ Aussteller, um genau die Partner zu finden, die du brauchst. Verschiedene Messepartys am Samstag Abend. Buch dir dein Ticket jetzt!",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-immocation-neutral.jpg",
-      "link": "https://immocation.de/Festival",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "marrylove Hochzeitsmesse Leipzig",
       "startDate": "2026-10-31",
       "endDate": "2026-11-01",
@@ -1483,6 +1470,19 @@
       "description": "Die Hochzeitsmesse in Leipzig für Brautpaare: Entdeckt regionale Hochzeitsdienstleister, aktuelle Trends, Brautmode, Trauringe und kreative Ideen für eine unvergessliche Hochzeit. Die marrylove Hochzeitsmesse in Leipzig ist der Treffpunkt für alle, die ihre Hochzeit mit Inspiration und den passenden Profis planen möchten. Entdecke regionale Aussteller aus den Bereichen Brautmode, Trauringe, Hochzeitslocations, Fotografie, Dekoration und mehr. Die Hochzeitsmesse Leipzig bietet frische Ideen, persönliche Beratung und echte Trends für Deinen großen Tag.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-marry-love-2026.jpg",
       "link": "https://marrylove.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "immocation Festival 2026",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "date": "2026-10-31 – 2026-11-01",
+      "location": "Leipziger Messe",
+      "description": "Das immocation Festival 2026 - der Ort, an dem sich Immobilieninvestoren treffen und voneinander lernen! Maximales Expertenwissen: 2 Bühnen mit tiefen Immobilieninhalten für jedes Investorenlevel – vom Einsteiger bis Superpro.Top Netzwerkmöglichkeiten: Persönlicher Austausch mit den Coaches und aktiven Immobilieninvestoren 180+ Aussteller, um genau die Partner zu finden, die du brauchst. Verschiedene Messepartys am Samstag Abend. Buch dir dein Ticket jetzt!",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-immocation-neutral.jpg",
+      "link": "https://immocation.de/Festival",
       "tags": [
         "Gastveranstaltung"
       ]
@@ -1605,19 +1605,6 @@
       ]
     },
     {
-      "title": "Touristik & Caravaning Leipzig 2026",
-      "startDate": "2026-11-18",
-      "endDate": "2026-11-22",
-      "date": "2026-11-18 – 2026-11-22",
-      "location": "Leipziger Messe",
-      "description": "Erlebe die größte Vielfalt rund um Touristik, Caravaning, Outdoor und Kulinarik auf der Touristik & Caravaning Leipzig (TC Leipzig) und finde deinen Traumurlaub. Zahlreiche Erlebniswelten voller Entertainment und Information warten auf dich. Die TC Leipzig ist weit mehr als eine klassische Ausstellung von Urlaubszielen. Hier kannst du Urlaub erleben, schmecken, fühlen, sehen, testen, vergleichen, aussuchen, vorbereiten, planen und auch buchen. Oder ganz einfach die vielen Angebote genießen.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2023/master-tc.jpg",
-      "link": "https://www.messe-stuttgart.de/tc/",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "Deutscher Tourismustag 2026",
       "startDate": "2026-11-18",
       "endDate": "2026-11-19",
@@ -1629,6 +1616,19 @@
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Touristik & Caravaning Leipzig 2026",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-22",
+      "date": "2026-11-18 – 2026-11-22",
+      "location": "Leipziger Messe",
+      "description": "Erlebe die größte Vielfalt rund um Touristik, Caravaning, Outdoor und Kulinarik auf der Touristik & Caravaning Leipzig (TC Leipzig) und finde deinen Traumurlaub. Zahlreiche Erlebniswelten voller Entertainment und Information warten auf dich. Die TC Leipzig ist weit mehr als eine klassische Ausstellung von Urlaubszielen. Hier kannst du Urlaub erleben, schmecken, fühlen, sehen, testen, vergleichen, aussuchen, vorbereiten, planen und auch buchen. Oder ganz einfach die vielen Angebote genießen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2023/master-tc.jpg",
+      "link": "https://www.messe-stuttgart.de/tc/",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -2625,6 +2625,19 @@
       ]
     },
     {
+      "title": "active connected",
+      "startDate": "2027-10-26",
+      "endDate": "2027-10-27",
+      "date": "2027-10-26 – 2027-10-27",
+      "location": "Leipziger Messe",
+      "description": "Mit der active connected startet die Leipziger Messe ein neues, zukunftsweisendes Fachformat für Prävention, Sport und Fitness. Während die therapie-Messen das Gesundwerden fokussieren, rückt die active connected das Gesundbleiben in den Mittelpunkt – und wird so zum zentralen Treffpunkt für alle, die Menschen in Bewegung bringen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-active-connected.jpg",
+      "link": "https://www.active-connected.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "ACHEMA Middle East",
       "startDate": "2027-10-26",
       "endDate": "2027-10-28",
@@ -2635,19 +2648,6 @@
       "link": "mailto:s.mueller@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "active connected",
-      "startDate": "2027-10-26",
-      "endDate": "2027-10-27",
-      "date": "2027-10-26 – 2027-10-27",
-      "location": "Leipziger Messe",
-      "description": "Mit der active connected startet die Leipziger Messe ein neues, zukunftsweisendes Fachformat für Prävention, Sport und Fitness. Während die therapie-Messen das Gesundwerden fokussieren, rückt die active connected das Gesundbleiben in den Mittelpunkt – und wird so zum zentralen Treffpunkt für alle, die Menschen in Bewegung bringen. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-active-connected.jpg",
-      "link": "https://www.active-connected.de",
-      "tags": [
         "Nur für Fachbesucher"
       ]
     },
