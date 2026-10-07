@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-10-06T03:31:45.198Z",
+  "scraped_at": "2026-10-07T02:56:24.802Z",
   "events": [
     {
       "title": "SC DHfK – TuS N.-Lübbecke",
@@ -1298,6 +1298,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/8/5/csm_PRK-DH_kontrak_key_art_square_00_c204fe98b6.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/kontra-k/1100",
+      "tags": []
+    },
+    {
+      "title": "Provinz",
+      "date": "Samstag, 13.11.2027",
+      "startDate": "2027-11-13",
+      "endDate": "2027-11-13",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/0/4/csm_PROVINZ_PRESS_BY_RUFUS_ENGELHARD-01_0bcd3149aa.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/provinz/1101",
       "tags": []
     },
     {
