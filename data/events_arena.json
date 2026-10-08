@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-10-07T02:56:24.802Z",
+  "scraped_at": "2026-10-08T03:13:44.283Z",
   "events": [
     {
       "title": "SC DHfK – TuS N.-Lübbecke",
@@ -1397,6 +1397,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/b/f/csm_Pressefoto001__C_Jule_Merhoff_2f023baef7.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/kerstin-ott/1077",
+      "tags": []
+    },
+    {
+      "title": "Die Besten Comedians Deutschlands",
+      "date": "Mittwoch, 29.03.2028",
+      "startDate": "2028-03-29",
+      "endDate": "2028-03-29",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/8/a/csm_DBCD_2026_CTSHeader_aaf9b26822.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/die-besten-comedians-deutschlands/1102",
       "tags": []
     },
     {
