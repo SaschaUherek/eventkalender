@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-10-12T02:53:42.650Z",
+  "scraped_at": "2026-10-13T04:10:01.625Z",
   "events": [
-    {
-      "title": "Placebo",
-      "date": "Montag, 12.10.2026",
-      "startDate": "2026-10-12",
-      "endDate": "2026-10-12",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/9/5/csm_Placebo_-_Lead_Press_Shot__Credit_Scarlet_Page__Web2_b940fc33e5.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/placebo/1030",
-      "tags": []
-    },
     {
       "title": "Die Nervigen",
       "date": "Mittwoch, 14.10.2026",
@@ -1155,6 +1144,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/9/6/csm_Tourbild_a38050570c.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sido/1092",
+      "tags": []
+    },
+    {
+      "title": "Roy Bianco & Die Abbrunzati Boys",
+      "date": "Donnerstag, 07.10.2027",
+      "startDate": "2027-10-07",
+      "endDate": "2027-10-07",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/1/c/csm_RBDAB_Tour_2027_quer_Can_Wagener_410b34c6d7.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/roy-bianco-die-abbrunzati-boys/1103",
       "tags": []
     },
     {
