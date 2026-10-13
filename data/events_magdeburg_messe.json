@@ -1,12 +1,12 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-10-12T02:54:12.759Z",
+  "scraped_at": "2026-10-13T04:10:34.740Z",
   "events": [
     {
       "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
-      "date": "12.Okt",
-      "startDate": "2026-10-12",
-      "endDate": "2026-10-12",
+      "date": "13.Okt",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-13",
       "location": "Jahrtausendturm",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
@@ -15,9 +15,9 @@
     },
     {
       "title": "LUMAGICA MAGDEBURG 2026/2027",
-      "date": "12.Okt",
-      "startDate": "2026-10-12",
-      "endDate": "2026-10-12",
+      "date": "13.Okt",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-13",
       "location": "Elbauenpark",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/1920x1080-fc95bb59.jpg",
@@ -113,14 +113,14 @@
       "tags": []
     },
     {
-      "title": "1. FC MAGDEBURG LL – GREIFSWALDER FC",
+      "title": "1. FC MAGDEBURG II – GREIFSWALDER FC",
       "date": "18.Okt",
       "startDate": "2026-10-18",
       "endDate": "2026-10-18",
       "location": "Avnet Arena",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/mdcc-arena-werner-klapper-d52256c9.jpg",
-      "link": "https://www.mvgm.de/de/event/1-fc-magdeburg-ll-greifswalder-fc/",
+      "link": "https://www.mvgm.de/de/event/1-fc-magdeburg-ii-greifswalder-fc/",
       "tags": []
     },
     {
