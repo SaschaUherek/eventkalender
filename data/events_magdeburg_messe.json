@@ -1,12 +1,12 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-10-13T04:10:34.740Z",
+  "scraped_at": "2026-10-14T02:23:40.690Z",
   "events": [
     {
       "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
-      "date": "13.Okt",
-      "startDate": "2026-10-13",
-      "endDate": "2026-10-13",
+      "date": "14.Okt",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
       "location": "Jahrtausendturm",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
@@ -15,9 +15,9 @@
     },
     {
       "title": "LUMAGICA MAGDEBURG 2026/2027",
-      "date": "13.Okt",
-      "startDate": "2026-10-13",
-      "endDate": "2026-10-13",
+      "date": "14.Okt",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
       "location": "Elbauenpark",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/1920x1080-fc95bb59.jpg",
@@ -2280,6 +2280,17 @@
       "tags": []
     },
     {
+      "title": "DIE GROSSE HEINZ-ERHARDT-SHOW",
+      "date": "30.Mai",
+      "startDate": "2027-05-30",
+      "endDate": "2027-05-30",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/Heinz-Hauptmotiv-dc82af03.jpg",
+      "link": "https://www.mvgm.de/de/event/die-grosse-heinz-erhardt-show-2/",
+      "tags": []
+    },
+    {
       "title": "LORIOT - DER GROSSE LORIOT-ABEND",
       "date": "30.Mai",
       "startDate": "2027-05-30",
@@ -2676,36 +2687,14 @@
       "tags": []
     },
     {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-1-79b70fef.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "KERSTIN OTT: HERZEN SIND DUMM- TOURNEE 2028",
-      "date": "01.Apr",
-      "startDate": "2027-04-01",
-      "endDate": "2027-04-01",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/a/Pressefoto002-C-Jule-Merhoff-1-670b6ee0.jpg",
-      "link": "https://www.mvgm.de/de/event/kerstin-ott-herzen-sind-dumm-tournee-2028/",
-      "tags": []
-    },
-    {
-      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
     {
@@ -2742,36 +2731,14 @@
       "tags": []
     },
     {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-1-79b70fef.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "KERSTIN OTT: HERZEN SIND DUMM- TOURNEE 2028",
-      "date": "01.Apr",
-      "startDate": "2027-04-01",
-      "endDate": "2027-04-01",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/a/Pressefoto002-C-Jule-Merhoff-1-670b6ee0.jpg",
-      "link": "https://www.mvgm.de/de/event/kerstin-ott-herzen-sind-dumm-tournee-2028/",
-      "tags": []
-    },
-    {
-      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
     {
@@ -2808,36 +2775,14 @@
       "tags": []
     },
     {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-1-79b70fef.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "KERSTIN OTT: HERZEN SIND DUMM- TOURNEE 2028",
-      "date": "01.Apr",
-      "startDate": "2027-04-01",
-      "endDate": "2027-04-01",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/a/Pressefoto002-C-Jule-Merhoff-1-670b6ee0.jpg",
-      "link": "https://www.mvgm.de/de/event/kerstin-ott-herzen-sind-dumm-tournee-2028/",
-      "tags": []
-    },
-    {
-      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
     {
@@ -2874,36 +2819,14 @@
       "tags": []
     },
     {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-1-79b70fef.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "KERSTIN OTT: HERZEN SIND DUMM- TOURNEE 2028",
-      "date": "01.Apr",
-      "startDate": "2027-04-01",
-      "endDate": "2027-04-01",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/a/Pressefoto002-C-Jule-Merhoff-1-670b6ee0.jpg",
-      "link": "https://www.mvgm.de/de/event/kerstin-ott-herzen-sind-dumm-tournee-2028/",
-      "tags": []
-    },
-    {
-      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
     {
@@ -2940,36 +2863,14 @@
       "tags": []
     },
     {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-1-79b70fef.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "KERSTIN OTT: HERZEN SIND DUMM- TOURNEE 2028",
-      "date": "01.Apr",
-      "startDate": "2027-04-01",
-      "endDate": "2027-04-01",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/a/Pressefoto002-C-Jule-Merhoff-1-670b6ee0.jpg",
-      "link": "https://www.mvgm.de/de/event/kerstin-ott-herzen-sind-dumm-tournee-2028/",
-      "tags": []
-    },
-    {
-      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
     {
@@ -3006,36 +2907,14 @@
       "tags": []
     },
     {
-      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
-      "date": "10.Mär",
-      "startDate": "2027-03-10",
-      "endDate": "2027-03-10",
-      "location": "Stadthalle",
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-1-79b70fef.jpg",
-      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
-      "tags": []
-    },
-    {
-      "title": "KERSTIN OTT: HERZEN SIND DUMM- TOURNEE 2028",
-      "date": "01.Apr",
-      "startDate": "2027-04-01",
-      "endDate": "2027-04-01",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/a/Pressefoto002-C-Jule-Merhoff-1-670b6ee0.jpg",
-      "link": "https://www.mvgm.de/de/event/kerstin-ott-herzen-sind-dumm-tournee-2028/",
-      "tags": []
-    },
-    {
-      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
-      "date": "12.Mai",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
-      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
     {
@@ -3072,6 +2951,17 @@
       "tags": []
     },
     {
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -3102,6 +2992,281 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-1-79b70fef.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "KERSTIN OTT: HERZEN SIND DUMM- TOURNEE 2028",
+      "date": "01.Apr",
+      "startDate": "2027-04-01",
+      "endDate": "2027-04-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Pressefoto002-C-Jule-Merhoff-1-670b6ee0.jpg",
+      "link": "https://www.mvgm.de/de/event/kerstin-ott-herzen-sind-dumm-tournee-2028/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-1-79b70fef.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "KERSTIN OTT: HERZEN SIND DUMM- TOURNEE 2028",
+      "date": "01.Apr",
+      "startDate": "2027-04-01",
+      "endDate": "2027-04-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Pressefoto002-C-Jule-Merhoff-1-670b6ee0.jpg",
+      "link": "https://www.mvgm.de/de/event/kerstin-ott-herzen-sind-dumm-tournee-2028/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-1-79b70fef.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "KERSTIN OTT: HERZEN SIND DUMM- TOURNEE 2028",
+      "date": "01.Apr",
+      "startDate": "2027-04-01",
+      "endDate": "2027-04-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Pressefoto002-C-Jule-Merhoff-1-670b6ee0.jpg",
+      "link": "https://www.mvgm.de/de/event/kerstin-ott-herzen-sind-dumm-tournee-2028/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-1-79b70fef.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "KERSTIN OTT: HERZEN SIND DUMM- TOURNEE 2028",
+      "date": "01.Apr",
+      "startDate": "2027-04-01",
+      "endDate": "2027-04-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Pressefoto002-C-Jule-Merhoff-1-670b6ee0.jpg",
+      "link": "https://www.mvgm.de/de/event/kerstin-ott-herzen-sind-dumm-tournee-2028/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-1-79b70fef.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "KERSTIN OTT: HERZEN SIND DUMM- TOURNEE 2028",
+      "date": "01.Apr",
+      "startDate": "2027-04-01",
+      "endDate": "2027-04-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Pressefoto002-C-Jule-Merhoff-1-670b6ee0.jpg",
+      "link": "https://www.mvgm.de/de/event/kerstin-ott-herzen-sind-dumm-tournee-2028/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
+      "tags": []
+    },
+    {
+      "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
+      "date": "10.Mär",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-10",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/julian-sommer-tour-2028-tickets-552115-4293257-1240x480-1-79b70fef.jpg",
+      "link": "https://www.mvgm.de/de/event/julian-sommer-endlich-wieder-sommer-tour-2028/",
+      "tags": []
+    },
+    {
+      "title": "KERSTIN OTT: HERZEN SIND DUMM- TOURNEE 2028",
+      "date": "01.Apr",
+      "startDate": "2027-04-01",
+      "endDate": "2027-04-01",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Pressefoto002-C-Jule-Merhoff-1-670b6ee0.jpg",
+      "link": "https://www.mvgm.de/de/event/kerstin-ott-herzen-sind-dumm-tournee-2028/",
+      "tags": []
+    },
+    {
+      "title": "JOHANN KÖNIG - HEUTE EIN KÖNIG 2028",
+      "date": "12.Mai",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
+      "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "BOYBANDS FOREVER - THE ORIGINAL",
+      "date": "04.Feb",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
+      "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
       "tags": []
     },
     {
