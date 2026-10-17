@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-10-16T01:54:19.171Z",
+  "scraped_at": "2026-10-17T01:49:15.051Z",
   "events": [
-    {
-      "title": "SC DHfK – ASV Hamm-Westfalen",
-      "date": "Freitag, 16.10.2026",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/7/3/csm_ASV_Hamm_4zu3_26-27_deeb6e0d7c.png",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-asv-hamm-westfalen/1072",
-      "tags": []
-    },
     {
       "title": "Beatrice Egli",
       "date": "Samstag, 17.10.2026",
@@ -86,7 +75,7 @@
       "endDate": "2026-11-01",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/_processed_/files_user/0/d/csm_Logo_bearbeitet_7355169cc3.jpg",
+      "image": "/fileadmin/files/user_upload/veranstaltungen/Sport/SC_DHfK_Heimspiele/Saison_2026-2027/Huettenberg_4zu3_26-27.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-tv-05-07-huettenberg/1073",
       "tags": []
     },
