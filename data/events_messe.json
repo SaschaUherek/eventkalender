@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-10-16T01:53:03.692Z",
+  "scraped_at": "2026-10-17T01:47:54.463Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -953,19 +953,6 @@
       ]
     },
     {
-      "title": "therapie MÜNCHEN",
-      "startDate": "2026-06-19",
-      "endDate": "2026-06-20",
-      "date": "2026-06-19 – 2026-06-20",
-      "location": "München",
-      "description": "Die therapie MÜNCHEN ist eine Fachmesse mit Kongress für Therapie und medizinische Rehabilitation und richtet sich an Physio-, Ergo- und Sporttherapeuten sowie Masseure und medizinische Bademeister im süddeutschen Raum und ganz Österreich. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/therapie-muenchen.jpg",
-      "link": "https://www.therapiemesse-muenchen.de",
-      "tags": [
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Leipzig Dance Festival",
       "startDate": "2026-06-19",
       "endDate": "2026-06-21",
@@ -976,6 +963,19 @@
       "link": "https://www.leipzig-dancefestival.de",
       "tags": [
         "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "therapie MÜNCHEN",
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-20",
+      "date": "2026-06-19 – 2026-06-20",
+      "location": "München",
+      "description": "Die therapie MÜNCHEN ist eine Fachmesse mit Kongress für Therapie und medizinische Rehabilitation und richtet sich an Physio-, Ergo- und Sporttherapeuten sowie Masseure und medizinische Bademeister im süddeutschen Raum und ganz Österreich. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/therapie-muenchen.jpg",
+      "link": "https://www.therapiemesse-muenchen.de",
+      "tags": [
+        "Nur für Fachbesucher"
       ]
     },
     {
@@ -1220,19 +1220,6 @@
       ]
     },
     {
-      "title": "KGSt-FORUM 2026 ",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-18",
-      "date": "2026-09-16 – 2026-09-18",
-      "location": "CCL",
-      "description": "Das KGSt-FORUM 2026 richtet sich an Fach- und Führungskräfte aus Verwaltung, Kommunen, Wissenschaft und Wirtschaft. Es werden über 4500 Teilnehmende aus 800 Kommunen erwartet, die sich in etwa 120 Fach- und Rahmenveranstaltungen zu Themen des kommunalen Managements austauschen. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-kgst.jpg",
-      "link": "http://www.kgst-forum.de",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "Sächsischer Krankenhaustag 2026",
       "startDate": "2026-09-16",
       "endDate": "2026-09-16",
@@ -1241,6 +1228,19 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-kgs.jpg",
       "link": "https://events.khg-sachsen.de/event-details?event_id=1051",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "KGSt-FORUM 2026 ",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-18",
+      "date": "2026-09-16 – 2026-09-18",
+      "location": "CCL",
+      "description": "Das KGSt-FORUM 2026 richtet sich an Fach- und Führungskräfte aus Verwaltung, Kommunen, Wissenschaft und Wirtschaft. Es werden über 4500 Teilnehmende aus 800 Kommunen erwartet, die sich in etwa 120 Fach- und Rahmenveranstaltungen zu Themen des kommunalen Managements austauschen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-kgst.jpg",
+      "link": "http://www.kgst-forum.de",
       "tags": [
         "Gastveranstaltung"
       ]
@@ -1462,19 +1462,6 @@
       ]
     },
     {
-      "title": "marrylove Hochzeitsmesse Leipzig",
-      "startDate": "2026-10-31",
-      "endDate": "2026-11-01",
-      "date": "2026-10-31 – 2026-11-01",
-      "location": "CCL",
-      "description": "Die Hochzeitsmesse in Leipzig für Brautpaare: Entdeckt regionale Hochzeitsdienstleister, aktuelle Trends, Brautmode, Trauringe und kreative Ideen für eine unvergessliche Hochzeit. Die marrylove Hochzeitsmesse in Leipzig ist der Treffpunkt für alle, die ihre Hochzeit mit Inspiration und den passenden Profis planen möchten. Entdecke regionale Aussteller aus den Bereichen Brautmode, Trauringe, Hochzeitslocations, Fotografie, Dekoration und mehr. Die Hochzeitsmesse Leipzig bietet frische Ideen, persönliche Beratung und echte Trends für Deinen großen Tag.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-marry-love-2026.jpg",
-      "link": "https://marrylove.de",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "immocation Festival 2026",
       "startDate": "2026-10-31",
       "endDate": "2026-11-01",
@@ -1483,6 +1470,19 @@
       "description": "Das immocation Festival 2026 - der Ort, an dem sich Immobilieninvestoren treffen und voneinander lernen! Maximales Expertenwissen: 2 Bühnen mit tiefen Immobilieninhalten für jedes Investorenlevel – vom Einsteiger bis Superpro.Top Netzwerkmöglichkeiten: Persönlicher Austausch mit den Coaches und aktiven Immobilieninvestoren 180+ Aussteller, um genau die Partner zu finden, die du brauchst. Verschiedene Messepartys am Samstag Abend. Buch dir dein Ticket jetzt!",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-immocation-neutral.jpg",
       "link": "https://immocation.de/Festival",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "marrylove Hochzeitsmesse Leipzig",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "date": "2026-10-31 – 2026-11-01",
+      "location": "CCL",
+      "description": "Die Hochzeitsmesse in Leipzig für Brautpaare: Entdeckt regionale Hochzeitsdienstleister, aktuelle Trends, Brautmode, Trauringe und kreative Ideen für eine unvergessliche Hochzeit. Die marrylove Hochzeitsmesse in Leipzig ist der Treffpunkt für alle, die ihre Hochzeit mit Inspiration und den passenden Profis planen möchten. Entdecke regionale Aussteller aus den Bereichen Brautmode, Trauringe, Hochzeitslocations, Fotografie, Dekoration und mehr. Die Hochzeitsmesse Leipzig bietet frische Ideen, persönliche Beratung und echte Trends für Deinen großen Tag.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-marry-love-2026.jpg",
+      "link": "https://marrylove.de",
       "tags": [
         "Gastveranstaltung"
       ]
@@ -1875,6 +1875,19 @@
       ]
     },
     {
+      "title": "Motorräder Leipzig",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-08",
+      "date": "2027-02-06 – 2027-02-08",
+      "location": "Leipziger Messe",
+      "description": "MOTORRAD PUR ERLEBEN - Die Motorrad Messe in Mitteldeutschland. Der Treffpunkt für Motorradleidenschaft. Internationale Marken präsentieren ihre neuesten Modelle, innovative Technik, angesagte Bekleidung, hochwertiges Zubehör und attraktive Reiseangebote. Ausprobieren, Probesitzen, spektakuläre Shows genießen - auf der MOTORRÄDER LEIPZIG wird die Faszination Motorrad erlebbar.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2027/master-motorraeder.jpg",
+      "link": "https://www.motorraeder-leipzig.de/?_gl=1%2Azh3i3v%2A_gcl_au%2AMTMxNjQ5Nzk1OS4xNzg0NTU0NDM2%2A_ga%2AMTI3NjI1ODY2My4xNzc0OTM5ODgy%2A_ga_4TD46L112L%2AczE3ODY0MzUxODgkbzEyJGcxJHQxNzg2NDM1MjI3JGoyMSRsMCRoMA..",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "HAUS-GARTEN-FREIZEIT",
       "startDate": "2027-02-06",
       "endDate": "2027-02-14",
@@ -1895,19 +1908,6 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-handwerk-live.jpg",
       "link": "https://www.handwerksmesse-leipzig.de",
       "tags": []
-    },
-    {
-      "title": "Motorräder Leipzig",
-      "startDate": "2027-02-06",
-      "endDate": "2027-02-08",
-      "date": "2027-02-06 – 2027-02-08",
-      "location": "Leipziger Messe",
-      "description": "MOTORRAD PUR ERLEBEN - Die Motorrad Messe in Mitteldeutschland. Der Treffpunkt für Motorradleidenschaft. Internationale Marken präsentieren ihre neuesten Modelle, innovative Technik, angesagte Bekleidung, hochwertiges Zubehör und attraktive Reiseangebote. Ausprobieren, Probesitzen, spektakuläre Shows genießen - auf der MOTORRÄDER LEIPZIG wird die Faszination Motorrad erlebbar.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2027/master-motorraeder.jpg",
-      "link": "https://www.motorraeder-leipzig.de/?_gl=1%2Azh3i3v%2A_gcl_au%2AMTMxNjQ5Nzk1OS4xNzg0NTU0NDM2%2A_ga%2AMTI3NjI1ODY2My4xNzc0OTM5ODgy%2A_ga_4TD46L112L%2AczE3ODY0MzUxODgkbzEyJGcxJHQxNzg2NDM1MjI3JGoyMSRsMCRoMA..",
-      "tags": [
-        "Gastveranstaltung"
-      ]
     },
     {
       "title": "Velo Vibes Leipzig",
@@ -2373,19 +2373,6 @@
       ]
     },
     {
-      "title": "CosmeticBusiness",
-      "startDate": "2027-06-02",
-      "endDate": "2027-06-03",
-      "date": "2027-06-02 – 2027-06-03",
-      "location": "München",
-      "description": "Die CosmeticBusiness ist die Leitmesse für die Kosmetikindustrie im deutschsprachigen Raum. Sie ist unverzichtbarer Impulsgeber für erfolgreiche Produktentwicklungen in Deutschland, Österreich und der Schweiz. Die Fachmesse inspiriert mit Neuheiten und Trends entlang der gesamten Wertschöpfungskette – vom Inhaltsstoff bis zur Verpackung. Fachbesucher aus Entwicklung und Beschaffung schätzen das effiziente Netzwerken mit ihrem internationalen Lieferanten-Universum an nur einem Ort.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cosmetic-business.jpg",
-      "link": "https://www.cosmetic-business.com/de/",
-      "tags": [
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "med.Logistica",
       "startDate": "2027-06-02",
       "endDate": "2027-06-03",
@@ -2394,6 +2381,19 @@
       "description": "Die med.Logistica ist der zentrale Treffpunkt für Fach- und Führungskräfte, die Prozesse in Krankenhäusern, medizinischen Einrichtungen und im Gesundheitswesen gestalten, steuern und optimieren. Hier erhalten Sie einen umfassenden Überblick über aktuelle Entwicklungen, innovative Lösungen und zentrale Ansätze zur Prozessoptimierung im Alltag der stationären und ambulanten Versorgung.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-medlogistica.jpg",
       "link": "https://www.medlogistica.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "CosmeticBusiness",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-03",
+      "date": "2027-06-02 – 2027-06-03",
+      "location": "München",
+      "description": "Die CosmeticBusiness ist die Leitmesse für die Kosmetikindustrie im deutschsprachigen Raum. Sie ist unverzichtbarer Impulsgeber für erfolgreiche Produktentwicklungen in Deutschland, Österreich und der Schweiz. Die Fachmesse inspiriert mit Neuheiten und Trends entlang der gesamten Wertschöpfungskette – vom Inhaltsstoff bis zur Verpackung. Fachbesucher aus Entwicklung und Beschaffung schätzen das effiziente Netzwerken mit ihrem internationalen Lieferanten-Universum an nur einem Ort.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cosmetic-business.jpg",
+      "link": "https://www.cosmetic-business.com/de/",
       "tags": [
         "Nur für Fachbesucher"
       ]
