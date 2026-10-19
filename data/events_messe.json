@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-10-18T01:45:57.347Z",
+  "scraped_at": "2026-10-19T02:02:48.465Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -953,19 +953,6 @@
       ]
     },
     {
-      "title": "Leipzig Dance Festival",
-      "startDate": "2026-06-19",
-      "endDate": "2026-06-21",
-      "date": "2026-06-19 – 2026-06-21",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": "Erlebt die qualifiziertesten und besten Trainerinnen und Trainer der Welt von Freitag bis Sonntag in zahlreichen Workshops in den Bereichen Standard, Latein, West Coast Swing, Linedance, Tango Argentino, Swing und Salsa. Als besonderes Highlight erlebt ihr die Night of the Dancing Stars - die weltbesten Tanzpaare sowie einige unserer Coaches werden Euch mit ihren Shows verzaubern. Außerdem finden am Freitag- und Samstagabend in allen Sälen verschiedene Tanzpartys statt. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-dancefestival.jpg",
-      "link": "https://www.leipzig-dancefestival.de",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "therapie MÜNCHEN",
       "startDate": "2026-06-19",
       "endDate": "2026-06-20",
@@ -976,6 +963,19 @@
       "link": "https://www.therapiemesse-muenchen.de",
       "tags": [
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Leipzig Dance Festival",
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-21",
+      "date": "2026-06-19 – 2026-06-21",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Erlebt die qualifiziertesten und besten Trainerinnen und Trainer der Welt von Freitag bis Sonntag in zahlreichen Workshops in den Bereichen Standard, Latein, West Coast Swing, Linedance, Tango Argentino, Swing und Salsa. Als besonderes Highlight erlebt ihr die Night of the Dancing Stars - die weltbesten Tanzpaare sowie einige unserer Coaches werden Euch mit ihren Shows verzaubern. Außerdem finden am Freitag- und Samstagabend in allen Sälen verschiedene Tanzpartys statt. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-dancefestival.jpg",
+      "link": "https://www.leipzig-dancefestival.de",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -1339,20 +1339,6 @@
       ]
     },
     {
-      "title": "2. TI-SUMMIT 2026",
-      "startDate": "2026-10-07",
-      "endDate": "2026-10-08",
-      "date": "2026-10-07 – 2026-10-08",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": "Der TI-SUMMIT ist der Messekongress und Branchengipfel, bei dem sich alles rund um die Themenfelder der gematik und Anwendungen der Telematikinfrastruktur (TI & TI 2.0) dreht - von ePA und E-Rezept über KIM und TI-Messenger bis hin zu TI-Gateway, PoPP, digitalen Identitäten, KI in der TI u.v.m. Nach einer erfolgreichen Erstauflage im Sommer 2025 geht das Eventformat rund um das digital-vernetzte Gesundheitswesen in Deutschland im Herbst 2026 in die zweite Auflage.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-ti-summit.jpg",
-      "link": "https://www.tisummit.de",
-      "tags": [
-        "Gastveranstaltung",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "BIO Japan",
       "startDate": "2026-10-07",
       "endDate": "2026-10-09",
@@ -1363,6 +1349,20 @@
       "link": "mailto:o.seifert@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "2. TI-SUMMIT 2026",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-08",
+      "date": "2026-10-07 – 2026-10-08",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Der TI-SUMMIT ist der Messekongress und Branchengipfel, bei dem sich alles rund um die Themenfelder der gematik und Anwendungen der Telematikinfrastruktur (TI & TI 2.0) dreht - von ePA und E-Rezept über KIM und TI-Messenger bis hin zu TI-Gateway, PoPP, digitalen Identitäten, KI in der TI u.v.m. Nach einer erfolgreichen Erstauflage im Sommer 2025 geht das Eventformat rund um das digital-vernetzte Gesundheitswesen in Deutschland im Herbst 2026 in die zweite Auflage.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-ti-summit.jpg",
+      "link": "https://www.tisummit.de",
+      "tags": [
+        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
@@ -1524,19 +1524,6 @@
       "tags": []
     },
     {
-      "title": "azubi- & studientage Leipzig 2026",
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-07",
-      "date": "2026-11-06 – 2026-11-07",
-      "location": "Leipziger Messe",
-      "description": "Die Bildungsmesse azubi- & studientage Leipzig bietet Schülern und Schülerinnen, Lehrkräften und Eltern eine Informations-Plattform, um im persönlichen Gespräch Ausbildungs- und Bildungsangebote sowie Entwicklungsperspektiven von verschiedensten Unternehmen, privaten und staatlichen Berufs- und Hochschulen, Kammern, Behörden und Institutionen kennenzulernen und sich ein Bild über die potenziellen zukünftigen Arbeitgeber zu machen.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2025/master-azubi-studientage.jpg",
-      "link": "https://azubitage.de/leipzig",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "therapie HAMBURG",
       "startDate": "2026-11-06",
       "endDate": "2026-11-07",
@@ -1547,6 +1534,19 @@
       "link": "https://www.therapiemesse-hamburg.de",
       "tags": [
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "azubi- & studientage Leipzig 2026",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-07",
+      "date": "2026-11-06 – 2026-11-07",
+      "location": "Leipziger Messe",
+      "description": "Die Bildungsmesse azubi- & studientage Leipzig bietet Schülern und Schülerinnen, Lehrkräften und Eltern eine Informations-Plattform, um im persönlichen Gespräch Ausbildungs- und Bildungsangebote sowie Entwicklungsperspektiven von verschiedensten Unternehmen, privaten und staatlichen Berufs- und Hochschulen, Kammern, Behörden und Institutionen kennenzulernen und sich ein Bild über die potenziellen zukünftigen Arbeitgeber zu machen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2025/master-azubi-studientage.jpg",
+      "link": "https://azubitage.de/leipzig",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -2129,20 +2129,6 @@
       ]
     },
     {
-      "title": "APLF+",
-      "startDate": "2027-03-31",
-      "endDate": "2027-04-02",
-      "date": "2027-03-31 – 2027-04-02",
-      "location": "Hongkong, VR China",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
-      "link": "mailto:g.weickert@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Kazakhstan Machinery Fair",
       "startDate": "2027-03-31",
       "endDate": "2027-04-02",
@@ -2151,6 +2137,20 @@
       "description": "Bei der Kazakhstan Machinery Fair handelt es sich um die wichtigste Veranstaltung im Bereich Maschinenbau und Metallverarbeitung in Kasachstan und Zentralasien. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2024/master-kasachstan-machinery-fair.jpg",
       "link": "https://www.lm-international.com/ev_kmf_2027",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "APLF+",
+      "startDate": "2027-03-31",
+      "endDate": "2027-04-02",
+      "date": "2027-03-31 – 2027-04-02",
+      "location": "Hongkong, VR China",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "mailto:g.weickert@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
