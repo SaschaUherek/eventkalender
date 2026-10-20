@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-10-19T02:03:59.637Z",
+  "scraped_at": "2026-10-20T02:20:33.664Z",
   "events": [
     {
       "title": "Wahnsinn!",
@@ -1131,7 +1131,7 @@
       "endDate": "2027-10-14",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/_processed_/files_user/4/3/csm_01_Pressefoto_AndreaBergLive2027_NadineVolz_8a54cadba5.jpg",
+      "image": "/fileadmin/_processed_/files_user/f/d/csm_Andreas_BErg_-_Euphorie_-__c_Sandra_Ludewig_9a2d9300e5.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/andrea-berg/975",
       "tags": []
     },
@@ -1155,6 +1155,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/a/3/csm_Press_photo_jpeg_%40alexmajoliphoto_983a6e7d3a.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/gianna-nannini/1096",
+      "tags": []
+    },
+    {
+      "title": "Andreas Gabalier",
+      "date": "Freitag, 29.10.2027",
+      "startDate": "2027-10-29",
+      "endDate": "2027-10-29",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/6/8/csm_Gabalier_fb_VA_88141a27b9.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/andreas-gabalier/1104",
       "tags": []
     },
     {
@@ -1243,6 +1254,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/5/d/csm_Pressegrafik_RALF_SCHMITZ_Schmitzmaen__c__HPR_Kuenstler___Medien_GmbH_klein_3e77e6b13e.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ralf-schmitz-1/1005",
+      "tags": []
+    },
+    {
+      "title": "Disney in Concert",
+      "date": "Samstag, 27.11.2027",
+      "startDate": "2027-11-27",
+      "endDate": "2027-11-27",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/8/7/csm_DiC27_AWNS-insta-story-1080x1920_Termine_812ea68b23.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/disney-in-concert/1105",
       "tags": []
     },
     {
