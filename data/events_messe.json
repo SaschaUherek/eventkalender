@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-10-20T02:19:30.475Z",
+  "scraped_at": "2026-10-21T02:12:52.482Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1435,6 +1435,19 @@
       ]
     },
     {
+      "title": "Händlerbund SellerDay",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "date": "2026-10-29 – 2026-10-29",
+      "location": "CCL",
+      "description": "Der Händlerbund SellerDay bringt die E-Commerce-Branche an einem Ort zusammen, für alle, die ihr Onlinegeschäft nach vorne bringen wollen. Egal, ob du gerade deinen Shop startest, bereits skalierst, international expandierst oder dich auf den nächsten großen Schritt vorbereitest. Hier bekommst du Impulse, die dich wirklich weiterbringen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-haendlerbund.jpg",
+      "link": "https://www.haendlerbund.de/de/news/termine/haendlerbund-sellerday",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "gamescom asia",
       "startDate": "2026-10-29",
       "endDate": "2026-11-01",
@@ -1446,19 +1459,6 @@
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "Händlerbund SellerDay",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "date": "2026-10-29 – 2026-10-29",
-      "location": "CCL",
-      "description": "Der Händlerbund SellerDay bringt die E-Commerce-Branche an einem Ort zusammen, für alle, die ihr Onlinegeschäft nach vorne bringen wollen. Egal, ob du gerade deinen Shop startest, bereits skalierst, international expandierst oder dich auf den nächsten großen Schritt vorbereitest. Hier bekommst du Impulse, die dich wirklich weiterbringen. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-haendlerbund.jpg",
-      "link": "https://www.haendlerbund.de/de/news/termine/haendlerbund-sellerday",
-      "tags": [
-        "Gastveranstaltung"
       ]
     },
     {
@@ -1807,20 +1807,6 @@
       ]
     },
     {
-      "title": "KBIS",
-      "startDate": "2027-02-02",
-      "endDate": "2027-02-04",
-      "date": "2027-02-02 – 2027-02-04",
-      "location": "Las Vegas, USA",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
-      "link": "mailto:g.weickert@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "UPDATE Hämatologie / Onkologie 2027",
       "startDate": "2027-02-02",
       "endDate": "2027-02-03",
@@ -1831,6 +1817,20 @@
       "link": "https://www.onko-update.de/",
       "tags": [
         "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "KBIS",
+      "startDate": "2027-02-02",
+      "endDate": "2027-02-04",
+      "date": "2027-02-02 – 2027-02-04",
+      "location": "Las Vegas, USA",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
     },
