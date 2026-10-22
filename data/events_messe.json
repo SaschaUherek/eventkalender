@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-10-21T02:12:52.482Z",
+  "scraped_at": "2026-10-22T02:07:20.297Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -308,19 +308,6 @@
       ]
     },
     {
-      "title": "31. Leipziger Fachseminar ",
-      "startDate": "2026-03-03",
-      "endDate": "2026-03-03",
-      "date": "2026-03-03 – 2026-03-03",
-      "location": "CCL",
-      "description": "Das Leipziger Fachseminar wird durch die Bezirksgruppen Sachsen und Thüringen der Deutschen Gesellschaft für Galvano- und Oberflächentechnik organisiert. Das Fachseminar bietet ein spannendes Vortragsprogramm zu den aktuellen Herausforderungen der Oberflächentechnik und wird von einer Fachausstellung begleitet. Im Rahmen des Fachseminars wird der Leipziger Galvanopreis für innovative oder ökologische Leistungen auf dem Gebiet der Oberflächentechnik verliehen.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-dgo.jpg",
-      "link": "https://www.dgo-online.de/termine/tagungen/detailansicht/31-leipziger-fachseminar-am-03-maerz-2026",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "Experts Live Germany 2026 ",
       "startDate": "2026-03-03",
       "endDate": "2026-03-04",
@@ -332,6 +319,19 @@
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "31. Leipziger Fachseminar ",
+      "startDate": "2026-03-03",
+      "endDate": "2026-03-03",
+      "date": "2026-03-03 – 2026-03-03",
+      "location": "CCL",
+      "description": "Das Leipziger Fachseminar wird durch die Bezirksgruppen Sachsen und Thüringen der Deutschen Gesellschaft für Galvano- und Oberflächentechnik organisiert. Das Fachseminar bietet ein spannendes Vortragsprogramm zu den aktuellen Herausforderungen der Oberflächentechnik und wird von einer Fachausstellung begleitet. Im Rahmen des Fachseminars wird der Leipziger Galvanopreis für innovative oder ökologische Leistungen auf dem Gebiet der Oberflächentechnik verliehen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-dgo.jpg",
+      "link": "https://www.dgo-online.de/termine/tagungen/detailansicht/31-leipziger-fachseminar-am-03-maerz-2026",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -668,20 +668,6 @@
       ]
     },
     {
-      "title": "Forum Hebammenarbeit",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-18",
-      "date": "2026-04-17 – 2026-04-18",
-      "location": "CCL",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-hebammenforum.jpg",
-      "link": "https://events.thieme.com/forum-hebammenarbeit/",
-      "tags": [
-        "Gastveranstaltung",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "CAGGTUS Leipzig",
       "startDate": "2026-04-17",
       "endDate": "2026-04-19",
@@ -703,6 +689,20 @@
       "link": "mailto:s.kramer-scholz@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Forum Hebammenarbeit",
+      "startDate": "2026-04-17",
+      "endDate": "2026-04-18",
+      "date": "2026-04-17 – 2026-04-18",
+      "location": "CCL",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-hebammenforum.jpg",
+      "link": "https://events.thieme.com/forum-hebammenarbeit/",
+      "tags": [
+        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
@@ -884,19 +884,6 @@
       ]
     },
     {
-      "title": "CosmeticBusiness",
-      "startDate": "2026-06-10",
-      "endDate": "2026-06-11",
-      "date": "2026-06-10 – 2026-06-11",
-      "location": "München",
-      "description": "Die CosmeticBusiness bündelt das gesamte Netzwerk für die effiziente Konzeption und Umsetzung von Kosmetik-Produktideen. Als einzige internationale Fachmesse bringt sie jährlich in Deutschland exklusiv Kosmetikunternehmen mit all ihren Lieferanten für die Entwicklung, Herstellung, Verpackung und Vermarktung des gesamten Kosmetikproduktportfolios zusammen. Als Stimmungs- und Trendbarometer ist sie unverzichtbar für Entscheider der Branche. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cosmetic-business.jpg",
-      "link": "https://www.cosmetic-business.com/de/",
-      "tags": [
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Deutscher Kitaleitungskongress Leipzig 2026",
       "startDate": "2026-06-10",
       "endDate": "2026-06-11",
@@ -907,6 +894,19 @@
       "link": "https://deutscher-kitaleitungskongress.de/leipzig/",
       "tags": [
         "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "CosmeticBusiness",
+      "startDate": "2026-06-10",
+      "endDate": "2026-06-11",
+      "date": "2026-06-10 – 2026-06-11",
+      "location": "München",
+      "description": "Die CosmeticBusiness bündelt das gesamte Netzwerk für die effiziente Konzeption und Umsetzung von Kosmetik-Produktideen. Als einzige internationale Fachmesse bringt sie jährlich in Deutschland exklusiv Kosmetikunternehmen mit all ihren Lieferanten für die Entwicklung, Herstellung, Verpackung und Vermarktung des gesamten Kosmetikproduktportfolios zusammen. Als Stimmungs- und Trendbarometer ist sie unverzichtbar für Entscheider der Branche. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cosmetic-business.jpg",
+      "link": "https://www.cosmetic-business.com/de/",
+      "tags": [
         "Nur für Fachbesucher"
       ]
     },
@@ -1056,20 +1056,6 @@
       "tags": []
     },
     {
-      "title": "MEDCARE",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-02",
-      "date": "2026-09-01 – 2026-09-02",
-      "location": "CCL",
-      "description": "Die MEDCARE ist der nationale Branchentreff für die medizinisch-pflegerische Versorgung im sektorenübergreifenden Kontext. Der Kongress mit Fachmesse bietet als einzige Veranstaltung in Deutschland ein übergreifendes Fortbildungsangebot für das Pflegemanagement und Fachpersonal in der Behandlungspflege.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-medcare.jpg",
-      "link": "https://www.medcare-leipzig.de",
-      "tags": [
-        "Gastveranstaltung",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Medtec China",
       "startDate": "2026-09-01",
       "endDate": "2026-09-03",
@@ -1092,6 +1078,20 @@
       "description": "Das Glasfaserforum Sachsen nimmt in diesem Jahr mehrere Themen in den Fokus. Im Mittelpunkt stehen die Novellierung des Telekommunikationsgesetzes, die Zukunft des Glasfaserausbaus sowie die Frage, wie Energiewende und digitale Infrastruktur zusammengedacht werden können. Darüber hinaus wird die Bedeutung von Rechenzentren für Sachsen beleuchtet. Praxisbeispiele zeigen zudem, welchen Mehrwert Digitalisierung heute und künftig für Gesellschaft und Wirtschaft schafft. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-glasfaserforum-2026.jpg",
       "link": "https://www.netze-on.de/de/glasfaserforum/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "MEDCARE",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-02",
+      "date": "2026-09-01 – 2026-09-02",
+      "location": "CCL",
+      "description": "Die MEDCARE ist der nationale Branchentreff für die medizinisch-pflegerische Versorgung im sektorenübergreifenden Kontext. Der Kongress mit Fachmesse bietet als einzige Veranstaltung in Deutschland ein übergreifendes Fortbildungsangebot für das Pflegemanagement und Fachpersonal in der Behandlungspflege.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-medcare.jpg",
+      "link": "https://www.medcare-leipzig.de",
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
@@ -1151,6 +1151,19 @@
       ]
     },
     {
+      "title": "Deutscher Rheumatologiekongress 2026",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-12",
+      "date": "2026-09-09 – 2026-09-12",
+      "location": "CCL",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-rhk-2026.jpg",
+      "link": "https://www.rhkongress.de/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "36. Deutscher Hautkrebskongress",
       "startDate": "2026-09-09",
       "endDate": "2026-09-12",
@@ -1165,16 +1178,17 @@
       ]
     },
     {
-      "title": "Deutscher Rheumatologiekongress 2026",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-12",
-      "date": "2026-09-09 – 2026-09-12",
-      "location": "CCL",
+      "title": "MICAM / MIPEL (Autumn)",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-15",
+      "date": "2026-09-13 – 2026-09-15",
+      "location": "Mailand, Italien",
       "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-rhk-2026.jpg",
-      "link": "https://www.rhkongress.de/",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
       "tags": [
-        "Gastveranstaltung"
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
       ]
     },
     {
@@ -1186,20 +1200,6 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-abu-dhabi-bookfair.jpg",
       "link": "mailto:s.mueller@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "MICAM / MIPEL (Autumn)",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-15",
-      "date": "2026-09-13 – 2026-09-15",
-      "location": "Mailand, Italien",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
-      "link": "mailto:s.kramer-scholz@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -1220,19 +1220,6 @@
       ]
     },
     {
-      "title": "KGSt-FORUM 2026 ",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-18",
-      "date": "2026-09-16 – 2026-09-18",
-      "location": "CCL",
-      "description": "Das KGSt-FORUM 2026 richtet sich an Fach- und Führungskräfte aus Verwaltung, Kommunen, Wissenschaft und Wirtschaft. Es werden über 4500 Teilnehmende aus 800 Kommunen erwartet, die sich in etwa 120 Fach- und Rahmenveranstaltungen zu Themen des kommunalen Managements austauschen. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-kgst.jpg",
-      "link": "http://www.kgst-forum.de",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "Sächsischer Krankenhaustag 2026",
       "startDate": "2026-09-16",
       "endDate": "2026-09-16",
@@ -1241,6 +1228,19 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-kgs.jpg",
       "link": "https://events.khg-sachsen.de/event-details?event_id=1051",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "KGSt-FORUM 2026 ",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-18",
+      "date": "2026-09-16 – 2026-09-18",
+      "location": "CCL",
+      "description": "Das KGSt-FORUM 2026 richtet sich an Fach- und Führungskräfte aus Verwaltung, Kommunen, Wissenschaft und Wirtschaft. Es werden über 4500 Teilnehmende aus 800 Kommunen erwartet, die sich in etwa 120 Fach- und Rahmenveranstaltungen zu Themen des kommunalen Managements austauschen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-kgst.jpg",
+      "link": "http://www.kgst-forum.de",
       "tags": [
         "Gastveranstaltung"
       ]
@@ -1435,19 +1435,6 @@
       ]
     },
     {
-      "title": "Händlerbund SellerDay",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "date": "2026-10-29 – 2026-10-29",
-      "location": "CCL",
-      "description": "Der Händlerbund SellerDay bringt die E-Commerce-Branche an einem Ort zusammen, für alle, die ihr Onlinegeschäft nach vorne bringen wollen. Egal, ob du gerade deinen Shop startest, bereits skalierst, international expandierst oder dich auf den nächsten großen Schritt vorbereitest. Hier bekommst du Impulse, die dich wirklich weiterbringen. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-haendlerbund.jpg",
-      "link": "https://www.haendlerbund.de/de/news/termine/haendlerbund-sellerday",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "gamescom asia",
       "startDate": "2026-10-29",
       "endDate": "2026-11-01",
@@ -1459,6 +1446,19 @@
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Händlerbund SellerDay",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "date": "2026-10-29 – 2026-10-29",
+      "location": "CCL",
+      "description": "Der Händlerbund SellerDay bringt die E-Commerce-Branche an einem Ort zusammen, für alle, die ihr Onlinegeschäft nach vorne bringen wollen. Egal, ob du gerade deinen Shop startest, bereits skalierst, international expandierst oder dich auf den nächsten großen Schritt vorbereitest. Hier bekommst du Impulse, die dich wirklich weiterbringen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-haendlerbund.jpg",
+      "link": "https://www.haendlerbund.de/de/news/termine/haendlerbund-sellerday",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -1807,20 +1807,6 @@
       ]
     },
     {
-      "title": "UPDATE Hämatologie / Onkologie 2027",
-      "startDate": "2027-02-02",
-      "endDate": "2027-02-03",
-      "date": "2027-02-02 – 2027-02-03",
-      "location": "CCL",
-      "description": "28 Jahre UPDATE Hämatologie und Onkologie 2027. Die neuesten Erkenntnisse zu Gynäkologie, Leukämien, Lymphome, Gastrointestiale & Urologische Tumoren, Palliativmedizin und Lungenkarzinome werden von hochkarätigen Referenten vermittelt.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2025/master-haematologie-update.jpg",
-      "link": "https://www.onko-update.de/",
-      "tags": [
-        "Gastveranstaltung",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "KBIS",
       "startDate": "2027-02-02",
       "endDate": "2027-02-04",
@@ -1831,6 +1817,20 @@
       "link": "mailto:g.weickert@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "UPDATE Hämatologie / Onkologie 2027",
+      "startDate": "2027-02-02",
+      "endDate": "2027-02-03",
+      "date": "2027-02-02 – 2027-02-03",
+      "location": "CCL",
+      "description": "28 Jahre UPDATE Hämatologie und Onkologie 2027. Die neuesten Erkenntnisse zu Gynäkologie, Leukämien, Lymphome, Gastrointestiale & Urologische Tumoren, Palliativmedizin und Lungenkarzinome werden von hochkarätigen Referenten vermittelt.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2025/master-haematologie-update.jpg",
+      "link": "https://www.onko-update.de/",
+      "tags": [
+        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
@@ -2066,17 +2066,6 @@
       ]
     },
     {
-      "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
-      "startDate": "2027-03-18",
-      "endDate": "2027-03-21",
-      "date": "2027-03-18 – 2027-03-21",
-      "location": "Leipziger Messe",
-      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser, Autoren, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga Comic Con und dem Lesefestival Leipzig liest statt.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-lbm-relaunch.jpg",
-      "link": "https://www.leipziger-buchmesse.de",
-      "tags": []
-    },
-    {
       "title": "Manga Comic Con",
       "startDate": "2027-03-18",
       "endDate": "2027-03-21",
@@ -2100,6 +2089,17 @@
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
+    },
+    {
+      "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
+      "startDate": "2027-03-18",
+      "endDate": "2027-03-21",
+      "date": "2027-03-18 – 2027-03-21",
+      "location": "Leipziger Messe",
+      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser, Autoren, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga Comic Con und dem Lesefestival Leipzig liest statt.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-lbm-relaunch.jpg",
+      "link": "https://www.leipziger-buchmesse.de",
+      "tags": []
     },
     {
       "title": "ISPO 21. Weltkongress",
