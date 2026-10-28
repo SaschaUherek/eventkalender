@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-10-27T02:36:52.081Z",
+  "scraped_at": "2026-10-28T02:45:31.654Z",
   "events": [
     {
       "title": "13. Leipziger Tierärztekongress mit vetexpo europe",
@@ -621,9 +621,9 @@
     },
     {
       "title": "Zahntechnik plus",
-      "startDate": "2028-03-31",
+      "startDate": "2028-03-30",
       "endDate": "2028-04-01",
-      "date": "2028-03-31 – 2028-04-01",
+      "date": "2028-03-30 – 2028-04-01",
       "location": "CCL",
       "description": "Die Zahntechnik plus präsentiert sich als einzigartige Plattform für Zahntechniker und Laborinhaber. Die Zahntechnik plus begeistert mit topaktuellen, praxisnahen Vorträgen und Workshops und informiert Sie über die neuesten Materialien, Softwares, Maschinen und Dienstleistungen im Rahmen des umfassenden Ausstellungsangebots.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-zahntechnikplus.jpg",
