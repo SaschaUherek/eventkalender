@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-10-28T02:46:34.787Z",
+  "scraped_at": "2026-10-29T03:07:18.869Z",
   "events": [
-    {
-      "title": "The World of Hans Zimmer",
-      "date": "Mittwoch, 28.10.2026",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/7/6/csm_WOHZ_OpusKlassik2025__fd2886cc56.jpeg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/the-world-of-hans-zimmer-the-original-curated-by-hans-zimmer/911",
-      "tags": []
-    },
     {
       "title": "Amon Amarth",
       "date": "Freitag, 30.10.2026",
@@ -440,17 +429,6 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/2/9/csm_EHRLICH_BROTHERS-WONDERWORLD_Pressebild_quer__c__Christian_Bussel_Seidel_567e330da5.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ehrlich-brothers/1107",
-      "tags": []
-    },
-    {
-      "title": "Ehrlich Brothers",
-      "date": "Samstag, 09.01.2027",
-      "startDate": "2027-01-09",
-      "endDate": "2027-01-09",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/2/9/csm_EHRLICH_BROTHERS-WONDERWORLD_Pressebild_quer__c__Christian_Bussel_Seidel_567e330da5.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ehrlich-brothers/1049",
       "tags": []
     },
     {
