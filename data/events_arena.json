@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-10-30T03:11:15.320Z",
+  "scraped_at": "2026-10-31T02:57:16.053Z",
   "events": [
-    {
-      "title": "Amon Amarth",
-      "date": "Freitag, 30.10.2026",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/7/b/csm_Amon_Amarth_blue_screen_half_fig_horizontal_A_Final_Photo_by_Tomas_Giden_1c454e367d.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/amon-amarth/998",
-      "tags": []
-    },
     {
       "title": "Deep Purple",
       "date": "Samstag, 31.10.2026",
@@ -130,7 +119,7 @@
       "endDate": "2026-11-22",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/_processed_/files_user/0/d/csm_Logo_bearbeitet_3bfb037b45.jpg",
+      "image": "/fileadmin/_processed_/files_user/0/3/csm_Emsdetten_4zu3_26-27_5015f66d6b.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-tv-emsdetten/1074",
       "tags": []
     },
@@ -429,6 +418,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/2/9/csm_EHRLICH_BROTHERS-WONDERWORLD_Pressebild_quer__c__Christian_Bussel_Seidel_567e330da5.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ehrlich-brothers/1107",
+      "tags": []
+    },
+    {
+      "title": "Ehrlich Brothers",
+      "date": "Samstag, 09.01.2027",
+      "startDate": "2027-01-09",
+      "endDate": "2027-01-09",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/2/9/csm_EHRLICH_BROTHERS-WONDERWORLD_Pressebild_quer__c__Christian_Bussel_Seidel_567e330da5.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ehrlich-brothers/1049",
       "tags": []
     },
     {
