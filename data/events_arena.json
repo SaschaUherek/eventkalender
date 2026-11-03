@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-11-02T02:58:46.699Z",
+  "scraped_at": "2026-11-03T04:17:02.808Z",
   "events": [
     {
       "title": "90s Super Show",
@@ -1309,6 +1309,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/8/a/csm_DBCD_2026_CTSHeader_aaf9b26822.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/die-besten-comedians-deutschlands/1102",
+      "tags": []
+    },
+    {
+      "title": "Mario Barth",
+      "date": "Samstag, 01.04.2028",
+      "startDate": "2028-04-01",
+      "endDate": "2028-04-01",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/3/9/csm_MB-2027_1440x1018_e15f328a9f.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/mario-barth/1108",
       "tags": []
     },
     {
