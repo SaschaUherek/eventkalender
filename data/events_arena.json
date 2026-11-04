@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-11-03T04:17:02.808Z",
+  "scraped_at": "2026-11-04T03:35:03.792Z",
   "events": [
     {
       "title": "90s Super Show",
@@ -1210,6 +1210,28 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/2/a/csm_Credit_ChristophKoestlin__1__3e0cc304b5.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/wincent-weiss/1066",
+      "tags": []
+    },
+    {
+      "title": "Let's Dance",
+      "date": "Montag, 22.11.2027",
+      "startDate": "2027-11-22",
+      "endDate": "2027-11-22",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/2/a/csm_Grafik_Let_s_Dance_2027_11457d7f84.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/lets-dance-1/1109",
+      "tags": []
+    },
+    {
+      "title": "Let's Dance",
+      "date": "Dienstag, 23.11.2027",
+      "startDate": "2027-11-23",
+      "endDate": "2027-11-23",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/2/a/csm_Grafik_Let_s_Dance_2027_11457d7f84.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/lets-dance-1/1110",
       "tags": []
     },
     {
