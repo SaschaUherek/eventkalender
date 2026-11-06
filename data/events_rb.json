@@ -1,6 +1,6 @@
 {
   "source": "RB Leipzig Heimspiele (OpenLigaDB)",
-  "scraped_at": "2026-11-05T03:56:03.806Z",
+  "scraped_at": "2026-11-06T03:54:07.225Z",
   "events": [
     {
       "title": "RB Leipzig – Borussia Mönchengladbach",
@@ -102,7 +102,7 @@
       "title": "RB Leipzig – Borussia Dortmund",
       "startDate": "2026-12-19",
       "endDate": "2026-12-19",
-      "date": "19.12.2026 · 15:30",
+      "date": "19.12.2026 · 18:30",
       "location": "Red Bull Arena (geplant)",
       "description": "Bundesliga Heimspiel",
       "image": null,
@@ -118,7 +118,7 @@
       "title": "RB Leipzig – VfB Stuttgart",
       "startDate": "2027-01-12",
       "endDate": "2027-01-12",
-      "date": "12.1.2027 · 20:30",
+      "date": "12.1.2027 · 18:30",
       "location": "Red Bull Arena (geplant)",
       "description": "Bundesliga Heimspiel",
       "image": null,
