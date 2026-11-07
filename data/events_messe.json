@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-11-06T03:52:42.844Z",
+  "scraped_at": "2026-11-07T03:27:10.532Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -628,6 +628,19 @@
       ]
     },
     {
+      "title": "PaintExpo",
+      "startDate": "2026-04-14",
+      "endDate": "2026-04-17",
+      "date": "2026-04-14 – 2026-04-17",
+      "location": "Karlsruhe",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-paintexpo.jpg",
+      "link": "https://www.paintexpo.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "Messekongress Schadenmanagement & Assistance",
       "startDate": "2026-04-14",
       "endDate": "2026-04-15",
@@ -642,19 +655,6 @@
       ]
     },
     {
-      "title": "PaintExpo",
-      "startDate": "2026-04-14",
-      "endDate": "2026-04-17",
-      "date": "2026-04-14 – 2026-04-17",
-      "location": "Karlsruhe",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-paintexpo.jpg",
-      "link": "https://www.paintexpo.de",
-      "tags": [
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Deutscher Kongress für Parkinson und Bewegungsstörungen",
       "startDate": "2026-04-16",
       "endDate": "2026-04-18",
@@ -665,20 +665,6 @@
       "link": "https://dpg-kongress.de/",
       "tags": [
         "Gastveranstaltung"
-      ]
-    },
-    {
-      "title": "IDEM",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-19",
-      "date": "2026-04-17 – 2026-04-19",
-      "location": "Singapur",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-idem.jpg",
-      "link": "mailto:s.kramer-scholz@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
       ]
     },
     {
@@ -705,6 +691,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-caggtus.jpg",
       "link": "https://www.caggtus.de",
       "tags": []
+    },
+    {
+      "title": "IDEM",
+      "startDate": "2026-04-17",
+      "endDate": "2026-04-19",
+      "date": "2026-04-17 – 2026-04-19",
+      "location": "Singapur",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-idem.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
     },
     {
       "title": "DBT2026",
@@ -925,20 +925,6 @@
       ]
     },
     {
-      "title": "FISPAL",
-      "startDate": "2026-06-16",
-      "endDate": "2026-06-19",
-      "date": "2026-06-16 – 2026-06-19",
-      "location": "Sao Paulo, Brasilien",
-      "description": "Landesbeteiligung Hessen",
-      "image": null,
-      "link": "mailto:o.seifert@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "Messekongress Kundenmanagement in Versicherungen",
       "startDate": "2026-06-16",
       "endDate": "2026-06-17",
@@ -949,6 +935,20 @@
       "link": "https://www.versicherungsforen.net/mk-kunde",
       "tags": [
         "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "FISPAL",
+      "startDate": "2026-06-16",
+      "endDate": "2026-06-19",
+      "date": "2026-06-16 – 2026-06-19",
+      "location": "Sao Paulo, Brasilien",
+      "description": "Landesbeteiligung Hessen",
+      "image": null,
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
     },
@@ -1056,20 +1056,6 @@
       "tags": []
     },
     {
-      "title": "Medtec China",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-03",
-      "date": "2026-09-01 – 2026-09-03",
-      "location": "Shanghai, VR China",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-medtech-china.jpg",
-      "link": "mailto:j.kowollik@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "MEDCARE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-02",
@@ -1080,6 +1066,20 @@
       "link": "https://www.medcare-leipzig.de",
       "tags": [
         "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Medtec China",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-03",
+      "date": "2026-09-01 – 2026-09-03",
+      "location": "Shanghai, VR China",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2025/master-medtech-china.jpg",
+      "link": "mailto:j.kowollik@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
     },
@@ -1178,20 +1178,6 @@
       ]
     },
     {
-      "title": "MICAM / MIPEL (Autumn)",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-15",
-      "date": "2026-09-13 – 2026-09-15",
-      "location": "Mailand, Italien",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
-      "link": "mailto:s.kramer-scholz@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "ADIBF Buchmesse Abu Dhabi",
       "startDate": "2026-09-13",
       "endDate": "2026-09-18",
@@ -1200,6 +1186,20 @@
       "description": null,
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-abu-dhabi-bookfair.jpg",
       "link": "mailto:s.mueller@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "MICAM / MIPEL (Autumn)",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-15",
+      "date": "2026-09-13 – 2026-09-15",
+      "location": "Mailand, Italien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-micam.jpg",
+      "link": "mailto:s.kramer-scholz@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
@@ -2373,19 +2373,6 @@
       ]
     },
     {
-      "title": "EBAN Congress Leipzig 2027 ",
-      "startDate": "2027-06-02",
-      "endDate": "2027-06-05",
-      "date": "2027-06-02 – 2027-06-05",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": "Der European Business Angel Congress (EBAN) 2027 bringt Europas führende Investoren und Investorinnen, Innovatoren und Innovatorinnen sowie Vordenkende nach Sachsen. Drei Tage lang entsteht ein einzigartiges Format aus Networking, Spitzenpanels, Start-up-Pitches und strategischem Austausch, das Investitionen in die nächste Generation europäischer Innovationen fördert.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-eban.jpg",
-      "link": "https://www.futuresax.de/eban-congress/",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "CosmeticBusiness",
       "startDate": "2027-06-02",
       "endDate": "2027-06-03",
@@ -2409,6 +2396,19 @@
       "link": "https://www.medlogistica.de",
       "tags": [
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "EBAN Congress Leipzig 2027 ",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-05",
+      "date": "2027-06-02 – 2027-06-05",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Der European Business Angel Congress (EBAN) 2027 bringt Europas führende Investoren und Investorinnen, Innovatoren und Innovatorinnen sowie Vordenkende nach Sachsen. Drei Tage lang entsteht ein einzigartiges Format aus Networking, Spitzenpanels, Start-up-Pitches und strategischem Austausch, das Investitionen in die nächste Generation europäischer Innovationen fördert.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-eban.jpg",
+      "link": "https://www.futuresax.de/eban-congress/",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
