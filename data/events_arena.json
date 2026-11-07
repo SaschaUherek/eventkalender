@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-11-06T03:54:05.450Z",
+  "scraped_at": "2026-11-07T03:28:32.775Z",
   "events": [
     {
       "title": "90s Super Show",
@@ -528,6 +528,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/7/4/csm_2026-05-22_Pressebild__c_Christian_Ripkens_c1f6235a84.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/electric-callboy/1056",
+      "tags": []
+    },
+    {
+      "title": "Xavier Naidoo",
+      "date": "Donnerstag, 04.03.2027",
+      "startDate": "2027-03-04",
+      "endDate": "2027-03-04",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/a/c/csm_Vorlaeufiges_Pressebild_XN_4430d85a74.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/xavier-naidoo/1111",
       "tags": []
     },
     {
