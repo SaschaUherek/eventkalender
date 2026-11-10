@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-11-09T03:15:55.604Z",
+  "scraped_at": "2026-11-10T04:55:15.896Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1056,6 +1056,20 @@
       "tags": []
     },
     {
+      "title": "Glasfaserforum Sachsen",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-01",
+      "date": "2026-09-01 – 2026-09-01",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Das Glasfaserforum Sachsen nimmt in diesem Jahr mehrere Themen in den Fokus. Im Mittelpunkt stehen die Novellierung des Telekommunikationsgesetzes, die Zukunft des Glasfaserausbaus sowie die Frage, wie Energiewende und digitale Infrastruktur zusammengedacht werden können. Darüber hinaus wird die Bedeutung von Rechenzentren für Sachsen beleuchtet. Praxisbeispiele zeigen zudem, welchen Mehrwert Digitalisierung heute und künftig für Gesellschaft und Wirtschaft schafft. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-glasfaserforum-2026.jpg",
+      "link": "https://www.netze-on.de/de/glasfaserforum/",
+      "tags": [
+        "Gastveranstaltung",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "MEDCARE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-02",
@@ -1080,20 +1094,6 @@
       "link": "mailto:j.kowollik@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "Glasfaserforum Sachsen",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-01",
-      "date": "2026-09-01 – 2026-09-01",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": "Das Glasfaserforum Sachsen nimmt in diesem Jahr mehrere Themen in den Fokus. Im Mittelpunkt stehen die Novellierung des Telekommunikationsgesetzes, die Zukunft des Glasfaserausbaus sowie die Frage, wie Energiewende und digitale Infrastruktur zusammengedacht werden können. Darüber hinaus wird die Bedeutung von Rechenzentren für Sachsen beleuchtet. Praxisbeispiele zeigen zudem, welchen Mehrwert Digitalisierung heute und künftig für Gesellschaft und Wirtschaft schafft. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-glasfaserforum-2026.jpg",
-      "link": "https://www.netze-on.de/de/glasfaserforum/",
-      "tags": [
-        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
@@ -1605,19 +1605,6 @@
       ]
     },
     {
-      "title": "Touristik & Caravaning Leipzig 2026",
-      "startDate": "2026-11-18",
-      "endDate": "2026-11-22",
-      "date": "2026-11-18 – 2026-11-22",
-      "location": "Leipziger Messe",
-      "description": "Erlebe die größte Vielfalt rund um Touristik, Caravaning, Outdoor und Kulinarik auf der Touristik & Caravaning Leipzig (TC Leipzig) und finde deinen Traumurlaub. Zahlreiche Erlebniswelten voller Entertainment und Information warten auf dich. Die TC Leipzig ist weit mehr als eine klassische Ausstellung von Urlaubszielen. Hier kannst du Urlaub erleben, schmecken, fühlen, sehen, testen, vergleichen, aussuchen, vorbereiten, planen und auch buchen. Oder ganz einfach die vielen Angebote genießen.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2023/master-tc.jpg",
-      "link": "https://www.messe-stuttgart.de/tc/",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "Deutscher Tourismustag 2026",
       "startDate": "2026-11-18",
       "endDate": "2026-11-19",
@@ -1629,6 +1616,19 @@
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Touristik & Caravaning Leipzig 2026",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-22",
+      "date": "2026-11-18 – 2026-11-22",
+      "location": "Leipziger Messe",
+      "description": "Erlebe die größte Vielfalt rund um Touristik, Caravaning, Outdoor und Kulinarik auf der Touristik & Caravaning Leipzig (TC Leipzig) und finde deinen Traumurlaub. Zahlreiche Erlebniswelten voller Entertainment und Information warten auf dich. Die TC Leipzig ist weit mehr als eine klassische Ausstellung von Urlaubszielen. Hier kannst du Urlaub erleben, schmecken, fühlen, sehen, testen, vergleichen, aussuchen, vorbereiten, planen und auch buchen. Oder ganz einfach die vielen Angebote genießen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2023/master-tc.jpg",
+      "link": "https://www.messe-stuttgart.de/tc/",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -2066,17 +2066,6 @@
       ]
     },
     {
-      "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
-      "startDate": "2027-03-18",
-      "endDate": "2027-03-21",
-      "date": "2027-03-18 – 2027-03-21",
-      "location": "Leipziger Messe",
-      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser, Autoren, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga Comic Con und dem Lesefestival Leipzig liest statt.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-lbm-relaunch.jpg",
-      "link": "https://www.leipziger-buchmesse.de",
-      "tags": []
-    },
-    {
       "title": "Manga Comic Con",
       "startDate": "2027-03-18",
       "endDate": "2027-03-21",
@@ -2085,6 +2074,17 @@
       "description": "Willkommen in der farbenfrohen Welt der Manga Comic Con. Vier Tage lang möchten wir eure Leidenschaft feiern! Was es zu erleben gibt? Zahlreiche Neuerscheinungen großer Verlage. Signierstunden eurer Stars. Spannende Serien im Anime-Kino. Farbenfrohe Cosplayerinnen und Cosplayer. Und jede Menge Workshops. Ihr habt so viel Fantasie. Wir freuen uns auf euch! Die MCC ist Teil der Leipziger Buchmesse.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-mcc.jpg",
       "link": "https://www.manga-comic-con.de",
+      "tags": []
+    },
+    {
+      "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
+      "startDate": "2027-03-18",
+      "endDate": "2027-03-21",
+      "date": "2027-03-18 – 2027-03-21",
+      "location": "Leipziger Messe",
+      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser, Autoren, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga Comic Con und dem Lesefestival Leipzig liest statt.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-lbm-relaunch.jpg",
+      "link": "https://www.leipziger-buchmesse.de",
       "tags": []
     },
     {
