@@ -1,23 +1,12 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-11-10T04:57:05.671Z",
+  "scraped_at": "2026-11-11T03:25:57.777Z",
   "events": [
     {
-      "title": "GIGANTISCHE DINOSAURIER WELTEN MAGDEBURG - URZEITABENTEUER IM ELBAUENPARK UND JAHRTAUSENDTURM",
-      "date": "10.Nov",
-      "startDate": "2026-11-10",
-      "endDate": "2026-11-10",
-      "location": "Jahrtausendturm",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/Webseite-EAP-veranstaltung-700-350-d87c5db4.jpg",
-      "link": "https://www.mvgm.de/de/event/jahrtausendturm-sonderausstellung-lego-r-mobil-ausstellung-rund-um-die-staunenswerte-welt-der-lego-r-fahrzeuge-kopie/",
-      "tags": []
-    },
-    {
       "title": "LUMAGICA MAGDEBURG 2026/2027",
-      "date": "10.Nov",
-      "startDate": "2026-11-10",
-      "endDate": "2026-11-10",
+      "date": "11.Nov",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
       "location": "Elbauenpark",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/1920x1080-fc95bb59.jpg",
@@ -432,6 +421,17 @@
       "tags": []
     },
     {
+      "title": "1.FC MADGEBURG - FC ENERGIE COTTBUS",
+      "date": "29.Nov",
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "location": "Avnet Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/mdcc-arena-werner-klapper-d52256c9.jpg",
+      "link": "https://www.mvgm.de/de/event/1-fc-madgeburg-fc-energie-cottbus/",
+      "tags": []
+    },
+    {
       "title": "WOHNZIMMERKONZERT MIT SIMON BECKER UND MANUEL RICHTER",
       "date": "29.Nov",
       "startDate": "2026-11-29",
@@ -462,6 +462,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/Weihnachtsmarkt-MD-2016-Johanniskirche_003_Foto_Andreas_Lander-5ccd58f4.jpg",
       "link": "https://www.mvgm.de/de/event/norbertus-musiziert-adventskonzert-02-12-2026/",
+      "tags": []
+    },
+    {
+      "title": "SC MAGDEBURG - DINAMO BUKAREST | EHF CHAMPIONS LEAGUE",
+      "date": "02.Dez",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/2/getec-arena-handball-011-foto-andreas-lander-6dd2f3cb.jpg",
+      "link": "https://www.mvgm.de/de/event/sc-magdeburg-dinamo-bukarest/",
       "tags": []
     },
     {
@@ -616,6 +627,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/d/WienerOperettenWeihnacht-Ensemble-2024-1-KlausWuensch-Print-klein-5864cd5c.jpg",
       "link": "https://www.mvgm.de/de/event/strong-wiener-operetten-weihnacht-strong/",
+      "tags": []
+    },
+    {
+      "title": "1.FC MADGEBURG - 1.FC NÜRNBERG",
+      "date": "11.Dez",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
+      "location": "Avnet Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/0/mdcc-arena-werner-klapper-d52256c9.jpg",
+      "link": "https://www.mvgm.de/de/event/1-fc-madgeburg-1-fc-nuernberg-2/",
       "tags": []
     },
     {
@@ -1785,6 +1807,17 @@
       "tags": []
     },
     {
+      "title": "HARRY POTTER MUSIK BEI KERZENSCHEIN",
+      "date": "14.Mär",
+      "startDate": "2027-03-14",
+      "endDate": "2027-03-14",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/HP-poster-32343559.jpg",
+      "link": "https://www.mvgm.de/de/event/harry-potter-musik-bei-kerzenschein-2/",
+      "tags": []
+    },
+    {
       "title": "MUSIK AM NACHMITTAG 17.03.2027",
       "date": "17.Mär",
       "startDate": "2027-03-17",
@@ -2269,6 +2302,17 @@
       "tags": []
     },
     {
+      "title": "K-POP SHOWDOWN - THE ULTIMATE TRIBUTE SHOW",
+      "date": "29.Mai",
+      "startDate": "2027-05-29",
+      "endDate": "2027-05-29",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/5/KPSD-quadrat-final-0f149db8.png",
+      "link": "https://www.mvgm.de/de/event/k-pop-showdown-the-ultimate-tribute-show-2/",
+      "tags": []
+    },
+    {
       "title": "DIETER BOHLEN - CHERI CHERI LADY TOUR 2027",
       "date": "29.Mai",
       "startDate": "2027-05-29",
@@ -2709,6 +2753,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -2750,6 +2816,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -2819,6 +2929,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -2860,6 +2992,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -2929,6 +3105,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -2970,6 +3168,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -3039,6 +3281,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -3080,6 +3344,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -3149,6 +3457,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -3190,6 +3520,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -3259,6 +3633,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -3300,6 +3696,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -3369,6 +3809,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -3410,6 +3872,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -3479,6 +3985,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -3520,6 +4048,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -3589,6 +4161,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -3630,6 +4224,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -3699,6 +4337,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -3740,6 +4400,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -3809,6 +4513,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -3850,6 +4576,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -3919,6 +4689,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -3960,6 +4752,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -4029,6 +4865,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -4070,6 +4928,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -4139,6 +5041,28 @@
       "tags": []
     },
     {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
+      "tags": []
+    },
+    {
       "title": "BOYBANDS FOREVER - THE ORIGINAL",
       "date": "04.Feb",
       "startDate": "2027-02-04",
@@ -4180,6 +5104,50 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/Mario-Barth-Maenner-sind-anstrendend-sagen-die-Frauen-quer-Foto-Josef-Fischnaller-cff07ce0.jpg",
+      "link": "https://www.mvgm.de/de/event/mario-barth-maenner-sind-anstrengend-sagen-die-frauen/",
+      "tags": []
+    },
+    {
+      "title": "NICO STANK - DADDY",
+      "date": "13.Nov",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/Nico-Stank-DADDY-quer-c-Elena-Zaucke-1ebcc22d.jpg",
+      "link": "https://www.mvgm.de/de/event/nico-stank-daddy/",
+      "tags": []
+    },
+    {
+      "title": "DISNEY IN CONCERT - A WHOLE NEW SHOW!",
+      "date": "26.Nov",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/1/DiC27-AWNS-insta-post-1080x1350-bc373a7e.jpg",
+      "link": "https://www.mvgm.de/de/event/disney-in-concert-a-whole-new-show/",
+      "tags": []
+    },
+    {
+      "title": "LARS EIDINGER LIEST BRECHT 2027",
+      "date": "27.Nov",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/7/Lars-Eidinger-by-Ingo-Pertramer-faffb59b.jpg",
+      "link": "https://www.mvgm.de/de/event/lars-eidinger-liest-brecht-2027/",
       "tags": []
     },
     {
@@ -4246,6 +5214,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/6/OVO-Christmas-quer-e10f0633.jpg",
       "link": "https://www.mvgm.de/de/event/one-violin-orchestra-christmas/",
+      "tags": []
+    },
+    {
+      "title": "MASCHINE & DIE LANDSTREICHER - ALLE WINTER WIEDER",
+      "date": "22.Jan",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "location": "Johanniskirche",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/6/5A0C6C3E-F490-48EE-8E93-B8231E225C94-1338cbcd.png",
+      "link": "https://www.mvgm.de/de/event/maschine-die-landstreicher-alle-winter-wieder/",
+      "tags": []
+    },
+    {
+      "title": "MAX RAABE & PALAST ORCHESTER 2028",
+      "date": "23.Jan",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/8/Pressefoto-MAX-RAABE-PALAST-ORCHESTER-1-c-Gregor-Hohenberg-a974abce.jpg",
+      "link": "https://www.mvgm.de/de/event/max-raabe-palast-orchester-2028/",
       "tags": []
     },
     {
