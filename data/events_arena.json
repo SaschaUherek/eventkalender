@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-11-10T04:56:37.581Z",
+  "scraped_at": "2026-11-11T03:25:28.231Z",
   "events": [
-    {
-      "title": "Let's Dance",
-      "date": "Dienstag, 10.11.2026",
-      "startDate": "2026-11-10",
-      "endDate": "2026-11-10",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/9/1/csm_LetsDance25_Konfetti_Rot-sc_highl_art_portrait_3c802ef983.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/lets-dance/983",
-      "tags": []
-    },
     {
       "title": "Let's Dance",
       "date": "Mittwoch, 11.11.2026",
@@ -1298,6 +1287,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/c/a/csm_Pressefoto-Olaf-Schubert-Jetzt-oder-Now-Foto-Amac-Garbe_7d9e503d93.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/olaf-schubert/1061",
+      "tags": []
+    },
+    {
+      "title": "Max Raabe & Palast Orchester",
+      "date": "Samstag, 22.01.2028",
+      "startDate": "2028-01-22",
+      "endDate": "2028-01-22",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/9/f/csm_Pressefoto_MAX_RAABE___PALAST_ORCHESTER_2__c__Gregor_Hohenberg_5ca6ca9aa9.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/max-raabe-palast-orchester/1112",
       "tags": []
     },
     {
