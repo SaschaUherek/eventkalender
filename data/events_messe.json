@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-11-11T03:24:00.011Z",
+  "scraped_at": "2026-11-12T04:33:54.637Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1435,6 +1435,19 @@
       ]
     },
     {
+      "title": "Händlerbund SellerDay",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "date": "2026-10-29 – 2026-10-29",
+      "location": "CCL",
+      "description": "Der Händlerbund SellerDay bringt die E-Commerce-Branche an einem Ort zusammen, für alle, die ihr Onlinegeschäft nach vorne bringen wollen. Egal, ob du gerade deinen Shop startest, bereits skalierst, international expandierst oder dich auf den nächsten großen Schritt vorbereitest. Hier bekommst du Impulse, die dich wirklich weiterbringen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-haendlerbund.jpg",
+      "link": "https://www.haendlerbund.de/de/news/termine/haendlerbund-sellerday",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "gamescom asia",
       "startDate": "2026-10-29",
       "endDate": "2026-11-01",
@@ -1446,19 +1459,6 @@
       "tags": [
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "Händlerbund SellerDay",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "date": "2026-10-29 – 2026-10-29",
-      "location": "CCL",
-      "description": "Der Händlerbund SellerDay bringt die E-Commerce-Branche an einem Ort zusammen, für alle, die ihr Onlinegeschäft nach vorne bringen wollen. Egal, ob du gerade deinen Shop startest, bereits skalierst, international expandierst oder dich auf den nächsten großen Schritt vorbereitest. Hier bekommst du Impulse, die dich wirklich weiterbringen. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-haendlerbund.jpg",
-      "link": "https://www.haendlerbund.de/de/news/termine/haendlerbund-sellerday",
-      "tags": [
-        "Gastveranstaltung"
       ]
     },
     {
@@ -1875,6 +1875,19 @@
       ]
     },
     {
+      "title": "Motorräder Leipzig",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-08",
+      "date": "2027-02-06 – 2027-02-08",
+      "location": "Leipziger Messe",
+      "description": "MOTORRAD PUR ERLEBEN - Die Motorrad Messe in Mitteldeutschland. Der Treffpunkt für Motorradleidenschaft. Internationale Marken präsentieren ihre neuesten Modelle, innovative Technik, angesagte Bekleidung, hochwertiges Zubehör und attraktive Reiseangebote. Ausprobieren, Probesitzen, spektakuläre Shows genießen - auf der MOTORRÄDER LEIPZIG wird die Faszination Motorrad erlebbar.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2027/master-motorraeder.jpg",
+      "link": "https://www.motorraeder-leipzig.de/?_gl=1%2Azh3i3v%2A_gcl_au%2AMTMxNjQ5Nzk1OS4xNzg0NTU0NDM2%2A_ga%2AMTI3NjI1ODY2My4xNzc0OTM5ODgy%2A_ga_4TD46L112L%2AczE3ODY0MzUxODgkbzEyJGcxJHQxNzg2NDM1MjI3JGoyMSRsMCRoMA..",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "HAUS-GARTEN-FREIZEIT",
       "startDate": "2027-02-06",
       "endDate": "2027-02-14",
@@ -1895,19 +1908,6 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-handwerk-live.jpg",
       "link": "https://www.handwerksmesse-leipzig.de",
       "tags": []
-    },
-    {
-      "title": "Motorräder Leipzig",
-      "startDate": "2027-02-06",
-      "endDate": "2027-02-08",
-      "date": "2027-02-06 – 2027-02-08",
-      "location": "Leipziger Messe",
-      "description": "MOTORRAD PUR ERLEBEN - Die Motorrad Messe in Mitteldeutschland. Der Treffpunkt für Motorradleidenschaft. Internationale Marken präsentieren ihre neuesten Modelle, innovative Technik, angesagte Bekleidung, hochwertiges Zubehör und attraktive Reiseangebote. Ausprobieren, Probesitzen, spektakuläre Shows genießen - auf der MOTORRÄDER LEIPZIG wird die Faszination Motorrad erlebbar.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2027/master-motorraeder.jpg",
-      "link": "https://www.motorraeder-leipzig.de/?_gl=1%2Azh3i3v%2A_gcl_au%2AMTMxNjQ5Nzk1OS4xNzg0NTU0NDM2%2A_ga%2AMTI3NjI1ODY2My4xNzc0OTM5ODgy%2A_ga_4TD46L112L%2AczE3ODY0MzUxODgkbzEyJGcxJHQxNzg2NDM1MjI3JGoyMSRsMCRoMA..",
-      "tags": [
-        "Gastveranstaltung"
-      ]
     },
     {
       "title": "Velo Vibes Leipzig",
@@ -2066,6 +2066,20 @@
       ]
     },
     {
+      "title": "Cosmoprof Bologna",
+      "startDate": "2027-03-18",
+      "endDate": "2027-03-20",
+      "date": "2027-03-18 – 2027-03-20",
+      "location": "Bologna, Italien",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-cosmoprof-bologna.jpg",
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
       "startDate": "2027-03-18",
       "endDate": "2027-03-21",
@@ -2086,20 +2100,6 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-mcc.jpg",
       "link": "https://www.manga-comic-con.de",
       "tags": []
-    },
-    {
-      "title": "Cosmoprof Bologna",
-      "startDate": "2027-03-18",
-      "endDate": "2027-03-20",
-      "date": "2027-03-18 – 2027-03-20",
-      "location": "Bologna, Italien",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2027/master-cosmoprof-bologna.jpg",
-      "link": "mailto:g.weickert@LM-international.com",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
     },
     {
       "title": "ISPO 21. Weltkongress",
@@ -2373,6 +2373,19 @@
       ]
     },
     {
+      "title": "EBAN Congress Leipzig 2027 ",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-05",
+      "date": "2027-06-02 – 2027-06-05",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Der European Business Angel Congress (EBAN) 2027 bringt Europas führende Investoren und Investorinnen, Innovatoren und Innovatorinnen sowie Vordenkende nach Sachsen. Drei Tage lang entsteht ein einzigartiges Format aus Networking, Spitzenpanels, Start-up-Pitches und strategischem Austausch, das Investitionen in die nächste Generation europäischer Innovationen fördert.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-eban.jpg",
+      "link": "https://www.futuresax.de/eban-congress/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "CosmeticBusiness",
       "startDate": "2027-06-02",
       "endDate": "2027-06-03",
@@ -2396,19 +2409,6 @@
       "link": "https://www.medlogistica.de",
       "tags": [
         "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "EBAN Congress Leipzig 2027 ",
-      "startDate": "2027-06-02",
-      "endDate": "2027-06-05",
-      "date": "2027-06-02 – 2027-06-05",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": "Der European Business Angel Congress (EBAN) 2027 bringt Europas führende Investoren und Investorinnen, Innovatoren und Innovatorinnen sowie Vordenkende nach Sachsen. Drei Tage lang entsteht ein einzigartiges Format aus Networking, Spitzenpanels, Start-up-Pitches und strategischem Austausch, das Investitionen in die nächste Generation europäischer Innovationen fördert.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2027/master-eban.jpg",
-      "link": "https://www.futuresax.de/eban-congress/",
-      "tags": [
-        "Gastveranstaltung"
       ]
     },
     {
