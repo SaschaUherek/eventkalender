@@ -1,27 +1,16 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-11-11T03:25:57.777Z",
+  "scraped_at": "2026-11-12T04:36:03.017Z",
   "events": [
     {
       "title": "LUMAGICA MAGDEBURG 2026/2027",
-      "date": "11.Nov",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-11",
+      "date": "12.Nov",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
       "location": "Elbauenpark",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/1920x1080-fc95bb59.jpg",
       "link": "https://www.mvgm.de/de/event/lumagica-magdeburg-2026-2027/",
-      "tags": []
-    },
-    {
-      "title": "SC MAGDEBURG - HC HAMBURG DHB POKAL",
-      "date": "11.Nov",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-11",
-      "location": "GETEC-Arena",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/2/getec-arena-handball-011-foto-andreas-lander-6dd2f3cb.jpg",
-      "link": "https://www.mvgm.de/de/event/sc-magdeburg-hc-hamburg-dhb-pokal/",
       "tags": []
     },
     {
@@ -2632,6 +2621,17 @@
       "tags": []
     },
     {
+      "title": "MAGDEBURGER ANGELTAGE | SA",
+      "date": "06.Nov",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-sa-2/",
+      "tags": []
+    },
+    {
       "title": "DIE PRINZEN: TSCHÜSSI, MACHT'S GUT! - DIE ABSCHIEDSTOURNEE 2027",
       "date": "06.Nov",
       "startDate": "2026-11-06",
@@ -2643,6 +2643,17 @@
       "tags": []
     },
     {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -2706,6 +2717,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -2819,6 +2841,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -2882,6 +2926,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -2995,6 +3050,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -3058,6 +3135,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -3171,6 +3259,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -3234,6 +3344,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -3347,6 +3468,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -3410,6 +3553,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -3523,6 +3677,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -3586,6 +3762,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -3699,6 +3886,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -3762,6 +3971,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -3875,6 +4095,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -3938,6 +4180,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -4051,6 +4304,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -4114,6 +4389,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -4227,6 +4513,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -4290,6 +4598,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -4403,6 +4722,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -4466,6 +4807,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -4579,6 +4931,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -4642,6 +5016,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -4755,6 +5140,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -4818,6 +5225,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -4931,6 +5349,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -4994,6 +5434,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -5107,6 +5558,28 @@
       "tags": []
     },
     {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "MAGDEBURGER ANGELTAGE | SO",
+      "date": "07.Nov",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "location": "Messe Magdeburg",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/d/messe-magdeburger-angeltage-1dfaf416.jpg",
+      "link": "https://www.mvgm.de/de/event/magdeburger-angeltage-so-2/",
+      "tags": []
+    },
+    {
       "title": "MARIO BARTH - MÄNNER SIND ANSTRENGEND, SAGEN DIE FRAUEN",
       "date": "12.Nov",
       "startDate": "2026-11-12",
@@ -5170,6 +5643,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/7/Z628176-c-volker-mingus-28e2c826.jpg",
       "link": "https://www.mvgm.de/de/event/breakin-circus-tournee-2027/",
+      "tags": []
+    },
+    {
+      "title": "TILL LINDEMANN - WORLD TOUR 2027",
+      "date": "07.Dez",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/Lindemann-Tour2027-OSF-1x1-Magdeburg-1182ebc2.jpg",
+      "link": "https://www.mvgm.de/de/event/till-lindemann-world-tour-2027/",
       "tags": []
     },
     {
@@ -5280,6 +5764,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/4/Pressefoto-JOHANN-KoeNIG-Heute-ein-Koenig-3-c-Marcus-Mueller-Saran-6087e517.jpg",
       "link": "https://www.mvgm.de/de/event/johann-koenig-heute-ein-koenig-2028/",
+      "tags": []
+    },
+    {
+      "title": "GREENBEATS SYMBIOSIS TOUR 2029",
+      "date": "17.Mär",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-17",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
+      "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
       "tags": []
     }
   ]
