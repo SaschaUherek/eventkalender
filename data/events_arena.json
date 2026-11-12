@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-11-11T03:25:28.231Z",
+  "scraped_at": "2026-11-12T04:35:38.087Z",
   "events": [
-    {
-      "title": "Let's Dance",
-      "date": "Mittwoch, 11.11.2026",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-11",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/9/1/csm_LetsDance25_Konfetti_Rot-sc_highl_art_portrait_3c802ef983.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/lets-dance/984",
-      "tags": []
-    },
     {
       "title": "Tokio Hotel",
       "date": "Freitag, 13.11.2026",
@@ -1202,6 +1191,17 @@
       "tags": []
     },
     {
+      "title": "90s Super Show",
+      "date": "Samstag, 20.11.2027",
+      "startDate": "2027-11-20",
+      "endDate": "2027-11-20",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/8/f/csm_90s_Super_Show_vorlaeufiges_Pressebild_300ea6f99a.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/90s-super-show/1007",
+      "tags": []
+    },
+    {
       "title": "Let's Dance",
       "date": "Montag, 22.11.2027",
       "startDate": "2027-11-22",
@@ -1334,6 +1334,17 @@
       "tags": []
     },
     {
+      "title": "greenbeats",
+      "date": "Donnerstag, 30.03.2028",
+      "startDate": "2028-03-30",
+      "endDate": "2028-03-30",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/8/0/csm_greenbeats_Symbiosis_Artwork_16x9__c_Matthias_Rethmann_9382c49143.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/greenbeats/1113",
+      "tags": []
+    },
+    {
       "title": "Mario Barth",
       "date": "Samstag, 01.04.2028",
       "startDate": "2028-04-01",
@@ -1353,6 +1364,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/c/b/csm_01_DieFantastischenVier_DerLetzteBus_Credit_Mumpi_Kuenster_9650468615.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/die-fantastischen-vier-1/1099",
+      "tags": []
+    },
+    {
+      "title": "greenbeats",
+      "date": "Freitag, 23.03.2029",
+      "startDate": "2029-03-23",
+      "endDate": "2029-03-23",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/8/0/csm_greenbeats_Symbiosis_Artwork_16x9__c_Matthias_Rethmann_9382c49143.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/greenbeats/1114",
       "tags": []
     }
   ]
