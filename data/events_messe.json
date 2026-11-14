@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-11-13T03:48:05.848Z",
+  "scraped_at": "2026-11-14T03:46:00.549Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1728,6 +1728,19 @@
       ]
     },
     {
+      "title": "Silvesterkonzert 2026",
+      "startDate": "2026-12-31",
+      "endDate": "2026-12-31",
+      "date": "2026-12-31 – 2026-12-31",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Am Silvester-Abend in der KONGRESSHALLE am Zoo Leipzig präsentieren die Leipziger Philharmoniker Wiener Melodien und Meisterwerke der Klassik. Mit Topmelodien aus Operette, Oper, Musical und Konzert - gesungen von wunderbaren Sängern - kommen Sie beschwingt und festlich in Silvester-Stimmung. Das Programm wird schwungvoll präsentiert von internationalen Solisten. Die Leipziger Philharmoniker freuen sich auf Sie: besser kann man 2026 nicht verabschieden!",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2023/master-philharmonie.jpg",
+      "link": "https://www.eventim.de/artist/philharmonie-leipzig/silvesterkonzert-in-der-kongresshalle-am-zoo-philharmonie-leipzig-4070527/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "PARTNER PFERD - show - expo - sport",
       "startDate": "2027-01-14",
       "endDate": "2027-01-17",
@@ -2568,6 +2581,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cadeaux.jpg",
       "link": "https://www.cadeaux-leipzig.de",
       "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Maison & Objet",
+      "startDate": "2027-09-09",
+      "endDate": "2027-09-13",
+      "date": "2027-09-09 – 2027-09-13",
+      "location": "Paris, Frankreich ",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-made-in-germany.png",
+      "link": "mailto:o.seifert@lm-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
     },
