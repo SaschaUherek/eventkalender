@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-11-16T03:26:31.102Z",
+  "scraped_at": "2026-11-17T05:25:55.982Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -1056,20 +1056,6 @@
       "tags": []
     },
     {
-      "title": "Glasfaserforum Sachsen",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-01",
-      "date": "2026-09-01 – 2026-09-01",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": "Das Glasfaserforum Sachsen nimmt in diesem Jahr mehrere Themen in den Fokus. Im Mittelpunkt stehen die Novellierung des Telekommunikationsgesetzes, die Zukunft des Glasfaserausbaus sowie die Frage, wie Energiewende und digitale Infrastruktur zusammengedacht werden können. Darüber hinaus wird die Bedeutung von Rechenzentren für Sachsen beleuchtet. Praxisbeispiele zeigen zudem, welchen Mehrwert Digitalisierung heute und künftig für Gesellschaft und Wirtschaft schafft. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-glasfaserforum-2026.jpg",
-      "link": "https://www.netze-on.de/de/glasfaserforum/",
-      "tags": [
-        "Gastveranstaltung",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "MEDCARE",
       "startDate": "2026-09-01",
       "endDate": "2026-09-02",
@@ -1094,6 +1080,20 @@
       "link": "mailto:j.kowollik@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "Glasfaserforum Sachsen",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-01",
+      "date": "2026-09-01 – 2026-09-01",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": "Das Glasfaserforum Sachsen nimmt in diesem Jahr mehrere Themen in den Fokus. Im Mittelpunkt stehen die Novellierung des Telekommunikationsgesetzes, die Zukunft des Glasfaserausbaus sowie die Frage, wie Energiewende und digitale Infrastruktur zusammengedacht werden können. Darüber hinaus wird die Bedeutung von Rechenzentren für Sachsen beleuchtet. Praxisbeispiele zeigen zudem, welchen Mehrwert Digitalisierung heute und künftig für Gesellschaft und Wirtschaft schafft. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2026/master-glasfaserforum-2026.jpg",
+      "link": "https://www.netze-on.de/de/glasfaserforum/",
+      "tags": [
+        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
@@ -1220,19 +1220,6 @@
       ]
     },
     {
-      "title": "Sächsischer Krankenhaustag 2026",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "date": "2026-09-16 – 2026-09-16",
-      "location": "KONGRESSHALLE am Zoo Leipzig",
-      "description": null,
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-kgs.jpg",
-      "link": "https://events.khg-sachsen.de/event-details?event_id=1051",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "KGSt-FORUM 2026 ",
       "startDate": "2026-09-16",
       "endDate": "2026-09-18",
@@ -1241,6 +1228,19 @@
       "description": "Das KGSt-FORUM 2026 richtet sich an Fach- und Führungskräfte aus Verwaltung, Kommunen, Wissenschaft und Wirtschaft. Es werden über 4500 Teilnehmende aus 800 Kommunen erwartet, die sich in etwa 120 Fach- und Rahmenveranstaltungen zu Themen des kommunalen Managements austauschen. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-kgst.jpg",
       "link": "http://www.kgst-forum.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "Sächsischer Krankenhaustag 2026",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-16",
+      "date": "2026-09-16 – 2026-09-16",
+      "location": "KONGRESSHALLE am Zoo Leipzig",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-khl/master-khl-2025/master-kgs.jpg",
+      "link": "https://events.khg-sachsen.de/event-details?event_id=1051",
       "tags": [
         "Gastveranstaltung"
       ]
@@ -1435,19 +1435,6 @@
       ]
     },
     {
-      "title": "Händlerbund SellerDay",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "date": "2026-10-29 – 2026-10-29",
-      "location": "CCL",
-      "description": "Der Händlerbund SellerDay bringt die E-Commerce-Branche an einem Ort zusammen, für alle, die ihr Onlinegeschäft nach vorne bringen wollen. Egal, ob du gerade deinen Shop startest, bereits skalierst, international expandierst oder dich auf den nächsten großen Schritt vorbereitest. Hier bekommst du Impulse, die dich wirklich weiterbringen. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-haendlerbund.jpg",
-      "link": "https://www.haendlerbund.de/de/news/termine/haendlerbund-sellerday",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "gamescom asia",
       "startDate": "2026-10-29",
       "endDate": "2026-11-01",
@@ -1462,14 +1449,14 @@
       ]
     },
     {
-      "title": "immocation Festival 2026",
-      "startDate": "2026-10-31",
-      "endDate": "2026-11-01",
-      "date": "2026-10-31 – 2026-11-01",
-      "location": "Leipziger Messe",
-      "description": "Das immocation Festival 2026 - der Ort, an dem sich Immobilieninvestoren treffen und voneinander lernen! Maximales Expertenwissen: 2 Bühnen mit tiefen Immobilieninhalten für jedes Investorenlevel – vom Einsteiger bis Superpro.Top Netzwerkmöglichkeiten: Persönlicher Austausch mit den Coaches und aktiven Immobilieninvestoren 180+ Aussteller, um genau die Partner zu finden, die du brauchst. Verschiedene Messepartys am Samstag Abend. Buch dir dein Ticket jetzt!",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-immocation-neutral.jpg",
-      "link": "https://immocation.de/Festival",
+      "title": "Händlerbund SellerDay",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "date": "2026-10-29 – 2026-10-29",
+      "location": "CCL",
+      "description": "Der Händlerbund SellerDay bringt die E-Commerce-Branche an einem Ort zusammen, für alle, die ihr Onlinegeschäft nach vorne bringen wollen. Egal, ob du gerade deinen Shop startest, bereits skalierst, international expandierst oder dich auf den nächsten großen Schritt vorbereitest. Hier bekommst du Impulse, die dich wirklich weiterbringen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-haendlerbund.jpg",
+      "link": "https://www.haendlerbund.de/de/news/termine/haendlerbund-sellerday",
       "tags": [
         "Gastveranstaltung"
       ]
@@ -1483,6 +1470,19 @@
       "description": "Die Hochzeitsmesse in Leipzig für Brautpaare: Entdeckt regionale Hochzeitsdienstleister, aktuelle Trends, Brautmode, Trauringe und kreative Ideen für eine unvergessliche Hochzeit. Die marrylove Hochzeitsmesse in Leipzig ist der Treffpunkt für alle, die ihre Hochzeit mit Inspiration und den passenden Profis planen möchten. Entdecke regionale Aussteller aus den Bereichen Brautmode, Trauringe, Hochzeitslocations, Fotografie, Dekoration und mehr. Die Hochzeitsmesse Leipzig bietet frische Ideen, persönliche Beratung und echte Trends für Deinen großen Tag.",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-marry-love-2026.jpg",
       "link": "https://marrylove.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "immocation Festival 2026",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "date": "2026-10-31 – 2026-11-01",
+      "location": "Leipziger Messe",
+      "description": "Das immocation Festival 2026 - der Ort, an dem sich Immobilieninvestoren treffen und voneinander lernen! Maximales Expertenwissen: 2 Bühnen mit tiefen Immobilieninhalten für jedes Investorenlevel – vom Einsteiger bis Superpro.Top Netzwerkmöglichkeiten: Persönlicher Austausch mit den Coaches und aktiven Immobilieninvestoren 180+ Aussteller, um genau die Partner zu finden, die du brauchst. Verschiedene Messepartys am Samstag Abend. Buch dir dein Ticket jetzt!",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-immocation-neutral.jpg",
+      "link": "https://immocation.de/Festival",
       "tags": [
         "Gastveranstaltung"
       ]
@@ -1605,6 +1605,19 @@
       ]
     },
     {
+      "title": "Touristik & Caravaning Leipzig 2026",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-22",
+      "date": "2026-11-18 – 2026-11-22",
+      "location": "Leipziger Messe",
+      "description": "Erlebe die größte Vielfalt rund um Touristik, Caravaning, Outdoor und Kulinarik auf der Touristik & Caravaning Leipzig (TC Leipzig) und finde deinen Traumurlaub. Zahlreiche Erlebniswelten voller Entertainment und Information warten auf dich. Die TC Leipzig ist weit mehr als eine klassische Ausstellung von Urlaubszielen. Hier kannst du Urlaub erleben, schmecken, fühlen, sehen, testen, vergleichen, aussuchen, vorbereiten, planen und auch buchen. Oder ganz einfach die vielen Angebote genießen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2023/master-tc.jpg",
+      "link": "https://www.messe-stuttgart.de/tc/",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
       "title": "Deutscher Tourismustag 2026",
       "startDate": "2026-11-18",
       "endDate": "2026-11-19",
@@ -1616,19 +1629,6 @@
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "Touristik & Caravaning Leipzig 2026",
-      "startDate": "2026-11-18",
-      "endDate": "2026-11-22",
-      "date": "2026-11-18 – 2026-11-22",
-      "location": "Leipziger Messe",
-      "description": "Erlebe die größte Vielfalt rund um Touristik, Caravaning, Outdoor und Kulinarik auf der Touristik & Caravaning Leipzig (TC Leipzig) und finde deinen Traumurlaub. Zahlreiche Erlebniswelten voller Entertainment und Information warten auf dich. Die TC Leipzig ist weit mehr als eine klassische Ausstellung von Urlaubszielen. Hier kannst du Urlaub erleben, schmecken, fühlen, sehen, testen, vergleichen, aussuchen, vorbereiten, planen und auch buchen. Oder ganz einfach die vielen Angebote genießen.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2023/master-tc.jpg",
-      "link": "https://www.messe-stuttgart.de/tc/",
-      "tags": [
-        "Gastveranstaltung"
       ]
     },
     {
@@ -1820,20 +1820,6 @@
       ]
     },
     {
-      "title": "UPDATE Hämatologie / Onkologie 2027",
-      "startDate": "2027-02-02",
-      "endDate": "2027-02-03",
-      "date": "2027-02-02 – 2027-02-03",
-      "location": "CCL",
-      "description": "28 Jahre UPDATE Hämatologie und Onkologie 2027. Die neuesten Erkenntnisse zu Gynäkologie, Leukämien, Lymphome, Gastrointestiale & Urologische Tumoren, Palliativmedizin und Lungenkarzinome werden von hochkarätigen Referenten vermittelt.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2025/master-haematologie-update.jpg",
-      "link": "https://www.onko-update.de/",
-      "tags": [
-        "Gastveranstaltung",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "KBIS",
       "startDate": "2027-02-02",
       "endDate": "2027-02-04",
@@ -1844,6 +1830,20 @@
       "link": "mailto:g.weickert@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "UPDATE Hämatologie / Onkologie 2027",
+      "startDate": "2027-02-02",
+      "endDate": "2027-02-03",
+      "date": "2027-02-02 – 2027-02-03",
+      "location": "CCL",
+      "description": "28 Jahre UPDATE Hämatologie und Onkologie 2027. Die neuesten Erkenntnisse zu Gynäkologie, Leukämien, Lymphome, Gastrointestiale & Urologische Tumoren, Palliativmedizin und Lungenkarzinome werden von hochkarätigen Referenten vermittelt.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2025/master-haematologie-update.jpg",
+      "link": "https://www.onko-update.de/",
+      "tags": [
+        "Gastveranstaltung",
         "Nur für Fachbesucher"
       ]
     },
@@ -1888,19 +1888,6 @@
       ]
     },
     {
-      "title": "Motorräder Leipzig",
-      "startDate": "2027-02-06",
-      "endDate": "2027-02-08",
-      "date": "2027-02-06 – 2027-02-08",
-      "location": "Leipziger Messe",
-      "description": "MOTORRAD PUR ERLEBEN - Die Motorrad Messe in Mitteldeutschland. Der Treffpunkt für Motorradleidenschaft. Internationale Marken präsentieren ihre neuesten Modelle, innovative Technik, angesagte Bekleidung, hochwertiges Zubehör und attraktive Reiseangebote. Ausprobieren, Probesitzen, spektakuläre Shows genießen - auf der MOTORRÄDER LEIPZIG wird die Faszination Motorrad erlebbar.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2027/master-motorraeder.jpg",
-      "link": "https://www.motorraeder-leipzig.de/?_gl=1%2Azh3i3v%2A_gcl_au%2AMTMxNjQ5Nzk1OS4xNzg0NTU0NDM2%2A_ga%2AMTI3NjI1ODY2My4xNzc0OTM5ODgy%2A_ga_4TD46L112L%2AczE3ODY0MzUxODgkbzEyJGcxJHQxNzg2NDM1MjI3JGoyMSRsMCRoMA..",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "HAUS-GARTEN-FREIZEIT",
       "startDate": "2027-02-06",
       "endDate": "2027-02-14",
@@ -1921,6 +1908,19 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-handwerk-live.jpg",
       "link": "https://www.handwerksmesse-leipzig.de",
       "tags": []
+    },
+    {
+      "title": "Motorräder Leipzig",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-08",
+      "date": "2027-02-06 – 2027-02-08",
+      "location": "Leipziger Messe",
+      "description": "MOTORRAD PUR ERLEBEN - Die Motorrad Messe in Mitteldeutschland. Der Treffpunkt für Motorradleidenschaft. Internationale Marken präsentieren ihre neuesten Modelle, innovative Technik, angesagte Bekleidung, hochwertiges Zubehör und attraktive Reiseangebote. Ausprobieren, Probesitzen, spektakuläre Shows genießen - auf der MOTORRÄDER LEIPZIG wird die Faszination Motorrad erlebbar.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2027/master-motorraeder.jpg",
+      "link": "https://www.motorraeder-leipzig.de/?_gl=1%2Azh3i3v%2A_gcl_au%2AMTMxNjQ5Nzk1OS4xNzg0NTU0NDM2%2A_ga%2AMTI3NjI1ODY2My4xNzc0OTM5ODgy%2A_ga_4TD46L112L%2AczE3ODY0MzUxODgkbzEyJGcxJHQxNzg2NDM1MjI3JGoyMSRsMCRoMA..",
+      "tags": [
+        "Gastveranstaltung"
+      ]
     },
     {
       "title": "Velo Vibes Leipzig",
@@ -2079,6 +2079,17 @@
       ]
     },
     {
+      "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
+      "startDate": "2027-03-18",
+      "endDate": "2027-03-21",
+      "date": "2027-03-18 – 2027-03-21",
+      "location": "Leipziger Messe",
+      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser, Autoren, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga Comic Con und dem Lesefestival Leipzig liest statt.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-lbm-relaunch.jpg",
+      "link": "https://www.leipziger-buchmesse.de",
+      "tags": []
+    },
+    {
       "title": "Manga Comic Con",
       "startDate": "2027-03-18",
       "endDate": "2027-03-21",
@@ -2102,17 +2113,6 @@
         "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
-    },
-    {
-      "title": "Leipziger Buchmesse / Lesefestival Leipzig liest",
-      "startDate": "2027-03-18",
-      "endDate": "2027-03-21",
-      "date": "2027-03-18 – 2027-03-21",
-      "location": "Leipziger Messe",
-      "description": "Die Leipziger Buchmesse ist der wichtigste Frühjahrstreff der Buch- und Medienbranche und verbindet Leser, Autoren, Verlage und Medien – nicht nur aus Deutschland, sondern aus der ganzen Welt. Sie alle kommen nach Leipzig, um die Vielfalt der Literatur zu erleben, Novitäten zu entdecken und neue Blickwinkel zu erhalten. Die Leipziger Buchmesse findet im Verbund mit der Manga Comic Con und dem Lesefestival Leipzig liest statt.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-lbm-relaunch.jpg",
-      "link": "https://www.leipziger-buchmesse.de",
-      "tags": []
     },
     {
       "title": "ISPO 21. Weltkongress",
@@ -2386,6 +2386,19 @@
       ]
     },
     {
+      "title": "CosmeticBusiness",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-03",
+      "date": "2027-06-02 – 2027-06-03",
+      "location": "München",
+      "description": "Die CosmeticBusiness ist die Leitmesse für die Kosmetikindustrie im deutschsprachigen Raum. Sie ist unverzichtbarer Impulsgeber für erfolgreiche Produktentwicklungen in Deutschland, Österreich und der Schweiz. Die Fachmesse inspiriert mit Neuheiten und Trends entlang der gesamten Wertschöpfungskette – vom Inhaltsstoff bis zur Verpackung. Fachbesucher aus Entwicklung und Beschaffung schätzen das effiziente Netzwerken mit ihrem internationalen Lieferanten-Universum an nur einem Ort.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cosmetic-business.jpg",
+      "link": "https://www.cosmetic-business.com/de/",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "med.Logistica",
       "startDate": "2027-06-02",
       "endDate": "2027-06-03",
@@ -2409,19 +2422,6 @@
       "link": "https://www.futuresax.de/eban-congress/",
       "tags": [
         "Gastveranstaltung"
-      ]
-    },
-    {
-      "title": "CosmeticBusiness",
-      "startDate": "2027-06-02",
-      "endDate": "2027-06-03",
-      "date": "2027-06-02 – 2027-06-03",
-      "location": "München",
-      "description": "Die CosmeticBusiness ist die Leitmesse für die Kosmetikindustrie im deutschsprachigen Raum. Sie ist unverzichtbarer Impulsgeber für erfolgreiche Produktentwicklungen in Deutschland, Österreich und der Schweiz. Die Fachmesse inspiriert mit Neuheiten und Trends entlang der gesamten Wertschöpfungskette – vom Inhaltsstoff bis zur Verpackung. Fachbesucher aus Entwicklung und Beschaffung schätzen das effiziente Netzwerken mit ihrem internationalen Lieferanten-Universum an nur einem Ort.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-cosmetic-business.jpg",
-      "link": "https://www.cosmetic-business.com/de/",
-      "tags": [
-        "Nur für Fachbesucher"
       ]
     },
     {
@@ -2774,19 +2774,6 @@
       ]
     },
     {
-      "title": "active connected",
-      "startDate": "2027-10-26",
-      "endDate": "2027-10-27",
-      "date": "2027-10-26 – 2027-10-27",
-      "location": "Leipziger Messe",
-      "description": "Mit der active connected startet die Leipziger Messe ein neues, zukunftsweisendes Fachformat für Prävention, Sport und Fitness. Während die therapie-Messen das Gesundwerden fokussieren, rückt die active connected das Gesundbleiben in den Mittelpunkt – und wird so zum zentralen Treffpunkt für alle, die Menschen in Bewegung bringen. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-active-connected.jpg",
-      "link": "https://www.active-connected.de",
-      "tags": [
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
       "title": "ACHEMA Middle East",
       "startDate": "2027-10-26",
       "endDate": "2027-10-28",
@@ -2797,6 +2784,19 @@
       "link": "mailto:s.mueller@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "active connected",
+      "startDate": "2027-10-26",
+      "endDate": "2027-10-27",
+      "date": "2027-10-26 – 2027-10-27",
+      "location": "Leipziger Messe",
+      "description": "Mit der active connected startet die Leipziger Messe ein neues, zukunftsweisendes Fachformat für Prävention, Sport und Fitness. Während die therapie-Messen das Gesundwerden fokussieren, rückt die active connected das Gesundbleiben in den Mittelpunkt – und wird so zum zentralen Treffpunkt für alle, die Menschen in Bewegung bringen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-active-connected.jpg",
+      "link": "https://www.active-connected.de",
+      "tags": [
         "Nur für Fachbesucher"
       ]
     },
