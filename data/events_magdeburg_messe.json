@@ -1,12 +1,12 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-11-18T04:54:24.740Z",
+  "scraped_at": "2026-11-19T04:45:47.547Z",
   "events": [
     {
       "title": "LUMAGICA MAGDEBURG 2026/2027",
-      "date": "18.Nov",
-      "startDate": "2026-11-18",
-      "endDate": "2026-11-18",
+      "date": "19.Nov",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
       "location": "Elbauenpark",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/1920x1080-fc95bb59.jpg",
@@ -15,9 +15,9 @@
     },
     {
       "title": "GIGANTISCHE DINOSAURIER WINTERWELTEN MAGDEBURG - URZEITABENTEUER AUF DEM GROSSEN CRACAUER ANGER",
-      "date": "18.Nov",
-      "startDate": "2026-11-18",
-      "endDate": "2026-11-18",
+      "date": "19.Nov",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
       "location": "Elbauenpark",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/e/Slider-1920-x-1080-72dpi-Winter-59bcc79a.jpg",
@@ -2269,13 +2269,13 @@
       "tags": []
     },
     {
-      "title": "FREEDOM - A TRIBUTE TO GEORGE MICHAEL",
+      "title": "A TRIBUTE TO GEORGE MICHAEL BY FABRIZIO LEVITA UND FRANK NIMSGERN",
       "date": "28.Mai",
       "startDate": "2027-05-28",
       "endDate": "2027-05-28",
       "location": "Seebühne",
       "description": null,
-      "image": "https://www.mvgm.de/assets/images/6/George-Michael-88085537.jpeg",
+      "image": "https://www.mvgm.de/assets/images/c/20270528-Tickets-GEORGE-MICHAEL-FullScreen-55591b2a.jpg",
       "link": "https://www.mvgm.de/de/event/freedom-a-tribute-to-george-michael/",
       "tags": []
     },
