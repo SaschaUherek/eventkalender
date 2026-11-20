@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-11-19T04:43:54.332Z",
+  "scraped_at": "2026-11-20T04:34:57.103Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -2705,6 +2705,20 @@
       "tags": []
     },
     {
+      "title": "WHX Johannesburg",
+      "startDate": "2027-10-06",
+      "endDate": "2027-10-08",
+      "date": "2027-10-06 – 2027-10-08",
+      "location": "Johannesburg, Südafrika",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-whx-johannesburg.jpg",
+      "link": "mailto:o.seifert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "Ingenieurkammertag Sachsen 2027",
       "startDate": "2027-10-07",
       "endDate": "2027-10-07",
@@ -2851,6 +2865,20 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-diam.jpg",
       "link": "https://www.diam-ddm.de/bochum.html",
       "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "COSMOPROF Asia",
+      "startDate": "2027-11-17",
+      "endDate": "2027-11-19",
+      "date": "2027-11-17 – 2027-11-19",
+      "location": "Hongkong, VR China",
+      "description": null,
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2026/master-cosmoprof-asia.jpg",
+      "link": "mailto:g.weickert@LM-international.com",
+      "tags": [
+        "Auslandsmesse – LMI",
         "Nur für Fachbesucher"
       ]
     },
