@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-11-20T04:36:23.781Z",
+  "scraped_at": "2026-11-21T04:30:51.047Z",
   "events": [
-    {
-      "title": "Unheilig & Special Guests",
-      "date": "Freitag, 20.11.2026",
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-20",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/f/b/csm_instagram_1080x1080_8ce2bbd439.png",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/unheilig-special-guests/968",
-      "tags": []
-    },
     {
       "title": "SC DHfK – TV Emsdetten",
       "date": "Sonntag, 22.11.2026",
@@ -130,7 +119,7 @@
       "endDate": "2026-12-06",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/_processed_/files_user/0/d/csm_Logo_bearbeitet_29b58c0852.jpg",
+      "image": "/fileadmin/_processed_/files_user/4/f/csm_Eulen_Ludwigshafen_4zu3_26-27_a4652668cf.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/sc-dhfk-eulen-ludwigshafen/1075",
       "tags": []
     },
@@ -319,6 +308,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/2/9/csm_EHRLICH_BROTHERS-WONDERWORLD_Pressebild_quer__c__Christian_Bussel_Seidel_567e330da5.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ehrlich-brothers/1107",
+      "tags": []
+    },
+    {
+      "title": "Ehrlich Brothers",
+      "date": "Samstag, 09.01.2027",
+      "startDate": "2027-01-09",
+      "endDate": "2027-01-09",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/2/9/csm_EHRLICH_BROTHERS-WONDERWORLD_Pressebild_quer__c__Christian_Bussel_Seidel_567e330da5.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/ehrlich-brothers/1049",
       "tags": []
     },
     {
@@ -880,6 +880,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/8/e/csm_Herbert_Groenemeyer_1_credits_Erik_Weiss_klein_a1d475a1a3.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/herbert-groenemeyer/1006",
+      "tags": []
+    },
+    {
+      "title": "Deep Purple",
+      "date": "Freitag, 18.06.2027",
+      "startDate": "2027-06-18",
+      "endDate": "2027-06-18",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/0/2/csm_Pressebild__c_MAWI_Concert_web_7450c0a7ac.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/deep-purple/994",
       "tags": []
     },
     {
