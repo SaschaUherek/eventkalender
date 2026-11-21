@@ -1,6 +1,6 @@
 {
   "source": "Leipziger Messe (API direkt via Playwright)",
-  "scraped_at": "2026-11-20T04:34:57.103Z",
+  "scraped_at": "2026-11-21T04:29:29.601Z",
   "events": [
     {
       "title": "Jahresabschluss-Konzert der Musikschule Fröhlich",
@@ -308,19 +308,6 @@
       ]
     },
     {
-      "title": "31. Leipziger Fachseminar ",
-      "startDate": "2026-03-03",
-      "endDate": "2026-03-03",
-      "date": "2026-03-03 – 2026-03-03",
-      "location": "CCL",
-      "description": "Das Leipziger Fachseminar wird durch die Bezirksgruppen Sachsen und Thüringen der Deutschen Gesellschaft für Galvano- und Oberflächentechnik organisiert. Das Fachseminar bietet ein spannendes Vortragsprogramm zu den aktuellen Herausforderungen der Oberflächentechnik und wird von einer Fachausstellung begleitet. Im Rahmen des Fachseminars wird der Leipziger Galvanopreis für innovative oder ökologische Leistungen auf dem Gebiet der Oberflächentechnik verliehen.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-dgo.jpg",
-      "link": "https://www.dgo-online.de/termine/tagungen/detailansicht/31-leipziger-fachseminar-am-03-maerz-2026",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "Experts Live Germany 2026 ",
       "startDate": "2026-03-03",
       "endDate": "2026-03-04",
@@ -332,6 +319,19 @@
       "tags": [
         "Gastveranstaltung",
         "Nur für Fachbesucher"
+      ]
+    },
+    {
+      "title": "31. Leipziger Fachseminar ",
+      "startDate": "2026-03-03",
+      "endDate": "2026-03-03",
+      "date": "2026-03-03 – 2026-03-03",
+      "location": "CCL",
+      "description": "Das Leipziger Fachseminar wird durch die Bezirksgruppen Sachsen und Thüringen der Deutschen Gesellschaft für Galvano- und Oberflächentechnik organisiert. Das Fachseminar bietet ein spannendes Vortragsprogramm zu den aktuellen Herausforderungen der Oberflächentechnik und wird von einer Fachausstellung begleitet. Im Rahmen des Fachseminars wird der Leipziger Galvanopreis für innovative oder ökologische Leistungen auf dem Gebiet der Oberflächentechnik verliehen.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2022/master-dgo.jpg",
+      "link": "https://www.dgo-online.de/termine/tagungen/detailansicht/31-leipziger-fachseminar-am-03-maerz-2026",
+      "tags": [
+        "Gastveranstaltung"
       ]
     },
     {
@@ -1098,19 +1098,6 @@
       ]
     },
     {
-      "title": "29. Jobmesse Leipzig",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-05",
-      "date": "2026-09-04 – 2026-09-05",
-      "location": "CCL",
-      "description": "Im Congress Center Leipzig von 10:00 bis 16:00 Uhr, findet die 29. Jobmesse statt. Der Eintritt ist kostenfrei, eine Vorab-Registrierung wird empfohlen, um Wartezeiten am Einlass zu verkürzen. Nutze die Chance – frag nach, hör zu und zeig, was in dir steckt. Du hast innovative Ideen? Dann bist du auf der richtigen Bühne. So meldest du dich an: Registriere dich jetzt unter www.jobmesse-Leipzig.de und gestalte deine Zukunft aktiv.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2024/master-jobmesse.jpg",
-      "link": "https://jobmesse-leipzig.de",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "Goldene Henne 2026",
       "startDate": "2026-09-04",
       "endDate": "2026-09-04",
@@ -1119,6 +1106,19 @@
       "description": "Deutschlands größter Publikumspreis wird seit über 30 Jahren verliehen. Übertragen wid die Live-Sendung ab 20:15 Uhr in der ARD, Tickets können online erworben werden. ",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-goldene-henne-2026.jpg",
       "link": "https://www.mdr-ticketshop.de",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "29. Jobmesse Leipzig",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-05",
+      "date": "2026-09-04 – 2026-09-05",
+      "location": "CCL",
+      "description": "Im Congress Center Leipzig von 10:00 bis 16:00 Uhr, findet die 29. Jobmesse statt. Der Eintritt ist kostenfrei, eine Vorab-Registrierung wird empfohlen, um Wartezeiten am Einlass zu verkürzen. Nutze die Chance – frag nach, hör zu und zeig, was in dir steckt. Du hast innovative Ideen? Dann bist du auf der richtigen Bühne. So meldest du dich an: Registriere dich jetzt unter www.jobmesse-Leipzig.de und gestalte deine Zukunft aktiv.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2024/master-jobmesse.jpg",
+      "link": "https://jobmesse-leipzig.de",
       "tags": [
         "Gastveranstaltung"
       ]
@@ -1462,19 +1462,6 @@
       ]
     },
     {
-      "title": "marrylove Hochzeitsmesse Leipzig",
-      "startDate": "2026-10-31",
-      "endDate": "2026-11-01",
-      "date": "2026-10-31 – 2026-11-01",
-      "location": "CCL",
-      "description": "Die Hochzeitsmesse in Leipzig für Brautpaare: Entdeckt regionale Hochzeitsdienstleister, aktuelle Trends, Brautmode, Trauringe und kreative Ideen für eine unvergessliche Hochzeit. Die marrylove Hochzeitsmesse in Leipzig ist der Treffpunkt für alle, die ihre Hochzeit mit Inspiration und den passenden Profis planen möchten. Entdecke regionale Aussteller aus den Bereichen Brautmode, Trauringe, Hochzeitslocations, Fotografie, Dekoration und mehr. Die Hochzeitsmesse Leipzig bietet frische Ideen, persönliche Beratung und echte Trends für Deinen großen Tag.",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-marry-love-2026.jpg",
-      "link": "https://marrylove.de",
-      "tags": [
-        "Gastveranstaltung"
-      ]
-    },
-    {
       "title": "immocation Festival 2026",
       "startDate": "2026-10-31",
       "endDate": "2026-11-01",
@@ -1483,6 +1470,19 @@
       "description": "Das immocation Festival 2026 - der Ort, an dem sich Immobilieninvestoren treffen und voneinander lernen! Maximales Expertenwissen: 2 Bühnen mit tiefen Immobilieninhalten für jedes Investorenlevel – vom Einsteiger bis Superpro.Top Netzwerkmöglichkeiten: Persönlicher Austausch mit den Coaches und aktiven Immobilieninvestoren 180+ Aussteller, um genau die Partner zu finden, die du brauchst. Verschiedene Messepartys am Samstag Abend. Buch dir dein Ticket jetzt!",
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm-gast/master-lm-gast-2026/master-immocation-neutral.jpg",
       "link": "https://immocation.de/Festival",
+      "tags": [
+        "Gastveranstaltung"
+      ]
+    },
+    {
+      "title": "marrylove Hochzeitsmesse Leipzig",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "date": "2026-10-31 – 2026-11-01",
+      "location": "CCL",
+      "description": "Die Hochzeitsmesse in Leipzig für Brautpaare: Entdeckt regionale Hochzeitsdienstleister, aktuelle Trends, Brautmode, Trauringe und kreative Ideen für eine unvergessliche Hochzeit. Die marrylove Hochzeitsmesse in Leipzig ist der Treffpunkt für alle, die ihre Hochzeit mit Inspiration und den passenden Profis planen möchten. Entdecke regionale Aussteller aus den Bereichen Brautmode, Trauringe, Hochzeitslocations, Fotografie, Dekoration und mehr. Die Hochzeitsmesse Leipzig bietet frische Ideen, persönliche Beratung und echte Trends für Deinen großen Tag.",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-ccl/master-ccl-2026/master-marry-love-2026.jpg",
+      "link": "https://marrylove.de",
       "tags": [
         "Gastveranstaltung"
       ]
@@ -1988,6 +1988,20 @@
       ]
     },
     {
+      "title": "JEC World",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-04",
+      "date": "2027-03-02 – 2027-03-04",
+      "location": "Paris, Frankreich",
+      "description": "Landesbeteiligungen NRW und Bayern",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-jec.jpg",
+      "link": "https://www.lm-international.com/lb_jec_2027",
+      "tags": [
+        "Auslandsmesse – LMI",
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "Z",
       "startDate": "2027-03-02",
       "endDate": "2027-03-05",
@@ -2008,20 +2022,6 @@
       "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-intec.jpg",
       "link": "https://www.messe-intec.de",
       "tags": []
-    },
-    {
-      "title": "JEC World",
-      "startDate": "2027-03-02",
-      "endDate": "2027-03-04",
-      "date": "2027-03-02 – 2027-03-04",
-      "location": "Paris, Frankreich",
-      "description": "Landesbeteiligungen NRW und Bayern",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lmi/master-lmi-2022/master-jec.jpg",
-      "link": "https://www.lm-international.com/lb_jec_2027",
-      "tags": [
-        "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
     },
     {
       "title": "You can! ",
@@ -2788,6 +2788,19 @@
       ]
     },
     {
+      "title": "active connected",
+      "startDate": "2027-10-26",
+      "endDate": "2027-10-27",
+      "date": "2027-10-26 – 2027-10-27",
+      "location": "Leipziger Messe",
+      "description": "Mit der active connected startet die Leipziger Messe ein neues, zukunftsweisendes Fachformat für Prävention, Sport und Fitness. Während die therapie-Messen das Gesundwerden fokussieren, rückt die active connected das Gesundbleiben in den Mittelpunkt – und wird so zum zentralen Treffpunkt für alle, die Menschen in Bewegung bringen. ",
+      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-active-connected.jpg",
+      "link": "https://www.active-connected.de",
+      "tags": [
+        "Nur für Fachbesucher"
+      ]
+    },
+    {
       "title": "ACHEMA Middle East",
       "startDate": "2027-10-26",
       "endDate": "2027-10-28",
@@ -2798,19 +2811,6 @@
       "link": "mailto:s.mueller@LM-international.com",
       "tags": [
         "Auslandsmesse – LMI",
-        "Nur für Fachbesucher"
-      ]
-    },
-    {
-      "title": "active connected",
-      "startDate": "2027-10-26",
-      "endDate": "2027-10-27",
-      "date": "2027-10-26 – 2027-10-27",
-      "location": "Leipziger Messe",
-      "description": "Mit der active connected startet die Leipziger Messe ein neues, zukunftsweisendes Fachformat für Prävention, Sport und Fitness. Während die therapie-Messen das Gesundwerden fokussieren, rückt die active connected das Gesundbleiben in den Mittelpunkt – und wird so zum zentralen Treffpunkt für alle, die Menschen in Bewegung bringen. ",
-      "image": "/files/corporatesite/master/media/globale-medien/messekalender-logos/master-lm/master-active-connected.jpg",
-      "link": "https://www.active-connected.de",
-      "tags": [
         "Nur für Fachbesucher"
       ]
     },
