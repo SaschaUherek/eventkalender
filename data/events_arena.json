@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-11-23T04:21:08.080Z",
+  "scraped_at": "2026-11-24T07:18:28.423Z",
   "events": [
-    {
-      "title": "Papa Roach",
-      "date": "Montag, 23.11.2026",
-      "startDate": "2026-11-23",
-      "endDate": "2026-11-23",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/b/e/csm_Papa_Roach_-__c_Travis_Shinn_dce99e18a3.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/papa-roach/1060",
-      "tags": []
-    },
     {
       "title": "Nights on Broadway",
       "date": "Freitag, 27.11.2026",
@@ -1045,6 +1034,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/a/3/csm_Press_photo_jpeg_%40alexmajoliphoto_983a6e7d3a.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/gianna-nannini/1096",
+      "tags": []
+    },
+    {
+      "title": "Joe Bonamassa",
+      "date": "Donnerstag, 21.10.2027",
+      "startDate": "2027-10-21",
+      "endDate": "2027-10-21",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/9/2/csm_Joe_Bonamassa_Photo_Credit_-_Kit_Wood_2022_-_landscape_2aa5698cde.png",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/joe-bonamassa/1116",
       "tags": []
     },
     {
