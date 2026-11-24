@@ -1,12 +1,12 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-11-23T04:21:41.285Z",
+  "scraped_at": "2026-11-24T07:18:56.465Z",
   "events": [
     {
       "title": "LUMAGICA MAGDEBURG 2026/2027",
-      "date": "23.Nov",
-      "startDate": "2026-11-23",
-      "endDate": "2026-11-23",
+      "date": "24.Nov",
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-24",
       "location": "Elbauenpark",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/1920x1080-fc95bb59.jpg",
@@ -15,24 +15,13 @@
     },
     {
       "title": "GIGANTISCHE DINOSAURIER WINTERWELTEN MAGDEBURG - URZEITABENTEUER AUF DEM GROSSEN CRACAUER ANGER",
-      "date": "23.Nov",
-      "startDate": "2026-11-23",
-      "endDate": "2026-11-23",
+      "date": "24.Nov",
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-24",
       "location": "Elbauenpark",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/e/Slider-1920-x-1080-72dpi-Winter-59bcc79a.jpg",
       "link": "https://www.mvgm.de/de/event/gigantische-dinosaurier-winterwelten-magdeburg-urzeitabenteuer-auf-dem-grossen-cracauer-anger/",
-      "tags": []
-    },
-    {
-      "title": "SALUT SALON - WEIHNACHTEN MIT SALUT SALON",
-      "date": "23.Nov",
-      "startDate": "2026-11-23",
-      "endDate": "2026-11-23",
-      "location": "AMO Kulturhaus",
-      "description": null,
-      "image": "https://www.mvgm.de/assets/images/7/SalutSalon-Weihnachten-Credit-Soulkitchen-Quartett-Baum-1-0b07bb7f.jpg",
-      "link": "https://www.mvgm.de/de/event/salut-salon-weihnachten-mit-salut-salon/",
       "tags": []
     },
     {
@@ -924,6 +913,28 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/5/Hochzeitsmesse-Magdeburg-Heiraten-Feiern-1-a178675d.jpg",
       "link": "https://www.mvgm.de/de/event/heiraten-und-feiern-hochzeitsmesse-2027-so/",
+      "tags": []
+    },
+    {
+      "title": "SVEN UND DAS GROSSE EISABENTEUER – DIE EISKÖNIGIN | 14:00 UHR",
+      "date": "17.Jan",
+      "startDate": "2027-01-17",
+      "endDate": "2027-01-17",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/886706527-1795829791941391-8437884606498654278-n-9cd0cf00.jpg",
+      "link": "https://www.mvgm.de/de/event/sven-und-das-grosse-eisabenteuer-die-eiskoenigin-14-00-uhr/",
+      "tags": []
+    },
+    {
+      "title": "SVEN UND DAS GROSSE EISABENTEUER – DIE EISKÖNIGIN | 16:00 UHR",
+      "date": "17.Jan",
+      "startDate": "2027-01-17",
+      "endDate": "2027-01-17",
+      "location": "AMO Kulturhaus",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/e/886706527-1795829791941391-8437884606498654278-n-9cd0cf00.jpg",
+      "link": "https://www.mvgm.de/de/event/sven-und-das-grosse-eisabenteuer-die-eiskoenigin-16-00-uhr/",
       "tags": []
     },
     {
@@ -2863,6 +2874,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -2904,6 +2926,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -3127,6 +3160,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -3168,6 +3212,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -3391,6 +3446,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -3432,6 +3498,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -3655,6 +3732,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -3696,6 +3784,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -3919,6 +4018,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -3960,6 +4070,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -4183,6 +4304,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -4224,6 +4356,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -4447,6 +4590,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -4488,6 +4642,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -4711,6 +4876,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -4752,6 +4928,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -4975,6 +5162,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -5016,6 +5214,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -5239,6 +5448,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -5280,6 +5500,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -5503,6 +5734,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -5544,6 +5786,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -5767,6 +6020,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -5808,6 +6072,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -6031,6 +6306,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -6072,6 +6358,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -6295,6 +6592,17 @@
       "tags": []
     },
     {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
+      "tags": []
+    },
+    {
       "title": "JULIAN SOMMER - ENDLICH WIEDER SOMMER TOUR 2028",
       "date": "10.Mär",
       "startDate": "2027-03-10",
@@ -6336,6 +6644,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/a/greenbeats-Symbiosis-Artwork-16x9-Matthias-Rethmann-80994eed.jpg",
       "link": "https://www.mvgm.de/de/event/greenbeats-symbiosis-tour-2029/",
+      "tags": []
+    },
+    {
+      "title": "NIGHTS ON BROADWAY: ANNIVERSARY TOUR `27",
+      "date": "03.Nov",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Stadthalle",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/f/NOB2027-1920x1080-98ce8f38.jpg",
+      "link": "https://www.mvgm.de/de/event/nights-on-broadway-anniversary-tour-27/",
       "tags": []
     },
     {
@@ -6556,6 +6875,17 @@
       "description": null,
       "image": "https://www.mvgm.de/assets/images/3/boybands-forever-the-original-tickets-558842-4331532-1240x480-9a7c43f1.jpg",
       "link": "https://www.mvgm.de/de/event/boybands-forever-the-original/",
+      "tags": []
+    },
+    {
+      "title": "CAROLIN KEBEKUS - INFERNA",
+      "date": "19.Feb",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-19",
+      "location": "GETEC-Arena",
+      "description": null,
+      "image": "https://www.mvgm.de/assets/images/9/Pressefoto-CAROLIN-KEBEKUS-c-Marvin-Ruppert-c5e5655c.jpg",
+      "link": "https://www.mvgm.de/de/event/carolin-kebekus-inferna/",
       "tags": []
     },
     {
