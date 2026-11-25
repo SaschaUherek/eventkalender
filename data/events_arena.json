@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-11-24T07:18:28.423Z",
+  "scraped_at": "2026-11-25T05:51:50.989Z",
   "events": [
     {
       "title": "Nights on Broadway",
@@ -385,17 +385,6 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/a/b/csm_20270121_Boehmermann_7097564398.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/jan-boehmermann-das-rundfunk-tanzorchester-ehrenfeld/1028",
-      "tags": []
-    },
-    {
-      "title": "Dieter Nuhr",
-      "date": "Freitag, 22.01.2027",
-      "startDate": "2027-01-22",
-      "endDate": "2027-01-22",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/e/9/csm_2027_Nuhr_Bild2_11d7875d9d.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/dieter-nuhr/979",
       "tags": []
     },
     {
@@ -1043,7 +1032,7 @@
       "endDate": "2027-10-21",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/_processed_/files_user/9/2/csm_Joe_Bonamassa_Photo_Credit_-_Kit_Wood_2022_-_landscape_2aa5698cde.png",
+      "image": "/fileadmin/files/user_upload/veranstaltungen/Konzert_Show/2027-10-21_Joe_Bonamassa/Joe_Bonamassa_Photo_Credit_-_Kit_Wood_2022_-_landscape.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/joe-bonamassa/1116",
       "tags": []
     },
@@ -1320,6 +1309,17 @@
       "description": null,
       "image": "/fileadmin/_processed_/files_user/9/f/csm_Pressefoto_CK_copyright_Marvin_Ruppert_web_5b50cc1020.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/carolin-kebekus/1115",
+      "tags": []
+    },
+    {
+      "title": "Dieter Nuhr",
+      "date": "Freitag, 19.01.2029",
+      "startDate": "2029-01-19",
+      "endDate": "2029-01-19",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/e/9/csm_2027_Nuhr_Bild2_11d7875d9d.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/dieter-nuhr/979",
       "tags": []
     },
     {
