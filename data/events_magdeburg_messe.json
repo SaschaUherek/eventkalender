@@ -1,12 +1,12 @@
 {
   "source": "Messe Magdeburg (mvgm.de)",
-  "scraped_at": "2026-11-24T07:18:56.465Z",
+  "scraped_at": "2026-11-25T05:52:19.256Z",
   "events": [
     {
       "title": "LUMAGICA MAGDEBURG 2026/2027",
-      "date": "24.Nov",
-      "startDate": "2026-11-24",
-      "endDate": "2026-11-24",
+      "date": "25.Nov",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25",
       "location": "Elbauenpark",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/0/1920x1080-fc95bb59.jpg",
@@ -15,9 +15,9 @@
     },
     {
       "title": "GIGANTISCHE DINOSAURIER WINTERWELTEN MAGDEBURG - URZEITABENTEUER AUF DEM GROSSEN CRACAUER ANGER",
-      "date": "24.Nov",
-      "startDate": "2026-11-24",
-      "endDate": "2026-11-24",
+      "date": "25.Nov",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25",
       "location": "Elbauenpark",
       "description": null,
       "image": "https://www.mvgm.de/assets/images/e/Slider-1920-x-1080-72dpi-Winter-59bcc79a.jpg",
