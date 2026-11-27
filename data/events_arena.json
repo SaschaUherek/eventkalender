@@ -1,6 +1,6 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-11-26T05:42:16.458Z",
+  "scraped_at": "2026-11-27T05:36:01.943Z",
   "events": [
     {
       "title": "Nights on Broadway",
@@ -916,6 +916,17 @@
       "tags": []
     },
     {
+      "title": "Broilers",
+      "date": "Samstag, 11.09.2027",
+      "startDate": "2027-09-11",
+      "endDate": "2027-09-11",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/9/0/csm_01_Pressefoto_Credit_Robert_Eikelpoth_972efb3d86.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/broilers/1117",
+      "tags": []
+    },
+    {
       "title": "Tutty Tran",
       "date": "Freitag, 17.09.2027",
       "startDate": "2027-09-17",
@@ -1098,7 +1109,7 @@
       "endDate": "2027-11-06",
       "location": "Quarterback Immobilien Arena Leipzig",
       "description": null,
-      "image": "/fileadmin/_processed_/files_user/8/5/csm_PRK-DH_kontrak_key_art_square_00_c204fe98b6.png",
+      "image": "/fileadmin/_processed_/files_user/8/9/csm_Kontra_K_Foto_Quelle_Kontra_K_935416c16d.jpg",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/kontra-k/1100",
       "tags": []
     },
