@@ -1,18 +1,7 @@
 {
   "source": "Quarterback Immobilien Arena Leipzig",
-  "scraped_at": "2026-11-27T05:36:01.943Z",
+  "scraped_at": "2026-11-28T05:12:33.342Z",
   "events": [
-    {
-      "title": "Nights on Broadway",
-      "date": "Freitag, 27.11.2026",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "location": "Quarterback Immobilien Arena Leipzig",
-      "description": null,
-      "image": "/fileadmin/_processed_/files_user/f/2/csm_NOB_Online_2026_1080x1080_2323148b66.jpg",
-      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/nights-on-broadway-1/879",
-      "tags": []
-    },
     {
       "title": "Rea Garvey's Christmas Calling",
       "date": "Samstag, 28.11.2026",
@@ -1045,6 +1034,28 @@
       "description": null,
       "image": "/fileadmin/files/user_upload/veranstaltungen/Konzert_Show/2027-10-21_Joe_Bonamassa/Joe_Bonamassa_Photo_Credit_-_Kit_Wood_2022_-_landscape.png",
       "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/joe-bonamassa/1116",
+      "tags": []
+    },
+    {
+      "title": "Till Reiners",
+      "date": "Freitag, 22.10.2027",
+      "startDate": "2027-10-22",
+      "endDate": "2027-10-22",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/9/2/csm_TR_DIATDAS_4zu3_e509791639.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/till-reiners/1118",
+      "tags": []
+    },
+    {
+      "title": "Within Temptation",
+      "date": "Samstag, 23.10.2027",
+      "startDate": "2027-10-23",
+      "endDate": "2027-10-23",
+      "location": "Quarterback Immobilien Arena Leipzig",
+      "description": null,
+      "image": "/fileadmin/_processed_/files_user/6/1/csm_Within_Temptation_-__c_Rahi_Rezvani_41c06f6893.jpg",
+      "link": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/within-temptation/1119",
       "tags": []
     },
     {
